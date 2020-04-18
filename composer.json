@@ -1,0 +1,22 @@
+{
+    "name": "thikdev/pdf_parser",
+    "description": "Parse pdf file to object",
+    "type": "library",
+    "require": {
+        "symfony/process": "^4.0|^5.0"
+    },
+    "authors": [
+        {
+            "name": "Vu Thai Hoc",
+            "email": "vuthaihoc.ttud@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ThikDev\\" : "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
