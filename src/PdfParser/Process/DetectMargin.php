@@ -13,9 +13,7 @@ use ThikDev\PdfParser\Objects\Component;
 use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Page;
 
-class DetectMargin {
-    
-    use LoggerTrait;
+class DetectMargin extends AbstractProcess {
     
     public static function apply( Document $document ): Document {
         foreach ($document->getPages() as $page){

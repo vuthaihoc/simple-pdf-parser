@@ -20,9 +20,7 @@ use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Page;
 use ThikDev\PdfParser\Objects\Text;
 
-class DetectExtraContent {
-    
-    use LoggerTrait;
+class DetectExtraContent extends AbstractProcess {
     
     public static function apply( Document $document, $force = false ): Document {
         $process = new self();

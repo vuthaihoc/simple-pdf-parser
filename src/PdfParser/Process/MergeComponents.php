@@ -15,9 +15,7 @@ use ThikDev\PdfParser\Objects\Line;
 use ThikDev\PdfParser\Objects\Page;
 use ThikDev\PdfParser\Objects\Text;
 
-class MergeComponents {
-    
-    use LoggerTrait;
+class MergeComponents extends AbstractProcess {
     
     /** @var Document */
     protected $document;

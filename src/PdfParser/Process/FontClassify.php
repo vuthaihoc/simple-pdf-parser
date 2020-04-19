@@ -11,9 +11,7 @@ namespace ThikDev\PdfParser\Process;
 
 use ThikDev\PdfParser\Objects\Document;
 
-class FontClassify {
-    
-    use LoggerTrait;
+class FontClassify extends AbstractProcess {
     
     public static function apply( Document $document ): Document {
         

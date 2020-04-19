@@ -11,9 +11,7 @@ namespace ThikDev\PdfParser\Process;
 
 use ThikDev\PdfParser\Objects\Document;
 
-class DetectHeading {
-    
-    use LoggerTrait;
+class DetectHeading extends AbstractProcess {
     
     public static function apply( Document $document ): Document {
         return $document;

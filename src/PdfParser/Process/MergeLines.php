@@ -14,9 +14,7 @@ use ThikDev\PdfParser\Objects\Line;
 use ThikDev\PdfParser\Objects\Page;
 use ThikDev\PdfParser\Objects\Text;
 
-class MergeLines {
-    
-    use LoggerTrait;
+class MergeLines extends AbstractProcess {
     
     public static $words_separator = " ";
     public static $should_trim = ".,:/";

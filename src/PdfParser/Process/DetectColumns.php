@@ -12,9 +12,7 @@ namespace ThikDev\PdfParser\Process;
 use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Page;
 
-class DetectColumns {
-    
-    use LoggerTrait;
+class DetectColumns extends AbstractProcess {
     
     public static function apply( Document $document ): Document {
         $process = new self;

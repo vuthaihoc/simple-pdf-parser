@@ -33,6 +33,74 @@ class Parser {
     public static $word_separate = " ";
     protected $xml;
     
+    
+    protected $pipeline = [
+        DetectMargin::class,/** Tính toán margin cho các trang */
+        FontClassify::class,/** Tính toán font mặc định */
+        DetectExtraContent::class,/** Tính toán phần header/footer */
+        MergeComponents::class,/** Kết hợp các Text box thành các dòng Line */
+//        DetectColumns::class,/** Xác định số cột và vị trí các Line */
+        DetectToc::class,/** Phát hiện Table of content */
+        DetectTable::class,/** Tính toán một số khu vực là dạng bảng */
+        MergeLines::class,/** Merge các line thành các đoạn văn */
+        DetectHeading::class,/** Merge các line thành các đoạn văn */
+    ];
+    
+    public function getPipeline(){
+        return $this->pipeline;
+    }
+    
+    /**
+     * Thêm process vào trước các process truyền vào
+     *
+     * @param $process
+     * @param null ...$before_processes
+     *
+     * @return int|false khi không tìm được before_processe nào thì trả về false
+     */
+    public function addProcessBefore($process, ...$before_processes) : int {
+        if(empty( $before_processes )){
+            array_unshift( $this->pipeline, $process );
+        }
+        foreach ($this->pipeline as $k => $p){
+            if(in_array( $p, $before_processes)){
+                break;
+            }
+        }
+        if($k == count( $this->pipeline )){
+            return false;
+        }else{
+            array_splice( $this->pipeline, $k, 0, [$process]);
+            return $k;
+        }
+    }
+    
+    /**
+     * Thêm process vào sau các process truyền vào
+     *
+     * @param $process
+     * @param array $after_processes
+     *
+     * @return false|int
+     */
+    public function addProcessAfter($process, ...$after_processes){
+        $this->pipeline = array_reverse( $this->pipeline );
+        $result = $this->addProcessBefore( $process, ...$after_processes);
+        $this->pipeline = array_reverse( $this->pipeline );
+        return $result == null ? $result : ( count( $this->pipeline ) - 1 - $result );
+    }
+    
+    /**
+     * Dùng để ghi đè, thay thế core process
+     * @param $search
+     * @param $replacement
+     *
+     * @return bool
+     */
+    public function replaceProcess($search, $replacement) : bool {
+    
+    }
+    
     /**
      * Parser constructor.
      *
@@ -57,32 +125,9 @@ class Parser {
         /** Tạo Document object cơ bản từ pdf -> xml -> Document */
         $document = $this->makeSimpleDocument();
         
-        /** Tính toán margin cho các trang */
-        DetectMargin::apply( $document );
-        
-        /** Tính toán font mặc định */
-        FontClassify::apply( $document );
-        
-        /** Tính toán phần header/footer */
-        DetectExtraContent::apply( $document );
-        
-        /** Kết hợp các Text box thành các dòng Line */
-        MergeComponents::apply( $document );
-        
-        /** Xác định số cột và vị trí các Line */
-//        DetectColumns::apply( $document );
-        
-        /** Phát hiện Table of content */
-        DetectToc::apply( $document );
-        
-        /** Tính toán một số khu vực là dạng bảng */
-        DetectTable::apply( $document ); // @todo detect table before merge lines
-        
-        /** Merge các line thành các đoạn văn */
-        MergeLines::apply( $document );
-        
-        /** Merge các line thành các đoạn văn */
-        DetectHeading::apply( $document );
+        foreach ($this->pipeline as $process){
+            $process::apply($document);
+        }
         
         return $document;
         
