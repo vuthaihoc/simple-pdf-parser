@@ -89,7 +89,7 @@ class Document {
         }
     }
     
-    public function getText( $pages = [], $page_break = "\f", $page_prefix = "Page {{number}}\n" ) {
+    public function getText( $pages = [], $page_break = "\f\n", $page_prefix = "Page {{number}}\n" ) {
         $texts = [];
         foreach ( $this->getPages( $pages ) as $k => $page ) {
             $texts[] = str_replace( "{{number}}", $k + 1, $page_prefix ) . $page->getText();

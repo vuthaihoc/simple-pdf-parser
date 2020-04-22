@@ -13,16 +13,16 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class PdfToHtmlCommand extends \Symfony\Component\Console\Command\Command {
+class PdfToTextCommand extends \Symfony\Component\Console\Command\Command {
     // the name of the command (the part after "bin/console")
-    protected static $defaultName = 'html';
+    protected static $defaultName = 'text';
     
     protected function configure()
     {
-        $this->setDescription( "Convert pdf to html");
-        $this->setHelp( "Parse pdf file sau đó chuyển sang html");
+        $this->setDescription( "Convert pdf to text");
+        $this->setHelp( "Parse pdf file sau đó chuyển sang text");
         $this->addArgument('input', InputArgument::REQUIRED, 'Input pdf file path');
-        $this->addArgument('output', InputArgument::OPTIONAL, 'Output html file path');
+        $this->addArgument('output', InputArgument::OPTIONAL, 'Output text file path');
         $this->addOption( 'xml', null, InputArgument::OPTIONAL, 'Dump xml');
     }
     
@@ -46,12 +46,12 @@ class PdfToHtmlCommand extends \Symfony\Component\Console\Command\Command {
         $pdf_file = $input->getArgument( 'input');
         $document = $this->getDocument( $pdf_file, $input );
         $output_file = $input->getArgument( 'output');
-        $result = $document->getHtml();
+        $result = $document->getText();
         
         if($output_file){
             file_put_contents( $output_file, $result );
         }else{
-            $output->writeln( $document->getHtml() );
+            $output->writeln( $result );
         }
         return 0;
     }
