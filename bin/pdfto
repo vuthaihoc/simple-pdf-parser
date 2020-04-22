@@ -1,0 +1,24 @@
+#!/usr/bin/env php
+<?php
+// application.php
+
+function includeIfExists(string $file): bool
+{
+    return file_exists($file) && include $file;
+}
+
+if (
+    !includeIfExists(__DIR__ . '/../vendor/autoload.php') &&
+    !includeIfExists(__DIR__ . '/../../vendor/autoload.php')
+) {
+    fwrite(STDERR, 'Install dependencies using Composer.'.PHP_EOL);
+    exit(1);
+}
+
+use Symfony\Component\Console\Application;
+
+$application = new Application();
+
+$application->add( new \ThikDev\PdfParser\PdfToHtmlCommand );
+
+$application->run();

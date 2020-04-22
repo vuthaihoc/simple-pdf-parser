@@ -73,7 +73,7 @@ class PdfToText {
         $status = $this->process->getExitCode();
         $error  = $this->process->getErrorOutput();
         
-        if ($status !== 0 and $error !== '') {
+        if ($status !== 0) {
             throw new \RuntimeException(
                 sprintf(
                     "The exit status code %s says something went wrong:\n stderr: %s\n stdout: %s\ncommand: %s.",
