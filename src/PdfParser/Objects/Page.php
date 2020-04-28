@@ -22,12 +22,12 @@ class Page {
     
     public $number;
     /**
-     * @var Line[] Các line được merge cơ bản từ các component,
+     * @var Component[] Các line được merge cơ bản từ các component,
      *             sau khi có line thì làm việc chủ yếu qua các Line và thuộc tính của nó
      * @todo nên đổi tên thành object để mang đúng nghĩa hơn, sau sẽ chứa các cùng noise, table, ...
      */
-    public $lines=[];
-    
+    public $objects=[];
+
     public $header = 0;
     public $footer = 0;
     
@@ -150,9 +150,9 @@ class Page {
                 $text .= $component->text . "\n";
             }
         }else{
-            foreach ($this->lines as $line){
-                $text .= ($line->merge_up ? " " : "\n" )
-                         . preg_replace( "/(\.s*|\-s*|\s\s|…s*|·\s*)\g{1}{4,}/u", "$1$1$1", $line->text);
+            foreach ($this->objects as $object){
+                $text .= ($object->merge_up ? " " : "\n" )
+                         . preg_replace( "/(\.s*|\-s*|\s\s|…s*|·\s*)\g{1}{4,}/u", "$1$1$1", $object->text);
             }
         }
         return $text;
@@ -161,17 +161,17 @@ class Page {
     public function getHtml(){
         $html = "";
         $paragraph_buffer = [];
-        foreach ($this->lines as $k => $line){
+        foreach ($this->objects as $k => $object){
             if(count($paragraph_buffer) == 0){
-                $paragraph_buffer[] = $line->getHtml() . "\n";
+                $paragraph_buffer[] = $object->getHtml() . "\n";
                 continue;
             }
             
-            if($line->merge_up){
-                $paragraph_buffer[] = $line->getHtml() . "\n";
+            if($object->merge_up){
+                $paragraph_buffer[] = $object->getHtml() . "\n";
             }else{
                 $html .= "<p>" . implode( "", $paragraph_buffer) . "</p>\n";
-                $paragraph_buffer = [$line->getHtml() . "\n"];
+                $paragraph_buffer = [$object->getHtml() . "\n"];
             }
         }
         if(count( $paragraph_buffer )){
@@ -196,26 +196,26 @@ class Page {
             ;
     }
     
-    public function countLines(){
-        return count( $this->lines );
+    public function countObjects(){
+        return count( $this->objects );
     }
     
-    public function getLine( $index ): Line {
-        if ( isset( $this->lines[ $index ] ) ) {
-            return $this->lines[ $index ];
+    public function getObject($index ): Line {
+        if ( isset( $this->objects[ $index ] ) ) {
+            return $this->objects[ $index ];
         } else {
             throw new ParseException( "Not found Line at index " . $index );
         }
     }
     
-    public function getLines($indexes = []) {
+    public function getObjects($indexes = []) {
         if(empty( $indexes )){
-            foreach ( $this->lines as $k => $line ) {
-                yield $k => $line;
+            foreach ($this->objects as $k => $object ) {
+                yield $k => $object;
             }
         }else{
             foreach ($indexes as $index){
-                yield $index => $this->getLine($index);
+                yield $index => $this->getObject($index);
             }
         }
     }
@@ -226,11 +226,11 @@ class Page {
      */
     public function getMainLines() : array {
         $main_lines = [];
-        foreach ($this->lines as $line){
-            if($this->inFooter( $line ) || $this->inHeader( $line )){
+        foreach ($this->objects as $object){
+            if($this->inFooter( $object ) || $this->inHeader( $object )){
                 continue;
             }
-            $main_lines[] = $line;
+            $main_lines[] = $object;
         }
         return $main_lines;
     }

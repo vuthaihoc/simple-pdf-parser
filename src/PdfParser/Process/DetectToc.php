@@ -38,7 +38,7 @@ class DetectToc {
         return $document;
     }
     
-    protected function getPagesHaveToc(Document $document){
+    protected function  getPagesHaveToc(Document $document){
         
         $total_pages = $document->pageCount();
         $pages = [];
@@ -60,7 +60,7 @@ class DetectToc {
     
     protected function hasToc(Page $page){
         $matched_count = 0;
-        foreach($page->getLines() as $line){
+        foreach($page->getObjects() as $line){
             if(preg_match( self::$toc_pattern,$line->text)){
                 $matched_count++;
             }else{
@@ -76,8 +76,8 @@ class DetectToc {
     protected function markTocLines(Page $page){
         $started = false;
         $buffer_lines = [];
-        foreach ($page->getLines() as $k => $line){// duyet cac dong trong trang
-            if(preg_match( self::$toc_pattern_alt,$line->text)){ // neu match voi pattern
+        foreach ($page->getObjects() as $k => $line){// duyet cac dong trong trang
+            if($line instanceof Line && preg_match( self::$toc_pattern_alt,$line->text)){ // neu match voi pattern
                 if(!$started){// neu chua bat dau
                     $started = true; // danh dau
                 }elseif($started){// neu dat dau roi thi danh dau merge up cho cac dong va reset buffer

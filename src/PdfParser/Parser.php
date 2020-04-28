@@ -49,6 +49,11 @@ class Parser {
     public function getPipeline(){
         return $this->pipeline;
     }
+
+    public function getProcesses()
+    {
+        return $this->pipeline;
+    }
     
     /**
      * Thêm process vào trước các process truyền vào
@@ -128,7 +133,7 @@ class Parser {
         foreach ($this->pipeline as $process){
             $process::apply($document);
         }
-        
+
         return $document;
         
     }
@@ -167,6 +172,7 @@ class Parser {
             if ( preg_match( "/^\s*\<page\snumber=\"/", $line ) ) {
                 $page_start = true;
                 $page_buffer = Page::parse( $line );
+                $page_buffer->number = count($pages)+1;
                 $last_text = null;
                 continue;
             }
@@ -206,7 +212,7 @@ class Parser {
             $font->char_width = round( $fonts_width[ $font->id ] / $font->chars, 2 );
         }
         
-        $document = new Document( $pages, $fonts );
+        $document = new Document( $pages, $fonts , $this->path);
         
         return $document;
         

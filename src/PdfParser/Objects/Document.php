@@ -15,6 +15,7 @@ class Document {
     
     protected $pages = [];
     protected $fonts = [];
+    protected $path;
     
     protected $html_prefix = "<!DOCTYPE html>
 <html lang=\"en-US\">
@@ -34,13 +35,19 @@ class Document {
      * @param array $pages
      * @param array $fonts
      */
-    public function __construct( array $pages, array $fonts ) {
+    public function __construct( array $pages, array $fonts, $path ) {
         $this->pages = $pages;
         $this->fonts = $fonts;
+        $this->path = $path;
     }
-    
+
     public function pageCount() {
         return count( $this->pages );
+    }
+
+    public function getPath()
+    {
+        return $this->path;
     }
     
     public function getPage( $index ): Page {

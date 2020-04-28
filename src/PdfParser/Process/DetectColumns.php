@@ -32,7 +32,7 @@ class DetectColumns extends AbstractProcess {
         
         $vertical_points = []; // các điểm trên đường thẳng giữa trang lưu tài điểm đó có thể là giữa cột hay không
         
-        foreach ( $page->getLines() as $line ) {
+        foreach ($page->getObjects() as $line ) {
             if ( $page->inFooter( $line ) || $page->inHeader( $line ) ) {
                 continue;
             }

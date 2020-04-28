@@ -24,13 +24,13 @@ class MergeLines extends AbstractProcess {
      * Lưu text của các dòng Line xịn (ít bị gãy)
      * @var array
      */
-    protected $lines = [];
+    protected $objects = [];
     /** @var Document */
     protected $document;
     
     protected function __construct(Document $document) {
         $this->document = $document;
-        $this->getLines( );
+        $this->getObjects( );
     }
     
     public static function apply( Document $document, $force = false ): Document {
@@ -44,7 +44,7 @@ class MergeLines extends AbstractProcess {
     }
     
     protected function mergeLinesInPage(Page $page, $force = false){
-        $lines = $page->lines;
+        $lines = $page->objects;
         
         foreach ($lines as $k => $line){
             if($line->merge_up !== null && !$force){// neu truoc do da quyet dinh gia tri merge up thi bo qua
@@ -55,9 +55,9 @@ class MergeLines extends AbstractProcess {
     }
     
     protected function shouldMergeUp(Page $page, $index) : bool {
-        $line = $page->getLine($index);
-        $pre_line = $index > 0 ? $page->getLine( $index - 1 ) : null;
-        $nex_line = $index < $page->countLines() - 2 ? $page->getLine( $index + 1 ) : null;
+        $line = $page->getObject($index);
+        $pre_line = $index > 0 ? $page->getObject( $index - 1 ) : null;
+        $nex_line = $index < $page->countObjects() - 2 ? $page->getObject( $index + 1 ) : null;
         
         $word_width = 50;
         $error = 2; // sai số chấp nhận được trong một số tính toán
@@ -90,7 +90,7 @@ class MergeLines extends AbstractProcess {
         // dòng trên thụt bên phải quá 1 word
         /** @todo kiem tra xem doan van thuoc loai align co phai justify khong de giam word-width */
         if($pre_line->merge_up){
-            $pre_pre_line = $page->getLine( $index - 2 );
+            $pre_pre_line = $page->getObject( $index - 2 );
             if($pre_pre_line->left + $pre_pre_line->width - $pre_line->left - $pre_line->width > $word_width){
                 $this->dump( "Dòng trên thụt phải quá 1 từ so với dòng trước đó");
                 return false;
@@ -106,7 +106,7 @@ class MergeLines extends AbstractProcess {
         // indent sai khac dòng trên đã merge up
         /** @todo xac dinh so cot de su dung margin right thay cho left + width cua dong truoc do duoc merge */
         if($pre_line->merge_up){
-            $pre_pre_line = $page->getLine( $index - 2 );
+            $pre_pre_line = $page->getObject( $index - 2 );
             if($pre_line->left < $line->left - 2/2){ // indent sâu hơn dòng trên đã merge up
                 $diff1 = abs($pre_line->left + $pre_line->width - $pre_pre_line->left - $pre_pre_line->width);
                 $diff2 = abs($pre_pre_line->left + $pre_pre_line->width - $line->left - $line->width);
@@ -149,12 +149,12 @@ class MergeLines extends AbstractProcess {
     /**
      * Chuẩn bị các dòng "xịn" để tính toán merge line đang confuse
      */
-    protected function getLines(){
+    protected function getObjects(){
         foreach ($this->document->getPages() as $page){
-            foreach ($page->lines as $line){
-                if($this->isGoodLine( $line )){
-                    if(count( explode( self::$words_separator, $line->text )) > 1){
-                        $this->lines[] = self::$words_separator . $line->text . self::$words_separator;
+            foreach ($page->objects as $object){
+                if($this->isGoodLine( $object )){
+                    if(count( explode( self::$words_separator, $object->text )) > 1){
+                        $this->objects[] = self::$words_separator . $object->text . self::$words_separator;
                     }
                 }
             }

@@ -37,7 +37,7 @@ class MergeComponents extends AbstractProcess {
     
     protected function mergeComponentsInPage(Page $page){
         // reset lines
-        $page->lines = [];
+        $page->objects = [];
         $last_line = null;
         /**
          * @var int $k
@@ -66,13 +66,13 @@ class MergeComponents extends AbstractProcess {
             }else{
                 $last_line->reorderComponents();
                 $last_line->detectLineHeight($this->document);
-                $page->lines[] = $last_line;
+                $page->objects[] = $last_line;
                 $last_line = Line::fromText( $component );
             }
         }
         if($last_line){
             $last_line->reorderComponents();
-            $page->lines[] = $last_line;
+            $page->objects[] = $last_line;
         }
     }
     
