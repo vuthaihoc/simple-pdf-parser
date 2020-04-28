@@ -66,6 +66,7 @@ class Parser {
     public function addProcessBefore($process, ...$before_processes) : int {
         if(empty( $before_processes )){
             array_unshift( $this->pipeline, $process );
+            return 0;
         }
         foreach ($this->pipeline as $k => $p){
             if(in_array( $p, $before_processes)){
