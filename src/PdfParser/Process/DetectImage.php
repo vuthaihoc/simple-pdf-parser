@@ -8,8 +8,6 @@
 
 namespace ThikDev\PdfParser\Process;
 
-
-use ThikDev\PdfParser\Converter\PdfImages;
 use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Page;
 
