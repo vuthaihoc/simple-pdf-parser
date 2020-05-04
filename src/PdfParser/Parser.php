@@ -13,6 +13,7 @@ use ThikDev\PdfParser\Converter\PdfToText;
 use ThikDev\PdfParser\Exceptions\ParseException;
 use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Font;
+use ThikDev\PdfParser\Objects\Image;
 use ThikDev\PdfParser\Objects\Page;
 use ThikDev\PdfParser\Objects\Text;
 use ThikDev\PdfParser\Process\DetectColumns;
@@ -177,7 +178,7 @@ class Parser {
                 $last_text = null;
                 continue;
             }
-            
+
             // page content
             if ( $page_start && $page_buffer && preg_match( "/^\s*\<text\stop=\"/", $line ) ) {
                 $text = Text::parse( $line );
@@ -194,6 +195,14 @@ class Parser {
                 }
                 $last_text = $text;
                 $page_buffer->components[] = $text;
+                continue;
+            }
+
+            if ( $page_start && $page_buffer && preg_match( "/^\s*\<image\stop=\"/", $line ) ) {
+                $image = Image::parse($line);
+                if(!in_array($image, $page_buffer->images)){
+                    $page_buffer->images[] = $image;
+                }
                 continue;
             }
             
