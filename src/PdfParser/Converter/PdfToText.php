@@ -37,7 +37,7 @@ class PdfToText {
         
         $command = [self::$bin,
             "-c",
-            "-i",
+//            "-i",
             "-s",
             "-xml",
             "-f",

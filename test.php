@@ -15,12 +15,13 @@ $pdf_dir = __DIR__ . "/test_docs/pdf/";
 $txt_dir = __DIR__ . "/test_docs/txt/";
 $html_dir = __DIR__ . "/test_docs/html/";
 
-$files = glob( $pdf_dir . "*.pdf" );
+$files = glob( $pdf_dir . "vn.002*.pdf" );
 foreach ( $files as $file ) {
     $name = basename( $file );
     echo "Process " . $name . " \n";
     $parser = new Parser( $file );
     $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectImage::class);
+    $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectReferences::class);
     $document = $parser->process();
     $txt_path = $txt_dir . $name . ".txt";
     $html_path = $html_dir . $name . ".html";
