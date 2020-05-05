@@ -30,7 +30,9 @@ class DetectAbstract extends AbstractProcess
         'KẾT LUẬN',
         'Kết luận',
         'TỔNG KẾT',
-        'Tổng kết'
+        'Tổng kết',
+        'CONCLUSIONES',
+        'Conclusiones'
     ];
 
 
@@ -67,6 +69,9 @@ class DetectAbstract extends AbstractProcess
         foreach ($document->getPages() as $page_number => $page) {
             foreach ($page->getObjects() as $object) {
                 if ($object instanceof Line) {
+                    if($object->in_toc){
+                        continue;
+                    }
                     foreach ($abstract_signs as $abstract_sign) {
                         if ($start) {
                             break;
@@ -75,9 +80,18 @@ class DetectAbstract extends AbstractProcess
                             $start = true;
                             break;
                         }
-                        if (stripos(trim($object->text), $abstract_sign) !== false && $type = 'conclusion') {
-                            $start = true;
-                            break;
+                        if ($type == 'conclusion') {
+                            if(stripos(trim($object->text), $abstract_sign)  !== false
+                            || mb_strtolower($object->text) === mb_strtolower($abstract_sign)){
+                                // Nếu các từ khóa xuất hiện ở cuối câu thì tính là bắt đầu của phần kết luận
+                                $start = true;
+                                break;
+//                                $length = strlen($abstract_sign);
+//                                if(mb_substr($object->text, -$length) === $abstract_sign ||
+//                                    mb_strtolower(mb_substr($object->text, -$length)) === mb_strtolower($abstract_sign)){
+//
+//                                }
+                            }
                         }
                     }
                     if ($start) {
