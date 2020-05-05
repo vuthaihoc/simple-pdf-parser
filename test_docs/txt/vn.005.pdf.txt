@@ -52,7 +52,8 @@ Theo em hai học sinh trên quan sát được hiện tượng như thế nào,
 Câu 7 ( 1,0 điểm). Đốt cháy hoàn toàn 3,24 (gam) hỗn hợp (X) gồm hai chất hữu cơ (A) và (B), khác  dãy đồng đẳng, trong đó (A) hơn (B) một nguyên tử cacbon, người ta chỉ thu được H 2 O và 9,24 (gam) 
 CO 2 . Biết  d (X) / H 2 = 13,5. Tìm công thức phân tử của (A) và (B).
 ……….Hết………
-Họ và tên thí sinh ...SBD...phòng thi... Cán bộ coi thi không giải thích gì thêmPage 2
+Họ và tên thí sinh ...SBD...phòng thi... Cán bộ coi thi không giải thích gì thêm
+Page 2
 
 SỞ GD &amp; ĐT VĨNH PHÚC KỲ THI CHỌN HỌC SINH GIỎI  LỚP 11 NĂM HỌC 2011-2012
 HƯỚNG DẪN CHẤM MÔN: HOÁ HỌC (Dành cho học sinh THPT chuyên )
@@ -118,14 +119,14 @@ Ag +  + 2NH
 Tổ hợp (1) và (2) ta có
 AgSCN  +  2NH 3    ¬    →  [Ag(NH 3 ) 2 ] +       +  SCN -      K=T AgSCN .K’=1,83.10 -5
 0,5đ
-0,5đ   Page 3
+0,5đ   
+Page 3
 
  []      0,003 -2s       s       s     (M) Theo định luật tác dụng khối lượng ta có:
 −
 − ⇒ =
 2 -5
-2
-5
+2 5
 s K = 1,83.10 = 
 (0,003 2s) s 1,27.10 (mol / l)
 0,5đ
@@ -184,7 +185,8 @@ Sản phẩm A gồm         Mg: 0,02 mol;  MgO : 0,04 mol;   Mg 3 N 2  : 0,08 m
 0,5đ Câu 5
 2,0đ 
 1.Lấy mỗi lọ một ít làm mẫu thử
-- Dùng dung dịch nước Brom nhận ra phenol (có kết tủa trắng)Page 4
+- Dùng dung dịch nước Brom nhận ra phenol (có kết tủa trắng)
+Page 4
 
 OH
 + 3 Br 2       +   3HBr
@@ -201,8 +203,7 @@ O 2 N
 R 1
 R 2
 + H 2 O
-C - CH 3
-O
+C - CH 3 O
 + 3 I 2  + 3 NaOH C - CI 3  + 3 NaI + 3 H 2 O
 O
 - Cũng dùng phản ứng của idofom  để nhận ra C 6 H 5 -CH(OH)-CH 3 ( vì trong môi trường
@@ -211,8 +212,7 @@ I 2 /NaOH sẽ oxi hóa – CH(OH) – CH 3  thành – CO – CH 3 .
 clorua, còn phenyl clorua không phản ứng.
 CH 2 Cl CH 2 OH
 + NaOH
-+ NaCl
-NaCl + AgNO 3       AgCl + NaNO 3 2. a.So sánh tính axit: 
++ NaCl NaCl + AgNO 3       AgCl + NaNO 3 2. a.So sánh tính axit: 
 Tính axit được đánh giá bởi sự dễ dàng phân li proton của nhóm OH. Khả năng  này thuận lợi khi có các hiệu ứng kéo electron  (-I hoặc –C) nằm kề nhóm OH. Ở A vừa  có hiệu ứng liên hợp  (-C) và hiệu ứng cảm ứng (-I); ở B chỉ có hiệu ứng (-I). 
 Tính axit của (A) &gt; (B). b . So sánh điểm sôi  và  độ  tan: 
 Liên kết hidro làm tăng điểm sôi. Chất C có liên kết hidro nội phân tử, B có liên  kết hidro liên phân tử nên 
@@ -221,8 +221,8 @@ nhiệt độ sôi của (C) &lt;  nhiệt độ sôi của (B).
 0,5đ
 0,5đ
 0,5đ
-0,5đ
-Câu 6  1,0đ
+0,5đ Câu 6
+ 1,0đ
 Thí nghiệm của học sinh 1: Nhận thấy có Cu màu đỏ bám vào miếng nhôm và có khí thoát  ngay từ đầu, dung dịch có màu xanh nhạt dần.
 Do: 2Al + 3Cu 2+ →  2Al 3+  + 3Cu
        2Al +6H + →  2Al 3+  + 3H 2 ↑    H +  sinh ra do sự thủy phân CuSO
@@ -240,7 +240,8 @@ Khi nhôm oxit tan hết, Al tác dụng với Cu 2+  và H +  như trên
 Câu 7 1,0đ
 M X  = 2. 13,5 = 27 đvC
      Sản phẩm cháy của (X) chỉ gồm CO 2  và H 2 O nên thành phần nguyên tố của (A) và
-(B) gồm có C, H hoặc C, H, O.Page 5
+(B) gồm có C, H hoặc C, H, O.
+Page 5
 
      Chỉ có 2 trường hợp có thể xảy ra: Trường hợp 1:  M A  &lt; 27 &lt; M B
 M A  &lt; 27 ⇒ A là CH 4  hoặc C 2 H 2

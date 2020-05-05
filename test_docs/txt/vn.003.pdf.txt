@@ -11,12 +11,8 @@ ng.han.712
 MỤC TIÊU NGHỀ NGHIỆP
 Tìm được một công việc trong môi trường chuyên nghiệp, tôn trọng lẫn nhau và ở đó mình có thể phát triển kỹ năng chuyên môn, học hỏi thêm kiến thức lập trình mới để hoàn thành xuất sắc công việc được giao.
 KỸ NĂNG
-Ngôn ngữ PHP
-Framework laravel
-Html-css
-Jquey
-Vuejs
-Git
+Ngôn ngữ PHP Framework laravel Html-css
+Jquey Vuejs Git
 SỞ THÍCH
 Lập trình
 HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG 2015 - 2020
@@ -44,7 +40,8 @@ Tình nguyện viên
 - Tham gia câu lạc bộ sinh viên tình nguyện tại trường đại học
 - Tham gia các hoạt động câu lạc bộ: Gói bánh chưng ngày tết, góp sách vở cho trẻ em nghèo vùng cao trong đợt tình nguyện Mùa Hè Xanh …
  CHỨNG CHỈ
- DỰ ÁN THAM GIAPage 2
+ DỰ ÁN THAM GIA
+Page 2
 
 Chơi game Nghe nhạc
 Tham gia các hoạt động xã hội

@@ -26,7 +26,10 @@ class Document {
 <body>";
     protected $html_subfix = "</body>";
     protected $page_template = "<div data-page='{{number}}' style='padding: 20px;margin: 10px auto;max-width: 800px;'><p>Page {{number}}</p>{{content}}</div>";
-    
+
+    public $abstract;
+    public $conclusion;
+
     use HasMarginTrait;
     
     /**

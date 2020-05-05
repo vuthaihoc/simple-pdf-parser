@@ -19,7 +19,8 @@ Objective: The correct extension of cancer in the bone usually  remains  undetec
 Materials and Methods: Twenty patients with biopsy-proven oral  malignant  tumors  were  randomly  selected  from  Oral  Medicine  and Radiology department over a period of two years. All patients  were  investigated  preoperatively  by  Tc  scan  and  PR.  Lewis  –  Jones’s  designed  diagnostic  criterion  was  applied  on  Tc  scan/ PR to evaluate bone involvement by cancer. To test the accuracy  of Tc scan, PR and Tc scan/PR, their results were compared with  the histopathological findings of resected specimen.
 result: Hybrid Tc scan/PR had higher specificity, accuracy and  positive  predictive  value  (83.3%,  94.7%,  92.8%)  than  Tc  scan  alone (50%, 84.2%, 81.2%) and higher sensitivity and negative  predictive value (100%, 100%) than PR (69.2%, 55.5%).
 conclusion: Combination of Tc scan and PR was more accurate  in detecting jaw bone invasion by oral squamous cell carcinoma  than Tc scan and PR alone.
-Keywords:  Technetium-99m bone scan, Panoramic radiography, Bone invasion, Oral cancer, Oral squamous cell carcinomaPage 2
+Keywords:  Technetium-99m bone scan, Panoramic radiography, Bone invasion, Oral cancer, Oral squamous cell carcinoma
+Page 2
 
 on  Tc  scan/PR  using  diagnostic  criteria  by  same  interpreters  to- gether. In all three analyses, both interpreters were kept blind from  clinical information. To evaluate the efficacy of outlined criteria on  Tc  scan/PR,  all  results  including  clinical  were  compared  with  the  histopathological findings.
 lewis-Jones’s diagnostic criteria for Jaw Bone  Invasion on tc Bone scan/Pr [6]
@@ -56,7 +57,8 @@ no. Tnm  Staging Site  Clinical  bone invasion Pr finding Tc scan finding Tc sca
   17 T1N0M0 Vestibular mucosa Suspected NAD  - NAD - - -
   18 T4N2M0 Gingiva Suspected Ill-defined XL + ↑ + + +
   19 T2N1M0 Floor of mouth Not suspected Ill-defined XL + ↑ + + -
-[table/Fig-1]: Comparative assessment of jaw bone invasion by oral carcinoma using Clinical, PR, Tc scan, Tc scan/PR and Histopathological findings “XL” radiolucency, “NAD” no abnormality detected, “+” invasion present, “ – ” invasion absent, “↑” increased Page 3
+[table/Fig-1]: Comparative assessment of jaw bone invasion by oral carcinoma using Clinical, PR, Tc scan, Tc scan/PR and Histopathological findings “XL” radiolucency, “NAD” no abnormality detected, “+” invasion present, “ – ” invasion absent, “↑” increased 
+Page 3
 
 MRI is its susceptibility to motion artifacts by tongue movement and  swallowing. However, CT is useful when there is gross involvement  of  bone  as  well  as  soft  tissue  but  less  successful  in  early  bone  invasion or new periosteal bone formation. 
 Some investigators recommend using two or more modalities that  can  complement  each  other.  Clinical  judgment  and  conventional  radiographs are accurate in cases when there is gross involvement  of bone (17 of 19) but are significantly less successful in determining  early  bone  invasion  [11].  However,  a  combination  of  panoramic  radiography  and  bone  scintigraphy  is  recommended  in  early  invasion [32].
@@ -90,7 +92,8 @@ Sensitivity Specificity Accuracy PPV nPV
 FP = false positive, FN = false negative  PPV = positive predictive value  NPV = negative predictive value
 [table/Fig-6]: Carcinoma of the Oral floor
 [table/Fig-7]: Panoramic radiography (PR) was negative in terms of bone invasion  by the carcinoma. PR was normal (arrow) at the site of the carcinoma shown in  figure one
-[table/Fig-8]: Bone scintiscan (Tc scan) demonstrated increased uptake (arrow) in  the anterior mandible corresponding to the cancer location without involving lower  border  (arrowheads).  Bone  invasion  was  considered  positive  on  scintiscan  and  subsequent histology confirmed this finding. This case illustrates detection of bone  invasion earlier with bone scintiscan than on PRPage 4
+[table/Fig-8]: Bone scintiscan (Tc scan) demonstrated increased uptake (arrow) in  the anterior mandible corresponding to the cancer location without involving lower  border  (arrowheads).  Bone  invasion  was  considered  positive  on  scintiscan  and  subsequent histology confirmed this finding. This case illustrates detection of bone  invasion earlier with bone scintiscan than on PR
+Page 4
 
 study,  the  accuracy  of  bone  scinitigraphy  was  100%  (36  of  36  patients) in determining the full extent of tumor involvement in jaw  bones [34]. Some studies found that combination of real and rear  time imaging was more precise over single modality [6,11,13,19,32,  35]. Sensitivity and NPV obtained by us were 100% with Tc scan  when  used  either  alone  or  in  Tc  scan/PR  compared  to  PR  alone  (69.2%, 55.5%). The low sensitivity and NPV of PR is because of  its anatomic (static) rather than functional radiography and sufficient  demineralization or remineralization (36%) is required to be visible on  conventional radiograph. PR is a tomograph so early changes in the  structure outside the focal trough will not be noticed; furthermore  it is a two dimensional view of three dimensional object leading to  superimposition on the smaller changes. The values of PR is further  restricted because of double images, ghost shadows, thin anterior  focal trough and cervical superimpositions. Some studies found PR  specific for revealing periapical or periodontal infections that may be  misinterpreted by other imaging modalities [13,14]. With histological  findings as the standard of reference, PR was found to be 100%  specific  in  a  study  carried  out  on  15  patients  [20].  A  negative  Tc  scan  rules  out  bone  invasion  (100%  sensitivity,  100%  NPV).  We  assessed  5  of  6  patients  correctly  on  Tc  scan/PR  as  not  having  bone involvement. 
 Weisman et al., [4] found a 53% false positive rate with bone scinti- graphy  as  a  result  of  mandibular  inflammatory  changes.  Gilbert  et  al.,  [10]  also  showed  that  the  false  positive  rate  with  bone  scintigraphy was 50% (3/6). We had 50% of false positive rate with  bone  scintigraphy  but  it  was  reduced  to  16.7%  when  scintiscan  used with PR under outlined criteria. Our specificity with Tc scan/ PR was relatively low (83.3%) partly because our patient population  without bone invasion was small (6 of 19 patients).
@@ -116,7 +119,8 @@ reFerences
 [10]  Gilbert S, Tzadik A, Leonard G. Mandibular involvement by oral squamous cell  carcinoma. Laryngoscope. 1986; 96:96-101. 
 [11]  Ahuja R, Soutar D, Moule B, Bessent R, Gray H. Comparative study of technetium- 99m bone scan and orthopantomography in determining mandibular invasion in  intraoral squamous cell carcinoma. Head Neck. 1990; 12:237-43. 
 [12]  Baker H, Woodbury D, Krause C, Saxon K, Stewart R. Evaluation of bone scan  by scintigraphy to detect subclinical invasion of the mandible by squamous cell  carcinoma of the oral cavity. Otolaryngol Head Neck Surg. 1982; 90:327-36.  [13]  Van Cann E, Koole R, Oyen W, deRooy J, deWilde P, Slootweg P, et al. Assessment 
-of mandibular invasion of squamous cell carcinoma by various modes of imaging:  constructing a diagnostic algorithm. Int J Oral Maxillofac Surg. 2008; 37: 535-41. Page 5
+of mandibular invasion of squamous cell carcinoma by various modes of imaging:  constructing a diagnostic algorithm. Int J Oral Maxillofac Surg. 2008; 37: 535-41. 
+Page 5
 
 [14]  Hendrikx  A,  Maal  T,  Dieleman  F,  Van  Cann  E,  Merkx  M.  Cone-beam  CT  in  assessment of mandibular invasion by oral squamous cell carcinoma: results of  the preliminary study. Int J Oral Maxillofac Surg. 2010; 39: 436-9. 
 [15]  Uribe S, Rojas L, Rosas C. Accuracy of imaging methods in detection of bone  tissue invasion in patients with oral squamous cell carcinoma. Dentomaxillofac  Radiol. 2013; 42: 20120346. 

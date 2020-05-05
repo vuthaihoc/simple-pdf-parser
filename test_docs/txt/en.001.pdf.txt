@@ -19,7 +19,8 @@ STOC’02, May 19-21, 2002, Montreal, Quebec, Canada. Copyright 2002 ACM 1-58113
 1. INTRODUCTION
 The current information explosion has resulted in an in- creasing number of applications that need to deal with large volumes of data. While traditional algorithm analysis as- sumes that the data fits in main memory, it is unreasonable to make such assumptions when dealing with massive data sets such as data from phone calls collected by phone com- panies, multimedia data, web page repositories and so on. This new setting has resulted in an increased interest in algorithms that process the input data in restricted ways, including sampling a few data points, making only a few passes over the data, and constructing a succinct sketch of the input which can then be efficiently processed.
 There has been a lot of recent work on streaming algo- rithms, i.e. algorithms that produce an output by mak- ing one pass (or a few passes) over the data while using a limited amount of storage space and time. To cite a few examples, Alon et al [2] considered the problem of estimat- ing frequency moments and Guha et al [25] considered the problem of clustering points in a streaming fashion. Many of these streaming algorithms need to represent important aspects of the data they have seen so far in a small amount of space; in other words they maintain a compact sketch of the data that encapsulates the relevant properties of the data set. Indeed, some of these techniques lead to sketching algo- rithms – algorithms that produce a compact sketch of a data set so that various measurements on the original data set can be estimated by efficient computations on the compact sketches. Building on the ideas of [2], Alon et al [1] give al- gorithms for estimating join sizes. Gibbons and Matias [18] give sketching algorithms producing so called synopsis data structures for various problems including maintaining ap- proximate histograms, hot lists and so on. Gilbert et al [19] give algorithms to compute sketches for data streams so as to estimate any linear projection of the data and use this to get individual point and range estimates. Recently, Gilbert et al [21] gave efficient algorithms for the dynamic mainte- nance of histograms. Their algorithm processes a stream of updates and maintains a small sketch of the data from which the optimal histogram representation can be approximated very quickly.
-In this work, we focus on sketching algorithms for estimat- ing similarity, i.e. the construction of functions that produce succinct sketches of objects in a collection, such that the similarity of objects can be estimated efficiently from their sketches. Here, similarity sim(x, y) is a function that mapsPage 2
+In this work, we focus on sketching algorithms for estimat- ing similarity, i.e. the construction of functions that produce succinct sketches of objects in a collection, such that the similarity of objects can be estimated efficiently from their sketches. Here, similarity sim(x, y) is a function that maps
+Page 2
 
 pairs of objects x, y to a number in [0, 1], measuring the degree of similarity between x and y. sim(x, y) = 1 corre- sponds to objects x, y that are identical while sim(x, y) = 0 corresponds to objects that are very different.
 Broder et al [8, 5, 7, 6] introduced the notion of min-wise independent permutations, a technique for constructing such sketching functions for a collection of sets. The similarity measure considered there was
@@ -54,7 +55,8 @@ Pr h∈F [h(~ u) = h(~v)] = 1 −
 θ(~ u, ~v) π .
 Here θ(~ u, ~v) refers to the angle between vectors ~ u and ~v. Note that the function 1 − θ
 π is closely related to the func-
-tion cos(θ). (In fact it is always within a factor 0.878 from it. Moreover, cos(θ) can be estimated from an estimate of θ.) Thus this similarity function is very closely related to the cosine similarity measure, commonly used in information retrieval. (In fact, Indyk and Motwani [31] describe how the set similarity measure can be adapted to measure dot product between binary vectors in d-dimensional Hamming space. Their approach breaks up the data set into O(log d) groups, each consisting of approximately the same weight. Our approach, based on estimating the angle between vec- tors is more direct and is also more general since it applies to general vectors.) We also note that the cosine between vectors can be estimated from known techniques based on random projections [2, 1, 20]. However, the advantage of a locality sensitive hashing based scheme is that this directly yields techniques for nearest neighbor search for the cosine similarity measure.Page 3
+tion cos(θ). (In fact it is always within a factor 0.878 from it. Moreover, cos(θ) can be estimated from an estimate of θ.) Thus this similarity function is very closely related to the cosine similarity measure, commonly used in information retrieval. (In fact, Indyk and Motwani [31] describe how the set similarity measure can be adapted to measure dot product between binary vectors in d-dimensional Hamming space. Their approach breaks up the data set into O(log d) groups, each consisting of approximately the same weight. Our approach, based on estimating the angle between vec- tors is more direct and is also more general since it applies to general vectors.) We also note that the cosine between vectors can be estimated from known techniques based on random projections [2, 1, 20]. However, the advantage of a locality sensitive hashing based scheme is that this directly yields techniques for nearest neighbor search for the cosine similarity measure.
+Page 3
 
 An attractive feature of the hash functions obtained from the random hyperplane method is that the output is a single bit; thus the output of t hash functions can be concatenated very easily to produce a t-bit vector. 2 Estimating similarity between vectors amounts to measuring the Hamming dis- tance between the corresponding t-bit hash vectors. We can represent sets by their characteristic vectors and use this locality sensitive hashing scheme for measuring similarity between sets. This yields a slightly different similarity mea- sure for sets, one that is linearly proportional to the angle between their characteristic vectors.
 In Section 4, we present a locality sensitive hashing scheme for a certain metric on distributions on points, called the Earth Mover Distance. We are given a set of points L = {l 1 , . . . l n }, with a distance function d(i, j) defined on them.
@@ -84,7 +86,8 @@ Then,
 Let ∆ h (x, y) be an indicator variable for the event h(x) 6=
 h(y). We claim that ∆ h (x, y) satisfies the triangle inequality,
 i.e.
-∆ h (x, y) + ∆ h (y, z) ≥ ∆ h (x, z).Page 4
+∆ h (x, y) + ∆ h (y, z) ≥ ∆ h (x, z).
+Page 4
 
 Since ∆ h () takes values in the set {0, 1}, the only case
 when the above inequality could be violated would be when ∆ h (x, y) = ∆ h (y, z) = 0. But in this case h(x) = h(y) and
@@ -127,7 +130,8 @@ do not agree in v(x) and v(y), which is proportional to the Hamming distance bet
 We note that Lemma 3 has a weak converse, i.e. for a similarity measure sim(x, y) any isometric embedding of the distance function 1−sim(x, y) in the Hamming cube yields a locality sensitive hash function family corresponding to the similarity measure (α + sim(x, y))/(α + 1) for some α &gt; 0.
 3. RANDOM HYPERPLANE BASED HASH FUNCTIONS FOR VECTORS
 Given a collection of vectors in R d , we consider the family
-of hash functions defined as follows: We choose a random vector ~r from the d-dimensional Gaussian distribution (i.e. each coordinate is drawn the 1-dimensional Gaussian distri- bution). Corresponding to this vector ~r, we define a hashPage 5
+of hash functions defined as follows: We choose a random vector ~r from the d-dimensional Gaussian distribution (i.e. each coordinate is drawn the 1-dimensional Gaussian distri- bution). Corresponding to this vector ~r, we define a hash
+Page 5
 
 function h ~ r as follows:
 h r ~ (~ u) = 1 0 if if ~r ~r · · u &lt; ~ u ~ ≥ 0 0
@@ -177,7 +181,8 @@ w e d(h(u), h(v))
 The approximation algorithms for this problem use an LP to assign, for every u ∈ V , a probability distribution over labels in L (i.e. a set of non-negative weights that sum up to 1). Given a distribution P over labels in L, the round- ing algorithm of Kleinberg and Tardos gave a randomized procedure for assigning label h(P ) to P with the following properties:
 1. Given distribution P (L) = (p 1 , . . . p n ),
 Pr[h(P ) = l i ] = p i . (6)
-2. Suppose P and Q are probability distributions over L. E[d(h(P ), h(Q))] ≤ O(log n log log n) EMD(P, Q) (7) We note that the second property (7) is not immediately obvious from [33], since they do not describe LP relaxations for general metrics. Their LP relaxations are defined for Hierarchically well Separated Trees (HSTs). They convert a general metric to such an HST using Bartal’s results [3, 4] on probabilistic approximation of metric spaces via tree metrics. However, it follows from combining ideas in [33] with those in Chekuri et al [11]. Chekuri et al do in fact give an LP relaxation for general metrics. The LP relaxationPage 6
+2. Suppose P and Q are probability distributions over L. E[d(h(P ), h(Q))] ≤ O(log n log log n) EMD(P, Q) (7) We note that the second property (7) is not immediately obvious from [33], since they do not describe LP relaxations for general metrics. Their LP relaxations are defined for Hierarchically well Separated Trees (HSTs). They convert a general metric to such an HST using Bartal’s results [3, 4] on probabilistic approximation of metric spaces via tree metrics. However, it follows from combining ideas in [33] with those in Chekuri et al [11]. Chekuri et al do in fact give an LP relaxation for general metrics. The LP relaxation
+Page 6
 
 does indeed produce distributions over labels for every ob- ject u ∈ V . The fractional distance between two labelings is expressed as the min cost transshipment between P and Q, which is identical to the Earth Mover Distance EMD(P, Q). Now, this fractional solution can be used in the rounding al- gorithm developed by Kleinberg and Tardos to obtain the second property (7) claimed above. In fact, Chekuri et al use this fact to claim that the gap of their LP relaxation is at most O(log n log log n) (Theorem 5.1 in [11]).
 We elaborate some more on why the property (7) holds. Kleinberg and Tardos first (probabilistically) approximate the metric on L by an HST using [3, 4]. This is a tree with all vertices in the original metric at the leaves. The pairwise distance between any two vertices does no decrease and all pairwise distances are increased by a factor of at most O(log n log log n) (in expectation). For this tree met- ric, they use an LP formulation which can be described as follows. Suppose we have a rooted tree. For subtree T , let ` T denote the length of the edge that T hangs off of, i.e. the
@@ -221,7 +226,8 @@ E[d(h(P ), h(Q))] ≤ O(log n) EMD(P, Q).
 Thus their rounding scheme gives a tighter guarantee than (7). However, they do not ensure (6). Thus the previous proof showing that EMD(P, Q) ≤ E[d(h(P), h(Q))] does not apply. In fact one can construct examples such that EMD(P, Q) &gt; 0, yet E[d(h(P ), h(Q))] = 0. Hence, the resulting hash function family provides an upper bound on EMD(P, Q) within a factor O(log n) but does not provide a good lower bound.
 We mention that the hashing scheme described provides an approximation to the Earth Mover Distance where the quality of the approximation is exactly the factor by which the underlying metric can be probabilistically approximated by HSTs. In particular, if the underlying metric itself is an HST, this yields an estimate within a constant factor. This could have applications in compactly representing dis- tributions over hierarchical classes. For example, documents can be assigned a probability distribution over classes in the Open Directory Project (ODP) hierarchy. This hier- archy could be thought of as an HST and documents can be mapped to distributions over this HST. The distance be- tween two distributions can be measured by the Earth Mover Distance. In this case, the hashing scheme described gives a way to estimate this distance measure to within a constant factor.
 4.1 Weighted Sets
-We show that the Kleinberg Tardos [33] rounding scheme for the case of the uniform metric actually is an extension of min-wise independent permutations to the weighted case. First we recall the hashing scheme given by min-wise in- dependent permutations. Given a universe U , consider a random permutation π of U . Assume that the elements of U are totally ordered. Given a subset A ⊆ U , the hashPage 7
+We show that the Kleinberg Tardos [33] rounding scheme for the case of the uniform metric actually is an extension of min-wise independent permutations to the weighted case. First we recall the hashing scheme given by min-wise in- dependent permutations. Given a universe U , consider a random permutation π of U . Assume that the elements of U are totally ordered. Given a subset A ⊆ U , the hash
+Page 7
 
 function h π is defined as follows:
 h π (A) = min{π(A)}
@@ -270,7 +276,8 @@ moves up and the other down). At each step we move one of the pointers up or dow
 permuted by σ). We examine 2N = O(n 1/(1+) ) bit vec- tors in this way. Of all the bit vectors examined, we return the one that has the smallest Hamming distance to q. The performance bounds we can prove for this simple scheme are identical to that proved by Indyk and Motwani for their scheme. An advantage of this scheme is that we do not need a reduction to many instances of PLEB for different values of radius r, i.e. we solve the nearest neighbor problem si- multaneously for all values of radius r using a single data structure.
 We outline the main ideas of the analysis. In fact, the proof follows along similar lines to the proofs of Theorem 5 and Corollary 3 in [31]. Suppose the nearest neighbor of q is at a Hamming distance of r from q. Set p 1 = 1 − d r ,
 p 2 = 1 − r(1+) d and k = log 1/p 2 n. Let ρ = ln 1/p 1 ln 1/p 2 . Then
-n ρ = O(n 1/(1+) ). We can show that with constant proba- bility, from amongst N = O(n 1/(1+) ) permutations, therePage 8
+n ρ = O(n 1/(1+) ). We can show that with constant proba- bility, from amongst N = O(n 1/(1+) ) permutations, there
+Page 8
 
 exists a permutation such that the nearest neighbor agrees with p on the first k coordinates in σ. Further, over all L permutations, the number of bit vectors that are at Ham- ming distance of more than r(1 + ) from q and agree on the first k coordinates is at most 2N with constant probability. This implies that for this permutation σ, one of the 2L bit vectors near q in the ordering O σ and examined by the algo-
 rithm will be a (1 + )-approximate nearest neighbor. The probability calculations are similar to those in [31], and we only sketch the main ideas.
@@ -310,7 +317,8 @@ Structures for Massive Data Sets. Proc. 10th SODA pp. 909–910, 1999.
 [20] A. C. Gilbert, Y. Kotidis, S. Muthukrishnan, and M. J. Strauss. QuickSAND: Quick Summary and Analysis of Network Data. DIMACS Technical Report 2001-43, November 2001.
 [21] A. C. Gilbert, S. Guha, P. Indyk, Y. Kotidis, S. Muthukrishnan, and M. J. Strauss. Fast,
 Small-Space Algorithms for Approximate Histogram Maintenance. these proceedings.
-[22] A. Gionis, D. Gunopulos, and N. Koudas. EfficientPage 9
+[22] A. Gionis, D. Gunopulos, and N. Koudas. Efficient
+Page 9
 
 and Tunable Similar Set Retrieval. Proc. SIGMOD Conference 2001.
 [23] A. Gionis, P. Indyk, and R. Motwani. Similarity Search in High Dimensions via Hashing. Proc. 25th VLDB pp. 518-529, 1999.
