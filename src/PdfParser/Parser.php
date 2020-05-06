@@ -115,7 +115,7 @@ class Parser {
      * @param int $last_page
      * @param int $first_page
      */
-    public function __construct( $path, $last_page = 100, $first_page = 1 ) {
+    public function __construct( $path, $last_page = 200, $first_page = 1 ) {
         $this->path = $path;
         $this->first_page = $first_page;
         $this->last_page = $last_page;
