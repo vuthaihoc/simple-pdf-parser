@@ -21,6 +21,8 @@ class DetectConclusion extends AbstractProcess
         'Kết luận',
         'Tổng kết',
         'Conclusiones',
+        'Concluding Remarks',
+        'CONCLUDING REMARKS',
     ];
 
     public static $conclusion_sign_2 = [
@@ -34,11 +36,11 @@ class DetectConclusion extends AbstractProcess
         $conclusion = '';
         foreach ($conclusion_sign_list as $conclusion_sign) {
             $conclusion = self::getConclusion($document, $conclusion_sign);
-            dump($conclusion);
             if (trim($conclusion))
                 break;
         }
 
+        dump($conclusion);
         $document->conclusion = $conclusion;
         return $document;
     }
@@ -50,6 +52,10 @@ class DetectConclusion extends AbstractProcess
         $force_restart = false;
         $end = false;
         foreach ($document->getPages() as $page_number => $page) {
+            // Chi xet 30% tai lieu (cac trang cuoi cung) neu tai lieu lon hon 100 trang
+            if(($page_number < 0.7 * $document->pageCount() && $document->pageCount() > 100))
+                continue;
+
             foreach ($page->getObjects() as $object) {
                 if ($object instanceof Line) {
                     if ($object->in_toc) {
@@ -58,19 +64,15 @@ class DetectConclusion extends AbstractProcess
                     foreach ($conclusion_signs as $conclusion_sign) {
                         if ($force_restart)
                             break;
-                        if (mb_strpos($object->text, 'KẾT LUẬN') !== false){
-//                            dd($object);
-                            self::isValidConclusion($object->text, $conclusion_sign);
-                        }
-
                         // match exactly conclusion sign
-                        if (self::isValidConclusion($object->text, $conclusion_sign)) {
+                        if (self::isValidConclusion($object, $conclusion_sign)) {
                             $content = '';
                             $force_restart = true;
-                            dump('force_restart');
                             break;
                         }
-                        if (stripos(trim($object->text), $conclusion_sign) !== false && mb_strlen(trim($object->text)) < mb_strlen($conclusion_sign) + 10) {
+                        // Nếu đoạn text chứa dấu hiệu của conclusion và độ dài không qúa 10 dấu hiệu cuả conclusion
+                        if (stripos(trim($object->text), $conclusion_sign) !== false
+                            && mb_strlen(trim($object->text)) < mb_strlen($conclusion_sign) + 10) {
                             $start = true;
                         }
                     }
@@ -86,16 +88,32 @@ class DetectConclusion extends AbstractProcess
         return $content;
     }
 
-    static function isValidConclusion($text, $conclusion_sign)
+
+    /**
+     * Kiểm tra đoạn text đầu vào có phải là conlusion hợp lệ không
+     *
+     * @param Line $line
+     * @param $conclusion_sign
+     * @return bool
+     */
+    static function isValidConclusion(Line $line, $conclusion_sign)
     {
-        $conclusion_length = mb_strlen($conclusion_sign);
-        if(trim($text) === $conclusion_sign
-            || mb_substr(trim($text), -$conclusion_length) === $conclusion_sign){
+        // 1. Có chứa dấu hiệu của conclusion và được in đậm
+        if(mb_stripos(trim($line->text), $conclusion_sign) !== false
+            && mb_stripos($line->raw, "<b>") !== false){
+            return true;
         }
 
-        return (
-                trim($text) === $conclusion_sign
-                || mb_substr(trim($text), -$conclusion_length) === $conclusion_sign)
+        // 2. Có chứa dấu hiệu của conclusion và được viết hoa.
+        if(mb_stripos(trim($line->text), $conclusion_sign) !== false
+            && ctype_upper($line->text)){
+            return true;
+        }
+
+        // 3. Phần kết thúc đoạn text trùng khớp với dấu hiệu của conclusion
+        $conclusion_length = mb_strlen($conclusion_sign);
+        $text = str_replace(" ", "", $line->text);
+        return (mb_substr($text, -$conclusion_length) === $conclusion_sign)
             && mb_strlen($text) < mb_strlen($conclusion_sign) + 10;
     }
 }
