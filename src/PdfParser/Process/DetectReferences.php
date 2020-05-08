@@ -24,7 +24,8 @@ class DetectReferences
     ];
 
     public static $reference_pattern_2 = [
-        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
+//        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
+        "/^(?<order>reference_order)\.\s*(?<reference>.*)/m"
     ];
 
     public static $references_sign = [
@@ -38,17 +39,14 @@ class DetectReferences
     public static function apply(Document $document)
     {
         $process = new self();
-        $pagesHaveReference = $process->getPagesHaveReference($document);
-
-        $pages = $document->getPagesList(...$pagesHaveReference);
-        $process->markReferenceLines($pages);
+        $first_page_have_reference = $process->getFirstPagesHaveReference($document);
+        $process->markReferenceLines($document, $first_page_have_reference);
         return $document;
     }
 
-    protected function getPagesHaveReference(Document $document)
+    protected function getFirstPagesHaveReference(Document $document)
     {
         $total_pages = $document->pageCount();
-        $pages = [];
         $scores = [];
         $matched_pattern = [];
 
@@ -81,36 +79,7 @@ class DetectReferences
             }
         }
 
-        $start_reference_page = array_keys($scores, max($scores))[0];
-        $most_matched_pattern = array_keys($matched_pattern, max($matched_pattern))[0];
-
-        $pages[] = $start_reference_page;
-        foreach ($document->getPages() as $page_number => $page) {
-            if ($page_number <= $start_reference_page) {
-                continue;
-            }
-            $page_have_ref = false;
-            $count_line = 0;
-            foreach ($page->getObjects() as $object) {
-                if (preg_match(self::$reference_pattern[$most_matched_pattern], self::vi_to_en($object->text))) {
-                    $page_have_ref = true;
-                    $pages[] = $page_number;
-                    break;
-                } else {
-                    $count_line++;
-                }
-                if ($count_line == 5) { // Neu 5 dong dau tien trong trang khong co reference thi bo qua
-                    break;
-                }
-            }
-            if (!$page_have_ref) {
-                break;
-            }
-
-        }
-        return $pages;
-
-
+        return array_keys($scores, max($scores))[0];
     }
 
     public static function vi_to_en($str)
@@ -133,21 +102,21 @@ class DetectReferences
         return $str;
     }
 
-    protected function markReferenceLines($pages)
+    protected function markReferenceLines(Document $document, $first_page_have_reference)
     {
         $end = false;
         $order_list = [];
-        foreach ($pages as $number => $page) {
+        foreach ($document->getPages() as $number => $page) {
+            if($number < $first_page_have_reference)
+                continue;
             $distance_to_previous_ref = 0;
             foreach ($page->getObjects() as $k => $line) {
                 if ($line instanceof Line) {
                     foreach (self::$reference_pattern_2 as $ref) {
                         $flag = false;
                         $ref = preg_replace("<reference_order>", implode("|", $this->nextPossibleOrder($order_list)), $ref);
-                        dump($ref);
                         if (preg_match($ref, $line->text, $matches)) {
                             $flag = true;
-                            dump($matches['order'], $matches['reference']);
                             $order_list[] = $matches['order'];
                             $line->in_reference = true;
                             $distance_to_previous_ref = 0;
@@ -169,6 +138,7 @@ class DetectReferences
                 break;
             }
         }
+        dd($order_list);
     }
 
     protected function nextPossibleOrder($list)
@@ -179,7 +149,7 @@ class DetectReferences
         $count = count(array_filter($list, function ($a) {
             return $a == 1;
         }));
-        if($count <= 2){
+        if($count <= 1){
             return [end($list) + 1, 1];
         }
         return [end($list) + 1];
