@@ -253,41 +253,38 @@ class Parser {
 
                 if($val['level'] == 2){
                     $data[] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
                     $index_level_1++;
                     $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
                 }
 
                 if($val['level'] == 3){
                     $data[$index_level_1]['children'][] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
                     $index_level_2++;
                     $index_level_3 = $index_level_4 = $index_level_5 = -1;
                 }
 
                 if($val['level'] == 4){
                     $data[$index_level_1]['children'][$index_level_2]['children'][] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
                     $index_level_3++;
                     $index_level_4 = $index_level_5 = -1;
                 }
                 if($val['level'] == 5){
                     $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
                     $index_level_4++;
                     $index_level_5 = -1;
                 }
 
                 if($val['level'] == 6){
-                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][$index_level_4]['children'][] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children']
+                    [$index_level_4]['children'][] = $crr_item;
                     $index_level_5++;
                 }
 
                 if($val['level'] == 7){
-                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][$index_level_4]['children'][$index_level_5]['children'][] = $crr_item;
-                    $crr_item = $this->newOutlineItem();
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children']
+                    [$index_level_4]['children'][$index_level_5]['children'][] = $crr_item;
                 }
+                $crr_item = $this->newOutlineItem();
             }
         }
         return $data;
