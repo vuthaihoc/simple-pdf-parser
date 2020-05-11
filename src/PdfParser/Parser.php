@@ -154,7 +154,8 @@ class Parser {
         $fonts = [];
         $fonts_width = [];
         $pages = [];
-        
+        $outline_start = false;
+        $outline = '';
         $page_start = false;
         $page_buffer = null;
         $last_text = null;
@@ -213,8 +214,17 @@ class Parser {
                 $page_buffer = null;
                 continue;
             }
+
+            if (trim( $line ) == '<outline>' ){
+                $outline_start = true;
+            }
+            if(trim($line) == '</pdf2xml>'){
+                $outline_start = false;
+            }
+            if($outline_start){
+                $outline .= $line;
+            }
         }
-        
         foreach ( $fonts as &$font ) {
             if ( $font->chars == 0 ) {
                 continue;
@@ -223,9 +233,72 @@ class Parser {
         }
         
         $document = new Document( $pages, $fonts , $this->path);
-        
+        $document->outlines = $this->makeOutline($outline);
         return $document;
         
+    }
+
+    protected function makeOutline($xml){
+        $p = xml_parser_create();
+        xml_parse_into_struct($p, $xml, $vals, $index);
+        xml_parser_free($p);
+
+        $data = [];
+        $crr_item = $this->newOutlineItem();
+        $index_level_1 = $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
+        foreach ($vals as $val) {
+            if($val['tag'] === 'ITEM' ){
+                $crr_item['value'] = $val['value'];
+                $crr_item['page'] = $val['attributes']['PAGE'];
+
+                if($val['level'] == 2){
+                    $data[] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                    $index_level_1++;
+                    $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
+                }
+
+                if($val['level'] == 3){
+                    $data[$index_level_1]['children'][] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                    $index_level_2++;
+                    $index_level_3 = $index_level_4 = $index_level_5 = -1;
+                }
+
+                if($val['level'] == 4){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                    $index_level_3++;
+                    $index_level_4 = $index_level_5 = -1;
+                }
+                if($val['level'] == 5){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                    $index_level_4++;
+                    $index_level_5 = -1;
+                }
+
+                if($val['level'] == 6){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][$index_level_4]['children'][] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                    $index_level_5++;
+                }
+
+                if($val['level'] == 7){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][$index_level_4]['children'][$index_level_5]['children'][] = $crr_item;
+                    $crr_item = $this->newOutlineItem();
+                }
+            }
+        }
+        return $data;
+    }
+
+    protected function newOutlineItem(){
+        $crr_item = [];
+        $crr_item['value'] = '';
+        $crr_item['page'] = 0;
+        $crr_item['children'] = [];
+        return $crr_item;
     }
     
 }

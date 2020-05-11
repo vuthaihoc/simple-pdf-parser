@@ -29,6 +29,7 @@ class Document {
 
     public $abstract;
     public $conclusion;
+    public $outlines;
 
     use HasMarginTrait;
     
