@@ -24,23 +24,24 @@ class DetectReferences
     ];
 
     public static $reference_pattern_2 = [
-//        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
-        "/^(?<order>reference_order)\.\s*(?<reference>.*)/m"
+        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
+        "/^\[(?<order>reference_order)\]\s*(?<reference>[A-Z][^A-Z].*)\s*/m"
     ];
 
     public static $references_sign = [
         '/\s*TÀI LIỆU THAM KHẢO\s*/',
         '/\s*Tài liệu tham khảo\s*/',
         '/\s*References\s*/',
-        '/\s*REFERENCES\s*/'
+        '/\s*REFERENCES\s*/',
+        '/\s*references\s*/'
     ];
 
 
     public static function apply(Document $document)
     {
         $process = new self();
-        $first_page_have_reference = $process->getFirstPagesHaveReference($document);
-        $process->markReferenceLines($document, $first_page_have_reference);
+        [$first_page_have_reference, $reference_pattern] = $process->getFirstPagesHaveReference($document);
+        $process->markReferenceLines($document, $first_page_have_reference, $reference_pattern);
         return $document;
     }
 
@@ -62,15 +63,17 @@ class DetectReferences
             $scores[$page_number] = 0;
             $temp = 0;
             foreach ($page->getObjects() as $object) {
+
                 foreach (self::$references_sign as $reference) {
-                    if (preg_match($reference, $object->text)) {
+                    if (preg_match($reference, $object->text)
+                    || preg_match($reference, strtolower($object->text))) {
                         $scores[$page_number] += 150;
                         $temp = 1;
                         break;
                     }
                 }
                 foreach (self::$reference_pattern as $key => $item) {
-                    if (preg_match($item, $object->text) && $temp) {
+                    if (preg_match($item, trim($object->text)) && $temp) {
                         $scores[$page_number] += 1;
                         $matched_pattern[$key] += 1;
                         break;
@@ -79,7 +82,12 @@ class DetectReferences
             }
         }
 
-        return array_keys($scores, max($scores))[0];
+        dump("Matched pattern: " . array_keys($matched_pattern, max($matched_pattern))[0]);
+        dump("First page: " . array_keys($scores, max($scores))[0]);
+//        dump([array_keys($scores, max($scores))[0], array_keys($matched_pattern, max($matched_pattern))[0]]);
+//        dd($matched_pattern);
+
+        return [array_keys($scores, max($scores))[0], array_keys($matched_pattern, max($matched_pattern))[0]];
     }
 
     public static function vi_to_en($str)
@@ -102,32 +110,38 @@ class DetectReferences
         return $str;
     }
 
-    protected function markReferenceLines(Document $document, $first_page_have_reference)
+    protected function markReferenceLines(Document $document, $first_page_have_reference, $reference_pattern)
     {
         $end = false;
         $order_list = [];
+        $start = false;
+
         foreach ($document->getPages() as $number => $page) {
             if($number < $first_page_have_reference)
                 continue;
             $distance_to_previous_ref = 0;
+
             foreach ($page->getObjects() as $k => $line) {
                 if ($line instanceof Line) {
-                    foreach (self::$reference_pattern_2 as $ref) {
-                        $flag = false;
-                        $ref = preg_replace("<reference_order>", implode("|", $this->nextPossibleOrder($order_list)), $ref);
-                        if (preg_match($ref, $line->text, $matches)) {
-                            $flag = true;
-                            $order_list[] = $matches['order'];
-                            $line->in_reference = true;
-                            $distance_to_previous_ref = 0;
-                            break;
-                        }
+                    $flag = false;
+                    $ref = preg_replace("<reference_order>",
+                        implode("|",
+                            $this->nextPossibleOrder($order_list)),
+                        self::$reference_pattern_2[$reference_pattern]);
+                    if (preg_match($ref, trim($line->text), $matches)) {
+
+                        $flag = true;
+                        $start = true;
+                        $order_list[] = $matches['order'];
+                        $line->in_reference = true;
+                        $distance_to_previous_ref = 0;
+//                        break;
                     }
-                    if(!$flag){
+                    if(!$flag && $start){
                         $line->merge_up = true;
                         $distance_to_previous_ref++;
                     }
-                    if ($distance_to_previous_ref > 10) {
+                    if ($distance_to_previous_ref > 10 && $start) {
                         $end = true;
                         break;
                     }
@@ -138,7 +152,7 @@ class DetectReferences
                 break;
             }
         }
-        dd($order_list);
+        dump(count($order_list));
     }
 
     protected function nextPossibleOrder($list)
@@ -150,9 +164,9 @@ class DetectReferences
             return $a == 1;
         }));
         if($count <= 1){
-            return [end($list) + 1, 1];
+            return [ (int) end($list) + 1, 1];
         }
-        return [end($list) + 1];
+        return [(int) end($list) + 1];
 
     }
 
