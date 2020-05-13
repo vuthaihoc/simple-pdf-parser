@@ -19,13 +19,13 @@ class DetectReferences
     /** @todo phát hiện references và luôn merge up nếu không match prefix */
 
     public static $reference_pattern = [
-        "/^(?<order>\d)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
-        "/^\[(?<order>\d)\]\s*(?<reference>[A-Z][^A-Z].*)\s*/m"
+        "/^(?<order>\d)\.\s*(?<reference>[A-Z].*)/m",
+        "/^\[(?<order>\d)\]\s*(?<reference>[A-Z].*)/m"
     ];
 
     public static $reference_pattern_2 = [
-        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z][^A-Z].*\s?(\d\.\s)?.*)\s*/m",
-        "/^\[(?<order>reference_order)\]\s*(?<reference>[A-Z][^A-Z].*)\s*/m"
+        "/^(?<order>reference_order)\.\s*(?<reference>[A-Z].*)/m",
+        "/^\[(?<order>reference_order)\]\s*(?<reference>[A-Z].*)/m"
     ];
 
     public static $references_sign = [
@@ -116,6 +116,8 @@ class DetectReferences
         $order_list = [];
         $start = false;
 
+        if($first_page_have_reference == 0)
+            return;
         foreach ($document->getPages() as $number => $page) {
             if($number < $first_page_have_reference)
                 continue;
@@ -123,21 +125,18 @@ class DetectReferences
 
             foreach ($page->getObjects() as $k => $line) {
                 if ($line instanceof Line) {
-                    $flag = false;
                     $ref = preg_replace("<reference_order>",
                         implode("|",
                             $this->nextPossibleOrder($order_list)),
                         self::$reference_pattern_2[$reference_pattern]);
-                    if (preg_match($ref, trim($line->text), $matches)) {
-
-                        $flag = true;
+                    if (preg_match($ref, trim(self::vi_to_en($line->text)), $matches)) {
                         $start = true;
                         $order_list[] = $matches['order'];
                         $line->in_reference = true;
                         $distance_to_previous_ref = 0;
 //                        break;
                     }
-                    if(!$flag && $start){
+                    if( $start && !$line->in_reference){
                         $line->merge_up = true;
                         $distance_to_previous_ref++;
                     }
