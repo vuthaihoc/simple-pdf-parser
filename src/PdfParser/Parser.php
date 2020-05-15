@@ -13,6 +13,7 @@ use ThikDev\PdfParser\Converter\PdfToText;
 use ThikDev\PdfParser\Exceptions\ParseException;
 use ThikDev\PdfParser\Objects\Document;
 use ThikDev\PdfParser\Objects\Font;
+use ThikDev\PdfParser\Objects\Image;
 use ThikDev\PdfParser\Objects\Page;
 use ThikDev\PdfParser\Objects\Text;
 use ThikDev\PdfParser\Process\DetectColumns;
@@ -114,7 +115,7 @@ class Parser {
      * @param int $last_page
      * @param int $first_page
      */
-    public function __construct( $path, $last_page = 100, $first_page = 1 ) {
+    public function __construct( $path, $last_page = -1, $first_page = 1 ) {
         $this->path = $path;
         $this->first_page = $first_page;
         $this->last_page = $last_page;
@@ -153,7 +154,8 @@ class Parser {
         $fonts = [];
         $fonts_width = [];
         $pages = [];
-        
+        $outline_start = false;
+        $outline = '';
         $page_start = false;
         $page_buffer = null;
         $last_text = null;
@@ -177,7 +179,7 @@ class Parser {
                 $last_text = null;
                 continue;
             }
-            
+
             // page content
             if ( $page_start && $page_buffer && preg_match( "/^\s*\<text\stop=\"/", $line ) ) {
                 $text = Text::parse( $line );
@@ -196,6 +198,14 @@ class Parser {
                 $page_buffer->components[] = $text;
                 continue;
             }
+
+            if ( $page_start && $page_buffer && preg_match( "/^\s*\<image\stop=\"/", $line ) ) {
+                $image = Image::parse($line);
+                if(!in_array($image, $page_buffer->images)){
+                    $page_buffer->images[] = $image;
+                }
+                continue;
+            }
             
             // page end
             if ( trim( $line ) == '</page>' ) {
@@ -204,8 +214,17 @@ class Parser {
                 $page_buffer = null;
                 continue;
             }
+
+            if (trim( $line ) == '<outline>' ){
+                $outline_start = true;
+            }
+            if(trim($line) == '</pdf2xml>'){
+                $outline_start = false;
+            }
+            if($outline_start){
+                $outline .= $line;
+            }
         }
-        
         foreach ( $fonts as &$font ) {
             if ( $font->chars == 0 ) {
                 continue;
@@ -214,9 +233,69 @@ class Parser {
         }
         
         $document = new Document( $pages, $fonts , $this->path);
-        
+        $document->outlines = $this->makeOutline($outline);
         return $document;
         
+    }
+
+    protected function makeOutline($xml){
+        $p = xml_parser_create();
+        xml_parse_into_struct($p, $xml, $vals, $index);
+        xml_parser_free($p);
+
+        $data = [];
+        $crr_item = $this->newOutlineItem();
+        $index_level_1 = $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
+        foreach ($vals as $val) {
+            if($val['tag'] === 'ITEM' ){
+                $crr_item['value'] = $val['value'];
+                $crr_item['page'] = $val['attributes']['PAGE'];
+
+                if($val['level'] == 2){
+                    $data[] = $crr_item;
+                    $index_level_1++;
+                    $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
+                }
+
+                if($val['level'] == 3){
+                    $data[$index_level_1]['children'][] = $crr_item;
+                    $index_level_2++;
+                    $index_level_3 = $index_level_4 = $index_level_5 = -1;
+                }
+
+                if($val['level'] == 4){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][] = $crr_item;
+                    $index_level_3++;
+                    $index_level_4 = $index_level_5 = -1;
+                }
+                if($val['level'] == 5){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children'][] = $crr_item;
+                    $index_level_4++;
+                    $index_level_5 = -1;
+                }
+
+                if($val['level'] == 6){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children']
+                    [$index_level_4]['children'][] = $crr_item;
+                    $index_level_5++;
+                }
+
+                if($val['level'] == 7){
+                    $data[$index_level_1]['children'][$index_level_2]['children'][$index_level_3]['children']
+                    [$index_level_4]['children'][$index_level_5]['children'][] = $crr_item;
+                }
+                $crr_item = $this->newOutlineItem();
+            }
+        }
+        return $data;
+    }
+
+    protected function newOutlineItem(){
+        $crr_item = [];
+        $crr_item['value'] = '';
+        $crr_item['page'] = 0;
+        $crr_item['children'] = [];
+        return $crr_item;
     }
     
 }

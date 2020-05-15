@@ -596,8 +596,7 @@ Page 69
 Figure II-3:  Net1 phosphorylation by Clb2–Cdk is cell cycle regulated and sufficient for disruption of Cdc14 binding in vitro.
 (A) Phospho-specific antibodies to Net1.  Three phospho-specific antibodies were raised against peptides containing either phosphorylated Serine166 ( α -PP-A), Threonine 212 (α-PP-B), or Serine 252 (α-PP-C).  Crude extracts from cdc14-1 strains carrying either a wild-type (+) (RJD2615) or a mutant (3Cdk) NET1-myc9 allele (RJD2616) in which the three sites were converted to Alanine were fractionated by SDS-PAGE and
 immunoblotted with the different antibodies to evaluate specificity.  Anti-myc (9E10) detection of Net1-myc9 was used as a loading control.
-(B) Net1 phosphorylation on Threonine 212 is cell cycle regulated.  Cells arrested in α
-factor were released from G1 block and samples were collected at the indicated time points (min).  Phosphoepitope formation, Net1-myc9, and Clb2 levels were monitored by fractionating crude cell extracts by SDS-PAGE and immunoblotting with  α -PP-B,  α -myc (9E10), and  α -Clb2 antibodies, respectively.  Cdc28 levels ( α -Cdc28) were used as a loading control.
+(B) Net1 phosphorylation on Threonine 212 is cell cycle regulated.  Cells arrested in α factor were released from G1 block and samples were collected at the indicated time points (min).  Phosphoepitope formation, Net1-myc9, and Clb2 levels were monitored by fractionating crude cell extracts by SDS-PAGE and immunoblotting with  α -PP-B,  α -myc (9E10), and  α -Clb2 antibodies, respectively.  Cdc28 levels ( α -Cdc28) were used as a loading control.
 (C) Clb2–Cdk generates the in vivo phosphoepitopes in vitro.  Net1-myc9 was
 immunoprecipitated from  α  factor-arrested cells and the bead-bound protein was treated with protein kinase Clb2–Cdk in the presence (+) or absence (-) of ATP.  The bead-bound material was fractionated by SDS-PAGE and immunoblotted with  α -PP-B and  α -PP-C
 Page 70
@@ -735,8 +734,7 @@ Page 78
 
 Figure II-5:  Over-expression of Clb2 is sufficient to drive Cdc14 out of the nucleolus in cells arrested in mitosis with microtubule poisons. (A) Over-expression of a stable form of Clb2 promotes Net1 phosphorylation on Threonine 212.  NET1-myc9 cells carrying a galactose-inducible cassette that encodes a stabilized form of Clb2 that lacks both the destruction and KEN boxes (GAL1p-
 CLB2C 2 DK 100 ) (RJD2627) were arrested with 30 µ g/ml benomyl plus 15 µ g/ml
-nocodazole at 23°C for 3 hours in YP 2% raffinose.  At various times after galactose was
-added to induce expression of Clb2C 2 DK 100 , samples were withdrawn, fractionated by
+nocodazole at 23°C for 3 hours in YP 2% raffinose.  At various times after galactose was added to induce expression of Clb2C 2 DK 100 , samples were withdrawn, fractionated by
 SDS-PAGE, and immunoblotted with α-PP-B, α-Clb2, and α-Cdc28 as previously described.
 (B) Over-expression of a stable form of Clb2 promotes release of Cdc14 from the nucleolus in cells arrested in mitosis.  Cells were arrested in mitosis with benomyl and nocodazole as described for panel (A), and samples were collected at the indicated time points for indirect immuno-fluorescence.  Staining was performed using DAPI together with anti-Cdc14 and anti-tubulin antibodies as previously described. Cell outlines are indicated for comparison.
 (C) Phosphorylation of Net1 (aa 1-601) by Clb2–Cdk disrupts Cdc14 binding in vitro. Proteins were expressed and purified from bacteria as described (Shou et al., 2002a). His6-T7-Net1 was captured on Ni +2 -NTA beads and either treated with Clb2–Cdk or buffer prior to addition of GST-T7-Cdc14.  After a 30-minute incubation at 25°C, the NTA beads were sedimented, washed 5 times with wash buffer, and processed for SDS-
@@ -808,8 +806,7 @@ Figure II-6: Net1 phosphorylation on Threonine 212 is modulated by Slk19, Spo12,
 Page 82
 
 (D) Net1 phosphorylation on Threonine 212 is dependent on Cdc5.  Wild-type (+) (RJD1349), cdc5-1 (5) (RJD1417), cdc14-1 (14) (RJD1408), and cdc5-1 cdc14-1 (5,14) (RJD2628) cells carrying a NET1-myc9 epitope tagged allele were grown logarithmically at 25 ° C and samples for each culture collected.  Cultures were shifted to 37 ° C for 3 hours and samples were collected again for analysis by Western blotting.  Phosphoepitope formation, Net1-myc9 levels, Clb2, and Cdc28 levels were monitored as previously described.
-(E) Over-expressed Cdc5 lacking the destruction box (DB) motif promotes Net1 phosphorylation on Threonine 212 in metaphase-arrested cells. Wild-type (RJD2634), and GAL1p-CDC5( ∆ DB) (RJD2635) cells carrying a  NET1myc9 epitope tagged allele were grown logarithmically at 26°C and arrested with 30µg/ml benomyl plus 15µg/ml
-nocodazole in YP 2% raffinose.  At various times after galactose was added to induce expression, samples were withdrawn, fractionated by SDS-PAGE, and immunoblotted with  α -PP-B,  α -Clb2, and  α -Cdc28 as previously described.  Levels of Cdc5 ∆ db induction were determined by blotting for  α -HA.
+(E) Over-expressed Cdc5 lacking the destruction box (DB) motif promotes Net1 phosphorylation on Threonine 212 in metaphase-arrested cells. Wild-type (RJD2634), and GAL1p-CDC5( ∆ DB) (RJD2635) cells carrying a  NET1myc9 epitope tagged allele were grown logarithmically at 26°C and arrested with 30µg/ml benomyl plus 15µg/ml nocodazole in YP 2% raffinose.  At various times after galactose was added to induce expression, samples were withdrawn, fractionated by SDS-PAGE, and immunoblotted with  α -PP-B,  α -Clb2, and  α -Cdc28 as previously described.  Levels of Cdc5 ∆ db induction were determined by blotting for  α -HA.
 Page 83
 
 DAPI
@@ -914,8 +911,7 @@ Page 93
 
 Figure II-11:  Cdc28 levels as loading controls.
 (A) Cdc28 levels ( α -Cdc28) were used as a loading controls for the indicated time points and strains for Figure 6A.
-(B) Cdc28 levels (α-Cdc28) were used as a loading controls for the indicated time points
-for Figure 6B. Roman numerals refer to the following strain genotypes: (i) wild-type (RJD2617), (ii) cdc15-2 (RJD2610), (iii) cdc15-2 spo12∆ (RJD2620), and (iv) cdc15-2 slk19 ∆  (RJD2621).
+(B) Cdc28 levels (α-Cdc28) were used as a loading controls for the indicated time points for Figure 6B. Roman numerals refer to the following strain genotypes: (i) wild-type (RJD2617), (ii) cdc15-2 (RJD2610), (iii) cdc15-2 spo12∆ (RJD2620), and (iv) cdc15-2 slk19 ∆  (RJD2621).
 Page 94
 
 Table II-1
@@ -948,4 +944,192 @@ Casein kinase II (CKII) is one of the most highly conserved Serine/Threonine kin
 evolutionally conserved two catalytic subunits ( α 2 ) (Cka1, Cka2). To date, more than 160
 potential substrates have been identified for CKII (Pinna and Meggio, 1997) highlighting the pleiotropic, yet surprisingly essential role for CKII is cell survival. Notably,
 Nucleolin, a protein found in the nucleolus of mammalian cells has proved to be one of the best substrates for CKII (Caizergues-Ferrer et al., 1987; Schneider and Issinger, 1988).   In Saccharomyces cerevisiae, CKII’s function is essential as deletion of both the α -catalytic subunits is lethal yet, again surprisingly; deletion of one or both of the
-regulatory  β -subunits displays no obvious phenotype (Glover, 1998). The most obvious phenotype arises when ckb1 ∆  ckb2 ∆  mutant cells are challenged on minimal media, and any combination of cka1∆ or cka2∆ with either of the ckb1∆ or ckb2∆ display slow growth and flocculation (Glover, 1998).  Over-expression analysis of either the catalytic or regulatory subunits from Drosophila in Saccharomyces cerevisiae has had little impact
+regulatory  β -subunits displays no obvious phenotype (Glover, 1998). The most obvious phenotype arises when ckb1 ∆  ckb2 ∆  mutant cells are challenged on minimal media, and any combination of cka1∆ or cka2∆ with either of the ckb1∆ or ckb2∆ display slow growth and flocculation (Glover, 1998).  Over-expression analysis of either the catalytic or regulatory subunits from Drosophila in Saccharomyces cerevisiae has had little impact
+Page 101
+
+on our understanding of CKII’s function (Rethinaswamy et al., 1998) even though CKII kinase consensus motif  [(S/t)-X-X-(E/d)] has been determined and studied on a large variety of its in vitro substrates (Guerra and Issinger, 1999). Interestingly,
+temperature-sensitive alleles of Cka1 and Cka2 arrest in a mixed population of unbudded and elongated-budded cells at the G2/M stage of the cell cycle (Glover, 1998). CKII mutants in S. cerevisiae display another interesting ability in that they are required for cells to undergo “adaptation” in response to DNA damage; a process by which cells continue with the cell cycle after a prolonged delay at the DNA-damage checkpoint (Toczyski et al., 1997). Subcellular localization of CKII has been shown to play an important part in regulation in addition to post-translational modification (Faust and Montenarh, 2000; Jans and Hubner, 1996; Tawfic et al., 2001). Thus, even though CKII was one of the first kinases identified; preciously little is know about its molecular functions given its pleiotropic nature.
+Results
+RNA Polymerase I and Casein Kinase II Interact with Net1
+To look for new components of the RENT complex, we performed a series of immuno-precipitation experiments with a myc9- immuno epitope tag on Net1 in various MEN mutant backgrounds so as to find a MEN-dependent component to the RENT complex. The epitope tag was additionally modified to include an engineered TEV
+protease Cleavage site, thus facilitating a subsequent purification of Net1 complexes from immuno-affinity beads (Figure 1). Immuno-affinity purification was also performed on
+Page 102
+
+other components of the Mitotic Exit Network (MEN) to try to identify new factors for that pathway (Figure 1). Samples were then run on a 4-15% gradient gel with along with the untagged control and banding patterns were observed via silver staining and
+subsequently compared to identify new bands (Figure 1). In-gel sequencing analysis of Net1 samples revealed no major differences in protein complexes from various MEN mutants (R. Azzam, A. Shevchenko, and J. Graumann, unpublished observations). Two new components were identified that associated with the RENT complex. The RNA polymerase I subunit RPC40, and the Casein kinase II subunit CKA1. These results were latter confirmed after performing Mud-PIT analysis with on the samples obtained from the same MEN mutants and identifying all subunits of Casein Kinase II (CKII) (CKA1, CKA2, CKB1, CKB2) as associating with the RENT complex (R. Azzam and J.
+Graumann, unpublished observations).
+To verify that the interaction we observed with RNA Polymerase I and Casein Kinase II is reproducible, we performed co-immunoprecipitation experiments with Net1. Purified Pol I holoenzyme with the A135 tagged-subunit interacts with Baculo-purified Net1 in vitro as judged by Western blotting (Figure 2A) in an almost 1:1 ratio. Immuno- tagging all four subunits of CKII and immuno-precipitating them also brings down Net1 (Figure 2B). Thus, both Pol I and CKII interact with Net1 as judged by mass
+spectrometry and immunoprecipitation experiments from S. cerevisiae and in a semi- purified system. Furthermore, Net1 has been definitively implicated in regulating nucleolar structure and Pol I transcription (Shou et al., 2001).
+Casein Kinase II Mutants Display Synthetic Interactions with MEN Mutants
+Page 103
+
+Casein Kinase II mutants arrest as a mixture of budded and unbudded cells in G2/M (Glover, 1998). Thus, to further analyze the role of Casein Kinase II in regulating mitotic exit, we sought to investigate how temperature sensitive mutants of CKII
+(specifically mutants in CKA1 catalytic subunit) interact with MEN mutants. Double mutants cka2-8 tem1-3, cka2-8 cdc15-2, cka2-8 cdc14-1, and cka2-8 dbf2-2 showed a reduction in restrictive temperature compared to single mutants (Figure 3). Interestingly, cka2-8 cdc5-1 double mutants appear to improve the temperature sensitivity of cdc5-1 cells (Figure 3).
+Casein Kinase Mutants Arrest in Anaphase with Unsegregated rDNA
+If Casein Kinase II activity is involved in late mitotic events, then CKII mutants should display late mitotic phenotypes. A modified strain containing an integrated GFP chromosomal marker was used to visualize chromosomal segregation in cka2-8, esp1-1, and top2-1 mutants (Figure 4). Whereas esp1-1 and top2-1 mutants arrest with one visible GFP dot indicating failure of chromosomal DNA segregation, cka2-8 mutants arrest with two visible GFP dots at the opposite ends of the DAPI mass indicating proper segregation of chromosomal DNA (Figure 4). Thus, cka2-8 mutants arrest in the anaphase stage of the cell cycle, similar to MEN mutants.
+It has been previously demonstrated that cdc14-1 mutants arrest in late anaphase with unsegregated rDNA which differs from other MEN mutants (Granot and Snyder, 1991). To examine rDNA segregation in various mutant backgrounds, we chromosomally tagged Net1- which is known to residue in the nucleolus for the entire duration of the cell cycle (Shou et al., 1999)-with GFP in various strain backgrounds. Whereas cdc15-2 cells
+Page 104
+
+arrest with segregated nucleoli, cdc14-1 mutants arrested with an unsegregated nucleolus, similar to that observed for cka2-8 cells, as judged by Net1-GFP immuno- fluorescence (Figure 5A). Also, cka2-8 cells arrest with Cdc14 in the nucleolus in early anaphase as judged by spindle length (Figure 5B). Thus, CKII activity appears to be required for proper rDNA segregation similar to Cdc14.
+Conclusions
+The RENT complex, and especially Net1, appears to play a crucial role not only in the regulation of mitotic exit and transcriptional silencing through the activation and release of Cdc14 and sir2, respectively; but also regulation of nucleolar architecture and RNA polymerase I transcription. The role of RNA polymerase I and its link to Net1 has been clearly established through the subsequent studies by Shou and colleagues (Shou et al., 1999). The role of Casein Kinase II is less clear but appears to a) interact with Net1, b) display a genetic interaction with MEN mutants, and c) be involved in proper
+segregation of rDNA. Interestingly, the arrest of cka2-8 mutants appears to be RAD9 dependent implicating a role for the DNA damage checkpoint (data not shown) in concert with a previously identified role for CKII in the “adaptation” response to DNA damage (Toczyski et al., 1997).
+ Given the recently reported roles for Cdc14 and the FEAR pathway in regulating proper nucleolar division during meiosis (Buonomo et al., 2003), and the fact that a CKII consensus phosphorylation site has been mapped in vivo on Net1; it would be interesting to further examine how CKII might be able to regulate Net1 function to insure proper nucleolar division.
+Page 105
+
+Acknowledgements
+We thank Alexander Shevchenko for in-gel mass spectrometery analysis of bands in Net1 and MEN immuno-precipitation experiments. We also thank Johannes Graumann and the Yates lab for analysis of Net1 samples by Mud-PIT. We thank John Keener and the Nomura lab for providing the RNA Polymerase I antibodies and reagents, Aaron Straight for providing the chromosomal GFP constructs, and C.V.C. Glover for providing the Casein Kinase II strains and reagents.
+Experimental Procedures Cell Growth Procedures
+Cells were grown in yeast extract-peptone (YP) or in yeast minimal (YM) media containing 2% glucose (YPD,YMD), 2% raffinose (YPR,YMR) or 2% galactose
+(YPG,YMG) as carbon source.  Where appropriate, minimal media were supplemented with leucine, histidine, tryptophan, uracil, and adenine to complement auxotrophies.
+Cell Extract Preparation and Western Blotting
+Cells were grown to an O.D. 600  of 1.0, and for every time point 2 ml of culture
+was collected and TCA added to a final concentration of 20%.  Cells were collected by centrifugation and washed with 2 ml of Tris-HCl (pH 7.5).  SDS loading buffer [70 µl of 100 mM Tris-HCl (pH 7.5), 20% glycerol, 4% SDS, 2 M Urea, 200 mM DTT] was added, tubes were boiled for 3 minutes, and 100 µ l of acid-washed glass beads (500  µ m) were added to each tube followed by boiling for an additional 2-minutes.  Tubes were
+Page 106
+
+vortexed for 45 sec for 15 times with 1-minute cooling intervals.  Tubes were boiled again for 2-minutes and 5 µl of sample was fractionated on a 10% SDS-PAGE gel followed by transfer to a nitrocellulose membrane.  Western blot analysis was performed with the following primary antibodies at the indicated dilutions: Anti-myc (9E10)
+(1:5000), anti-Net1 (1:250), and anti-HA (1:5000).
+Immunoprecipitation and Clb2–Cdk release/kinase assay.
+To prepare extracts for immunoprecipitation, 10 O.D. 600  units of a log phase cell
+culture was harvested and washed with 2 ml of Tris-HCl (pH 7.5).  Cells were re- suspended in 500 µ l lysis buffer [25 mM HEPES/KOH (pH7.5), 150 mM NaCl, 1 mM DTT, 0.2% Triton, 1 mM EDTA, 1 mM PMSF, 1 mM Benzamidine, 1x Protease Inhibitor Cocktail (Aprotinin, Chymostatin, Leupeptin, and PepstatinA all at 5  µ g/ml in 90% DMSO)], transferred to a flat-bottom 2 ml tube and supplemented with 100  µ l of acid-washed glass beads (500  µ m).  Samples were vortexed 15 times for 45 seconds each with 1-minute cooling intervals. Tubes were then centrifuged for 5 minutes at 14,000 rpm and the supernatant was collected.  Clarified extract (400  µ l) was incubated with 60  µ l of 9E10-coupled protein A beads for 1 hour on a rotator at 4°C. Beads were collected and washed ten times in wash buffer [25 mM HEPES/KOH (pH7.5), 150 mM NaCl, 1 mM DTT, 0.2% Triton], and divided to approximately 50 µl beads per reaction condition. Myc9-Net1 (purified from insect cells infected with a recombinant baculovirus) was used as indicated (Shou et al., 1999).
+Immunofluorescence
+Page 107
+
+Immunofluorescence was performed as previously described in Chapter II with direct immuno-fluorescence being performed on live cells after they have been arrested at 37°C for approximately 3 hours. Indirect-immunofluorescence was performed as
+previously described (Shou et al., 2002; Shou et al., 1999). Rabbit anti-Cdc14 (1/3000) and rat anti-tubulin monoclonal antibody YL1/34 (1/1000) were used at the indicated dilutions. Images of cells were collected on a Zeiss Axioskop or Axiovert 200M microscope.
+References
+Ahmed, K. 1999. Nuclear matrix and protein kinase CK2 signaling. Crit Rev Eukaryot Gene Expr. 9:329-36.
+Ahmed, K., A.T. Davis, H. Wang, R.A. Faust, S. Yu, and S. Tawfic. 2000. Significance of protein kinase CK2 nuclear signaling in neoplasia. J Cell Biochem Suppl. Suppl 35:130-5.
+Benaim, G., and A. Villalobo. 2002. Phosphorylation of calmodulin. Functional implications. Eur J Biochem. 269:3619-31.
+Buck, S.W., J.J. Sandmeier, and J.S. Smith. 2002. RNA polymerase I propagates unidirectional spreading of rDNA silent chromatin. Cell. 111:1003-14.
+Page 108
+
+Buonomo, S.B., K.P. Rabitsch, J. Fuchs, S. Gruber, M. Sullivan, F. Uhlmann, M. Petronczki, A. Toth, and K. Nasmyth. 2003. Division of the nucleolus and its release of CDC14 during anaphase of meiosis I depends on separase, SPO12, and SLK19. Dev Cell. 4:727-39.
+Caizergues-Ferrer, M., P. Belenguer, B. Lapeyre, F. Amalric, M.O. Wallace, and M.O. Olson. 1987. Phosphorylation of nucleolin by a nucleolar type NII protein kinase. Biochemistry. 26:7876-83.
+Carles, C., I. Treich, F. Bouet, M. Riva, and A. Sentenac. 1991. Two additional common subunits, ABC10 alpha and ABC10 beta, are shared by yeast RNA polymerases. J Biol Chem. 266:24092-6.
+Defossez, P.A., P.U. Park, and L. Guarente. 1998. Vicious circles: a mechanism for yeast aging. Curr Opin Microbiol. 1:707-11.
+Faust, M., and M. Montenarh. 2000. Subcellular localization of protein kinase CK2. A key to its function? Cell Tissue Res. 301:329-40.
+Gershon, H., and D. Gershon. 2000. The budding yeast, Saccharomyces cerevisiae, as a model for aging research: a critical review. Mech Ageing Dev. 120:1-22.
+Glover, C.V., 3rd. 1998. On the physiological role of casein kinase II in Saccharomyces cerevisiae. Prog Nucleic Acid Res Mol Biol. 59:95-133.
+Page 109
+
+Glover, C.V., A.P. Bidwai, and J.C. Reed. 1994. Structure and function of Saccharomyces cerevisiae casein kinase II. Cell Mol Biol Res. 40:481-8.
+Gottschling, D.E. 2000. Gene silencing: two faces of SIR2. Curr Biol. 10:R708-11.
+Granot, D., and M. Snyder. 1991. Segregation of the nucleolus during mitosis in budding and fission yeast. Cell Motil Cytoskeleton. 20:47-54.
+Guerra, B., and O.G. Issinger. 1999. Protein kinase CK2 and its role in cellular proliferation, development and pathology. Electrophoresis. 20:391-408.
+Huet, J., J.M. Buhler, A. Sentenac, and P. Fromageot. 1975. Dissociation of two
+polypeptide chains from yeast RNA polymerase A. Proc Natl Acad Sci U S A. 72:3034-8.
+Jans, D.A., and S. Hubner. 1996. Regulation of protein transport to the nucleus: central role of phosphorylation. Physiol Rev. 76:651-85.
+Keener, J., C.A. Josaitis, J.A. Dodd, and M. Nomura. 1998. Reconstitution of yeast RNA polymerase I transcription in vitro from purified components. TATA-binding protein is not required for basal transcription. J Biol Chem. 273:33795-802.
+Oakes, M., J.P. Aris, J.S. Brockenbrough, H. Wai, L. Vu, and M. Nomura. 1998. Mutational analysis of the structure and localization of the nucleolus in the yeast Saccharomyces cerevisiae. J Cell Biol. 143:23-34.
+Page 110
+
+Petes, T.D., and D. Botstein. 1977. Simple Mendelian inheritance of the reiterated ribosomal DNA of yeast. Proc Natl Acad Sci U S A. 74:5091-5.
+Pinna, L.A., and F. Meggio. 1997. Protein kinase CK2 (&#34;casein kinase-2&#34;) and its implication in cell division and proliferation. Prog Cell Cycle Res. 3:77-97.
+Rethinaswamy, A., M.J. Birnbaum, and C.V. Glover. 1998. Temperature-sensitive mutations of the CKA1 gene reveal a role for casein kinase II in maintenance of cell polarity in Saccharomyces cerevisiae. J Biol Chem. 273:5869-77.
+Schneider, H.R., and O.G. Issinger. 1988. Nucleolin (C23), a physiological substrate for casein kinase II. Biochem Biophys Res Commun. 156:1390-7.
+Schultz, M.C. 2003. DNA damage regulation of the RNA components of the translational apparatus: new biology and mechanisms. IUBMB Life. 55:243-7.
+Shore, D. 1998. Cellular senescence: lessons from yeast for human aging? Curr Biol. 8:R192-5.
+Shou, W., R. Azzam, S.L. Chen, M.J. Huddleston, C. Baskerville, H. Charbonneau, R.S. Annan, S.A. Carr, and R.J. Deshaies. 2002. Cdc5 influences phosphorylation of Net1 and disassembly of the RENT complex. BMC Mol Biol. 3:3.
+Page 111
+
+Shou, W., K.M. Sakamoto, J. Keener, K.W. Morimoto, E.E. Traverso, R. Azzam, G.J. Hoppe, R.M. Feldman, J. DeModena, D. Moazed, H. Charbonneau, M. Nomura, and R.J. Deshaies. 2001. Net1 stimulates RNA polymerase I transcription and regulates nucleolar structure independently of controlling mitotic exit. Mol Cell. 8:45-55.
+Shou, W., J.H. Seol, A. Shevchenko, C. Baskerville, D. Moazed, Z.W. Chen, J. Jang, H. Charbonneau, and R.J. Deshaies. 1999. Exit from mitosis is triggered by Tem1-dependent release of the protein phosphatase Cdc14 from nucleolar RENT complex. Cell. 97:233- 44.
+Smith, J.S., and J.D. Boeke. 1997. An unusual form of transcriptional silencing in yeast ribosomal DNA. Genes Dev. 11:241-54.
+Straight, A.F., W. Shou, G.J. Dowd, C.W. Turck, R.J. Deshaies, A.D. Johnson, and D. Moazed. 1999. Net1, a Sir2-associated nucleolar protein required for rDNA silencing and nucleolar integrity. Cell. 97:245-56.
+Tawfic, S., S. Yu, H. Wang, R. Faust, A. Davis, and K. Ahmed. 2001. Protein kinase CK2 signal in neoplasia. Histol Histopathol. 16:573-82.
+Toczyski, D.P., D.J. Galgoczy, and L.H. Hartwell. 1997. CDC5 and CKII control adaptation to the yeast DNA damage checkpoint. Cell. 90:1097-106.
+Page 112
+
+Visintin, R., K. Craig, E.S. Hwang, S. Prinz, M. Tyers, and A. Amon. 1998. The
+phosphatase Cdc14 triggers mitotic exit by reversal of Cdk- dependent phosphorylation. Mol Cell. 2:709-18.
+Visintin, R., E.S. Hwang, and A. Amon. 1999. Cfi1 prevents premature exit from mitosis by anchoring Cdc14 phosphatase in the nucleolus. Nature. 398:818-23.
+Warner, J.R., A. Kumar, S.A. Udem, and R.S. Wu. 1973. Ribosomal proteins and the assembly of ribosomes in eukaryotes. Biochem Soc Symp. 37:3-22.
+Page 113
+
+Figure III-1
+Page 114
+
+Figure III-1: Immunoprecipitation of Net1 and MEN components.
+Silver stained 5-14% SDS-PAGE gel with Indicated amounts of extract used with 50 µ l of 9E10 coupled-agrose beads to immuno-precipitate (IP) Net1 from (cdc5-1, dbf2- 2, cdc15-2, and cdc14-1). IP’s of other MEN components (LTE1, TEM1, and MOB1) were also preformed to look for associated proteins. (*) indicates the tagged protein and its potential breakdown products, ( • ) indicate new bands in the IP lane that are not found in the control untagged lanes. The intensely staining band found in all lanes around 30kD is TEV protease used for the elution of the complex off the beads. 20 and 50 ng of
+Bovine Serum Albumin (BSA) are included for comparison.
+Page 115
+
+A)
+B)
+Figure III-2
+UT CKA1 CKA2 CKB1 CKB2
+Net1 polyclonal anti-Net1
+9E10 anti-Myc
+Page 116
+
+Figure III-2: RNA Polymerase I and Casein Kinase II interact with Net1 in vitro.
+(A) Purified Pol I and Myc9-Net1 interact in vitro. Purified Pol I (150 ng = 0.26 pmol; (Keener et al., 1998)) with its A135 subunit tagged with HA (+) or untagged (-) was immunoprecipitated with 12CA5 antibodies (against the HA epitope). The antibody beads were subsequently incubated with Myc9-Net1 (150 ng = 0.83 pmol) purified from insect cells, and proteins bound to the beads (lanes 3 and 4) were immunoblotted with antibodies against A190 and Myc9-Net1. To estimate the relative amount of Net1 complexed to Pol I, 3 ng (lane 1) and 1 ng (lane 2) of Pol I (top panel) and Myc9-Net1 (bottom panel) were immunoblotted with anti-A190 and 9E10 antibodies, respectively. We estimate that almost all Pol I molecules bound Net1 in this assay.
+(B) Net1 co-immunoprecipitates with all four tagged subunits of CKII. Myc9-tagged subunits Cka1, Cka2, Ckb1, and Ckb2 are able to bring down varying amounts of Net1 compared to untagged (UT) control. Immunoprecipitation was performed as described in experimental procedures and western blots were immunoblotted with polyclonal anti- Net1 (gift from D. Moazed) and 9E10 antibodies to detect Net1 and the subunits of Casein Kinase II.
+Page 117
+
+Figure III-3
+cka2-8
+tem1-3
+cka2-8,tem1-3
+cka2-8
+cdc15-2
+cka2-8,cdc15-2
+cka2-8
+cdc14-1
+cka2-8,cdc14-1
+30 C
+cka2-8
+dbf2-2
+cka2-8, dbf2-2
+cka2-8
+cdc5-1
+cka2-8, cdc5-1
+33 C
+Page 118
+
+Figure III-3: Casein Kinase II mutants genetically interact with MEN mutants.
+ Starting with 3000 cells, 3-fold serial dilutions of each the indicated strain (cka2- 8) alone or in combination with various MEN mutants (tem1-3, cdc15-2, cdc14-1, and cdc5-1) were spotted on YPD plates from right to left, and incubated at the indicated temperature for 2-3 days before the picture was taken.
+Page 119
+
+DAPI Net1-GFP DIC
+cdc14-1
+cdc15-2
+cka2-8
+top2-1
+A)
+B) Tubulin Cdc14 Merge
+cka2-8
+Figure III-4
+Page 120
+
+Figure III-4: Casein Kinase II mutants arrest in early anaphase. Mutant esp1-1, top2-1, and cka2-8 cells containing a lacO array at the LEU2 locus and expressing LacI-GFP from the HIS3 locus were arrested in YP 2% glucose at 37°C.  Samples were taken and analyzed after the arrest to determine number of cells with unsegregated chromosomes (one GFP dot) compared to cells that have segregated their chromosomes (two GFP dots). DAPI staining was performed to determine nuclear DNA content at the arrest point.
+Page 121
+
+DAPI GFP-LacI DIC
+esp1-1
+cka2-8
+top2-1
+Figure III-5
+Page 122
+
+Figure III-5: Casein Kinase II mutants arrest with unsegregated rDNA and Cdc14 in the nucleolus.
+(A) Mutant cdc14-1, cdc15-2, cka2-8, and top2-1 cells containing a Net1-GFP construct were arrested in YP 2% glucose at 37 ° C.  Samples were taken and analyzed by immuno- for determination of nucleolar segregation and position. DAPI staining was performed to determine nuclear DNA content at the arrest point.
+(B) Mutant cka2-8 cells were arrested in YP 2% glucose at 37 ° C.  Samples were taken and analyzed by indirect immuno-fluorescence with DAPI, rabbit anti-Cdc14 (1/3000), and rat anti-tubulin monoclonal antibody YL1/34 (1/1000) for determination of nuclear position, Cdc14 localization, and microtubule spindle length, respectively.
+Page 123
+
+C h a p t e r   I V -   F u t u r e   D i r e c t i o n s
+Summary
+The nucleolus can no longer be thought of as just an assembly factory for
+ribosomal proteins.  Nucleolar sequestration now offers a new modality of regulation for important cellular proteins. Understanding the regulation of Cdc14 release and activation from Net1 gives us insight into the global role phosphorylation plays in mediating protein-protein interactions. Identification of bone fide kinase substrates for such kinases as Clb-Cdk, Cdc5, and Casein Kinase II will aid us in further understanding how kinases through modification of their substrates play a crucial role in regulating cellular survival and function.
+Future Questions
+Some of the unresolved questions still remain to be addressed. I list them for future reference:
+1) How is regulation of Cdc14 activity achieved in higher and multi-cellular eukaryotes achieved?
+2) What is the molecular function of the Mitotic Exit Network (MEN)? Does nucleo- cytoplasmic shuttling play a role in Cdc14 activation via the MEN?
+3) How is the re-sequestration of Cdc14 achieved? What is the phosphatase that reverses Clb-Cdk phosphorylation to allow Cdc14 to re-bind to Net1?
+Page 124
+
+4) What is the function of Clb-Cdk phosphorylation on other substrates in the pathway (i.e., Spo12)? How is this phosphorylation regulated?
+5) Does Net1 phosphorylation target the RENT complex to specific regions of rDNA? Do they overlap with Fob1, Sir2, Cdc14?
+6) Will phosphorylation of Net1 be sufficient to trigger release of Cdc14 in fob1∆ cells in various stages of the cell cycle?
+7) Are there other components to the RENT complex that bind to Net1 or Cdc14 when it’s activated and released?

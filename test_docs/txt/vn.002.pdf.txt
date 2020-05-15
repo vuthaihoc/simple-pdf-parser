@@ -1480,4 +1480,141 @@ Scale Mean if Scale Variance Corrected Item- Cronbach's Item Deleted if Item Del
 Correlation Deleted
 SV1 7.27 2.022 .492 .614
 SV2 7.08 1.980 .490 .617
-SV3 7.19 1.938 .533 .561
+SV3 7.19 1.938 .533 .561
+Page 101
+
+Thang đo Động lực giảng dạy
+Reliability Statistics Cronbach's N of Items
+Alpha
+.849 4
+Item-Total Statistics
+Scale Mean if Scale Variance Corrected Item- Cronbach's Item Deleted if Item Deleted Total Alpha if Item
+Correlation Deleted
+DL1 11.21 2.827 .622 .840
+DL2 11.19 2.784 .764 .774
+DL3 11.17 3.138 .621 .834
+DL4 11.05 2.810 .756 .778
+Page 102
+
+PHỤ LỤC 6. KẾT QUẢ PHÂN TÍCH NHÂN TỐ KHÁM PHÁ
+Kết quả phân tích EFA biến độc lập
+KMO and Bartlett's Test
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. .721 Approx. Chi-Square 1207.301
+Bartlett's Test of Sphericity df 253
+Sig. .000
+Total Variance Explained
+Component Initial Eigenvalues Extraction Sums of Squared Rotation Sums of
+Loadings Squared Loadings
+Total % of Cumulative % Total % of Cumulativ Total
+Variance Variance e %
+1 4.265 18.542 18.542 4.265 18.542 18.542 2.824
+2 2.805 12.197 30.739 2.805 12.197 30.739 2.736
+3 2.455 10.675 41.414 2.455 10.675 41.414 2.472
+4 1.906 8.287 49.701 1.906 8.287 49.701 2.466
+5 1.804 7.844 57.545 1.804 7.844 57.545 2.112
+6 1.299 5.650 63.195 1.299 5.650 63.195 1.925
+Extraction Method: Principal Component Analysis.
+Page 103
+
+Rotated Component Matrix a Component
+1 2 3 4 5 6
+DN3 .850
+DN2 .826
+DN1 .797
+DN4 .709
+DP4 .869
+DP3 .805
+DP1 .740
+DP2 .722
+LD2 .772
+LD1 .728
+LD4 .700
+LD5 .660
+LD3 .601
+CD2 .781
+CD4 .755
+CD3 .737
+CD1 .708
+CN3 .846
+CN4 .820
+CN2 .769
+SV3 .772
+SV1 .755
+SV2 .753
+Extraction Method: Principal Component Analysis. Rotation Method: Varimax with Kaiser Normalization. a. Rotation converged in 6 iterations.
+Kết quả phân tích EFA biến phụ thuộc (Động lực giảng dạy)
+KMO and Bartlett's Test
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. .790 Approx. Chi-Square 264.853
+Bartlett's Test of Sphericity df 6
+Sig. .000
+Total Variance Explained
+Page 104
+
+Component Initial Eigenvalues Extraction Sums of Squared Loadings Total % of Variance Cumulative % Total % of Variance Cumulative %
+1 2.771 69.278 69.278 2.771 69.278 69.278
+2 .598 14.957 84.234
+3 .325 8.122 92.356
+4 .306 7.644 100.000
+Extraction Method: Principal Component Analysis.
+Component Matrix a
+Component 1
+DL2 .880
+DL4 .877
+DL3 .787
+DL1 .781
+Extraction Method: Principal Component Analysis. a. 1 components extracted
+Page 105
+
+PHỤ LỤC 7. KẾT QUẢ PHÂN TÍCH TƢƠNG QUAN
+Correlations
+CD DN DP LD CN SV DL
+Pearson Correlation 1 .082 .205 * .161 * .180 * .332 ** .314 **
+CD Sig. (2-tailed) .318 .012 .049 .027 .000 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .082 1 .380 ** .024 .133 .122 .584 **
+DN Sig. (2-tailed) .318 .000 .771 .104 .139 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .205 * .380 ** 1 .134 .100 .014 .574 **
+DP Sig. (2-tailed) .012 .000 .103 .222 .863 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .161 * .024 .134 1 .013 .012 .439 **
+LD Sig. (2-tailed) .049 .771 .103 .876 .880 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .180 * .133 .100 .013 1 .084 .323 **
+CN Sig. (2-tailed) .027 .104 .222 .876 .307 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .332 ** .122 .014 .012 .084 1 .313 **
+SV Sig. (2-tailed) .000 .139 .863 .880 .307 .000
+N 150 150 150 150 150 150 150
+Pearson Correlation .314 ** .584 ** .574 ** .439 ** .323 ** .313 ** 1
+DL Sig. (2-tailed) .000 .000 .000 .000 .000 .000
+N 150 150 150 150 150 150 150
+*. Correlation is significant at the 0.05 level (2-tailed). **. Correlation is significant at the 0.01 level (2-tailed).
+Page 106
+
+PHỤ LỤC 8. KẾT QUẢ PHÂN TÍCH HỒI QUY BỘI
+Model Summary b
+Model R R Square Adjusted R Std. Error of the Durbin-Watson
+Square Estimate
+1 .858 a .736 .725 .29248 1.946
+a. Predictors: (Constant), SV, LD, CN, DP, DN, CD b. Dependent Variable: DL
+ANOVA a
+Model Sum of Squares df Mean Square F Sig.
+Regression 34.146 6 5.691 66.527 .000 b
+1 Residual 12.233 143 .086
+Total 46.379 149
+a. Dependent Variable: DL
+b. Predictors: (Constant), SV, LD, CN, DP, DN, CD
+Coefficients a
+Model Unstandardized Standardiz t Sig. Collinearity Statistics
+Coefficients ed Coefficient
+s
+B Std. Error Beta Tolerance VIF
+(Constant) -.900 .274 -3.287 .001
+CD .041 .050 .039 .818 .415 .812 1.231
+DN .251 .031 .385 8.172 .000 .832 1.202
+1 DP .235 .032 .347 7.249 .000 .807 1.239
+LD .296 .035 .371 8.479 .000 .961 1.041
+CN .224 .048 .206 4.691 .000 .952 1.050
+SV .193 .039 .226 4.907 .000 .870 1.149
+a. Dependent Variable: DL

@@ -16,7 +16,8 @@ class Line extends Component {
     public $merge_up = null;
     public $is_noise = false;// một số dòng nhiễu sẽ không được merge thành paragraph
     public $in_toc = false;// đánh dấu dòng thuộc phần TOC
-    
+    public $in_reference = false;// đánh dấu dòng thuộc phần references
+
     // xác định cột của dòng hiện tại, null là confuse, 0 là phần tài liệu 1 cột, 1,2,3 là số cột tương ứng với trang có nhiều cột
     public $column = null;
     

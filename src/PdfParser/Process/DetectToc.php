@@ -81,7 +81,6 @@ class DetectToc {
                 if(!$started){// neu chua bat dau
                     $started = true; // danh dau
                 }
-                
                 // neu dat dau roi thi danh dau merge up cho cac dong va reset buffer
                 $buffer_lines[] = $line;
                 /**

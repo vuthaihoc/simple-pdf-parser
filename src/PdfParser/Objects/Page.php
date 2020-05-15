@@ -27,6 +27,7 @@ class Page {
      * @todo nên đổi tên thành object để mang đúng nghĩa hơn, sau sẽ chứa các cùng noise, table, ...
      */
     public $objects=[];
+    public $images = [];
 
     public $header = 0;
     public $footer = 0;
@@ -151,8 +152,10 @@ class Page {
             }
         }else{
             foreach ($this->objects as $object){
-                $text .= ($object->merge_up ? " " : "\n" )
-                         . preg_replace( "/(\.s*|\-s*|\s\s|…s*|·\s*)\g{1}{4,}/u", "$1$1$1", $object->text);
+                if($object instanceof Text || $object instanceof Line){
+                    $text .= ($object->merge_up ? " " : "\n" )
+                        . preg_replace( "/(\.s*|\-s*|\s\s|…s*|·\s*)\g{1}{4,}/u", "$1$1$1", $object->text);
+                }
             }
         }
         return $text;
@@ -162,17 +165,23 @@ class Page {
         $html = "";
         $paragraph_buffer = [];
         foreach ($this->objects as $k => $object){
-            if(count($paragraph_buffer) == 0){
-                $paragraph_buffer[] = $object->getHtml() . "\n";
-                continue;
+            if($object instanceof Text || $object instanceof Line){
+                if(count($paragraph_buffer) == 0){
+                    $paragraph_buffer[] = $object->getHtml() . "\n";
+                    continue;
+                }
+
+                if($object->merge_up){
+                    $paragraph_buffer[] = $object->getHtml() . "\n";
+                }else{
+                    $html .= "<p>" . implode( "", $paragraph_buffer) . "</p>\n";
+                    $paragraph_buffer = [$object->getHtml() . "\n"];
+                }
             }
-            
-            if($object->merge_up){
-                $paragraph_buffer[] = $object->getHtml() . "\n";
-            }else{
-                $html .= "<p>" . implode( "", $paragraph_buffer) . "</p>\n";
-                $paragraph_buffer = [$object->getHtml() . "\n"];
+            if($object instanceof Image){
+                $html .= $object->getHtml() . "\n";
             }
+
         }
         if(count( $paragraph_buffer )){
             $html .= "<p>" . implode( "", $paragraph_buffer) . "</p>\n";

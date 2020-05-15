@@ -1408,7 +1408,8 @@ Bảng 5.3. Thống kê mô tả yếu tố Độ tin cậy
 Biến quan sát Giá trị
 trung bình Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo thực hiện đúng các 3,990 quy trình kiểm tra sau thông quan đã được công khai
 Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo giờ kiểm tra sau 3,882 thông quan đúng quy định
-Quy trình kiểm tra sau thông quan nhanh gọn 3,887 Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo kết quả kiểm tra 3,877 sau thông quan chính xác
+Quy trình kiểm tra sau thông quan nhanh gọn 3,887
+Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo kết quả kiểm tra 3,877 sau thông quan chính xác
 Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin của 3,667 doanh nghiệp
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Kết quả nghiên cứu cho thấy “Độ tin cậy” là yếu tố có mức độ ảnh hưởng lớn thứ ba (β = 0,205) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,882. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Độ tin cậy, tác giả đề xuất một số hàm ý chính sách như sau:
 Biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin của doanh nghiệp” có giá trị  trung bình thấp nhất là 3,667. Hoạt động XNK và thanh toán quốc tế có mối quan hệ mật thiết, ràng buộc lẫn nhau trong quá trình tồn tại và phát triển thương mại quốc tế. Việc thanh toán tiền hàng XNK thông qua ngân hàng là thông tin thực sự cần thiết đối với cơ quan hải quan, khi thẩm định về việc xác định trị giá tính thuế cho một lô hàng XNK. Bằng các phương thức thanh toán như L/C (Letter of credit - tín dụng chứng từ), T/T (Telegraphic Transfer - chuyển tiền bằng điện, D/p (Document Against Payment - nhờ thu trả ngay), D/A (Document
@@ -1521,4 +1522,737 @@ River, Prentice Hall, New Jersey.
 23. Lassar,   W.   M.,   Manolos,   C.   and   Winsor,   R.   D.   (2000)   “Service   quality perspectives and  satisfaction  in  private banking”,  International  Journal  of Bank Marketing, 18, pp. pp. 181-189.
 24. Lehtinen, J. R., &amp; Lehtinen, U. (1982), Service quality: a study of quality  dimensions, unpublished Working Paper, Service Management Institute, Helsinki.
 25. Nunnally, J. C., &amp; Bernstein, I. H. (1994), Psychometric theory, McGraw- Hill, New York.
-26. Parasuraman, A., Zeithaml, V. &amp;Berry, L. (1985), “A conceptual model of
+26. Parasuraman, A., Zeithaml, V. &amp;Berry, L. (1985), “A conceptual model of
+Page 101
+
+service quality and its implications for future research”, Journal of Marketing, 49,  pp.41-50.
+27. Parasuraman, A., Zeithaml, V. A., &amp; Berry, L. L. (1988), “SERVQUAL: a multiple item scale for measuring customer perceptions of service quality”, Journal of Retailing, 64, pp. 12-40.
+28. Ruyter, K., Bloemer, J., &amp; Peeters, P. (1997), “Merging service quality and service   satisfaction:   An   empirical   test   of   an   integrative   model”,  Journal   of Economic Psychology, 18, pp. 387-406
+29. Spreng, R. A., &amp; Mackoy, R. D. (1996), “An empirical examination of a model of perceived service quality and satisfaction”, Journal of Retailing, 72, pp. 201-214.
+30. Svensson,  G.  (2002),  “A  triadic  network  approach  to  service  quality”,
+31. Tse, D. K., &amp; Wilton, P. C. (1988), “Models of Consumer Satisfaction  Formation: An Extension”, Journal of Marketing Research, 25, pp. 204–12.
+32. Zeithaml et al (1996), “The Behavioral Consequences of Service Loyalty”,
+33. Zeithaml, V. A., &amp; Britner, M. J. (2000), Service marketing, Boston:  Mcgraw-Hill.
+34. Wisniewski, M. (2001), “Using SERVQUAL to assess customer satisfaction  with public sector services”, Managing Service Quality, 11, p. 380-388.
+35. Wisniewski, M. and Donnelly, M. (1996), “Measuring service quality in the public sector: the potential for SERVQUAL”, Total Quality Management, 7, pp. 357-365.
+36. Yamane, T. (1967), Statistics: An Introductory Analysis, New York: Harper 
+and Row.
+Page 102
+
+TÀI LIỆU KHÁC
+37. Công ước Kyoto (2009), Giới thiệu về Công ước Kyoto sửa đổi - hướng phát triển   của   Công   ước   và   tác   động   của   Công   ước   đối   với   Việt   Nam, https://www.customs.gov.vn/Lists/TinHoatDong/ViewDetails.aspx?ID=17181&amp;Cat egory=Tin%20n%E1%BB%95i%20b%E1%BA%ADt[3/7/2017].
+38. Hải   quan   thế   giới   (2017),   Guidelines   for   Post-Clearance   Audit, http://www.wcoomd.org/en/topics/enforcement-and   compliance/instruments-and- tools/guidelines/pca-guidelines.aspx[3/7/2017].
+39. Hiệp định trị giá GATT (2013), Hiệp định về xác định trị giá tính thuế hải quan,http://www.mof.gov.vn/webcenter/portal/btc/r/lvtc/htqt/hnvhttc/wto/wtoctthd/  whatwto36/wtoctthd_chitiet5335?dDocName=BTC345645&amp;_afrLoop=1356493477  1951392#!%40%40%3F_afrLoop%3D13564934771951392%26dDocName%3DB  TC345645%26_adf.ctrl-state%3Dv4bxs6l6b_9 [3/7/2017].
+40. Luật Hải quan (2005), Luật sửa đổi, bổ sung một số điều luật hải quan, http://moj.gov.vn/vbpq/Lists/Vn%20bn%20php%20lut/View_Detail.aspx?ItemID= 18142 [3/7/2017].
+41. Tôn Thất Nguyễn Thiêm (2005), “Đạo đức kinh doanh”, Thời báo Kinh tế Sài Gòn, https://phantichkinhte123.wordpress.com/2016/08/23/nha-kinh-doanh- tinh-than-kinh-doanh-va-dao-duc-kinh-doanh [3/7/2017].
+42.   Wikipedia (2017), Điện toán đám mây, Available at:
+https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_to%C3%A1n_%C4%91% C3%A1m_m%C3%A2y [3/7/2017].
+Page 103
+
+Xin chào các Anh/Chị!
+Trước hết, tôi xin cảm ơn Anh/Chị đã có mặt và tham gia buổi thảo luận cho đề tài nghiên cứu: “Đánh giá sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu”. Thảo luận này có ý nghĩa rất quan trọng cho việc định hướng triển khai các bước tiếp theo của đề tài nghiên cứu này.
+Sự tham gia của các anh/chị trong buổi thảo luận này là hoàn toàn tự nguyện, không có bất kỳ sự tác động nào đối với việc trả lời và đóng góp ý kiến của các anh/chị. Vì vậy, tôi rất mong nhận được sự tham gia tích cực và những ý kiến đóng góp, thẳng thắn cho đề tài. Tất cả những chia sẻ trung thực của các anh/chị có ý nghĩa quan trọng cho sự thành công của đề tài này. Một lần nữa, tôi xin chân thành cám ơn tất cả các anh/chị.
+2. NỘI DUNG CHÍNH
+Hiệu chỉnh mô hình nghiên cứu
+Điều chỉnh, xác định các yếu tố ảnh hưởng đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
+Câu hỏi 1: Những yếu tố nào tạo sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu? ... ... ... ... ... Câu hỏi 2: Dựa trên mô hình 06 yếu tố tạo sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu (tác giả đã đề xuất ban đầu), anh/chị hãy cho biết ý kiến của mình đối với
+Page 104
+
+Thành phần Đồng ý Không Không có Ghi đồng ý ý kiến chú
+Độ tin cậy □ □ □
+Cơ sở vật chất □ □ □
+Năng lực phục vụ □ □ □
+Tính minh bạch □ □ □
+Sự cảm thông □ □ □
+Quy trình thủ tục □ □ □
+Ngoài ra, Anh/Chị có bổ sung thêm yếu tố nào tác động đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và anh/chị vui lòng diễn giải cụ thể hơn?
+... ... ... ... ... ... ... ... ...
+Page 105
+
+Phần trên chúng ta đã thảo luận khá kỹ lưỡng về các yếu tố ảnh hưởng đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Ở đây tôi đã chuẩn bị sẵn một bảng câu hỏi, gồm một số câu hỏi mà tôi dự định sẽ dùng nó để khảo sát ý kiến của mọi người trong ngành nhằm nghiên cứu về sự hài lòng của khách hàng doanh nghiệp. Trước khi kết thúc buổi thảo luận hôm nay, mong các anh chị cho ý kiến về các câu hỏi sau:
+Theo quý Anh/Chị, nội dung nào của yếu tố Độ tin cậy phù hợp để đo lường sự hài lòng của khách hàng doanh nghiệp:
+□ Cục Hải quan tỉnh BRVT đảm bảo thực hiện đúng các quy trình kiểm tra sau  thông quan đã được công khai.
+□ Cục Hải quan tỉnh BRVT đảm bảo giờ kiểm tra sau thông quan đúng quy  định, không gây lãng phí thời gian của doanh nghiệp.
+□ Quy trình kiểm tra sau thông quan nhanh gọn.
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào của yếu tố Cơ sở vật chất phù hợp để đo lường sự hài lòng của khách hàng doanh nghiệp:
+□ Thông báo, thông tin về kiểm tra sau thông quan được đăng tải đầy đủ trên  website đáp ứng nhu cầu của doanh nghiệp.
+□ Nơi niêm yết kết quả kiểm tra sau thông quan dễ nhận thấy, dễ xem. □ Điện thoại sử dụng hiệu quả trong giải đáp thắc mắc của doanh nghiệp. □ Hệ thống máy tính hỗ trợ đáp ứng tốt nhu cầu của doanh nghiệp.
+□ Bố trí nơi đậu xe, phòng chờ đầy đủ, thoải mái
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào của yếu tố Năng lực phục vụ phù hợp để đo  lường sự hài lòng của khách hàng doanh nghiệp:
+Page 106
+
+□ Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng kiểm tra sau thông quan nhanh chóng, đúng quy định.Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng phát hiện những sai phạm của doanh nghiệp.
+□ Sự hướng dẫn, giải đáp của cán bộ công chức thực hiện kiểm tra sau thông  quan dễ hiểu, thống nhất, đúng quy định.
+□ Cán bộ công chức thực hiện kiểm tra sau thông quan linh hoạt trong giải  quyết các tình huống.
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào của yếu tố Tính minh bạch phù hợp để đo lường  sự hài lòng của khách hàng doanh nghiệp:
+□ Các quy trình thực hiện thủ tục hải quan đều được công khai tại các địa điểm làm thủ tục hải quan kịp thời, rõ ràng và đầy đủ.
+□ Công chức tại nơi làm thủ tục hải quan luôn đeo thẻ công chức và bảng tên  theo đúng quy định.
+□ Thời gian tiếp nhận và trả kết quả hồ sơ cho doanh nghiệp đúng quy định.
+□ Các chi phí và lệ phí được công khai đầy đủ tại nơi làm việc.
+□ Số điện thoại đường dây nóng, hòm thư góp ý có công khai tại nơi làm việc.
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào của yếu tố Sự cảm thông phù hợp để đo lường sự  hài lòng của khách hàng doanh nghiệp:
+□ Cán bộ công chức thực hiện kiểm tra sau thông quan luôn lắng nghe những  yêu cầu của các doanh nghiệp.
+□ Cán bộ công chức thực hiện kiểm tra sau thông quan luôn quan tâm, giải  quyết khiếu nại một cách nhanh chóng, thỏa đáng.
+Page 107
+
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào của yếu tố Quy trình thủ tục phù hợp để đo  lường sự hài lòng của khách hàng doanh nghiệp:
+□ Quy trình thủ tục kiểm tra sau thông quan được xây dựng khoa học và hợp  lý.
+□ Mẫu hồ sơ đơn giản, rõ ràng, dễ hiểu.
+□ Quy trình, các bước xử lý kiểm tra sau thông quan được niêm yết công khai,  đầy đủ.
+Yếu tố khác:……… Theo quý Anh/Chị, nội dung nào phù hợp để đo lường sự hài lòng của khách hàng  doanh nghiệp:
+□ Doanh nghiệp hài lòng với việc hỗ trợ, tư vấn và cung cấp thông tin về kiểm  tra sau thông quan.
+□ Doanh nghiệp hài lòng với cung cách phục vụ của cán bộ công chức tại Cục  Hải quan tỉnh BRVT.
+□ Doanh nghiệp hài lòng khi đến giải quyết các vấn đề liên quan đến việc kiểm tra sau thông quan tại Cục Hải quan tỉnh BRVT.
+Yếu tố khác:………
+Trân trọng cảm ơn Anh/Chị đã dành thời gian tham gia buổi thảo luận hôm nay và cung cấp những kiến thức quý báu!
+Page 108
+
+DANH SÁCH THAM GIA THẢO LUẬN NHÓM
+STT Họ và tên Chức vụ
+1 Lê Thu Phó cục trưởng cục KTSTQ
+2 Lê Văn Thung Phó cục trưởng cục HQ tỉnh BRVT
+3 Thái Hoài Nam Chi cục trưởng KTSTQ VT
+4 Trần Công Tuấn Trưởng phòng GSQL HQ VT
+5 Nguyễn Văn Danh Chi cục trưởng chi cục HQ Cái Mép 6 Lý Minh Khôi Chi cục trưởng chi cục HQ Phú Mỹ
+7 Trần Minh Hiển Đội trưởng Đội KTSTQ VT
+8 Nguyễn Việt Anh TGĐ Cty CP gạch men Hoàng Gia
+9 Lê Hồng Thắm GĐ Cty TNHH Việt Kim
+10 Trần Kim Phụng Nhân viên XNK, Cty TNHH
+POSCO SS Việt Nam
+Các yếu tố ảnh hưởng đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu sau khi thảo luận sẽ được nhóm biểu quyết với câu hỏi “Bạn có đồng ý rằng yếu tố ảnh hưởng đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu?” với 3 mức độ (đồng ý, không đồng ý, không ý kiến).
+Page 109
+
+Đồng ý Không Không Ghi chú đồng ý ý kiến
+Độ tin cậy 10 0 0
+Cơ sở vật chất 10 0 0
+Năng lực phục vụ 10 0 0
+Tính minh bạch 9 0 1
+Sự cảm thông 8 0 2
+Quy trình thủ tục 10 0 0
+(Nguồn: Kết quả thảo luận nhóm ngày  09/08/2017) KẾT QUẢ THẢO LUẬN NHÓM
+Kết quả hiệu chỉnh mô hình nghiên cứu
+Kết quả thảo luận nhóm cho thấy, những người tham gia đều hiểu rõ nội dung về sự hài lòng của khách hàng DN đối với hoạt động KTSTQ. Hơn 2/3 thành viên nhóm thảo luận cũng cho rằng 06 yếu tố mà tác giả đã nêu trong quá trình thảo luận là khá đầy đủ về nghiên cứu sự hài lòng của khách hàng DN đối với hoạt động KTSTQ.
+Kết quả hiệu chỉnh thang đo
+Thang đo các yếu tố ảnh hưởng đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu được xây dựng dựa trên thang đo Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), nhóm tiến hành thảo luận điều chỉnh, bổ sung thang đo cho phù hợp như sau:
+Page 110
+
+gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Cục Hải quan tỉnh BRVT đảm Cục Hải quan  tỉnh  Bà  Rịa Vũng Tàu đảm bảo thực hiện
+bảo thực  hiện  đúng  các  quy Không điều
+đúng các quy trình kiểm tra
+trình kiểm tra sau thông quan chỉnh
+sau thông quan đã được công đã được công khai.
+khai
+Cục Hải quan tỉnh BRVT đảm Cục Hải quan  tỉnh  Bà  Rịa
+bảo giờ  kiểm  tra  sau thông Thay đổi và
+Vũng Tàu đảm bảo giờ kiểm
+quan  đúng quy định, không thêm từ ngữ cho
+tra sau thông quan đúng quy
+gây lãng  phí  thời  gian  của rõ nghĩa
+định doanh nghiệp.
+Quy trình kiểm tra sau thông Quy trình kiểm tra sau thông Không điều
+quan nhanh gọn. quan nhanh gọn chỉnh
+Cục Hải quan tỉnh BRVT đảm Cục Hải quan  tỉnh  Bà  Rịa
+Vũng  Tàu  đảm  bảo  kết  quả Không điều bảo kết quả kiểm tra sau thông
+kiểm tra sau thông quan chính chỉnh quan chính xác.
+xác
+Cục  Hải  quan  tỉnh  Bà  Rịa Thêm vào theo ý Vũng Tàu bảo mật tốt thông kiến thảo luận
+tin của doanh nghiệp nhóm
+Thang đo Cơ sở vật chất
+Biến quan sát của mô hình Biến quan sát sau khi Mức độ gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Thông báo, thông tin về kiểm Thông  tin  về kiểm  tra  sau
+tra sau thông quan được đăng Thay đổi và
+thông quan được đăng tải đầy
+tải đầy  đủ trên website  đáp thêm từ ngữ cho
+đủ trên website đáp ứng nhu
+ứng nhu cầu của doanh rõ nghĩa
+cầu của doanh nghiệp nghiệp.
+Nơi niêm yết kết quả kiểm tra Nơi niêm yết các quy  định Không điều sau thông quan dễ nhận thấy, kiểm tra sau thông quan  dễ
+chỉnh
+dễ xem. nhận thấy, dễ xem
+Page 111
+
+doanh nghiệp. doanh nghiệp
+Hệ thống máy tính hỗ trợ đáp Thiết bị công nghệ thông tin Thay đổi và hiện đại được dùng phục vụ
+ứng tốt  nhu cầu  của  doanh thêm từ ngữ cho
+việc  tập huấn  và  triển  khai
+nghiệp. rõ nghĩa
+chính sách cho doanh nghiệp
+Bố trí nơi đậu xe, phòng chờ Bố trí nơi đậu xe, phòng chờ Không điều
+đầy đủ, thoải mái đầy đủ, thoải mái chỉnh
+Thang đo Năng lực phục vụ
+Biến quan sát của mô hình Biến quan sát sau khi Mức độ gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện Thay đổi và kiểm tra  sau thông quan có
+kiểm  tra sau  thông  quan  có thêm từ ngữ cho trình độ chuyên môn và kiến
+trình độ chuyên môn tốt rõ nghĩa thức tổng hợp tốt.
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện
+kiểm tra  sau thông quan có kiểm  tra sau  thông  quan  có Không điều khả năng kiểm tra sau thông khả năng kiểm tra sau thông
+chỉnh quan nhanh chóng, đúng quy quan nhanh chóng, đúng quy
+định. định
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện
+kiểm  tra  sau  thông  quan  có kiểm  tra  sau  thông  quan  có Không điều khả năng phát hiện những sai khả năng phát hiện những sai chỉnh phạm của doanh nghiệp. phạm của doanh nghiệp
+Sự  hướng  dẫn,  giải  đáp  của Sự  hướng  dẫn,  giải  đáp của
+cán  bộ  công chức thực  hiện Thay đổi và
+cán bộ công chức thực hiện
+kiểm tra  sau thông quan dễ thêm từ ngữ cho
+kiểm tra sau thông quan dễ
+hiểu, thống nhất,  đúng quy rõ nghĩa
+hiểu, thống nhất định.
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện
+kiểm tra sau thông quan linh Thay đổi và kiểm tra sau thông quan linh
+hoạt trong giải quyết các tình thêm từ ngữ cho hoạt trong giải quyết các tình
+huống theo quy định rõ nghĩa huống.
+Page 112
+
+gốc của Nguyễn Hữu Vinh
+hiệu chỉnh điều chỉnh (2016)
+Các  quy  trình  thực  hiện  thủ
+tục hải  quan  đều  được công Bỏ biến quan sát
+khai tại các địa điểm làm thủ này vì trùng ở
+tục hải quan kịp thời, rõ ràng trên
+và đầy đủ.
+Công chức tại nơi làm thủ tục Công chức tại nơi làm thủ tục
+hải  quan  luôn  đeo  thẻ  công hải  quan  luôn  đeo  thẻ công Không điều chức  và  bảng  tên  theo  đúng chức  và  bản  tên  theo  đúng chỉnh
+quy định. quy định.
+Thời gian tiếp nhận và trả kết Thời gian tiếp nhận và trả kết Không điều quả hồ sơ cho doanh nghiệp quả hồ sơ cho doanh nghiệp
+chỉnh
+đúng quy định. đúng quy định
+Các  chi  phí  và  lệ  phí  được Các  chi phí  và lệ  phí được Không điều công khai đầy đủ tại nơi làm công khai đầy đủ tại nơi làm
+chỉnh
+việc. việc.
+Số điện thoại đường dây nóng, Số  điện thoại đường dây Không điều hòm thư góp ý có công khai nóng, hòm thư góp ý có công
+chỉnh tại nơi làm việc. khai tại nơi làm việc.
+Thang đo Sự cảm thông
+Biến quan sát của mô hình Biến quan sát sau khi Mức độ gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện Thay đổi và kiểm tra sau thông quan luôn kiểm tra sau thông quan luôn
+thêm từ ngữ cho lắng nghe những yêu cầu của lắng nghe những ý kiến của
+rõ nghĩa các doanh nghiệp. các doanh nghiệp
+Cán bộ công chức thực hiện Cán bộ công chức thực hiện
+kiểm tra sau thông quan luôn kiểm tra sau thông quan luôn Không điều quan tâm, giải quyết khiếu nại quan tâm, giải quyết khiếu nại
+chỉnh một  cách  nhanh  chóng,  thỏa một cách nhanh chóng, thỏa
+đáng. đáng
+Page 113
+
+mắc đối với công tác kiểm tra thắc mắc đối với công tác chỉnh sau thông quan. kiểm tra sau thông quan
+Cơ quan Hải quan luôn tạo Thêm vào theo ý điều kiện tốt nhất có thể cho
+kiến thảo luận doanh nghiệp trong quá trình
+nhóm kiểm tra sau thông quan
+Cơ  quan  Hải  quan luôn có Thêm vào theo ý những  lời  khuyên tốt khi
+kiến thảo luận doanh nghiệp cần tư vấn, hỗ
+nhóm trợ
+Thang đo Quy trình thủ tục
+Biến quan sát của mô hình Biến quan sát sau khi Mức độ gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Quy trình thủ tục kiểm tra sau Quy trình thủ tục kiểm tra sau Thay đổi và thông  quan  được  xây  dựng thông  quan  được  xây  dựng thêm từ ngữ cho
+khoa học và hợp lý. khoa học rõ nghĩa
+Mẫu hồ sơ đơn giản, rõ ràng, Mẫu hồ sơ rõ ràng, dễ hiểu. Không điều
+dễ hiểu. chỉnh
+Quy  trình,  các  bước  xử  lý Quy  trình,  các  bước  xử lý Không điều kiểm tra sau thông quan được kiểm tra sau thông quan được
+chỉnh niêm yết công khai, đầy đủ. niêm yết công khai, đầy đủ.
+Thủ  tục  kiểm  tra  sau  thông Thêm vào theo ý kiến thảo luận quan đơn giản
+nhóm Thang đo Sự hài lòng của khách hàng DN
+Biến quan sát của mô hình Biến quan sát sau khi Mức độ gốc của Nguyễn Huỳnh Sang
+hiệu chỉnh điều chỉnh (2016)
+Cục  Hải  quan  tỉnh  Bà  Rịa Thêm vào theo ý Vũng  Tàu  được  đánh  giá  là kiến thảo luận
+đơn vị phục vụ tốt nhóm
+Page 114
+
+cấp thông tin về kiểm tra sau cấp thông tin về kiểm tra sau chỉnh
+thông quan. thông quan
+Doanh  nghiệp  hài  lòng  với Doanh  nghiệp  hài  lòng  với
+cung cách phục vụ của cán bộ cung cách phục vụ của cán bộ Không điều công chức tại Cục Hải quan công chức  tại Cục Hải quan chỉnh
+tỉnh BRVT. tỉnh Bà Rịa Vũng Tàu
+Doanh  nghiệp  hài  lòng  khi Doanh  nghiệp  hài  lòng  khi
+đến giải quyết các vấn đề liên đến giải quyết các vấn đề liên Không điều quan  đến  việc  kiểm  tra  sau quan đến việc kiểm  tra sau
+chỉnh thông quan tại Cục Hải quan thông   quan   tại   Cục Hải
+tỉnh BRVT. quan tỉnh Bà Rịa Vũng Tàu
+Page 115
+
+Thân gửi quý Anh/ Chị,
+Hiện nay, tôi đang thực hiện đề tài nghiên cứu “Đánh giá sự  hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục hải quan tỉnh Bà Rịa Vũng Tàu”, rất mong quý Anh/ Chị dành ít thời gian và vui lòng điền thông tin vào bảng câu hỏi dưới đây.
+Sự hỗ trợ của các Anh/ Chị có ý nghĩa rất lớn đối với kết quả nghiên cứu và sự thành công của đề tài. Xin lưu ý rằng không có câu trả lời nào đúng hay sai. Tất cả các câu trả lời của quý Anh/ Chị đều có giá trị cho đề tài nghiên cứu này và mọi thông tin, ý kiến của Anh/ Chị sẽ được giữ bí mật tuyệt đối.
+Rất trân trọng cảm ơn quý Anh/ Chị. Phần gạn lọc
+Anh/chị vui lòng cho biết anh/chị đang là giám đốc hoặc đại diện cho doanh nghiệp xuất nhập khẩu trên địa bàn Cục Hải quan tỉnh Bà Rịa Vũng Tàu quản lý?
+Có (tiếp tục) Không (ngưng)
+Nội dung nghiên cứu
+Anh/ Chị vui lòng đánh dấu “X” vào ô tương ứng thể hiện mức độ đồng ý của Anh/ Chị đối với mỗi phát biểu theo quy ước sau:
+Các giá trị từ 1 đến 5 trên mỗi câu hỏi tương ứng với mức độ đồng ý của Anh/ Chị. Ý nghĩa của các câu lựa chọn như sau:
+1 2 3 4 5
+Hoàn toàn không đồng ý Không đồng ý Bình thường Đồng ý Hoàn toàn đồng ý
+Lưu ý, mỗi hàng tương ứng, chỉ chọn duy nhất một mức độ đồng ý trong 5 mức độ.
+STT Các tiêu thức Mức độ đồng ý
+Độ tin cậy
+Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo thực hiện
+1 đúng các quy trình kiểm tra sau thông quan đã được công 1 2 3 4 5 khai
+2 Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo giờ kiểm tra 1 2 3 4 5 sau thông quan đúng quy định
+Page 116
+
+kiểm tra sau thông quan chính xác
+5 Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin 1 2 3 4 5 của doanh nghiệp
+Cơ sở vật chất
+6 Thông tin về kiểm tra sau thông quan được đăng tải đầy 1 2 3 4 5 đủ trên website đáp ứng nhu cầu của doanh nghiệp
+7 Nơi niêm yết các quy định kiểm tra sau thông quan dễ 1 2 3 4 5 nhận thấy, dễ xem
+8 Điện thoại sử dụng hiệu quả trong giải đáp thắc mắc của 1 2 3 4 5 doanh nghiệp
+9 Thiết bị công nghệ thông tin hiện đại được dùng phục vụ 1 2 3 4 5 việc tập huấn và triển khai chính sách cho doanh nghiệp
+10 Bố trí nơi đậu xe, phòng chờ đầy đủ, thoải mái 1 2 3 4 5 Năng lực phục vụ
+11 Cán bộ công chức thực hiện kiểm tra sau thông quan có 1 2 3 4 5 trình độ chuyên môn tốt
+Cán bộ công chức thực hiện kiểm tra sau thông quan có
+12 khả năng  kiểm tra sau thông quan nhanh chóng, đúng quy 1 2 3 4 5 định
+13 Cán bộ công chức thực hiện kiểm tra sau thông quan có 1 2 3 4 5 khả năng phát hiện những sai phạm của doanh nghiệp
+14 Sự hướng dẫn, giải đáp của cán bộ công chức thực hiện 1 2 3 4 5 kiểm tra sau thông quan dễ hiểu, thống nhất
+15 Cán bộ công chức thực hiện kiểm tra sau thông quan linh 1 2 3 4 5 hoạt trong giải quyết các tình huống theo quy định
+Sự cảm thông
+16 Cán bộ công chức thực hiện kiểm tra sau thông quan luôn 1 2 3 4 5 lắng nghe những ý kiến của các doanh nghiệp
+Cán bộ công chức thực hiện kiểm tra sau thông quan luôn
+17 quan tâm, giải quyết khiếu nại một cách nhanh chóng, 1 2 3 4 5 thỏa đáng
+18 Doanh nghiệp dễ dàng gọi vào tổng đài để giải đáp các 1 2 3 4 5 thắc mắc đối với công tác kiểm tra sau thông quan
+19 Cơ quan Hải quan luôn tạo điều kiện tốt nhất có thể cho 1 2 3 4 5 doanh nghiệp trong quá trình kiểm tra sau thông quan
+20 Cơ quan Hải quan luôn có những lời khuyên tốt khi doanh 1 2 3 4 5 nghiệp cần tư vấn, hỗ trợ
+Quy trình thủ tục
+21 Quy trình thủ tục kiểm tra sau thông quan được xây dựng 1 2 3 4 5 khoa học
+22 Mẫu hồ sơ rõ ràng, dễ hiểu. 1 2 3 4 5
+Page 117
+
+24 Thủ tục kiểm tra sau thông quan đơn giản 1 2 3 4 5 Tính minh bạch
+25 Công chức tại nơi làm thủ tục hải quan luôn đeo thẻ công 1 2 3 4 5 chức và bản tên theo đúng quy định.
+26 Thời gian tiếp nhận và trả kết quả hồ sơ cho doanh nghiệp 1 2 3 4 5 đúng quy định
+27 Các chi phí và lệ phí được công khai đầy đủ tại nơi làm 1 2 3 4 5 việc.
+28 Số điện thoại đường dây nóng, hòm thư góp ý có công 1 2 3 4 5 khai tại nơi làm việc.
+Sự hài lòng của khách hàng DN Cục Hải quan tỉnh Bà Rịa Vũng Tàu được đánh giá là đơn
+29 vị phục 1 2 3 4 5
+vụ tốt
+30 Doanh nghiệp hài lòng với việc hỗ trợ,  tư vấn  và  cung 1 2 3 4 5 cấp thông tin về kiểm tra sau thông quan
+31 Doanh nghiệp hài lòng với cung cách phục vụ của cán bộ 1 2 3 4 5 công chức tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu
+Doanh nghiệp hài lòng khi đến giải quyết các vấn đề liên
+32 quan đến việc kiểm  tra  sau  thông  quan tại  Cục  Hải 1 2 3 4 5 quan tỉnh Bà Rịa Vũng Tàu
+THÔNG TIN DOANH NGHIỆP
+Anh/Chị vui lòng cho biết một số thông tin sau để phục vụ cho việc phân loại và trình bày các dữ liệu thống kê.
+Loại hình doanh nghiệp
+ Công ty Nhà nước
+ Công ty cổ phần
+ Công ty TNHH
+ Khác Quy mô doanh nghiệp
+ Dưới 100 lao động
+ Từ 200 - dưới 300 lao động
+ Từ 100 - dưới 200 lao 
+động  Trên 300 lao động
+Xin trân trọng cảm ơn sự nhiệt tình cộng tác của Anh/ Chị!
+Page 118
+
+Thang đo “Độ tin cậy”
+Reliability Statistics
+Cronbach's Alpha N of Items
+.880 5
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item-Total Cronbach's Alpha if Deleted if Item Deleted Correlation Item Deleted
+DTC1 12.0800 10.361 .624 .875
+DTC2 12.0400 9.345 .748 .847
+DTC3 12.1400 9.429 .707 .856
+DTC4 12.2400 9.370 .784 .839
+DTC5 12.2200 9.073 .714 .856
+Thang đo “Cơ sở vật chất”
+Reliability Statistics
+Cronbach's Alpha N of Items
+.806 5
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item- Cronbach's Alpha if Deleted if Item Deleted Total Correlation Item Deleted
+CSVC1 13.4000 9.061 .550 .782
+CSVC2 13.6000 8.122 .720 .725
+CSVC3 13.3600 9.541 .561 .778
+CSVC4 13.4000 8.980 .584 .771
+CSVC5 13.0400 9.794 .551 .781
+Page 119
+
+Cronbach's Alpha N of Items
+.818 5
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item- Cronbach's Alpha if Deleted if Item Deleted Total Correlation Item Deleted
+NLPV1 12.9000 9.235 .625 .778
+NLPV2 12.8800 8.679 .654 .769
+NLPV3 12.9800 9.653 .565 .795
+NLPV4 12.9000 9.071 .658 .768
+NLPV5 12.9000 9.929 .546 .800
+Thang đo “Tính minh bạch”
+Reliability Statistics
+Cronbach's Alpha N of Items
+.810 4
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item-Total Cronbach's Alpha if Deleted if Item Deleted Correlation Item Deleted
+TMB1 9.2200 2.257 .618 .765
+TMB2 9.1000 2.255 .564 .792
+TMB3 9.0800 2.198 .634 .757
+TMB4 9.0800 2.116 .693 .729
+Thang đo “Sư cảm thông”
+Reliability Statistics
+Cronbach's Alpha N of Items
+.821 5
+Item-Total Statistics
+Scale Mean if Scale Variance Corrected Item-Total Cronbach's Alpha if Item Deleted if Item Deleted Correlation Item Deleted
+SCT1 12.2600 7.707 .719 .753
+SCT2 12.2200 8.093 .650 .775
+SCT3 12.1400 8.735 .595 .792
+SCT4 12.1600 8.790 .571 .798
+SCT5 11.8600 8.613 .541 .808
+Page 120
+
+Cronbach's Alpha N of Items
+.768 4
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item- Cronbach's Alpha if Deleted if Item Deleted Total Correlation Item Deleted
+QTTT1 11.0400 5.223 .572 .715
+QTTT2 10.9000 4.378 .640 .673
+QTTT3 11.0600 4.629 .537 .735
+QTTT4 10.9200 5.136 .544 .726
+Thang đo “Sự hài lòng của khách hàng DN”
+Reliability Statistics
+Cronbach's Alpha N of Items
+.884 4
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item-Total Cronbach's Alpha if Deleted if Item Deleted Correlation Item Deleted
+SHL1 8.8000 2.571 .757 .848
+SHL2 8.9000 2.337 .774 .842
+SHL3 8.7800 2.298 .786 .837
+SHL4 8.9200 2.810 .690 .874
+Page 121
+
+Kết quả thông kê loại hình doanh nghiệp
+Loại hình doanh nghiệp
+Frequency Percent Valid Percent Cumulative Percent
+Công ty Nhà nước 52 25.5 25.5 25.5
+Công ty cổ phần 93 45.6 45.6 71.1
+ValidCông ty TNHH 43 21.1 21.1 92.2
+Khác 16 7.8 7.8 100.0
+Total 204 100.0 100.0
+Kết quả thông kê quy mô doanh nghiệp
+Quy mô doanh nghiệp
+Frequency Percent Valid Cumulative Percent Percent
+Dưới 100 lao động 16 7.8 7.8 7.8
+Từ 100 - dưới 200 lao động 96 47.1 47.1 54.9
+ValidTừ 200 - dưới 300 lao động 65 31.9 31.9 86.8
+Trên 300 lao động 27 13.2 13.2 100.0
+Total 204 100.0 100.0
+Page 122
+
+Thang đo “Độ tin cậy”
+Reliability Statistics Cronbach's Alpha N of Items
+.849 5
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+DTC1 15.2956 8.556 .654 .821
+DTC2 15.4039 8.836 .658 .818
+DTC3 15.3990 9.172 .693 .811
+DTC4 15.4039 9.222 .642 .823
+DTC5 15.6207 8.880 .655 .819
+Thang đo “Cơ sở vật chất”
+Reliability Statistics Cronbach's Alpha N of Items
+.794 5
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+CSVC1 15.1029 7.443 .606 .744
+CSVC2 15.0882 7.470 .581 .752
+CSVC3 15.2157 7.687 .535 .767
+CSVC4 15.0441 7.037 .642 .731
+CSVC5 14.7647 8.161 .503 .776
+Thang đo “Năng lực phục vụ”
+Reliability Statistics Cronbach's Alpha N of Items
+.790 5
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+NLPV1 14.4265 7.014 .626 .741
+NLPV2 14.4265 6.985 .608 .744
+NLPV3 14.4020 6.429 .711 .710
+NLPV4 14.4804 6.192 .500 .781
+NLPV5 14.5196 6.005 .512 .780
+Page 123
+
+.816 4
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+TMB1 11.6667 5.878 .551 .811
+TMB2 11.9412 5.346 .736 .719
+TMB3 11.9510 5.810 .666 .755
+TMB4 11.7647 6.230 .603 .784
+Thang đo “Sư cảm thông”
+Reliability Statistics Cronbach's Alpha N of Items
+.822 5
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+SCT1 12.6814 5.913 .655 .780
+SCT2 12.6765 5.737 .662 .776
+SCT3 12.6029 5.669 .722 .762
+SCT4 12.6275 5.732 .695 .769
+SCT5 12.3922 4.722 .516 .859
+Thang đo “Sư cảm thông” sau khi loại biến
+Reliability Statistics Cronbach's Alpha N of Items
+.859 4
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+SCT1 9.3284 2.852 .695 .824
+SCT2 9.3235 2.791 .662 .838
+SCT3 9.2500 2.711 .748 .801
+SCT4 9.2745 2.772 .710 .817
+Page 124
+
+.826 4
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+QTTT1 11.1520 4.790 .563 .824
+QTTT2 11.2794 4.636 .716 .752
+QTTT3 11.1814 4.583 .682 .766
+QTTT4 11.1520 4.928 .656 .780
+Thang đo “Sự hài lòng của khách hàng DN”
+Reliability Statistics Cronbach's Alpha N of Items
+.818 4
+Item-Total Statistics
+Scale Mean if Scale Variance if Corrected Item- Cronbach's Alpha Item Deleted Item Deleted Total Correlation if Item Deleted
+SHL1 11.3039 4.321 .640 .774
+SHL2 11.6225 4.808 .625 .779
+SHL3 11.3137 4.660 .661 .762
+SHL4 11.1863 4.724 .640 .772
+Page 125
+
+Phân tích EFA biến độc lập lần 1
+KMO and Bartlett's Test
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy. .854 Approx. Chi-Square 2544.954
+Bartlett's Test of Sphericity df 351
+Sig. .000
+Total Variance Explained
+Component Initial Eigenvalues Extraction Sums of Squared Rotation Sums of Squared
+Loadings Loadings
+Total % of Cumulative Total % of Cumulative Total % of Cumulative
+Variance % Variance % Variance %
+1 7.315 27.091 27.091 7.315 27.091 27.091 3.294 12.201 12.201
+2 2.970 10.998 38.090 2.970 10.998 38.090 2.973 11.011 23.212
+3 2.821 10.449 48.538 2.821 10.449 48.538 2.941 10.894 34.106
+4 1.666 6.172 54.710 1.666 6.172 54.710 2.872 10.639 44.744
+5 1.456 5.391 60.101 1.456 5.391 60.101 2.830 10.481 55.226
+6 1.171 4.336 64.437 1.171 4.336 64.437 2.487 9.212 64.437
+7 .945 3.500 67.937
+8 .768 2.846 70.783
+9 .728 2.696 73.479
+10 .670 2.483 75.961
+11 .610 2.260 78.221
+12 .558 2.068 80.289
+13 .538 1.994 82.283
+14 .503 1.864 84.148
+15 .491 1.818 85.965
+16 .461 1.709 87.674
+17 .428 1.585 89.259
+18 .401 1.484 90.743
+19 .371 1.373 92.115
+20 .360 1.332 93.447
+21 .315 1.167 94.614
+22 .290 1.073 95.687
+23 .265 .980 96.667
+24 .263 .974 97.641
+25 .236 .872 98.514
+26 .208 .769 99.283
+27 .194 .717 100.000
+Page 126
+
+DTC3 .773
+DTC4 .756
+DTC1 .718
+DTC2 .685
+DTC5 .676
+CSVC2 .687
+CSVC1 .685
+CSVC3 .652
+CSVC4 .569
+CSVC5
+NLPV3 .857
+NLPV1 .791
+NLPV2 .780
+NLPV5 .691
+NLPV4 .646
+SCT3 .863
+SCT4 .849
+SCT1 .829
+SCT2 .804
+QTTT3 .812
+QTTT2 .751
+QTTT1 .711
+QTTT4 .695
+TMB1 .816
+TMB2 .760
+TMB3 .675
+TMB4 .547
+Extraction Method: Principal Component Analysis. Rotation Method: Varimax with Kaiser Normalization. a. Rotation converged in 6 iterations.
+Page 127
+
+Approx. Chi-Square 2448.922
+Bartlett's Test of Sphericity df 325
+Sig. .000
+Total Variance Explained
+Component Initial Eigenvalues Extraction Sums of Squared Rotation Sums of Squared
+Loadings Loadings
+Total % of Cumulative Total % of Cumulative Total % of Cumulative
+Variance % Variance % Variance %
+1 6.989 26.879 26.879 6.989 26.879 26.879 3.311 12.733 12.733
+2 2.960 11.384 38.263 2.960 11.384 38.263 2.941 11.310 24.043
+3 2.818 10.837 49.101 2.818 10.837 49.101 2.884 11.092 35.135
+4 1.664 6.400 55.501 1.664 6.400 55.501 2.872 11.045 46.180
+5 1.452 5.583 61.084 1.452 5.583 61.084 2.545 9.788 55.968
+6 1.165 4.479 65.563 1.165 4.479 65.563 2.495 9.595 65.563
+7 .932 3.586 69.149
+8 .750 2.883 72.032
+9 .674 2.593 74.625
+10 .616 2.370 76.996
+11 .559 2.148 79.144
+12 .539 2.074 81.219
+13 .529 2.035 83.253
+14 .503 1.935 85.189
+15 .468 1.801 86.990
+16 .430 1.654 88.643
+17 .401 1.544 90.187
+18 .390 1.499 91.687
+19 .363 1.396 93.083
+20 .316 1.217 94.300
+21 .291 1.118 95.418
+22 .267 1.027 96.446
+23 .264 1.015 97.460
+24 .241 .927 98.387
+25 .224 .862 99.249
+26 .195 .751 100.000
+Extraction Method: Principal Component Analysis.
+Page 128
+
+DTC3 .779
+DTC4 .765
+DTC1 .719
+DTC2 .686
+DTC5 .683
+NLPV3 .857
+NLPV1 .793
+NLPV2 .781
+NLPV5 .690
+NLPV4 .645
+QTTT3 .818
+QTTT2 .761
+QTTT1 .708
+QTTT4 .707
+SCT3 .863
+SCT4 .849
+SCT1 .829
+SCT2 .803
+CSVC2 .679
+CSVC1 .666
+CSVC3 .649
+CSVC4 .527
+TMB1 .812
+TMB2 .773
+TMB3 .691
+TMB4 .563
+Extraction Method: Principal Component Analysis. Rotation Method: Varimax with Kaiser Normalization. a. Rotation converged in 6 iterations.
+Page 129
+
+Approx. Chi-Square 267.227
+Bartlett's Test of df 6
+Sphericity
+Sig. .000
+Total Variance Explained
+Component Initial Eigenvalues Extraction Sums of Squared Loadings
+Total % of Cumulative Total % of Cumulative
+Variance % Variance %
+1 2.597 64.925 64.925 2.597 64.925 64.925
+2 .500 12.498 77.423
+3 .469 11.724 89.147
+4 .434 10.853 100.000
+Extraction Method: Principal Component Analysis. Component Matrix a
+Component 1
+SHL3 .820
+SHL1 .805
+SHL4 .805
+SHL2 .793
+Extraction Method: Principal Component Analysis.
+a. 1 components extracted.
+Page 130
+
+KHI LOẠI BIẾN
+Reliability Statistics Cronbach's Alpha N of Items
+.776 4
+Item-Total Statistics
+Scale Mean if Item Scale Variance Corrected Item-Total Cronbach's Alpha if Item
+Deleted if Item Deleted Correlation Deleted
+CSVC1 11.0637 5.006 .581 .720
+CSVC2 11.0490 4.924 .587 .718
+CSVC3 11.1765 5.062 .551 .736
+CSVC4 11.0049 4.744 .596 .712
+Page 131
+
+Kết quả phân tích tương quan
+Correlations
+DTC CSVC NLPV TMB STC QTTT SHL
+Pearson Correlation 1 -.081 .459 ** .471 ** .294 ** .335 ** .602 **
+DTC Sig. (2-tailed) .249 .000 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+Pearson Correlation -.081 1 .055 -.049 -.033 -.001 .044
+CSVC Sig. (2-tailed) .249 .431 .489 .641 .985 .534
+N 204 204 204 204 204 204 204
+Pearson Correlation .459 ** .055 1 .486 ** .386 ** .419 ** .613 **
+NLPV Sig. (2-tailed) .000 .431 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+Pearson Correlation .471 ** -.049 .486 ** 1 .302 ** .287 ** .738 **
+TMB Sig. (2-tailed) .000 .489 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+Pearson Correlation .294 ** -.033 .386 ** .302 ** 1 .248 ** .430 **
+STC Sig. (2-tailed) .000 .641 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+Pearson Correlation .335 ** -.001 .419 ** .287 ** .248 ** 1 .549 **
+QTTT Sig. (2-tailed) .000 .985 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+Pearson Correlation .602 ** .044 .613 ** .738 ** .430 ** .549 ** 1
+SHL Sig. (2-tailed) .000 .534 .000 .000 .000 .000
+N 204 204 204 204 204 204 204
+**. Correlation is significant at the 0.01 level (2-tailed).
+Kết quả phân tích hồi quy
+Model Summary b
+Model R R Square Adjusted R Std. Error of the Durbin-Watson
+Square Estimate
+1 .865 a .748 .741 .38826 2.106
+a. Predictors: (Constant), QTTT, CSVC, STC, TMB, DTC, NLPV b. Dependent Variable: SHL
+Page 132
+
+.000
+1 Residual 29.697 197 .151
+Total 117.987 203
+a. Dependent Variable: SHL
+b. Predictors: (Constant), QTTT, CSVC, STC, TMB, DTC, NLPV Coefficients a
+Model Unstandardized Standardized t Sig. Collinearity Statistics Coefficients Coefficients
+B Std. Error Beta Tolerance VIF
+(Constant) -.375 .173 -2.170 .031
+DTC .209 .044 .205 4.740 .000 .681 1.469
+CSVC .100 .045 .080 2.219 .028 .979 1.022
+1 NLPV .126 .044 .132 2.860 .005 .600 1.666
+TMB .394 .036 .471 10.845 .000 .676 1.479
+STC .117 .041 .114 2.885 .004 .819 1.221
+QTTT .220 .034 .261 6.501 .000 .792 1.263
+a. Dependent Variable: SHL
+Page 133
+
+Page 134
+
+Kết quả phân tích sự khác biệt theo loại hình doanh nghiệp
+Test of Homogeneity of Variances SHL
+Levene Statistic df1 df2 Sig.
+.435 3 200 .728
+ANOVA
+SHL
+Sum of Squares df Mean Square F Sig.
+Between Groups 1.008 3 .336 .574 .633
+Within Groups 116.979 200 .585
+Total 117.987 203
+Kết quả phân tích sự khác biệt theo quy mô doanh nghiệp
+Test of Homogeneity of Variances SHL
+Levene Statistic df1 df2 Sig.
+2.224 3 200 .087
+ANOVA
+SHL
+Sum of Squares df Mean Square F Sig.
+Between Groups 1.756 3 .585 1.007 .391
+Within Groups 116.232 200 .581
+Total 117.987 203
