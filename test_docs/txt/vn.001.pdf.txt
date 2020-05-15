@@ -5,7 +5,8 @@ Page 1
 ĐÁNH GIÁ SỰ HÀI LÒNG CỦA KHÁCH HÀNG DOANH NGHIỆP ĐỐI VỚI HOẠT ĐỘNG KIỂM TRA SAU THÔNG QUAN TẠI CỤC HẢI QUAN
 TỈNH BÀ RỊA VŨNG TÀU
 LUẬN VĂN THẠC SĨ
-Bà Rịa Vũng Tàu, tháng 11 năm 2017Page 2
+Bà Rịa Vũng Tàu, tháng 11 năm 2017
+Page 2
 
 ******************
 ĐOÀN VĂN HÙNG
@@ -14,7 +15,8 @@ TỈNH BÀ RỊA VŨNG TÀU
 LUẬN VĂN THẠC SĨ
 Chuyên ngành: Quản trị kinh doanh Mã số: 60.34.01.02
 HƯỚNG DẪN KHOA HỌC: PGS. TS. ĐÀO DUY HUÂN
-Bà Rịa Vũng Tàu, tháng 11 năm 2017Page 3
+Bà Rịa Vũng Tàu, tháng 11 năm 2017
+Page 3
 
 PHÒNG ĐÀO TẠO Độc lập – Tự do – Hạnh phúc
 Bà Rịa-Vũng Tàu, ngày..… tháng….. năm 20..…
@@ -29,13 +31,15 @@ III- Ngày giao nhiệm vụ: 10/07/2017
 IV- Ngày hoàn thành nhiệm vụ: 20/11/2017 V- Cán bộ hướng dẫn: PGS. TS. Đào Duy Huân
 CÁN BỘ HƯỚNG DẪN VIỆN QUẢN LÝ CHUYÊN NGÀNH
 (Họ tên và chữ ký) (Họ tên và chữ ký)
-PGS. TS. Đào Duy HuânPage 4
+PGS. TS. Đào Duy Huân
+Page 4
 
 LỜI CAM ĐOAN
 Tôi xin cam đoan luận văn này là công trình nghiên cứu do tôi thực hiện dưới sự hướng dẫn khoa học của  PGS. TS. Đào Duy Huân. Các nội dung tham khảo trình bày trong luận văn đều được trích dẫn đầy đủ theo đúng quy định. Kết luận nghiên cứu được trình bày trong luận văn này trung thực và chưa từng được công bố ở các nghiên cứu khác.
 Tôi xin chịu trách nhiệm về nghiên cứu của mình.
 Bà Rịa Vũng Tàu, ngày 20 tháng 11 năm 2017 Người thực hiện luận văn
-Đoàn Văn HùngPage 5
+Đoàn Văn Hùng
+Page 5
 
 LỜI CẢM ƠN
 Để hoàn thành chương trình cao học và viết luận văn, tác giả đã nhận được sự hướng dẫn, giúp đỡ và góp ý nhiệt tình của quý thầy cô trường Đại học Bà Rịa Vũng Tàu.
@@ -44,7 +48,8 @@ Tác giả xin gửi lời cảm ơn tới quý cơ quan, các đồng nghiệp 
 Tác giả xin cảm ơn lãnh đạo Cục Hải quan tỉnh Bà Rịa – Vũng Tàu nơi tác giả đang công tác, các đồng nghiệp tại Chi cục Kiểm tra sau thông quan và các phòng ban, Chi cục trực thuộc Cục Hải quan tỉnh đã quan tâm, giúp đỡ, chia sẻ động viên tác giả được tham gia học tập và thực hiện Luận văn thạc sĩ Quản trị kinh doanh tại Trường Đại học Bà Rịa – Vũng Tàu.
 Cuối cùng, tôi xin được trân trọng cảm ơn gia đình tôi luôn động viên, giúp đỡ về mặt tinh thần và vật chất trong những năm tháng học tập này.
 Bà Rịa Vũng Tàu, ngày 20 tháng 11 năm 2017 Người thực hiện luận văn
-Đoàn Văn HùngPage 6
+Đoàn Văn Hùng
+Page 6
 
 Nhiệm vụ của luận văn ... i
 Lời cam đoan ... ii
@@ -73,9 +78,11 @@ CHƯƠNG  2:  TỔNG  QUAN  VỀ  CƠ  SỞ  LÝ  THUYẾT  VÀ  MÔ  HÌNH NGHI
 2.2.1. Khái niệm về dịch vụ ... 9
 2.2.2. Đặc điểm của dịch vụ ... 9
 2.2.3. Khái niệm dịch vụ công ... 11
-2.2.4. Khái niệm về chất lượng dịch vụ ... 13Page 7
+2.2.4. Khái niệm về chất lượng dịch vụ ... 13
+Page 7
 
-2.2.5. Đo lường chất lượng dịch vụ 14 2.3. Mối quan hệ giữa chất lượng dịch vụ và sự hài lòng của khách hàng ... 16
+2.2.5. Đo lường chất lượng dịch vụ 14
+2.3. Mối quan hệ giữa chất lượng dịch vụ và sự hài lòng của khách hàng ... 16
 2.4. Kiểm tra sau thông quan ... 17
 2.4.1. Khái niệm về kiểm tra sau thông quan (Kiểm toán hải quan) ... 17
 2.4.2. Đối tượng của KTSTQ ... 18
@@ -104,9 +111,11 @@ CHƯƠNG 3: THIẾT KẾ NGHIÊN CỨU ... 32
 3.6. Kết quả nghiên cứu định lượng sơ bộ ... 42
 Tóm tắt chương 3 ... 45
 CHƯƠNG 4: KẾT QUẢ NGHIÊN CỨU VÀ THẢO LUẬN ... 46
-4.1. Giới thiệu về cục hải quan tỉnh Bà Rịa Vũng Tàu ... 46Page 8
+4.1. Giới thiệu về cục hải quan tỉnh Bà Rịa Vũng Tàu ... 46
+Page 8
 
-4.1.1. Khái quát về Cục Hải quan tỉnh BRVT 46 4.1.2. Cơ cấu tổ chức Cục Hải quan tỉnh Bà Rịa - Vũng Tàu ... 46
+4.1.1. Khái quát về Cục Hải quan tỉnh BRVT 46
+4.1.2. Cơ cấu tổ chức Cục Hải quan tỉnh Bà Rịa - Vũng Tàu ... 46
 4.1.3. Giới thiệu Chi cục kiểm tra sau thông quan ... 47
 4.2. Thống kê mô tả dữ liệu ... 48
 4.2.1. Kết quả khảo sát về loại hình doanh nghiệp ... 49
@@ -133,7 +142,8 @@ CHƯƠNG 5: KẾT LUẬN VÀ ĐỀ XUẤT HÀM Ý CHÍNH SÁCH ... 72
 5.2.6. Nhóm yếu tố “Cơ sở vật chất” ... 83
 5.3. Các hạn chế của nghiên cứu và hướng nghiên cứu tiếp theo ... 84
 TÀI LIỆU THAM KHẢO ... 86
-PHỤ LỤCPage 9
+PHỤ LỤC
+Page 9
 
 DANH MỤC CÁC TỪ VIẾT TẮT
 Viết tắt Tiếng Việt Tiếng Anh
@@ -148,7 +158,8 @@ xã hội Sciences
 XNK Xuất nhập khẩu
 VIF Hệ số nhân tố phóng địa phương Variance inflation factor sai
 WTO Tổ chức thương mại thế giới World Trade Organization VNACSS Hệ thống thông quan điện tử tự
-độngPage 10
+động
+Page 10
 
 DANH MỤC CÁC HÌNH VẼ VÀ BIỂU ĐỒ
 Hình 2.1. Mô hình chất lượng dịch vụ của Gronross (1984) ... 14
@@ -164,7 +175,8 @@ Hình 4.2. Mô tả mẫu theo nhóm tuổi ... 49
 Hình 4.3. Biểu đồ tần số của phần dư chuẩn hóa ... 62
 Hình 4.4. Biểu đồ tần số P – P ... 63
 Hình 4.5. Đồ thị phân tán ... 64
-Hình 4.7. Mô hình kết quả nghiên cứu ... 67Page 11
+Hình 4.7. Mô hình kết quả nghiên cứu ... 67
+Page 11
 
 DANH MỤC CÁC BẢNG BIỂU
 Bảng 2.1. Bảng tổng hợp kết quả nghiên cứu trước ... 25
@@ -192,9 +204,11 @@ Bảng 4.10. Kết quả kiểm định KMO và Bartlett các biến độc lậ
 Bảng 4.11. Kết quả phân tích nhân tố khám phá lần 1 ... 55
 Bảng 4.12. Kết quả phân tích nhân tố khám phá lần 2 ... 56
 Bảng 4.13. Kết quả kiểm định độ tin cậy của thang đo cơ sở vật chất sau khi loại biến ... 57
-Bảng 4.14. Các biến độc lập của mô hình hồi quy ... 58Page 12
+Bảng 4.14. Các biến độc lập của mô hình hồi quy ... 58
+Page 12
 
-Bảng 4.16. Kết quả phân tích nhân tố-thang đo Sự hài lòng của khách hàng doanh nghiệp ... 59
+Bảng 4.16. Kết quả phân tích nhân tố-thang đo Sự hài lòng của khách hàng doanh
+nghiệp ... 59
 Bảng 4.17. Kết quả phân tích tương quan ... 60
 Bảng 4.18. Mức độ giải thích của mô hình ... 61
 Bảng 4.19. Mức độ phù hợp của mô hình: Phân tích phương sai ANOVA ... 61
@@ -209,7 +223,8 @@ Bảng 5.2. Thống kê mô tả yếu tố Quy trình thủ tục ... 74
 Bảng 5.3. Thống kê mô tả yếu tố Độ tin cậy ... 76
 Bảng 5.4. Thống kê mô tả yếu tố Năng lực phục vụ ... 78
 Bảng 5.5. Thống kê mô tả yếu tố Sự cảm thông ... 81
-Bảng 5.6. Thống kê mô tả yếu tố Cơ sở vật chất ... 83Page 13
+Bảng 5.6. Thống kê mô tả yếu tố Cơ sở vật chất ... 83
+Page 13
 
 TÓM TẮT LUẬN VĂN
 Nghiên cứu cho thấy yếu tố giữ chân, thì sự hài lòng có có ý nghĩa quan trọng, vì vậy “Đánh giá sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu” được thực hiện nhằm đánh giá các yếu tố tác động đến sự hài lòng của khách hàng, trên cơ sờ đó đưa ra hàm ý quản trị nhằm tăng sự hài lòng. Nghiên cứu này, sử dụng phương pháp định tính và định lượng, kết quả thu được sau đây:
@@ -220,19 +235,22 @@ cậy (β 1  = 0,205), Năng lực phục vụ (β 3  = 0,132), biến Sự cả
 0,114), và biến Cơ sở vật chất (CSVC) (β 2  = 0,080). Như vậy các giả thuyết H 1 , H 2 ,
 H 3 , H 4 , H 5 , H 6  đều được chấp nhận ở độ tin cậy 95%. Nghiên cứu phân tích sự khác
 biệt về sự hài lòng của khách hàng doanh nghiệp theo các đặc điểm doanh nghiệp bằng phương pháp phân tích ANOVA. Tuy nhiên, nghiên cứu chưa chỉ ra có sự khác biệt về sự hài lòng của khách hàng doanh nghiệp theo loại hình doanh nghiệp, quy mô doanh nghiệp, ở mức độ tin cậy 95%.
-Bốn. Từ kết quả nghiên cứu, đã đưa ra một số hàm ý chính sách để tăng sự hài lòng của khách hàng doanh nghiệp thông qua 06 yếu tố tác động đã nêu trên. Ngoài ra tác giả cũng đã đưa ra một số hạn chế của đề tài và đề xuất hướng nghiên cứu tiếp theo trong tương lai.Page 14
+Bốn. Từ kết quả nghiên cứu, đã đưa ra một số hàm ý chính sách để tăng sự hài lòng của khách hàng doanh nghiệp thông qua 06 yếu tố tác động đã nêu trên. Ngoài ra tác giả cũng đã đưa ra một số hạn chế của đề tài và đề xuất hướng nghiên cứu tiếp theo trong tương lai.
+Page 14
 
 CHƯƠNG 1: GIỚI THIỆU VỀ ĐỀ TÀI NGHIÊN CỨU
 1.1. LÝ DO CHỌN ĐỀ TÀI
 Trong những năm gân đây, khi tình hình hoạt động thương mại – đầu tư vào Việt Nam tăng nhanh, số lượng tờ khai Hải quan (HQ) tăng từ hơn 5,3 triệu tờ khai năm 2012 lên hơn 9,48 triệu tờ khai năm 2016, đòi hỏi ngành Hải quan phái nhanh chóng cải thiện cơ chế quản lý phù hợp với các quy định của WTO. Với phương thức quản lý HQ truyền thống (kiểm soát 100% luồng hàng hóa XNK) sẽ phải có một lực lượng HQ rất lớn tại cửa khẩu, tương ứng với sự gia tăng của dòng hàng lưu thông qua cửa khâu, đồng thời cũng sẽ gây ùn tắt tại cửa khẩu do thủ tục kiểm tra HQ (tiền kiểm) gây nên. Trước sự hạn chế của nguồn nhân lực, áp lực cân đối hai mục tiêu của quản lý HQ hiện đại là “tạo thuận lợi thương mại” và “kiểm soát Hải quan hiệu quả”, Hải quan Việt Nam đã nhanh chóng thực hiện sự chuyên đổi từ phương thức quản lý truyền thống “tiền kiểm” sang “hậu kiểm” (KTSTQ), cho phép HQ kiểm tra ở giai đoạn sau, đảm bảo tính tuân thủ của cộng đồng doanh nghiệp. Việc giảm thiểu can thiệp của HQ khâu “tiền kiểm” trong lưu thông hàng hóa (thông qua hệ thống quản lý rủi ro) đã đảm bảo mục tiêu tạo thuận lợi cho đầu tư và thương mại, hỗ trợ phát triển nền kinh tế Việt Nam.
-Ngành hải quan đã và đang thực hiện nhiều cải cách, hiện đại hóa nhằm đơn giản hóa các thủ tục, chế độ quản lý, nâng cao hiệu quả hoạt động, tuân thủ các chuẩn mực và thông lệ quốc tế. Theo đó, nhiều dịch vụ công trực tuyến đã được triển khai nhờ đăng ký sử dụng hệ thống VNACCS cho doanh nghiệp (DN), tra cứu biểu thuế - phân loại hồ sơ, thư viện văn bản, khảo sát ý kiến DN... đã giúp cho việc thông quan hàng hóa diễn ra nhanh chóng, giảm chi phí và thời gian đã phần nào làm cho cộng đồng DN hài lòng. Song song đó, hoạt động kiểm ta sau thông quan (KTSTQ) được ngành hải quan triển khai nhằm đảm bảo công tác quản lý Nhà nước về hải quan, tạo sự công bằng cho các DN tuân thủ tốt pháp luật hay cũng như truy thu tiền thuế còn thiếu nộp vào ngân sách nhà nước đối với các DN có hành vi gian lận. Cục Hải quan tỉnh Bà Rịa Vũng Tàu cũng nằm trong bối cảnh đó và đã triển khai mạnh mẽ công cuộc cải cách, hiện đại hóa theo chủ trương của ngành đã gópPage 15
+Ngành hải quan đã và đang thực hiện nhiều cải cách, hiện đại hóa nhằm đơn giản hóa các thủ tục, chế độ quản lý, nâng cao hiệu quả hoạt động, tuân thủ các chuẩn mực và thông lệ quốc tế. Theo đó, nhiều dịch vụ công trực tuyến đã được triển khai nhờ đăng ký sử dụng hệ thống VNACCS cho doanh nghiệp (DN), tra cứu biểu thuế - phân loại hồ sơ, thư viện văn bản, khảo sát ý kiến DN... đã giúp cho việc thông quan hàng hóa diễn ra nhanh chóng, giảm chi phí và thời gian đã phần nào làm cho cộng đồng DN hài lòng. Song song đó, hoạt động kiểm ta sau thông quan (KTSTQ) được ngành hải quan triển khai nhằm đảm bảo công tác quản lý Nhà nước về hải quan, tạo sự công bằng cho các DN tuân thủ tốt pháp luật hay cũng như truy thu tiền thuế còn thiếu nộp vào ngân sách nhà nước đối với các DN có hành vi gian lận. Cục Hải quan tỉnh Bà Rịa Vũng Tàu cũng nằm trong bối cảnh đó và đã triển khai mạnh mẽ công cuộc cải cách, hiện đại hóa theo chủ trương của ngành đã góp
+Page 15
 
 phần tạo thuận lợi cho hoạt động xuất nhập khẩu (XNK) và được cộng đồng DN đánh giá cao. Tuy nhiên, các DN chưa thật sự hài lòng đối với hoạt động KTSTQ vì sợ ảnh hưởng đến hoạt động sản xuất kinh doanh, ảnh hưởng đến hình ảnh, thương hiệu của DN khi được kiểm tra. Chính vì lẽ đó, nâng cao sự hài lòng của DN đối với hoạt động KTSTQ là vấn đề cấp bách tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu (BRVT) nhằm giúp DN hiểu rõ hơn về mục đích của KTSTQ.
 Việc khảo sát sự hài lòng của DN được thực hiện qua các Hội nghị đối thoại DN được tổ chức tại Trụ sở Cục Hải quan, Chi cục Hải quan với ít nhất 02 lần/năm. Kết quả tổng hợp được lãnh đạo Cục làm cơ sở để đưa ra các quyết định nhằm nâng cao sự hài lòng của DN đối với các dịch vụ công mà Cục Hải quan tỉnh Bà Rịa Vũng Tàu cung cấp, trong đó có sự hài lòng của DN đối với hoạt động KTSTQ. Tuy nhiên, việc khảo sát sự hài lòng của khách hàng DN chưa được thực hiện thỏa đáng, còn cảm tính, cơ sở chưa khoa học để đánh giá một cách khoa học về sự hài lòng của khách hàng DN. Đã có nhiều công trình nghiên cứu về sự hài lòng của DN đối với các dịch vụ mà ngành hải quan cung cấp nhưng đến nay chưa có nghiên cứu nào đánh sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Đề tài sẽ đánh giá một cách khách quan sự hài lòng của khách hàng DN đối với hoạt động KTSTQ. Với những lý do trên đề tài: “Đánh giá sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu” được chọn làm nghiên cứu.
 1.2. MỤC TIÊU NGHIÊN CỨU 1.2.1. Mục tiêu tổng quát
 Đánh giá sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan và đưa ra các hàm ý chính sách để gia tăng sự hài lòng của khách hàng doanh nghiệp đối với hoạt động kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
 1.2.2. Mục tiêu cụ thể
-Để đạt được mục tiêu chung trên, đề tài nghiên cứu này được thực hiện nhằm giải quyết những mục tiêu cụ thể sau đây:Page 16
+Để đạt được mục tiêu chung trên, đề tài nghiên cứu này được thực hiện nhằm giải quyết những mục tiêu cụ thể sau đây:
+Page 16
 
 - Thứ nhất, xác định các yếu tố ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
 - Thứ hai, đo lường mức độ ảnh hưởng của các nhân tố đến sự hài lòng của  khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
@@ -245,7 +263,8 @@ Câu hỏi 4: Hàm ý chính sách nào nhằm nâng cao sự hài lòng của k
 1.4. ĐỐI TƯỢNG VÀ PHẠM VI NGHIÊN CỨU
 - Đối tượng nghiên cứu: Các yếu tố ảnh hưởng đến sự hài lòng của khách hàng  DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
 - Đối tượng khảo sát: giám đốc hoặc người đại diện DN có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và đã được cơ quan Hải quan KTSTQ.
-- Không gian nghiên cứu: tập trung vào bộ phận KTSTQ là Chi cục KTSTQ trực thuộc Cục Hải quan tỉnh Bà Rịa Vũng Tàu.Page 17
+- Không gian nghiên cứu: tập trung vào bộ phận KTSTQ là Chi cục KTSTQ trực thuộc Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
+Page 17
 
 - Thời gian thực hiện nghiên cứu: tháng 3 năm 2017 đến tháng 11 năm 2017. Riêng các thông tin và số liệu của bài nghiên cứu, số liệu về các DN XNK đã được KTSTQ trên địa bàn quản lý của Cục Hải quan tỉnh BRVT sẽ được lấy từ năm 2012 đến tháng 06 năm 2017.
 1.5. PHƯƠNG PHÁP NGHIÊN CỨU
@@ -254,7 +273,8 @@ Câu hỏi 4: Hàm ý chính sách nào nhằm nâng cao sự hài lòng của k
 - Phương pháp nghiên cứu định lượng: được thực hiện qua hai bước là nghiên cứu định lượng sơ bộ và nghiên cứu định lượng chính thức. Nghiên cứu định lượng sơ bộ được thực hiện thông qua kỹ thuật khảo sát bảng câu hỏi với 50 giám đốc hoặc người đại diện DN có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và đã được cơ quan Hải quan KTSTQ. Nghiên cứu nhằm mục đích đánh giá thang đo nháp về độ tin cậy Cronbach’s Alpha sơ bộ, từ đó hình thành nên các thang đo chính thức. Nghiên cứu định lượng chính thức được thực hiện qua kỹ thuật điều tra khảo sát 205 giám đốc hoặc người đại diện DN có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và đã được cơ quan hải quan KTSTQ thông qua bảng câu hỏi soạn sẵn. Dữ liệu thu thập được thông qua bảng câu hỏi chính thức sẽ được phân tích thống kê bằng phần mềm SPSS 20.0 để kiểm định thang đo và kiểm định độ phù hợp với dữ liệu của mô hình nghiên cứu và các giả thuyết.
 1.6. Ý NGHĨA NGHIÊN CỨU
 - Về mặt lý thuyết, nghiên cứu đóng góp và củng cố lý thuyết về sự hài lòng
-của khách hàng đối với chất lượng dịch vụ trong lĩnh vực hải quan, tạo điều kiện cho các nghiên cứu sâu hơn.Page 18
+của khách hàng đối với chất lượng dịch vụ trong lĩnh vực hải quan, tạo điều kiện cho các nghiên cứu sâu hơn.
+Page 18
 
 - Về mặt thực tiễn, kết quả  nghiên cứu sẽ giúp cho các nhà quản lý tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu hiểu được những yếu tố nào ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ. Từ đó đưa ra hàm ý chính sách nhằm gia tăng sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu.
 1.7. CẤU TRÚC CỦA LUẬN VĂN
@@ -263,11 +283,13 @@ Chương 1. Giới thiệu về đề tài nghiên cứu. Chương này trình b
 Chương 2. Tổng quan về cơ sở lý thuyết và mô hình nghiên cứu. Chương này, trình bày cơ sở lý thuyết về sự hài lòng của khách hàng đối với chất lượng dịch vụ. Từ đó, đề xuất mô hình nghiên cứu và các giả thuyết nghiên cứu.
 Chương 3. Thiết kế nghiên cứu. Chương này trình bày quy trình nghiên cứu, mô tả phương pháp nghiên cứu định tính, phương pháp nghiên cứu định lượng, xây dựng thang đo các thành phần trong mô hình nghiên cứu để thu thập dữ liệu nghiên cứu.
 Chương 4. Kết quả nghiên cứu và thảo luận. Chương này trình bày kết quả phân tích dữ liệu và thảo luận kết quả nghiên cứu.
-Chương 5. Kết luận và đề xuất hàm ý chính sách. Chương 5 trình bày các hàm ý chính sách nhằm nâng cao sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Đồng thời nêu ra những hạn chế nghiên cứu và hướng nghiên cứu tiếp theo.Page 19
+Chương 5. Kết luận và đề xuất hàm ý chính sách. Chương 5 trình bày các hàm ý chính sách nhằm nâng cao sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Đồng thời nêu ra những hạn chế nghiên cứu và hướng nghiên cứu tiếp theo.
+Page 19
 
 TÓM TẮT CHƯƠNG 1
 Trong chương này, tác giả trình bày tổng quan về đề tài đang nghiên cứu thông qua lý do dẫn dắt để hình thành đề tài, mục tiêu nghiên cứu, phạm vi đối tượng nghiên cứu, và phương pháp nghiên cứu tổng quát.
-Những nội dung này sẽ giúp ta có cái nhìn tổng quát về nội dung, quá trình hình thành đề tài, để từ đó tạo cơ sở cho việc tìm hiểu sâu về các cở sở lý thuyết liên quan trong chương tiếp theo.Page 20
+Những nội dung này sẽ giúp ta có cái nhìn tổng quát về nội dung, quá trình hình thành đề tài, để từ đó tạo cơ sở cho việc tìm hiểu sâu về các cở sở lý thuyết liên quan trong chương tiếp theo.
+Page 20
 
 CHƯƠNG 2
 TỔNG QUAN VỀ CƠ SỞ LÝ THUYẾT VÀ MÔ HÌNH NGHIÊN CỨU
@@ -275,14 +297,16 @@ Chương một giới thiệu khái quát về nghiên cứu. Chương hai tác 
 2.1. SỰ HÀI LÒNG CỦA KHÁCH HÀNG 2.1.1. Khái niệm về sự hài lòng khách hàng
 Có nhiều quan điểm đánh giá khác nhau về sự hài lòng của khách hàng. Sự hài lòng của khách hàng được xem là nền tảng trong khái niệm của marketing về việc thỏa mãn nhu cầu và mong ước của khách hàng (Spreng và Mackoy, 1996). Khách hàng hài lòng là một yếu tố quan trọng để duy trì được thành công lâu dài trong kinh doanh và các chiến lược kinh doanh phù hợp nhằm thu hút và duy trì khách hàng (Zeithaml và cộng sự, 1996).
 Theo Tse và Wilton (1988) sự hài lòng của khách hàng là một phản ứng để đánh giá việc cảm nhận sự khác biệt giữa sự mong đợi, kỳ vọng và thực hiện dịch vụ. Sự hài lòng của khách hàng là một chức năng của sự mong đợi và hiệu suất chất lượng dịch vụ. Doyle (2002) cho rằng sự hài lòng của khách hàng là yếu tố cơ bản tạo ra lợi nhuận và giá trị doanh nghiệp do đó ngày nay càng nhiều các tổ chức và doanh nghiệp đặt mục tiêu tăng sự hài lòng của khách hàng là tiêu chí hàng đầu trong các hoạt động kinh doanh của mình.
-Theo Kotler và Keller (2012) thì sự hài lòng là mức độ của trạng thái cảm giác của một người bắt nguồn từ việc so sánh kết quả thu được từ sản phẩm với những kỳ vọng của người đó. Sự hài lòng của khách hàng là sự yêu thích trong việc đánh giá chủ quan của cá nhân về những kết quả khác nhau và các kinh nghiệm liên quan đến việc sử dụng hay tiêu dùng dịch vụ (Bennett, 1995). Để đánh giá về sự hài lòng, khách hàng cần có các kinh nghiệm về dịch vụ hoặc người cung cấp trong khi cảm nhận về chất lượng dịch vụ không cần kinh nghiệm này. Phần lớn các nhàPage 21
+Theo Kotler và Keller (2012) thì sự hài lòng là mức độ của trạng thái cảm giác của một người bắt nguồn từ việc so sánh kết quả thu được từ sản phẩm với những kỳ vọng của người đó. Sự hài lòng của khách hàng là sự yêu thích trong việc đánh giá chủ quan của cá nhân về những kết quả khác nhau và các kinh nghiệm liên quan đến việc sử dụng hay tiêu dùng dịch vụ (Bennett, 1995). Để đánh giá về sự hài lòng, khách hàng cần có các kinh nghiệm về dịch vụ hoặc người cung cấp trong khi cảm nhận về chất lượng dịch vụ không cần kinh nghiệm này. Phần lớn các nhà
+Page 21
 
 nghiên cứu đều đồng ý rằng đánh giá là kết quả của một quá trình so sánh, đánh giá được dựa trên quá trình nhận thức trong đó khách hàng so sánh những mong đợi trước đó của họ về kết quả dịch vụ với những gì họ thật sự nhận được từ dịch vụ.
 Tóm lại, sự hài lòng có thể liên quan đến cảm giác mâu thuẫn khi mà có sự pha trộn của các trải nghiệm tích cực và tiêu cực liên quan đến sản phẩm hay dịch vụ. Sự hài lòng là một tổng thể thái độ khách hàng đối với nhà cung cấp dịch vụ hoặc một phản ứng cảm xúc với sự khác biệt giữa những gì khách hàng dự đoán và những gì khách hàng nhận được về sự thực hiện một số nhu cầu, mục tiêu hoặc mong muốn.
 2.1.2. Vai trò của nghiên cứu sự hài lòng khách hàng
 Ngày nay, một tổ chức có giao dịch với khách hàng muốn duy trì hoạt động ổn định và phát triển đều phải quan tâm đến khách hàng, phải nghiên cứu thu hút ngày càng nhiều khách hàng mới và duy trì khách hàng cũ. Muốn đạt được mục tiêu đó, tổ chức phải làm hài lòng khách hàng. Hầu như tất cả các hoạt động, chương trình và chính sách của một tổ chức đều cần được đánh giá về khía cạnh làm hài lòng khách hàng. Kotler và Keller (2012) đã viết doanh nghiệp chiến thắng là những người thành công nhất trong việc làm thỏa mãn sự hài lòng khách hàng mục tiêu. Sự hài lòng của khách hàng là kết quả cảm nhận bởi người mua. Khách hàng thỏa mãn khi những kỳ vọng của họ đạt được và vui thích khi vượt quá những kỳ vọng. Khách hàng thỏa mãn sẽ ở lại lâu hơn, mua nhiều hơn, nhạy cảm với giá cả ít hơn và nói tốt về doanh nghiệp.
 Đối với khu vực công, Bovaird và Loffler (2012) cho rằng: quản trị công chất lượng cao không chỉ làm gia tăng sự hài lòng khách hàng với dịch vụ công mà còn xây dựng sự trung thực trong quản trị công thông qua quá trình minh bạch, trách nhiệm giải trình và thông qua đối thoại dân chủ. đánh giá khu vực công trong cung cấp dịch vụ hành chính công phải được hiểu bằng khái niệm chính trị của chất lượng, hiểu được khu vực công là chất xúc tác của trách nhiệm của xã hội dân sự năng động, thông qua hoạt động của công dân và các nhóm lợi ích khác.
-Vì vậy, tầm quan trọng của việc nâng cao sự hài lòng của khách hàng đối với dịch vụ hành chính của một cơ quan, tổ chức công quyền là nền tảng, động lực đểPage 22
+Vì vậy, tầm quan trọng của việc nâng cao sự hài lòng của khách hàng đối với dịch vụ hành chính của một cơ quan, tổ chức công quyền là nền tảng, động lực để
+Page 22
 
 khu vực công tiến hành các hoạt động thường xuyên của mình, nâng cao hiệu lực, hiệu quả hoạt động của bộ máy quản lý nhà nước. Vì mang tính chất công quyền nên một số trường hợp các cơ quan tổ chức lợi dụng quyền lực đó để không cung cấp các dịch vụ với chất lượng tốt nhất hoặc nảy sinh tình trạng quan liêu, tham nhũng. Đo lường sự hài lòng của khách hàng là một giải pháp nhằm làm trong sạch và nâng cao hiệu quả hoạt động cho tổ chức công, đảm bảo cung cấp dịch vụ hành chính tốt nhất, thúc đẩy tiến trình cải cách hành chính, hiện đại hóa bộ máy nhà nước, củng cố duy trì sự ổn định và phát triển của xã hội.
 2.2. CHẤT LƯỢNG DỊCH VỤ 2.2.1. Khái niệm về dịch vụ
@@ -291,7 +315,8 @@ Theo Kotler và Armstrong (2004), dịch vụ là những hoạt động hay l�
 Tôn Thất Nguyễn Thiêm (2005) định nghĩa: Dịch vụ là thực hiện những gì mà công ty đã hứa hẹn nhằm thiết lập, củng cố và mở rộng những quan hệ đối tác lâu dài với khách hàng và thị trường. Dịch vụ chỉ đạt chất lượng khi khách hàng cảm nhận rõ ràng là việc thực hiện các hứa hẹn đó của công ty mang đến cho khách hàng giá trị gia tăng nhiều hơn các doanh nghiệp khác hoạt động trong cùng lĩnh vực.
 Dịch vụ trong kinh tế học, được hiểu là những thứ tương tự như hàng hóa nhưng là phi vật chất. Có những sản phẩm thiên về sản phẩm hữu hình và những sản phẩm thiên hẳn về sản phẩm dịch vụ, tuy nhiên đa số là những sản phẩm nằm trong khoảng giữa sản phẩm hàng hóa - dịch vụ (Wikipedia, 2017).
 2.2.2. Đặc điểm của dịch vụ
-Dịch vụ là một sản phẩm đặc biệt, có nhiều đặc tính khác với các loại hàng hoá khác như tính vô hình, tính không đồng nhất, tính không thể tách rời và tínhPage 23
+Dịch vụ là một sản phẩm đặc biệt, có nhiều đặc tính khác với các loại hàng hoá khác như tính vô hình, tính không đồng nhất, tính không thể tách rời và tính
+Page 23
 
 không thể cất trữ. Chính những đặc điểm này làm cho dịch vụ trở nên khó định lượng và không thể nhận dạng bằng mắt thường được.
 Tính vô hình
@@ -299,7 +324,8 @@ Không giống như những sản phẩm vật chất, dịch vụ không thể 
 Đặc tính này còn gọi là tính khác biệt của dịch vụ. Theo đó, việc thực hiện dịch vụ thường khác nhau tùy thuộc vào cách thức phục vụ, nhà cung cấp dịch vụ, người phục vụ, thời gian thực hiện, lĩnh vực phục vụ, đối tượng phục vụ và địa điểm phục vụ. Đặc tính này thể hiện rõ nhất đối với các dịch vụ bao hàm sức lao động cao. Việc đòi hỏi chất lượng đồng nhất từ đội ngũ nhân viên sẽ rất khó đảm bảo (Caruana và Pitt, 1997). Lý do là những gì công ty dự định phục vụ thì có thể hoàn toàn khác với những gì mà người tiêu dùng nhận được.
 Tính không thể tách rời
 Tính không tách rời của dịch vụ thể hiện ở việc khó phân chia dịch vụ thành hai giai đoạn rạch ròi là giai đoạn sản xuất và giai đoạn sử dụng. Dịch vụ thường được tạo ra và sử dụng đồng thời. Điều này không đúng đối với hàng hoá vật chất được sản xuất ra nhập kho, phân phối thông qua nhiều nấc trung gian mua bán, rồi sau đó mới được tiêu dùng. Đối với sản phẩm hàng hoá, khách hàng chỉ sử dụng sản phẩm ở giai đoạn cuối cùng, còn đối với dịch vụ, khách hàng đồng hành trong suốt hoặc một phần của quá trình tạo ra dịch vụ.
-Đối với những dịch vụ có hàm lượng lao động cao, ví dụ như chất lượng xảy ra trong quá trình chuyển giao dịch vụ thì chất lượng dịch vụ thể hiện trong quá trình   tương   tác   giữa   khách   hàng   và   nhân   viên   của   công   ty   cung   cấp   dịch   vụ (Svensson, 2002). Đối với những dịch vụ đòi hỏi phải có sự tham gia ý kiến củaPage 24
+Đối với những dịch vụ có hàm lượng lao động cao, ví dụ như chất lượng xảy ra trong quá trình chuyển giao dịch vụ thì chất lượng dịch vụ thể hiện trong quá trình   tương   tác   giữa   khách   hàng   và   nhân   viên   của   công   ty   cung   cấp   dịch   vụ (Svensson, 2002). Đối với những dịch vụ đòi hỏi phải có sự tham gia ý kiến của
+Page 24
 
 người tiêu dùng như dịch vụ hớt tóc, khám chữa bệnh thì công ty dịch vụ ít thực hiện việc kiểm soát, quản lý về chất lượng vì người tiêu dùng ảnh hưởng đến quá trình này. Trong những trường hợp như vậy, ý kiến của khách hàng như mô tả kiểu tóc của mình muốn hoặc bệnh nhân mô tả các triệu chứng cho các bác sĩ, sự tham gia ý kiến của khách hàng trở nên quan trọng đối với chất lượng của hoạt động dịch vụ.
 Tính không lưu giữ được
@@ -307,7 +333,8 @@ Dịch vụ không thể cất giữ, lưu kho rồi đem bán như hàng hoá k
 2.2.3. Khái niệm dịch vụ công
 Theo Nguyễn Như Phát (2002) “Dịch vụ công là loại hình dịch vụ được cung cấp bởi các cơ quan hành chính Nhà nước cho các cá nhân, tổ chức bên ngoài, không mang tính chất công vụ, nhằm đáp ứng các nhu cầu cụ thể về mặt Pháp lý”. Lê Chi Mai (2002) cho rằng “Dịch vụ công là những hoạt động trực tiếp các lợi ích chung thiết yếu, các quyền và nghĩa vụ cơ bản của các tổ chức và công nhân do Nhà nước đảm nhận hay ủy quyền cho các cơ sở ngoài Nhà nước thực hiện nhằm đảm bảo trật tư và công bằng xã hội”. Theo Phạm Hồng Thái (2002) “Dịch vụ công là hoạt động của các cơ quan Nhà nước trong việc thực thi chức năng quản lý hành chánh Nhà nước bảo đảm cung ứng các hàng hóa công cộng phục nhu cầu lợi ích chung thiết yếu của xã hội”
 Như vậy, có thể khẳng định, dịch vụ công là một hoạt động thuộc phạm vi chức năng, nhiệm vụ của bộ máy hành chánh Nhà nước. Mặc dù có nhiều cách tiếp cận khái niệm, thuật ngữ dịch vụ công dưới các gốc độ khác nhau, nhưng về cơ bản đều thống nhất tương đối ở các điểm sau:
-- Là một loại hình dịch vụ do Nhà nước (cơ quan hành chính, đơn vị sự nghiệpPage 25
+- Là một loại hình dịch vụ do Nhà nước (cơ quan hành chính, đơn vị sự nghiệp
+Page 25
 
 của Nhà nước) trực tiếp thực hiện hoặc ủy quyền cho các tổ chức đơn vị ngoài Nhà nước thực hiện dưới sự giám sát của Nhà nước; Nhằm đáp ứng nhu cầu của xã hội, nhân dân, (những như cầu tối thiểu, thiết yếu);
 - Nhà nước, là người chịu trách nhiệm đến cùng trước nhân dân, xã hội về chất lượng dịch vụ cũng như số lượng dịch vụ. Trách nhiệm ở đây thể hiện qua việc hoạch định chính sách, thể chế pháp luật, qui định tiêu chuẩn chất lượng, thanh tra, kiểm tra, giám sát việc thực hiện…
@@ -317,14 +344,16 @@ Vậy có thể hiểu một cách khái quát dịch vụ công là những ho�
 Dịch vụ hành chính công: Là dịch vụ do cơ quan hành chính công cung cấp trực tiếp cho người dân, gắn với thực hiện chức năng quản lý nhà nước và liên quan đến hoạt động thực thi pháp luật của các cơ quan nhà nước. Nhà nước dựa trên cơ sở quyền lực để đáp ứng, đảm bảo các quyền, tự do, lợi ích hợp pháp của công dân, đảm bảo và duy trì trật tự, an ninh xã hội, các quyền và nghĩa vụ cơ bản của người dân như: duy trì trật tư an ninh, hộ khẩu, cấp phép kinh doanh, xuất nhập cảnh, hải quan, thuế …
 Dịch vụ công cộng: Dịch vụ công nhằm thỏa mãn nhu cầu thiết yếu và quyền cơ bản của người dân trong việc hưởng thụ các của cải vật chất và tinh thần của xã hội, gồm các loại sau:
 - Dịch vụ sự nghiệp công: Là dịch vụ liên quan liên quan đến nhu cầu và quyền lợi cơ bản đối với sự phát triển con người về trí lực và thể lực như: y tế, giáo dục, văn hóa thông tin, khoa học, bảo hiểm an sinh xã hội, tư vấn hỗ trợ pháp lý …
-- Dịch vụ kinh tế kỹ thuật: Dịch vụ gắn với nhu cầu vật chất, phục vụ lợi íchPage 26
+- Dịch vụ kinh tế kỹ thuật: Dịch vụ gắn với nhu cầu vật chất, phục vụ lợi ích
+Page 26
 
 chung của xã hội, bao gồm: cung ứng điện, nước, giao thông công cộng, bưu chính viễn thông, vệ sinh môi trường, thủy lợi…
 2.2.4. Khái niệm về chất lượng dịch vụ
 Chất lượng dịch vụ là một khái niệm gây nhiều chú ý và tranh cãi trong các tài liệu nghiên cứu bởi vì các nhà nghiên cứu gặp nhiều khó khăn trong việc định nghĩa và đo lường chất lượng dịch vụ mà không hề có sự thống nhất nào (Wisniewski, 2001). Hiện nay có rất nhiều định nghĩa khác nhau về chất lượng dịch vụ, nhưng nhìn chung người ta định nghĩa chất lượng dịch vụ là những gì mà khách hàng cảm nhận được. Mỗi khách hàng có nhận thức và nhu cầu khác nhau nên cảm nhận về chất lượng dịch vụ cũng khác nhau.
 Lehtinen và Lehtinen (1982) cho là chất lượng dịch vụ phải được đánh giá trên hai khía cạnh: (1) quá trình cung cấp dịch vụ và (2) kết quả của dịch vụ. Theo Gronroos (2001) cũng đề nghị hai lãnh vực của chất lượng dịch vụ, đó là (1) chất lượng kỹ thuật và (2) chất lượng chức năng. Chất lượng kỹ thuật liên quan đến những gì được phục vụ và chất lượng chức năng nói lên chúng được phục vụ như thế nào.  Nói về nghiên cứu chất  lượng dịch vụ thì không thể không nhắc  đến Parasuraman và cộng sự (1988) “chất lượng dịch vụ được xác định là khoảng cách kỳ vọng cuả khách hàng về dịch vụ và cảm nhận của họ sau khi đã sử dụng dịch vụ đó”.
 Chất lượng dịch vụ là mức độ mà một dịch vụ đáp ứng được nhu cầu và sự mong đợi của khách hàng (Wisniewski và Donnelly, 1996). Theo Edvardsson và cộng sự (1994) thì cho rằng chất lượng dịch vụ là dịch vụ đáp ứng được sự mong đợi của khách hàng và làm thoả mãn nhu cầu của họ. Chất lượng thể hiện sự vượt trội của hàng hoá và dịch vụ, đặc biệt đạt đến mức độ mà người ta có thể thoả mãn mọi nhu cầu và làm hài lòng khách hàng.
-Nhìn chung, chất lượng dịch vụ công được hiểu là mức độ cảm nhận của người dân về các thủ tục hành chính nhà nước và cách thức hướng dẫn, tiếp nhận, giải quyết công việc của các công chức nhà nước. Chất lượng dịch vụ công được đánh giá dựa trên kết quả thực thi pháp luật và thái độ, trách nhiệm phục vụ của công chức nhằm đảm bảo các quyền và lợi ích hợp pháp của người dân.Page 27
+Nhìn chung, chất lượng dịch vụ công được hiểu là mức độ cảm nhận của người dân về các thủ tục hành chính nhà nước và cách thức hướng dẫn, tiếp nhận, giải quyết công việc của các công chức nhà nước. Chất lượng dịch vụ công được đánh giá dựa trên kết quả thực thi pháp luật và thái độ, trách nhiệm phục vụ của công chức nhằm đảm bảo các quyền và lợi ích hợp pháp của người dân.
+Page 27
 
 2.2.5. Đo lường chất lượng dịch vụ
 Mô hình chất lượng dịch vụ của Gronross (1984)
@@ -338,7 +367,8 @@ Hoạt động marketing truyền thống Các tác động  bên trong
 HÌNH ẢNH
 Chất lượng kỹ thuật Chất lượng chức năng
 Hình 2.1. Mô hình chất lượng dịch vụ của Gronross (1984)
-(Nguồn: Gronross, 1984) Hơn nữa, Gronross (1984) còn cho rằng kỳ vọng của khách hàng còn bị ảnh hưởng bởi các yếu tố như: các hoạt động marketing truyền thống (quảng cáo, quan hệ công chúng, chính sách giá cả) và yếu tố ảnh hưởng bên ngoài (phong tục, tập quán, ý thức, truyền miệng), trong đó yếu tố truyền miệng có tác động đáng kể đến khách hàng tiềm năng hơn so với hoạt động tiếp thị truyền thống và cũng nhấnPage 28
+(Nguồn: Gronross, 1984) Hơn nữa, Gronross (1984) còn cho rằng kỳ vọng của khách hàng còn bị ảnh hưởng bởi các yếu tố như: các hoạt động marketing truyền thống (quảng cáo, quan hệ công chúng, chính sách giá cả) và yếu tố ảnh hưởng bên ngoài (phong tục, tập quán, ý thức, truyền miệng), trong đó yếu tố truyền miệng có tác động đáng kể đến khách hàng tiềm năng hơn so với hoạt động tiếp thị truyền thống và cũng nhấn
+Page 28
 
 mạnh rằng việc nghiên cứu chất lượng dịch vụ (CLDV) phải dựa trên quan điểm của người tiêu dùng.
 Mô hình chất lượng dịch vụ của Parasuraman và cộng sự (1985)
@@ -394,7 +424,8 @@ N
 H
 À
 Hình 2.2. Mô hình chất lượng dịch vụ của Parasuraman và cộng sự (1985)
-(Nguồn: Parasuraman và cộng sự,  1985)Page 29
+(Nguồn: Parasuraman và cộng sự,  1985)
+Page 29
 
 - Khoảng cách 2 (GAP2): được tạo ra khi nhà cung cấp gặp các khó khăn, trở ngại khách quan lẫn chủ quan khi chuyển các kỳ vọng được cảm nhận sang các tiêu chí chất lượng cụ thể và chuyển giao chúng đúng như kỳ vọng. Các tiêu chí này trở thành các thông tin tiếp thị đến khách hàng.
 - Khoảng cách 3  (GAP3): hình thành khi nhân viên chuyển giao dịch vụ  cho khách hàng không đúng các tiêu chí đã định. Vai trò nhân viên giao dịch trực tiếp rất quan trọng trong tạo ra CLDV.
@@ -402,7 +433,8 @@ Hình 2.2. Mô hình chất lượng dịch vụ của Parasuraman và cộng s�
 - Khoảng cách 5 (GAP5): hình thành từ sự khác biệt giữa chất lượng cảm nhận và chất lượng kỳ vọng khi khách hàng sử dụng dịch vụ. Parasuraman &amp; cộng sự (1985) cho rằng CLDV chính là khoảng cách thứ 5. Khoảng cách này lại phụ thuộc vào 4 khoảng cách trước như: GAP5 = f(GAP1, GAP2, GAP3, GAP4). Vì thế, để rút ngắn khoảng cách thứ 5 hay làm tăng CLDV, nhà cung cấp dịch vụ phải nỗ lực rút ngắn các khoảng cách này.
 2.3. MỐI QUAN HỆ GIỮA CHẤT LƯỢNG DỊCH VỤ VÀ SỰ HÀI LÒNG  CỦA KHÁCH HÀNG
 Mối quan hệ giữa chất lượng dịch vụ và sự hài lòng của khách hàng là chủ đề được các nhà nghiên cứu đưa ra bàn luận trong các thập kỷ qua. Nhiều nghiên cứu về sự hài lòng của khách hàng trong các ngành dịch vụ đã được thực hiện (Fornell, 1992) và nhìn chung đều kết luận rằng chất lượng dịch vụ và sự hài lòng là hai khái niệm được phân biệt (Lassar và cộng sự, 2000).
-Sự hài lòng của khách hàng là một khái niệm tổng quát nói lên sự hài lòng của họ khi tiêu dùng một dịch vụ, còn nói đến chất lượng dịch vụ là quan tâm đến các thành phần cụ thể của dịch vụ (Zeithaml và Britner, 2000). Theo Parasuraman và cộng sự (1988) cho rằng chất lượng dịch vụ ảnh hưởng đến mức độ hài lòng của khách hàng. Nghĩa là, chất lượng dịch vụ - được xác định bởi nhiều nhân tố khác nhau – là một phần nhân tố quyết định của sự hài lòng.Page 30
+Sự hài lòng của khách hàng là một khái niệm tổng quát nói lên sự hài lòng của họ khi tiêu dùng một dịch vụ, còn nói đến chất lượng dịch vụ là quan tâm đến các thành phần cụ thể của dịch vụ (Zeithaml và Britner, 2000). Theo Parasuraman và cộng sự (1988) cho rằng chất lượng dịch vụ ảnh hưởng đến mức độ hài lòng của khách hàng. Nghĩa là, chất lượng dịch vụ - được xác định bởi nhiều nhân tố khác nhau – là một phần nhân tố quyết định của sự hài lòng.
+Page 30
 
 Nhiều công trình nghiên cứu thực tiễn về mối quan hệ giữa chất lượng dịch vụ và sự hài lòng của khách hàng. Cronin và Taylor (1992) đã kiểm định mối quan hệ này và kết luận rằng cảm nhận chất lượng dịch vụ dẫn đến sự hài lòng của khách hàng. Các nghiên cứu đã kết luận rằng chất lượng dịch vụ là tiền đề của sự hài lòng (Spreng và Mackoy, 1996) và là nhân tố chủ yếu ảnh hưởng đến sự hài lòng khách hàng (Ruyter, Bloemer và Peeters, 1997).
 Chất lượng dịch vụ và sự hài lòng của khách hàng là hai khái niệm riêng biệt nhưng lại có mối quan hệ với nhau. Chất lượng tác động lên sự hài lòng của khách hàng, chất lượng dịch vụ là tiền đề của sự hài lòng và là nhân tố chủ yếu ảnh hưởng đến sự hài lòng của khách hàng. Vì vậy, kết quả đo lường chất lượng dịch vụ là cơ sở để đánh giá mức độ hài lòng của khách hàng đối với dịch vụ được cung cấp. Tầm quan trọng của nâng cao sự hài lòng khách hàng đối với dịch vụ hành chính của một cơ quan là cơ sở và động lực để khu vực công cải tiến các hoạt động dịch vụ, nâng cao hiệu lực, hiệu quả của bộ máy quản lý Nhà nước.
@@ -410,7 +442,8 @@ Chất lượng dịch vụ và sự hài lòng của khách hàng là hai khái
 2.4.1. Khái niệm về kiểm tra sau thông quan (Kiểm toán hải quan)
 Tổ chức Hải quan thế giới (Word Customs Organization – WCO, 2017) và Hải quan các nước gọi là Kiểm toán sau thông quan (Post Clearance Audit – PCA) hoặc Kiểm toán hải quan (Customs Audit). Việt Nam hiện nay gọi là kiểm tra sau thông quan. Do vậy các cụm từ “Kiểm tra sau thông quan”, “Kiểm toán sau thông quan”, “Kiểm toán hải quan”, đều có ý nghĩa như nhau.
 Theo tổ chức Hải quan thế giới (2017): “KTSTQ là quy trình công tác cho phép viên chức hải quan kiểm tra tính chính xác của hoạt động khai hải quan bằng việc kiểm tra các hồ sơ, tài liệu ghi chép về kế toán và thương mại liên quan đến hoạt động buôn bán, trao đổi hàng hóa và tất cả các số liệu thông tin, bằng chứng khác cho cơ quan hải quan mà hiện tại đang được các đối tượng kiểm tra (cá nhân hoặc doanh nghiệp) trực tiếp hay gián tiếp tham gia vào hoạt động buôn bán quốc tế nắm giữ”.
-Theo Công ước Kyoto (2009) về đơn giản hóa và hài hòa thủ tục hải quan của Tổ chức Hải quan thế giới: Kiểm tra trên cơ sở kiểm toán là các biện pháp đượcPage 31
+Theo Công ước Kyoto (2009) về đơn giản hóa và hài hòa thủ tục hải quan của Tổ chức Hải quan thế giới: Kiểm tra trên cơ sở kiểm toán là các biện pháp được
+Page 31
 
 cơ quan hải quan tiến hành nhằm thỏa mãn mục đích của họ trong việc xác định tính xác thực và chân thật của các tờ khai hàng hóa thông qua kiểm tra các chứng từ, biên bản, hệ thống kinh tế và dữ liệu thương mại của các bên liên quan.
 Hiệp định trị giá GATT (2013) thì định nghĩa “Kiểm toán sau thông quan là một quá trình nhằm tạo điều kiện cho các nhân viên Hải quan kiểm tra độ chính xác trong khai báo hải quan, thông qua việc kiểm tra các số sách, hồ sơ lưu trữ, hệ thống kinh doanh và tất cả các dữ liệu thương mại về hải quan liên quan do các cá nhân, công ty trực tiếp hoặc gián tiếp tham gia vào hoạt động thương mại quốc tế nắm giữ.”
@@ -418,7 +451,8 @@ Theo Luật Hải quan (2005) tại Việt Nam thì KTSTQ là hoạt động ki�
 Như vậy kiểm tra sau thông quan được hiểu là việc tiến hành công tác kiểm toán sau khi tiếp nhận khai báo và kết thúc thủ tục giải phóng lô hàng xuất khẩu, nhập khẩu khỏi khu vực quản lý của hải quan.
 Trong thời hạn 5 năm, kể từ ngày đăng ký tờ khai hàng hóa xuất nhập khẩu đã được thông quan, cơ quan quản lý nhà nước về hải quan có quyền ra quyết định KTSTQ đối với những hàng hóa có dấu hiệu gian lận thuế, gian lận thương mại, vi phạm quy định về quản lý xuất khẩu, nhập khẩu hoặc thẩm định sự tuân thủ pháp luật đối với hàng hóa đã được thông quan nhằm đảm bảo tính công bằng, minh bạch, lành mạnh trong cạnh tranh đối với sản xuất, lưu thông hàng hóa.
 2.4.2. Đối tượng của KTSTQ
-Theo Luật Hải quan (2005) quy định: KTSTQ tiến hành kiểm tra các cá nhân, doanh nghiệp có liên quan trực tiếp hay gián tiếp đến kinh doanh XNK đang hoạt động trong phạm vi lãnh thổ quốc gia. Không phân biệt thành phần kinh tế, nguồn vốn sở hữu cũng không phải chờ đợi sự thỏa thuận hoặc văn bản yêu cầu của doanhPage 32
+Theo Luật Hải quan (2005) quy định: KTSTQ tiến hành kiểm tra các cá nhân, doanh nghiệp có liên quan trực tiếp hay gián tiếp đến kinh doanh XNK đang hoạt động trong phạm vi lãnh thổ quốc gia. Không phân biệt thành phần kinh tế, nguồn vốn sở hữu cũng không phải chờ đợi sự thỏa thuận hoặc văn bản yêu cầu của doanh
+Page 32
 
 nghiệp. Đặc điểm này làm cho kiểm toán hải quan khác hẳn với các loại hình kiểm  toán khác:
 - Kiểm toán Nhà nước chỉ có quyền kiểm tra các đơn vị có liên quan đến quá  trình quản lý, sử dụng vốn của ngân sách nhà nước.
@@ -433,7 +467,8 @@ Theo Luật Hải quan (2005) quy định: để xác minh tính chính xác c�
 + Các hãng bảo hiểm hàng hóa XNK. + Các ngân hàng thương mại.
 + Cơ quan thuế nội địa.
 + Người mua hàng nhập khẩu trên thị trường nội địa. + Các cơ quan, tổ chức giám định hàng hóa,…
-Trong số những đối tượng KTSTQ nêu trên, đối tượng chính của KTSTQ là các chủ thể liên quan trực tiếp đến kinh doanh XNK đó chính là những nhà xuất nhập khẩu. Khi quá trình kiểm tra để xác minh về người nhập khẩu gặp khó khăn, chẳng hạn như thiếu các chứng từ, KTSTQ sẽ được tiến hành với các đối tượng KTSTQ khác nhằm hoàn tất việc xác minh việc khai báo hàng hóa nhập khẩu. TrênPage 33
+Trong số những đối tượng KTSTQ nêu trên, đối tượng chính của KTSTQ là các chủ thể liên quan trực tiếp đến kinh doanh XNK đó chính là những nhà xuất nhập khẩu. Khi quá trình kiểm tra để xác minh về người nhập khẩu gặp khó khăn, chẳng hạn như thiếu các chứng từ, KTSTQ sẽ được tiến hành với các đối tượng KTSTQ khác nhằm hoàn tất việc xác minh việc khai báo hàng hóa nhập khẩu. Trên
+Page 33
 
 thực tế, các đối tượng có liên quan gián tiếp đến thương mại quốc tế thường lưu giữ những chứng từ rất có giá trị cho KTSTQ. Ví dụ như: một bức điện chuyển tiền liên ngân hàng, một chứng từ bảo hiểm, một chứng thư giám định, một phiếu thu tiền vận chuyển, một chứng từ mua hàng nhập khẩu trên thị trường nội địa….là có thể có căn cứ xác định và kết luận một cuộc KTSTQ.
 2.4.4. Sổ sách và chứng từ
@@ -445,7 +480,8 @@ Việc kiểm toán sau thông quan được thực hiện sau khi hàng hóa xu
 - Có dấu hiệu vi phạm pháp luật hải quan hoặc có khả năng vi phạm pháp luật  hải quan;
 - Kiểm tra theo kế hoạch để đánh giá mức độ tuân thủ pháp luật hải quan của người khai hải quan đối những trường hợp chưa có dấu hiệu vi phạm pháp luật. 
 Theo Luật Hải quan (2005) quy định việc kiểm tra các chứng từ, sổ sách, hàng hóa xuất khẩu, nhập khẩu như sau:
-- Kiểm tra tính hợp pháp, chính xác của các chứng từ thuộc hồ sơ hải quan, sự  phù hợp của các chứng từ kèm theo tờ khai với các nội dung khai trong tờ khai vàPage 34
+- Kiểm tra tính hợp pháp, chính xác của các chứng từ thuộc hồ sơ hải quan, sự  phù hợp của các chứng từ kèm theo tờ khai với các nội dung khai trong tờ khai và
+Page 34
 
 các qui định của pháp luật về xuất khẩu, nhập khẩu hàng hóa;
 - Kiểm tra chứng từ kế toán, sổ kế toán, báo cáo tài chính và các chứng từ  khác có liên quan đến hàng hóa;
@@ -456,7 +492,8 @@ Kiểm tra việc chấp hành Luật hải quan, Luật thuế xuất khẩu, t
 Quá trình thực hiện một cuộc kiểm toán hải quan nhân viên Hải quan phải kiểm tra xét đoán xem doanh nghiệp có tuân thủ các văn bản pháp luật đã qui định hay không, xét về góc độ này kiểm toán hải quan thuộc loại hình kiểm toán tuân thủ. Nhưng mục đích chính của kiểm toán hải quan là phát hiện tình trạng gian lận như gian lận quan giá, số lượng, chính sách loại hình, thuế suất … để trốn thuế vì vậy kiểm tra xét đoán sổ sách và chứng từ kế toán, ngân hàng tức là phải vận dụng nhiều kiến thức kiểm toán tài chính. Như vậy xét về bản chất thì kiểm toán hải quan thuộc loại hình kiểm toán tuân thủ - tài chính.
 Cũng cần hiểu thêm rằng hoạt động của Nhà nước, trước hết là Luật hải quan, Luật thuế, Luật kế toán, Luật ngân hàng … các Luật này của các nước không giống nhau. Vì vậy nội dung, phương pháp và phạm vi hoạt động kiểm toán hải quan của các nước không giống nhau.
 2.4.7. Vai trò của kiểm tra sau thông quan
-KTSTQ là biện pháp nâng cao năng lực quản lý nhà nước về hải quan, thực hiện chống gian lận thương mại có hiệu quả toàn diện bằng việc thực hiện đơn giản hóa, tự động hóa thủ tục hải quan, nhằm thông quan hàng hóa nhanh, nhờ đó gópPage 35
+KTSTQ là biện pháp nâng cao năng lực quản lý nhà nước về hải quan, thực hiện chống gian lận thương mại có hiệu quả toàn diện bằng việc thực hiện đơn giản hóa, tự động hóa thủ tục hải quan, nhằm thông quan hàng hóa nhanh, nhờ đó góp
+Page 35
 
 phần tích cực vào việc thúc đẩy phát triển thương mại quốc tế, cải thiện môi trường đầu tư, góp phần tạo môi trường cạnh tranh lành mạnh, bình đẳng trong sản xuất và lưu thông.
 KTSTQ chính là biện pháp góp phần đảm bảo chấp hành nghiêm chỉnh Luật hải quan, tuân thủ các quy định và các hiệp định thương mại Quốc tế.
@@ -465,7 +502,8 @@ KTSTQ tạo điều kiện nâng cao hiệu lực trong các lĩnh vực như: q
 Về mặt dài hạn, KTSTQ đạt được hiệu quả trong việc làm cho Doanh nghiệp hiểu, tuân thủ các quy định và yêu cầu khác của pháp luật ở mức độ cao và tự giác.
 Việc đánh giá mức độ tuân thủ không phải đối với tất cả các nhà nhập khẩu. Nó được áp dụng cho các nhà nhập khẩu đã được xác định thông qua quá trình xử lý số liệu như tính toán số lượng những tờ khai quan trọng, số thuế phải nộp… Bằng việc xác định các nhà nhập khẩu trọng yếu đó và sử dụng quy trình đánh giá mức độ tuân thủ, có thể đảm bảo cho cơ quan hải quan rằng những người tham gia chính đó sẽ tuân thủ. Lợi ích khác của việc đánh giá mức độ tuân thủ cho cả Hải quan và Doanh nghiệp là hàng hóa và tờ khai, sẽ không phải kiểm tra thực tế toàn bộ như trong quy trình làm thủ tục hải quan truyền thống trước đây nữa.
 2.5. TỔNG QUAN VỀ CÁC NGHIÊN CỨU LIÊN QUAN 2.5.1. Nghiên cứu trên thế giới
-Nghiên cứu của Parasuraman và cộng sự (1988): “Servqual: A Multiple-Item Scale For Measuring Consumer Perceptions of Service Quality”. Nghiên cứu đã tiến hành khảo sát 200 khách hàng của bốn loại hình doanh nghiệp nhà nước. Kết quả nghiên cứu đã tìm ra 05 yếu tố ảnh hưởng đến sự hài lòng của khách hàng đối với chất lượng dịch vụ công, bao gồm: (1) Sự tin cậy, (2) Sự đáp ứng, (3) Năng lực phục vụ, (4) Sự cảm thông và (5) Sự hữu hình.Page 36
+Nghiên cứu của Parasuraman và cộng sự (1988): “Servqual: A Multiple-Item Scale For Measuring Consumer Perceptions of Service Quality”. Nghiên cứu đã tiến hành khảo sát 200 khách hàng của bốn loại hình doanh nghiệp nhà nước. Kết quả nghiên cứu đã tìm ra 05 yếu tố ảnh hưởng đến sự hài lòng của khách hàng đối với chất lượng dịch vụ công, bao gồm: (1) Sự tin cậy, (2) Sự đáp ứng, (3) Năng lực phục vụ, (4) Sự cảm thông và (5) Sự hữu hình.
+Page 36
 
 Sự tin cậy
 Sự đáp ứng
@@ -480,7 +518,8 @@ của khách Năng lực phục vụ
 hàng Sự cảm thông
 Sự hữu hình
 Hình 2.4. Mô hình nghiên cứu sự hài lòng đối với dịch vụ của Cronin và Taylor (1992)
-(Nguồn: Cronin và Taylor, 1992)Page 37
+(Nguồn: Cronin và Taylor, 1992)
+Page 37
 
 2.5.2. Nghiên cứu trong nước
 Nghiên cứu của Nguyễn Huỳnh Sang (2016):  “Đánh giá sự  hài lòng của khách hàng doanh nghiệp về kiểm tra sau thông quan tại Cục Hải quan tỉnh Long An”.  Nghiên cứu đã tiến hành khảo sát 210 doanh nghiệp  đã được kiểm tra sau thông quan tại Cục Hải quan tỉnh Long An. Kết quả nghiên cứu đã tìm ra 06 yếu tố đều tác động dương đến Sự hài lòng của DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh Long An, bao gồm: (1) Độ tin cậy, (2) Cơ sở vật chất, (3) Năng lực CBCC, (4) Thái độ làm việc của CBCC, (5) Sự đồng cảm của CBCC và (6) Quy trình thủ tục.
@@ -493,7 +532,8 @@ Sự đồng cảm của CBCC
 Quy trình thủ tục
 Hình 2.5. Mô hình nghiên cứu sự hài lòng của khách hàng doanh nghiệp về kiểm tra sau thông quan tại Cục Hải quan tỉnh Long An
 (Nguồn: Nguyễn Huỳnh Sang,  2016)
-Nghiên cứu của Nguyễn Hữu Vinh (2016): “Đánh giá sự hài lòng của doanh nghiệp sử dụng dịch vụ hải quan tại Cục Hải quan tỉnh Bình Định”. Nghiên cứu đã tiến hành khảo sát 148 doanh nghiệp sử dụng dịch vụ hải quan tại Cục Hải quan tỉnh Bình Định. Kết quả nghiên cứu đã tìm ra 07 yếu tố đều tác động dương đến Sự hài lòng của DN, bao gồm: (1) Độ tin cậy, (2) Khả năng đáp ứng, (3) Năng lực phục vụ, (4) Sự cảm thông, (5) Công bằng dân chủ, (6)Tính minh bạch, (7) Cơ sở vật chất.Page 38
+Nghiên cứu của Nguyễn Hữu Vinh (2016): “Đánh giá sự hài lòng của doanh nghiệp sử dụng dịch vụ hải quan tại Cục Hải quan tỉnh Bình Định”. Nghiên cứu đã tiến hành khảo sát 148 doanh nghiệp sử dụng dịch vụ hải quan tại Cục Hải quan tỉnh Bình Định. Kết quả nghiên cứu đã tìm ra 07 yếu tố đều tác động dương đến Sự hài lòng của DN, bao gồm: (1) Độ tin cậy, (2) Khả năng đáp ứng, (3) Năng lực phục vụ, (4) Sự cảm thông, (5) Công bằng dân chủ, (6)Tính minh bạch, (7) Cơ sở vật chất.
+Page 38
 
 Độ tin cậy Khả năng đáp ứng
 Năng lực phục vụ Sự cảm thông
@@ -516,14 +556,16 @@ Công bằng dân chủ x
 Tính minh bạch x
 Quy trình thủ tục x
 Thái độ làm việc x
-(Nguồn: Tác giả tổng hợp từ các nghiên cứu trước Như vậy, các nghiên cứu trước đây đã khám phá ra được các nhân tố ảnh hưởng đến sự hài lòng của doanh nghiệp khi sử dụng dịch vụ công. Tuy nhiên, việc lựa chọn mô hình khảo sát và đối tượng khảo sát là khác nhau, kết quả nghiên cứuPage 39
+(Nguồn: Tác giả tổng hợp từ các nghiên cứu trước Như vậy, các nghiên cứu trước đây đã khám phá ra được các nhân tố ảnh hưởng đến sự hài lòng của doanh nghiệp khi sử dụng dịch vụ công. Tuy nhiên, việc lựa chọn mô hình khảo sát và đối tượng khảo sát là khác nhau, kết quả nghiên cứu
+Page 39
 
 cũng có những khác biệt đáng kể về mức độ tác động của từng thành phần lên sự hài lòng của doanh nghiệp khi sử dụng dịch vụ công. Điều đó cho thấy không có mô hình chung cho tất cả các loại hình tổ chức. Đó cũng là cơ sở để nghiên cứu này thực hiện việc kiểm định đánh giá thang đo ảnh hưởng sự hài lòng của khách hàng doanh nghiệp về kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa – Vũng Tàu. 2.6. MÔ HÌNH NGHIÊN CỨU VÀ GIẢ THUYẾT NGHIÊN CỨU
 2.6.1. Mô hình nghiên cứu
 Từ cơ sở các lý thuyết và các nghiên cứu liên quan, trên cơ sở kế thừa và chọn lọc các nhân tố ảnh hưởng để tìm hiểu mối tương quan của các nhân tố với sự hài lòng của khách hàng, tác giả sử dụng các thành phần trong các nghiên cứu thực nghiệm  của  Parasuraman  và  cộng  sự  (1988),  Cronin   và Taylor  (1992),  Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016). Trên nền tảng các nghiên cứu thực nghiệm trên cùng là cùng nghiên cứu về sự hài lòng của khách hàng đối với dịch vụ công là cơ sở lý thuyết vững chắc, giúp nghiên cứu vận dụng mô hình phù hợp với điều kiện nghiên cứu tại Cục Hải quan tỉnh Bà Rịa – Vũng Tàu.
 Tuy nhiên, trong điều kiện thực tế ở Việt Nam nói chung, điều kiện của tỉnh BRVT nói riêng, mô hình nghiên cứu không thể phản ánh toàn bộ mà có sự điều chỉnh, bổ sung một số biến quan sát cho phù hợp với điều kiện thực tế của địa phương. Từ đó, tác giả đề xuất mô hình nghiên cứu ban đầu gồm 06 nhân tố: (1) Độ tin cậy, (2) Cơ sở vật chất, (3) Năng lực phục vụ, (4) Tính minh bạch, (5) Sự cảm thông và (6) Quy trình thủ tục.
 Căn cứ vào kết quả nghiên cứu định tính, 2/3 thành viên nhóm thảo luận cũng cho rằng 06 yếu tố mà tác giả đã nêu trong quá trình thảo luận là khá đầy đủ về sự hài lòng của khách hàng doanh nghiệp về kiểm tra sau thông quan tại Cục Hải quan tỉnh Bà Rịa – Vũng Tàu.
-Qua cơ sở lý thuyết đã nêu và kết quả nghiên cứu định tính. Mô hình nghiên cứu được tác giả đề xuất bao gồm 06 biến độc lập: (1) Độ tin cậy, (2) Cơ sở vật chất, (3) Năng lực phục vụ, (4) Tính minh bạch, (5) Sự cảm thông và (6) Quy trình thủ tục và biến phụ thuộc là sự hài lòng của khách hàng DN được trình bày cụ thể trong hình 2.7 trang 27.Page 40
+Qua cơ sở lý thuyết đã nêu và kết quả nghiên cứu định tính. Mô hình nghiên cứu được tác giả đề xuất bao gồm 06 biến độc lập: (1) Độ tin cậy, (2) Cơ sở vật chất, (3) Năng lực phục vụ, (4) Tính minh bạch, (5) Sự cảm thông và (6) Quy trình thủ tục và biến phụ thuộc là sự hài lòng của khách hàng DN được trình bày cụ thể trong hình 2.7 trang 27.
+Page 40
 
 Độ tin cậy
 Cơ sở vật chất
@@ -539,7 +581,8 @@ Hình 2.7. Mô hình nghiên cứu sự hài lòng của khách hàng doanh nghi
 Độ tin cậy
 Độ tin cậy trong nghiên cứu này là sự tin tưởng của DN về KTSTQ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Nó thể hiện qua các khía cạnh về sự công khai minh bạch, nhanh chóng, hiệu quả và đúng quy định của hoạt động KTSTQ. Theo nghiên cứu Phan Võ Lâm Giang (2015) thì độ tin cậy là yếu tố có thúc đẩy sự hài lòng của người dân đối với dịch vụ hành chính công và việc đánh giá độ tin cậy của dịch vụ hành chính công cần dựa trên việc liệu cơ quan thực hiện dịch vụ có thực hiện những gì đã được Nhà nước quy định một cách chắc chắn, chính xác, hiệu quả. Theo Parasuraman và cộng sự (1988), Cronin và Taylor (1992), Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), đã chứng minh mối tương quan dương giữa yếu tố Độ tin cậy và Sự hài lòng của khách hàng đối với dịch vụ công. Từ đó, tác giả đề xuất giả thuyết H 1  như sau:
 Giả thuyết H 1 : Độ tin cậy có tác động cùng chiều (+) đối với sự hài lòng của
-khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT.Page 41
+khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT.
+Page 41
 
 Cơ sở vật chất
 Cơ sở vật chất đề cập đến trang thiết bị phục vụ cho hoạt động KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Nó được đánh giá qua các khía cạnh: hệ thống website có đăng tải đầy đủ thông tin; nơi trả cũng như niêm yết kết quả KTSTQ có thuận tiện, dễ nhận thấy, dễ xem; điện thoại, hệ thống máy tính hỗ trợ đáp ứng tốt nhu cầu phục vụ hoạt động KTSTQ. Cơ sở vật chất có ảnh hưởng lớn đối với chất lượng phục vụ. Trong hoạt động KTSTQ, nếu Cục Hải quan có cơ sở vật chất tiện nghi, hiện đại sẽ làm cho DN cảm giác thoải mái, tiện lợi và đem lại sự hài lòng cho họ. Bên cạnh đó, cơ sở vật chất đảm bảo về số lượng và chất lượng sẽ tạo điều kiện cho CBCC trong quá trình thực hiện công tác được hoàn thiện, chuyên nghiệp hơn, tốt hơn và giúp DN hài lòng hơn. Theo Parasuraman và cộng sự (1988), Cronin và Taylor (1992), Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), đã chứng minh mối tương quan dương giữa yếu tố Cơ sở vật chất và Sự hài lòng của khách hàng đối với dịch vụ công. Từ đó, tác giả đề xuất giả thuyết H 2  như sau:
@@ -547,7 +590,8 @@ Giả thuyết H 2 : Cơ sở vật chất có tác động cùng chiều (+) �
 khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT. Năng lực phục vụ
 Năng lực CBCC đề cập đến trình độ nghiệp vụ chuyên môn của các CBCC thực hiện KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Năng lực CBCC ảnh hưởng trực tiếp đến chất lượng KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Theo nghiên cứu Phan Võ Lâm Giang (2015) thì độ tin cậy là yếu tố có thúc đẩy sự hài lòng đối với dịch vụ hành chính công. Riêng đối với hoạt động KTSTQ, CBCC đóng vai trò quan trọng và chính nó ảnh hưởng trực tiếp đến cảm nhận của DN trong quá trình thực DN. Theo Parasuraman và cộng sự (1988), Cronin và Taylor (1992), Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), đã chứng minh mối tương quan dương giữa yếu tố Cơ sở vật chất và Sự hài lòng của khách hàng đối với dịch vụ công. Từ đó, tác giả đề xuất giả thuyết H 3  như sau:
 Giả thuyết H 3 : Năng lực phục vụ có tác động cùng chiều (+) đối với sự hài
-lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT.Page 42
+lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT.
+Page 42
 
 Tính minh bạch
 Tính minh bạch là việc doanh nghiệp có được những thông tin quy định về bộ thủ tục hành chính, tiến trình giải quyết công việc của cơ quan Hải quan. Tính minh bạch của cơ quan hải quan dành cho doanh nghiệp càng cao thì doanh nghiệp càng cảm thấy hài lòng. Nghiên cứu Nguyễn Hữu Vinh (2016) đã chỉ ra mối quan hệ giữa Tính minh bạch và sự hài lòng của doanh nghiệp đối với dịch vụ công. Vì vậy, tác giả đề ra giả thuyết:
@@ -556,7 +600,8 @@ khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT. S
 Sự cảm thông của CBCC là thái độ quan tâm và chia sẻ của CBCC thực hiện KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu đối với DN. Sự đồng cảm của các CBCC sẽ được đánh giá qua các khía cạnh: luôn lắng nghe những yêu cầu của các DN; luôn quan tâm, giải quyết khiếu nại một cách nhanh chóng, thỏa đáng; luôn giải đáp các thắc mắc. Theo nghiên cứu Phan Võ Lâm Giang (2015) thì sự đồng cảm của CBCC là yếu tố có thúc đẩy sự hài lòng của người dân đối với dịch vụ hành chính công và việc đánh giá độ tin cậy của dịch vụ hành chính công. Theo Parasuraman và cộng sự (1988), Cronin và Taylor (1992), Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), đã chứng minh mối tương quan dương giữa yếu tố Sự cảm thông và Sự hài lòng của khách hàng đối với dịch vụ công. Từ đó, tác giả đề xuất giả thuyết H 5  như sau:
 Giả thuyết H 5 : Sự cảm thông có tác động cùng chiều (+) đối với sự hài lòng của
 khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT. Quy trình thủ tục
-Quy trình thủ tục là bao gồm các giai đoạn, các bước thực hiện KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Cục Hải quan tỉnh Bà Rịa Vũng Tàu cần thực hiện quy trình thủ tục một cách chuẩn mực và quản lý tốt những vấn đề có thể xảy ra làm ảnh hưởng tới hiệu quả KTSTQ. Bên cạnh đó, việc thực hiện quy trình cũng cần đáp ứng sự mong đợi của DN. Tổ chức thực hiện quy trình thủ tục tốt thì CBCC làm việc với phong cách phục vụ chuyên nghiệp và hiệu quả hơn, tránh được nhữngPage 43
+Quy trình thủ tục là bao gồm các giai đoạn, các bước thực hiện KTSTQ của Cục Hải quan tỉnh Bà Rịa Vũng Tàu. Cục Hải quan tỉnh Bà Rịa Vũng Tàu cần thực hiện quy trình thủ tục một cách chuẩn mực và quản lý tốt những vấn đề có thể xảy ra làm ảnh hưởng tới hiệu quả KTSTQ. Bên cạnh đó, việc thực hiện quy trình cũng cần đáp ứng sự mong đợi của DN. Tổ chức thực hiện quy trình thủ tục tốt thì CBCC làm việc với phong cách phục vụ chuyên nghiệp và hiệu quả hơn, tránh được những
+Page 43
 
 sai sót trong khi thực hiện KTSTQ. Nhờ đó mà các DN sẽ đánh giá cao chất lượng KTSTQ. Theo nghiên cứu Phan Võ Lâm Giang (2015) thì Quy trình thủ tục là yếu tố có thúc đẩy sự hài lòng của người dân, DN đối với dịch vụ hành chính công và việc đánh giá độ tin cậy của dịch vụ hành chính công. Theo Nguyễn Huỳnh Sang (2016) đã chứng minh mối tương quan dương giữa yếu tố Quy trình thủ tục và Sự hài lòng của khách hàng đối với dịch vụ công. Từ đó, tác giả đề xuất giả thuyết H 6
 như sau:
@@ -565,11 +610,13 @@ lòng của khách hàng DN về KTSTQ tại Cục Hải quan tỉnh BRVT.
 Giả thuyết H 7 : Có sự khác biệt về sự hài lòng của khách hàng DN đối với hoạt
 động KTSTQ tại Cục Hải quan tỉnh BRVT theo loại hình doanh nghiệp.
 Giả thuyết H 8 : Có sự khác biệt về sự hài lòng của khách hàng DN đối với hoạt
-động KTSTQ tại Cục Hải quan tỉnh BRVT theo quy mô doanh nghiệp.Page 44
+động KTSTQ tại Cục Hải quan tỉnh BRVT theo quy mô doanh nghiệp.
+Page 44
 
 TÓM TẮT CHƯƠNG 2
 Chương 2 tổng hợp cơ sở lý thuyết về sự hài lòng của khách hàng đối với chất lượng dịch vụ đang được sử dụng rộng rãi hiện nay. Bên cạnh đó, tác giả cũng lược khảo các nghiên cứu trong và ngoài nước có liên quan đến vấn đề nghiên cứu. Qua đó, tác giả tiến hành xây dựng mô hình nghiên cứu đề xuất gồm 06 yếu tố là: (1) Độ tin cậy, (2) Cơ sở vật chất, (3) Năng lực phục vụ, (4) Tính minh bạch, (5) Sự cảm thông và (6) Quy trình thủ tục và biến phụ thuộc là Sự hài lòng của khách hàng doanh nghiệp.
-Việc tìm hiểu những nội dung này sẽ là cơ sở vững chắc cho việc lý giải các vấn đề được phân tích ở chương tiếp theo. Chương tiếp theo sẽ trình bày phương pháp nghiên cứu được thực hiện để kiểm định giả thuyết và mô hình nghiên cứ u.Page 45
+Việc tìm hiểu những nội dung này sẽ là cơ sở vững chắc cho việc lý giải các vấn đề được phân tích ở chương tiếp theo. Chương tiếp theo sẽ trình bày phương pháp nghiên cứu được thực hiện để kiểm định giả thuyết và mô hình nghiên cứ u.
+Page 45
 
 Chương này với mục đích giới thiệu phương pháp nghiên cứu được sử dụng để xây dựng, đánh giá các thang đo lường những khái niệm nghiên cứu. Trong chương này gồm những phần chính là: phương pháp nghiên cứu, xây dựng thang đo, mô tả dữ liệu nghiên cứu.
 3.1. QUY TRÌNH NGHIÊN CỨU
@@ -589,7 +636,8 @@ Kiểm định giả thuyết nghiên cứu o Kiểm tra độ phù hợp của 
 số hồi quy.
 Viết báo cáo nghiên cứu
 Hình 3.1. Quy trình nghiên cứu
-Nghiên cứu định lượng (Nguồn: tác giả nghiên cứu)Page 46
+Nghiên cứu định lượng (Nguồn: tác giả nghiên cứu)
+Page 46
 
 3.2. PHƯƠNG PHÁP NGHIÊN CỨU
 Nghiên cứu các yếu tố ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT được thực hiện bằng hai phương pháp: nghiên cứu định tính và nghiên cứu định lượng.
@@ -599,13 +647,15 @@ Nghiên cứu định tính dược thực hiện bằng phương pháp thảo l
 Kết quả thảo luận nhóm cho thấy, những người tham gia đều hiểu rõ nội dung về sự hài lòng của khách hàng DN đối với hoạt động KTSTQ. Hơn 2/3 thành viên nhóm thảo luận cũng cho rằng 06 yếu tố mà tác giả đã nêu trong quá trình thảo luận là khá đầy đủ về nghiên cứu sự hài lòng của khách hàng DN đối với hoạt động KTSTQ (Phụ lục 2- Kết quả thảo luận nhóm). Trên cơ sở các ý kiến đóng góp, bảng câu hỏi khảo sát được xây dựng. Sau khi thử nghiệm để kiểm tra điều chỉnh cách trình bày ngôn ngữ, bảng câu hỏi chính thức được sử dụng cho nghiên cứu định lượng tiếp theo.
 3.2.2. Nghiên cứu định lượng
 3.3.2.1. Nghiên cứu định lượng sơ bộ
-Nghiên cứu định lượng sơ bộ được thực hiện bằng phương pháp khảo sát 50 giám đốc hoặc người đại diện doanh nghiệp có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và được cơ quan hải quan KTSTQ. Mục đích nhằm đánh giá nội dung và hình thức các phát biểu trong thang đo nháp nhằm hoàn chỉnhPage 47
+Nghiên cứu định lượng sơ bộ được thực hiện bằng phương pháp khảo sát 50 giám đốc hoặc người đại diện doanh nghiệp có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và được cơ quan hải quan KTSTQ. Mục đích nhằm đánh giá nội dung và hình thức các phát biểu trong thang đo nháp nhằm hoàn chỉnh
+Page 47
 
 thang đo chính thức được dùng trong nghiên cứu chính thức. Trong đó nhiệm vụ quan trọng của bước này là đánh giá đáp viên có hiểu được các phát biểu hay không? (đánh giá về mặt hình thức là bước kiểm tra mức độ phù hợp về mặt từ ngữ, ngữ pháp trong các phát biểu đảm bảo tính thống nhất, rõ ràng, không gây nhầm lẫn cho các đáp viên) và đánh giá độ tin cậy của các biến quan sát với thang đo Likert 5 (1- Rất không đồng ý, 2-Không đồng ý, 3 - Không có ý kiến, 4- Đồng ý, 5 – Rất đồng ý) nhằm loại bỏ những biến không phù hợp và đưa ra bảng câu hỏi chính thức. 3.3.2.2. Nghiên cứu định lượng chính thức
 Nghiên cứu định lượng chính thức được thực hiện bằng phương pháp phương pháp khảo sát 205 giám đốc hoặc người đại diện doanh nghiệp có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và được cơ quan hải quan KTSTQ. Khi có kết quả, tác giả sẽ tiến hành tổng hợp thống kê dựa trên những thông tin thu được từ cuộc khảo sát. Nghiên cứu sử dụng phần mềm SPPSS 20 để kiểm định thang đo bằng chỉ số Cronbach’s Alpha. Sau khi phân tích Cronbach’s Alpha, phân tích yếu tố khám phá (EFA), kiểm định giả thuyết nghiên cứu bằng mô hình hồi quy với phần mềm SPSS 20.0 (Phụ lục 3 “Bảng khảo sát nghiên cứu”). 3.3. XÂY DỰNG THANG ĐO
 Thang đo các yếu tố ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ được xây dựng dựa trên thang đo Nguyễn Huỳnh Sang (2016), Nguyễn Hữu Vinh (2016), sau đó được điều chỉnh cho phù hợp với tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu thông qua nghiên cứu định tính bằng phương pháp thảo luận nhóm (Phụ lục 1). Thang đo sau khi điều chỉnh, bổ sung, thang đo chính thức được trình bày trong các bảng dưới đây.
 Thang đo “Độ tin cậy”
-Thang đo “Độ tin cậy” dựa trên thang đo Nguyễn Huỳnh Sang (2016) gồm 05  biến quan sát được mã hóa từ DTC1 đến DCT5.Page 48
+Thang đo “Độ tin cậy” dựa trên thang đo Nguyễn Huỳnh Sang (2016) gồm 05  biến quan sát được mã hóa từ DTC1 đến DCT5.
+Page 48
 
 Bảng 3.1. Thang đo Độ tin cậy
 Kí hiệu Biến quan sát Nguồn
@@ -627,7 +677,8 @@ CSVC3 Điện thoại sử dụng hiệu quả trong giải đáp thắc Nguyễ
 mắc của doanh nghiệp Sang (2016)
 Thiết bị công nghệ thông tin hiện đại được dùng Nguyễn Huỳnh CSVC4 phục vụ việc tập huấn và triển khai chính sách cho
 Sang (2016) doanh nghiệp
-CSVC5 Bố trí nơi đậu xe, phòng chờ đầy đủ, thoải mái Nguyễn Huỳnh Sang (2016) (Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)Page 49
+CSVC5 Bố trí nơi đậu xe, phòng chờ đầy đủ, thoải mái Nguyễn Huỳnh Sang (2016) (Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)
+Page 49
 
 Thang đo “Năng lực phục vụ”
 Thang đo “Năng lực phục vụ” dựa trên thang đo Nguyễn Huỳnh Sang (2016)  gồm 05 biến quan sát được mã hóa từ NLPV1 đến NLPV5.
@@ -649,7 +700,8 @@ TMB3 Các chi phí và lệ phí được công khai đầy đủ tại nơi Ngu
 làm việc. Vinh (2016)
 TMB4 Số điện thoại đường dây nóng, hòm thư góp ý có Nguyễn Hữu
 công khai tại nơi làm việc. Vinh (2016)
-(Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)Page 50
+(Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)
+Page 50
 
 Thang đo “Sự cảm thông”
 Thang đo “Sự cảm thông” dựa trên thang đo Nguyễn Huỳnh Sang (2016)  gồm 05 biến quan sát được mã hóa từ SCT1 đến SCT5.
@@ -673,7 +725,8 @@ dựng khoa học Sang (2016)
 QTTT2 Mẫu hồ sơ rõ ràng, dễ hiểu. Nguyễn Huỳnh
 Sang (2016) QTTT3 Quy trình, các bước xử lý kiểm tra sau thông quan Nguyễn Huỳnh
 được niêm yết công khai, đầy đủ. Sang (2016) QTTT4 Thủ tục kiểm tra sau thông quan đơn giản Kết quả nghiên
-cứu định tính (Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)Page 51
+cứu định tính (Nguồn: tác giả dựa vào nghiên cứu trước và có điều chỉnh)
+Page 51
 
 Thang đo “Sự hài lòng của khách hàng DN”
 Thang đo “Sự hài lòng của khách hàng DN” dựa trên thang đo Nguyễn  Huỳnh Sang (2016) gồm 04 biến quan sát được mã hóa từ SHL1 đến SHL4.
@@ -690,7 +743,8 @@ tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu
 Phương pháp chọn mẫu được chọn theo phương pháp lấy mẫu thuận tiện, phân tầng các DN đã được cơ quan hải quan KTSTQ. Đối tượng khảo sát: là 205 giám đốc hoặc người đại diện doanh nghiệp có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và được cơ quan hải quan KTSTQ.
 3.4.2. Kích thước mẫu
 Kích thước mẫu sẽ phụ thuộc vào việc ta muốn gì từ những dữ liệu thu thập được và mối quan hệ ta muốn thiết lập là gì (Kumar, 2005). Vấn đề nghiên cứu càng đa dạng phức tạp thì mẫu nghiên cứu càng lớn. Một nguyên tắc chung khác nữa là mẫu càng lớn thì độ chính xác của các kết quả nghiên cứu càng cao. Tuy nhiên trên thực tế thì việc lựa chọn kích thước mẫu còn phụ thuộc vào một yếu tố hết sức quan trọng là năng lực tài chính và thời gian mà nhà nghiên cứu đó có thể có được.
-Theo nghiên cứu của Bollen (1989), tính đại diện của số lượng mẫu được lựa chọn nghiên cứu sẽ thích hợp nếu kích thước mẫu là 5 quan sát cho một biến. MôPage 52
+Theo nghiên cứu của Bollen (1989), tính đại diện của số lượng mẫu được lựa chọn nghiên cứu sẽ thích hợp nếu kích thước mẫu là 5 quan sát cho một biến. Mô
+Page 52
 
 hình nghiên cứu trong luận văn bao gồm 7 nhân tố độc lập với 32 biến quan sát. Do đó, số lượng khảo sát cần thiết là n ≥ 32*5=160.
 Bảng 3.8. Số lượng DN XNK đã được KTSTQ giai đoạn 2015 – 2017
@@ -716,7 +770,8 @@ khảo sát Số lượng Tỷ lệ %
 6 2017 (6 tháng đầu năm) 95 26,84 55
 7 Tổng cộng 354 100,00% 205
 (Nguồn: tác giả tính toán và tổng  hợp)
-Phương pháp khảo sát: Tác giả tiến hành lấy mẫu bằng cách gửi bảng câu hỏi đến  khách hàng doanh nghiệp thông qua hình thức khảo sát trực tiếp. Hình thức khảo sátPage 53
+Phương pháp khảo sát: Tác giả tiến hành lấy mẫu bằng cách gửi bảng câu hỏi đến  khách hàng doanh nghiệp thông qua hình thức khảo sát trực tiếp. Hình thức khảo sát
+Page 53
 
 trực tiếp: tác giả đi đến từng doanh nghiệp để tiến hành khảo sát. Tác giả gặp trực tiếp đại diện doanh nghiệp để gửi bảng câu hỏi, các đại diện doanh nghiệp trả lời, và tác giả giải thích một số thắc mắc của đại diện doanh nghiệp trong quá trình trả lời. Cho đến khi đủ số lượng 205 thì tác giả dừng khảo sát.
 3.5. CÁC PHƯƠNG PHÁP PHÂN TÍCH DỮ LIỆU
@@ -727,7 +782,8 @@ Lập bảng tần số, để thống kê các đặc điểm của mẫu thu t
 Kiểm định độ tin cậy của các thang đo thông qua kiểm định hệ số tin cậy Cronbach’s Alpha và phân tích nhân tố khám phá (EFA).
 Hệ số Cronbach’s Alpha là một phép kiểm định thống kê về mức độ chặt chẽ mà các mục hỏi trong thang đo tương quan với nhau. Với phương pháp này, người phân tích có thể loại bỏ các biến không phù hợp và hạn chế các biến rác trong quá trình nghiên cứu. Các biến có hệ số tương quan biến-tổng (item-total correlation) nhỏ hơn 0,3 sẽ bị loại và tiêu chuẩn chọn thang đo khi nó có độ tin cậy Cronbach Alpha từ 0,6 trở lên (Nunnally và Burnstein, 1994).
 Theo Hoàng Trọng và Chu Nguyễn Mộng Ngọc (2008): “Nhiều nhà nghiên cứu đồng ý rằng khi Cronbach Alpha từ 0,8 trở lên đến gần 1 thì thang đo đo lường là tốt, từ gần 0,7 đến gần 0,8 là sử dụng được. Cũng có nhà nghiên cứu đề nghị rằng Cronbach Alpha từ 0,6 trở lên là có thể sử dụng được trong trường hợpkhái niệm đang đo lường là mới hoặc mới đối với người trả lời trong bối cảnh nghiên cứu”. Trong nghiên cứu này, Cronbach Alpha từ 0,6 trở lên là sử dụng được.
-Phân tích nhân tố khám phá (EFA) là kỹ thuật được sử dụng chủ yếu để thu nhỏ và tóm tắt dữ liệu sau khi đã đánh giá độ tin cậy của thang đo bằng hệ số Cronbach Alpha và loại đi các biến không đảm bảo độ tin cậy. Phương pháp nàyPage 54
+Phân tích nhân tố khám phá (EFA) là kỹ thuật được sử dụng chủ yếu để thu nhỏ và tóm tắt dữ liệu sau khi đã đánh giá độ tin cậy của thang đo bằng hệ số Cronbach Alpha và loại đi các biến không đảm bảo độ tin cậy. Phương pháp này
+Page 54
 
 phát huy tính hữu ích trong việc xác định các tập biến cho vấn đề nghiên cứu cũng như được sử dụng để tìm kiếm mối liên hệ giữa các biến với nhau.
 Khi phân tích nhân tố khám phá, các nhà nghiên cứu thường quan tâm đến một số tiêu chuẩn sau:
@@ -737,7 +793,8 @@ Thứ ba: thang đo được chấp nhận khi tổng phương sai trích ≥ 50
 Thứ tư: khác biệt hệ số tải nhân tố của một biến quan sát giữa các nhân tố ≥để đảm bảo giá trị phân biệt giữa các nhân tố (Jabnoun &amp; Al_Tamimi, 2003).
 Khi phân tích EFA, tác giả sử dụng phương pháp trích Principal Component Analysis với phép quay Varimax để tìm ra các nhân tố đại diện cho các biến và điểm dừng khi trích các nhân tố có eigenvalue lớn hơn 1. Varimax cho phép xoay nguyên góc các nhân tố để tối thiểu hóa số lượng biến có hệ số lớn tại cùng một nhân tố, vì vậy sẽ tăng cường khả năng giải thích các nhân tố.
 Kiểm định sự phù hợp mô hình
-Các thang đo được đánh giá đạt yêu cầu được đưa vào phân tích tương quan, và phân tích hồi quy để kiểm định các giả thuyết. Vì các biến được đo bằng thang đo khoảng, nên tác giả sử dụng phân tích tương quan Pearson để xác định các mối quan hệ có ý nghĩa thống kê giữa động lực làm việc chung với các biến tạo động lực trước khi tiến hành phân tích hồi quy.Page 55
+Các thang đo được đánh giá đạt yêu cầu được đưa vào phân tích tương quan, và phân tích hồi quy để kiểm định các giả thuyết. Vì các biến được đo bằng thang đo khoảng, nên tác giả sử dụng phân tích tương quan Pearson để xác định các mối quan hệ có ý nghĩa thống kê giữa động lực làm việc chung với các biến tạo động lực trước khi tiến hành phân tích hồi quy.
+Page 55
 
 Tiếp theo, tiến hành phân tích hồi quy tuyến tính đa biến bằng phương pháp bình phương nhỏ nhất thông thường nhằm kiểm định mối quan hệ giữa biến phụ thuộc và các biến độc lập. Phương pháp lựa chọn biến Enter được tiến hành. Do mô hình có nhiều biến độc lập nên hệ số xác định R 2  điều chỉnh dùng để xác định độ phù hợp của mô hình.
 Cuối cùng, nhằm đảm bảo độ tin cậy của phương trình hồi quy được xây dựng là phù hợp, cách dò tìm sự vi phạm của giả định cần thiết trong hồi quy tuyến tính cũng được thực hiện. Các giả định được kiểm định trong phần này gồm liên hệ tuyến tính (dùng biểu đồ phân tán Scatterplot), phương sai của phần dư không đổi (dùng hệ số tương quan hạng  Spearman),   phân  phối  chuẩn của phần  dư   (dùng Histogram và P-P plot), tính độc lập của phần dư (dùng đại lượng thống kê Durbin- Watson), hiện tượng đa cộng tuyến (tính độ chấp nhận Tolerance và hệ số phóng đại phương sai VIF).
@@ -748,7 +805,8 @@ Kiểm định sự khác biệt giữa các nhóm thống kê
 Sử dụng kiểm định T- test và ANOVA một chiều để kiểm định có hay không sự khác nhau trong đánh giá về sự hài lòng của DN giữa các nhóm thống kê bao gồm: loại hình doanh nghiệp, quy mô doanh nghiệp.
 Tuy nhiên, trước khi thực hiện kiểm định One Way ANOVA cần phải kiểm định Levene's Test sự bằng nhau của các phương sai tổng thể để xem xét mức độ đồng đều của dữ liệu quan sát.
 o Nếu Sig. &lt; 0,05: Phương sai giữa các nhóm đối tượng khác nhau là khác
-nhau hay không có phân phối chuẩn thì kiểm định Kruskal Wallis được sử dụng để kết luận cho trường hợp này.Page 56
+nhau hay không có phân phối chuẩn thì kiểm định Kruskal Wallis được sử dụng để kết luận cho trường hợp này.
+Page 56
 
 o Nếu Sig. ≥ 0,05: Phương sai không khác nhau hay có phân phối chuẩn. Ta  sẽ sử dụng kiểm định One Way ANOVA để kết luận.
 3.6. KẾT QUẢ NGHIÊN CỨU ĐỊNH LƯỢNG SƠ BỘ
@@ -786,7 +844,8 @@ SCT2 12,2200 8,093 0,650 0,775 Biến phù hợp
 SCT3 12,1400 8,735 0,595 0,792 Biến phù hợp
 SCT4 12,1600 8,790 0,571 0,798 Biến phù hợp
 SCT5 11,8600 8,613 0,541 0,808 Biến phù hợp
-(Nguồn: Xử lý từ dữ liệu khảo sát sơ bộ của tác giả)Page 57
+(Nguồn: Xử lý từ dữ liệu khảo sát sơ bộ của tác giả)
+Page 57
 
 Bảng 3.11. Kết quả đánh giá độ tin cậy thang đo sơ bộ bằng Cronbach’s Alpha (tiếp theo)
 Trung Phương Tương Cronbach’s Biến bình thang sai thang quan
@@ -802,11 +861,13 @@ SHL1 8,8000 2,571 0,757 0,848 Biến phù hợp
 SHL2 8,9000 2,337 0,774 0,842 Biến phù hợp
 SHL3 8,7800 2,298 0,786 0,837 Biến phù hợp
 SHL4 8,9200 2,810 0,690 0,874 Biến phù hợp
-(Nguồn: Xử lý từ dữ liệu khảo sát sơ bộ của tác giả)Page 58
+(Nguồn: Xử lý từ dữ liệu khảo sát sơ bộ của tác giả)
+Page 58
 
 TÓM TẮT CHƯƠNG 3
 Chương này đã trình bày phương pháp nghiên cứu, phương pháp chọn mẫu, mô tả quy trình nghiên cứu, điều chỉnh thang đo đồng thời trình bày phương pháp phân tích dữ liệu. Phương pháp nghiên cứu được thực hiện để xây dựng, đánh giá các thang đo và mô hình lý thuyết về Sự hài lòng của khách hàng DN đối với hoạt động KTSTQ. Phương pháp nghiên cứu được thực hiện bằng hai phương pháp: nghiên cứu định tính và nghiên cứu định lượng.
-Phương pháp nghiên cứu định tính thông qua kỹ thuật thảo luận nhóm, qua bước nghiên cứu này, các thang đo đo lường các khái niệm cũng được xây dựng để phục vụ cho nghiên cứu chính thức. Phương pháp nghiên cứu định lượng thông qua khảo sát với cỡ mẫu là 205 phiếu khảo sát, sử dụng công cụ SPSS để phân tích như: thống kê mô tả, kiểm định Cronbach’s Alpha, phân tích nhân tố EFA, phân tích tương quan, hồi quy bội.Page 59
+Phương pháp nghiên cứu định tính thông qua kỹ thuật thảo luận nhóm, qua bước nghiên cứu này, các thang đo đo lường các khái niệm cũng được xây dựng để phục vụ cho nghiên cứu chính thức. Phương pháp nghiên cứu định lượng thông qua khảo sát với cỡ mẫu là 205 phiếu khảo sát, sử dụng công cụ SPSS để phân tích như: thống kê mô tả, kiểm định Cronbach’s Alpha, phân tích nhân tố EFA, phân tích tương quan, hồi quy bội.
+Page 59
 
 CHƯƠNG 4
 KẾT QUẢ NGHIÊN CỨU VÀ THẢO LUẬN
@@ -816,14 +877,16 @@ Cục Hải quan Tỉnh Bà Rịa - Vũng Tàu tiền thân là Chi Cục Hải 
 4.1.2. Cơ cấu tổ chức Cục Hải quan tỉnh Bà Rịa - Vũng Tàu
 Theo quy định hiện hành tại Quyết định số 1919/QĐ-BTC ngày 06 tháng 9 năm 2016 của Bộ trưởng Bộ Tài chính quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc Trung ương thì Cục Hải quan tỉnh Bà Rịa - Vũng Tàu gồm 09 Phòng chức năng, 05 Chi cục Hải quan cửa khẩu (đơn vị thông quan), 01 Chi cục Kiểm tra Sau thông quan và 01 Đội Kiểm soát với biên chế hiện tại đang làm việc là 256 cán bộ, công chức.
 Tháng 8 năm 2017, Cục Hải quan tỉnh BR-VT thực hiện sáp nhập Phòng Tổ chức cán bộ và Phòng Thanh tra thành 01 Phòng với tên gọi Phòng Tổ chức cán bộ -Thanh tra cho phù hợp theo quy định mới tại Quyết định số 1919/QĐ-BTC ngày 06/9/2016 của Bộ trưởng Bộ Tài Chính.
-Về cơ cấu tổ chức chung trong ngành Hải quan, Cục Hải quan tỉnh BR-VT có cơ cấu tổ chức tương đương với các Cục Hải quan tỉnh, thành phố thuộc Nhóm 2 gồm Cục Hải quan thành phố Đà Nẵng, Cục Hải quan tỉnh Quảng Ninh, Cục HảiPage 60
+Về cơ cấu tổ chức chung trong ngành Hải quan, Cục Hải quan tỉnh BR-VT có cơ cấu tổ chức tương đương với các Cục Hải quan tỉnh, thành phố thuộc Nhóm 2 gồm Cục Hải quan thành phố Đà Nẵng, Cục Hải quan tỉnh Quảng Ninh, Cục Hải
+Page 60
 
 quan   tỉnh   Lạng   Sơn,   Cục   Hải   quan   tỉnh   Đồng   Nai   và   Cục   Hải   quantỉnh   Bình Dương. Những Cục Hải quan còn lại (từ Nhóm 3 đến Nhóm 7) có cơ cấu tổ chức nhỏ hơn.
 Tuy nhiên xét về số lượng cán bộ, công chức được phân bổ thì hiện tại Cục Hải quan tỉnh BR-VT đứng thứ 9, sau Cục Hải quan của các tỉnh, thành phố gồm: thành phố Hồ Chí Minh, thành phố Hà Nội, thành phố Hải Phòng, tỉnh Quảng Ninh, tỉnh Lạng Sơn, tỉnh Đồng Nai, và tỉnh Bình Dương.
 4.1.3. Giới thiệu Chi cục kiểm tra sau thông quan
 Chi cục Kiểm tra sau thông quan là đơn vị trực thuộc Cục Hải quan tỉnh Bà Rịa – Vũng Tàu, có chức năng tham mưu, giúp Cục trưởng Cục Hải quan Tỉnh về công tác kiểm tra sau thông quan, trực tiếp thực hiện kiểm tra sau thông quan đối với các doanh nghiệp và hướng dẫn, kiểm tra công tác phúc tập hồ sơ tại các Chi cục thuộc phạm vi quản lý của Cục Hải quan tỉnh.
 Chi cục Kiểm tra sau thông quan thuộc Cục Hải quan tỉnh Bà rịa – Vũng tàu được thành lập vào tháng 8 năm 2006, tiền than là Phòng Kiểm tra sau thông quan thuôc Cục Hải quan tỉnh Bà rịa – Vũng tàu thành lập vào tháng 3 năm 2003. thực hiện nhiệm vụ, quyền hạn theo quy định của Luật Hải quan, các quy định khác của Pháp luật có liên quan với những nhiệm vụ và quyền hạn được quy định cụ thể tại Quyết định số 1166/QĐ-TCHQ ngày 09 tháng 06 năm 2010 của Tổng cục Hải quan. Chi cục gồm 02 đội chức năng là Đội Kiểm tra sau thông quan và Đội Tham mưu tổng hợp. Nhiệm vụ cụ thể của các Đội do Cục trưởng Cục Hải quan Tỉnh quy định. Biên chế của Chi cục do Cục trưởng Cục Hải quan Tỉnh quyết định trong tổng số biên chế được giao.
-Gắn liền với quá trình hình thành và phát triển của Cục Hải quan Tỉnh Bà Rịa – Vũng Tàu, Chi cục Kiểm tra sau thông quan luôn nỗ lực đẩy mạnh cải cách thủ tục hành chính, không ngừng nâng cao chất lượng cán bộ công chức, nêu cao tinh  thần thực hiện phương châm hoạt động của Ngành là “Chuyên nghiệp – Minh bạch – Hiệu quả”, góp phần cùng với Cục Hải quan Tỉnh thực hiện tốt công tác quản lý nhà nước về Hải quan. Trong suốt quá trình hoạt động, Chi cục đã đạt được nhiềuPage 61
+Gắn liền với quá trình hình thành và phát triển của Cục Hải quan Tỉnh Bà Rịa – Vũng Tàu, Chi cục Kiểm tra sau thông quan luôn nỗ lực đẩy mạnh cải cách thủ tục hành chính, không ngừng nâng cao chất lượng cán bộ công chức, nêu cao tinh  thần thực hiện phương châm hoạt động của Ngành là “Chuyên nghiệp – Minh bạch – Hiệu quả”, góp phần cùng với Cục Hải quan Tỉnh thực hiện tốt công tác quản lý nhà nước về Hải quan. Trong suốt quá trình hoạt động, Chi cục đã đạt được nhiều
+Page 61
 
 thành tích đáng khích lệ với các danh hiệu thi đua và hình thức khen thưởng cấp cao của Chính phủ và Nhà nước.
 Hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT từ khi mới thành lập đến nay đã đạt một số kết quả khả quan, góp phần tăng số thu nộp ngân sách, chấn chỉnh công tác quản lý Nhà nước về hải quan đối với các DN đóng trên địa bàn và đã thật sự trở thành lực lượng quản lý không thể thiếu trong công tác quản lý hải quan hiện đại. Kết quả cụ thể từ năm 2012-2017 như sau:
@@ -840,7 +903,8 @@ KTSTQ thu được phạt VPHC
 (6T đầu năm)
 7 Tổng cộng 700 277.618.162.501 36.861.910.144 (Nguồn: cục hải quan tỉnh BRVT, 2017) Số thu nộp ngân sách tăng qua các
 năm cho thấy, các DN làm thủ tục hải quan tại Cục Hải quan tỉnh BRVT vẫn còn nhiều sai sót, gian lận trong hoạt động XNK. 4.2. THỐNG KÊ MÔ TẢ DỮ LIỆU
-Nghiên cứu được tiến hành khảo sát 205 doanh nghiệp, đối tượng là giám đốc hoặc người đại diện DN có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và đã được cơ quan hải quan KTSTQ từ năm 2015 đến tháng 06 năm 2017. Kết quả thu về được 205 bảng khảo sát, sau khi loại bỏ phiếu trả lời không đạt yêu cầu (trả lời không đầy đủ, câu trả lời có từ hai lựa chọn trở lên) thì số lượng còn lại là 204 bảng, đạt tỷ lệ 99,51%. Phân loại 204 DN được khảo sát theo thành phần loại hình doanh nghiệp, quy mô doanh nghiệp. (Phụ lục 5).Page 62
+Nghiên cứu được tiến hành khảo sát 205 doanh nghiệp, đối tượng là giám đốc hoặc người đại diện DN có làm thủ tục xuất nhập khẩu tại Cục Hải quan tỉnh Bà Rịa Vũng Tàu và đã được cơ quan hải quan KTSTQ từ năm 2015 đến tháng 06 năm 2017. Kết quả thu về được 205 bảng khảo sát, sau khi loại bỏ phiếu trả lời không đạt yêu cầu (trả lời không đầy đủ, câu trả lời có từ hai lựa chọn trở lên) thì số lượng còn lại là 204 bảng, đạt tỷ lệ 99,51%. Phân loại 204 DN được khảo sát theo thành phần loại hình doanh nghiệp, quy mô doanh nghiệp. (Phụ lục 5).
+Page 62
 
 4.2.1. Kết quả khảo sát về loại hình doanh nghiệp
 Loại hình doanh nghiệp
@@ -867,7 +931,8 @@ Quy mô doanh nghiệp
 0
 Dưới 100 lao động Từ 100 - 200 lao động Từ 200 - 300 lao động Trên 300 lao động
 Hình 4.2. Mô tả mẫu theo quy mô doanh nghiệp
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)Page 63
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)
+Page 63
 
 Theo kết quả khảo sát cho thấy, DN có quy mô lao động lớn nhất là từ 100 đến dưới 200 lao độngchiếm 47,1% (96 DN). Tiếp theo là từ 200 đến dưới 300 lao động chiếm 31,9% (65 DN) và trên 300 lao động chiếm 13,2% (27 DN). Còn lại là dưới 100 lao động chiếm 7,8% (16 DN). Qua khảo sát cho thấy chủ yếu công ty được  KTSTQ có quy mô DN khoảng từ 100 đến dưới 200 lao động.
 4.3. ĐÁNH GIÁ ĐỘ TIN CẬY CỦA THANG ĐO
@@ -885,7 +950,8 @@ DTC3 15,3990 9,172 0,693 0,811 Biến phù hợp
 DTC4 15,4039 9,222 0,642 0,823 Biến phù hợp
 DTC5 15,6207 8,880 0,655 0,819 Biến phù hợp
 (Nguồn: Xử lý từ dữ liệu khảo sát của tác giả) 4.3.1.2. Kiểm định độ tin cậy đối với thang đo Cơ sở vật chất
-Kết quả Cronbach’s Alpha của thang đo là 0,794 &gt; 0,6; các hệ số tương quan  biến tổng của các biến quan sát trong thang đo đều lớn hơn 0,3 và không có trườngPage 64
+Kết quả Cronbach’s Alpha của thang đo là 0,794 &gt; 0,6; các hệ số tương quan  biến tổng của các biến quan sát trong thang đo đều lớn hơn 0,3 và không có trường
+Page 64
 
 hợp loại bỏ biến quan sát nào có thể làm cho Cronbach’s Alpha của thang đo này lớn hơn 0,794. Vì vậy, tất cả các biến quan sát đều được chấp và sẽ được sử dụng trong phân tích nhân tố tiếp theo.
 Bảng 4.3. Kết quả đánh giá độ tin cậy thang đo Cơ sở vật chất Trung bình Phương Tương Cronbach’s
@@ -909,7 +975,8 @@ NLPV2 14,4265 6,985 0,608 0,744 Biến phù hợp
 NLPV3 14,4020 6,429 0,711 0,710 Biến phù hợp
 NLPV4 14,4804 6,192 0,500 0,781 Biến phù hợp
 NLPV5 14,5196 6,005 0,512 0,780 Biến phù hợp
-(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)Page 65
+(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
+Page 65
 
 4.3.1.2. Kiểm định độ tin cậy đối với thang đo Tính minh bạch
 Kết quả Cronbach’s Alpha của thang đo là 0,816 &gt; 0,6; các hệ số tương quan biến tổng của các biến quan sát trong thang đo đều lớn hơn 0,3 và không có trường hợp loại bỏ biến quan sát nào có thể làm cho Cronbach’s Alpha của thang đo này lớn hơn 0,816. Vì vậy, tất cả các biến quan sát đều được chấp và sẽ được sử dụng trong phân tích nhân tố tiếp theo.
@@ -934,7 +1001,8 @@ SCT2 12,6765 5,737 0,662 0,776 Biến phù hợp
 SCT3 12,6029 5,669 0,722 0,762 Biến phù hợp
 SCT4 12,6275 5,732 0,695 0,769 Biến phù hợp
 SCT5 12,3922 4,722 0,516 0,859
-(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)Page 66
+(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
+Page 66
 
 Sau khi loại biến SCT5, tiến hành kiểm định lại hệ số Cronbach’s Alpha của thang đo Sự cảm thông. Kết quả Cronbach’s Alpha của thang đo sau khi loại biến SVT5 là 0,859 &gt; 0,6; các hệ số tương quan biến tổng của các biến quan sát trong thang đo đều lớn hơn 0,3 và không có trường hợp loại bỏ biến quan sát nào có thể làm cho Cronbach’s Alpha của thang đo này lớn hơn 0,859. Vì vậy, tất cả các biến quan sát đều được chấp thuận và sẽ được sử dụng trong phân tích nhân tố tiếp theo.
 Bảng 4.7. Kết quả đánh giá độ tin cậy thang đo Sự cảm thông sau khi loại biến
@@ -959,7 +1027,8 @@ QTTT1 11,1520 4,790 0,563 0,824 Biến phù hợp
 QTTT2 11,2794 4,636 0,716 0,752 Biến phù hợp
 QTTT3 11,1814 4,583 0,682 0,766 Biến phù hợp
 QTTT4 11,1520 4,928 0,656 0,780 Biến phù hợp
-(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)Page 67
+(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
+Page 67
 
 4.3.1.5. Kiểm định độ tin cậy đối với thang đo Sự hài lòng của khách hàng DN Kết quả Cronbach’s Alpha của thang đo là 0,818 &gt; 0,6; các hệ số tương quan biến tổng của các biến quan sát trong thang đo đều lớn hơn 0,3 và không có trường hợp loại bỏ biến quan sát nào có thể làm cho Cronbach’s Alpha của thang đo này lớn hơn 0,818. Vì vậy, tất cả các biến quan sát đều được chấp và sẽ được sử dụng trong phân tích nhân tố tiếp theo.
 Bảng 4.9. Kết quả đánh giá độ tin cậy thang đo Sự hài lòng của khách hàng DN
@@ -975,7 +1044,8 @@ SHL4 11,1863 4,724 0,640 0,772 Biến phù hợp
 4.3.2. Phân tích nhân tố khám phá EFA
 4.3.2.1. Phân tích nhân tố thang đo các biến độc lập
 Sau khi phân tích hệ số tin cậy Cronbach’s alpha, các thang đo được đánh giá tiếp theo bằng phương pháp phân tích nhân tố khám phá EFA. Do biến SCT5 bị loại trong phần kiểm định độ tin cậy nên trong phân tích nhân tố khám phá EFA, biến SCT5 không được đưa vào. Kết quả Cronbach’s Alpha cho thấy có 27 biến quan sát của 06 thành phần đo lường sự hài lòng của khách hàng DN đủ yêu cầu về độ tin cậy. Vì vậy, 27 biến quan sát của thang đo này được tiếp tục đánh giá bằng EFA (Phụ lục 7).
-Sử dụng phương pháp trích yếu tố Principal Component Analysis với phép xoay Varimax khi phân tích factor cho 27 biến quan sát.Page 68
+Sử dụng phương pháp trích yếu tố Principal Component Analysis với phép xoay Varimax khi phân tích factor cho 27 biến quan sát.
+Page 68
 
 Bảng 4.10. Kết quả kiểm định KMO và Bartlett các biến độc lập Hệ số KMO (Kaiser-Meyer-Olkin) 0,854
 Giá trị Chi bình phương 2544,954
@@ -1013,7 +1083,8 @@ TMB1 0,816
 TMB2 0,760
 TMB3 0,675
 TMB4 0,547
-(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)Page 69
+(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
+Page 69
 
 Tại các mức giá trị Eigenvalues lớn hơn 1 và với phương pháp rút trích principal components và phép quay varimax, phân tích nhân tố đã trích được 6 nhân tố từ 27 biến quan sát và với phương sai trích là 64,437% (lớn hơn 50%) đạt yêu cầu.
 Dựa trên phân tích của bảng kết quả phân tích nhân tố khám phá lần 1 các biến có trọng số nhỏ hơn 0,5 sẽ bị loại, các biến có trọng số không đạt độ phân biệt cao giữa các nhân tố, cụ thể là nhỏ hơn 0,3 cũng sẽ bị loại. Cụ thể biến bị loại: CSVC5.
@@ -1048,7 +1119,8 @@ TMB3 0,691
 TMB4 0,563
 Eigenvalue 6,989 2,96 2,818 1,664 1,452 1,165
 Phương sai trích % 26,879 11,384 10,837 6,4 5,583 4,479 Phương sai tích lũy 26,879 38,263 49,101 55,501 61,084 65,563
-(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)Page 70
+(Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
+Page 70
 
 Sau khi loại các biến không thỏa mãn trong thành phần, các nhân tố tác động đến Sự hài lòng của khách hàng DN được đo bằng 27 biến quan sát. Kết quả phân tích nhân tố lần 2 (Phụ lục 7) cho thấy tổng phương sai rút trích dựa trên 06 nhân tố có Eigenvanlues lớn hơn 1 là bằng 65,563% cho thấy phương sai rút trích đạt yêu cầu (&gt; 50%).
 Sau khi tiến hành phân tích nhân tố do có một số biến quan sát bị loại trong thang đo Cơ sở vật chất, nên ta kiểm định lại hệ số Cronbach’s Alpha của hai thang đo trên (Phụ lục 8). Kết quả như sau:
@@ -1063,7 +1135,8 @@ CSVC3 11,1765 5,062 0,551 0,736 Biến phù hợp
 CSVC4 11,0049 4,744 0,596 0,712 Biến phù hợp
 (Nguồn: Xử lý từ dữ liệu khảo sát của tác giả)
 Kết quả kiểm định Cronbach’s Alpha sau khi thực hiện phân tích nhân tố khám phá ở bảng 4.6 cho thấy các nhân tố tác động đến Sự hài lòng của khách hàng DN sau khi đã loại các biến không đạt yêu cầu là CSVC5 đều có giá trị Cronbach’s Alpha &gt; 0,7 và hệ số tương quan biến tổng thấp nhất đều &gt; 0,5. Do đó, việc loại các biến CSVC5 ra khỏi thang đo của các nhân tố tác động đến Sự hài lòng của khách hàng DN trong nghiên cứu này là phù hợp và các biến quan sát còn lại được sử dụng cho bước nghiên cứu tiếp theo.
-Mô hình hồi quy sẽ có 07 biến độc lập:Page 71
+Mô hình hồi quy sẽ có 07 biến độc lập:
+Page 71
 
 Bảng 4.14. Các biến độc lập của mô hình hồi quy
 STT Tên biến Ký hiệu
@@ -1083,7 +1156,8 @@ Sig – mức ý nghĩa quan 0,000 sát
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Giả thuyết: H 03 : 4 biến quan sát trong tổng thể không có mối quan hệ với nhau.
 Kết quả: sig = 0,000 =&gt; bác bỏ giả thuyết H 03 . Hệ số KMO = 0,808 (giữa 0,5
 và 1). Kết quả này chỉ ra rằng các biến qua sát trong tổng thể có mối tương quan với nhau và phân tích nhân tố (EFA) là thích hợp.
-Bước 2: Tiến hành phương pháp trích nhân tố và phương pháp xoay nhân tố.Page 72
+Bước 2: Tiến hành phương pháp trích nhân tố và phương pháp xoay nhân tố.
+Page 72
 
 Bảng 4.16. Kết quả phân tích nhân tố-thang đo Sự hài lòng của khách hàng doanh nghiệp
 Hệ số nhân tố tải 1
@@ -1096,7 +1170,8 @@ Phương sai trích tích lũy (%) 64,925
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)  Kết quả phân tích EFA cho thấy, với phương pháp trích nhân tố Principal Axis Factoring với phép xoay Promax (Oblique) cho phép trích được một nhân tố với 4 biến   quan   sát   và   phương   sai   trích   tích   lũy   được   là   64,925%   (&gt;   50%),   Giá   trị Eigenvalue là 2,547 (đạt yêu cầu Eigenvalue &gt; 1), các hệ số tải nhân tố của các biến quan sát đều lớn hơn 0,5 =&gt; Thang đo đạt yêu cầu. Các biến đo lường thành phần Sự hài lòng của khách hàng DN đều được sử dụng trong các phân tích tiếp theo.
 Các biến đo lường thành phần Sự hài lòng của khách hàng DN đều được sử dụng trong các phân tích tiếp theo. Biến phụ thuộc sẽ nhận giá trị trung bình của các biến quan sát tương ứng để sử dụng cho các phân tích tiếp theo.
 4.4. PHÂN TÍCH TƯƠNG QUAN VÀ HỒI QUY 4.4.1. Phân tích tương quan
-Phân tích tương quan được thực hiện giữa biến phụ thuộc Sự hài lòng của khách hàng DN (SHL) với các biến độc lập: Độ tin cậy (DTC), Cơ sở vật chất (CSVC), Năng lực phục vụ (NLPV), Tính minh bạch (TMB), Sự cảm thông (SCT) và Quy trình thủ tục (QTTT), sử dụng phân tích tương quan Pearson’s. Kết quả xem bảng 4.17 (Phụ lục 9).Page 73
+Phân tích tương quan được thực hiện giữa biến phụ thuộc Sự hài lòng của khách hàng DN (SHL) với các biến độc lập: Độ tin cậy (DTC), Cơ sở vật chất (CSVC), Năng lực phục vụ (NLPV), Tính minh bạch (TMB), Sự cảm thông (SCT) và Quy trình thủ tục (QTTT), sử dụng phân tích tương quan Pearson’s. Kết quả xem bảng 4.17 (Phụ lục 9).
+Page 73
 
 Bảng 4.17. Kết quả phân tích tương quan
 DTC CSVC NLPV TMB STC QTTT SHL
@@ -1125,7 +1200,8 @@ N 204 204 204 204 204 204 204
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Xem xét ma trận tương quan cho thấy rằng mức ý nghĩa của các hệ số rất nhỏ (sig= 0 &lt; 0,05) nên các hệ số tương quan có ý nghĩa thống kê và đều đủ điều kiện để đưa vào phân tích hồi quy.
 Tuy nhiên, giá trị sig của yếu tố Cơ sở vật chất (CSVC) lớn hơn 0,05. Bước phân tích tương quan chỉ giúp chúng ta nhìn sơ khai mối quan hệ giữa biến độc lập và biến phụ thuộc là tương quan thuận chiều. Còn để khẳng định chính xác mối quan hệ tác động giữa các biến thì cần phân tích hồi quy. Vì vậy, tác giả vẫn giữ lại yếu tố Cơ sở vật chất (CSVC) để đưa vào phân tích hồi quy.
 4.4.2. Phân tích hồi quy
-Trên cơ sở thang đo các yếu tố ảnh hưởng đến Sự hài lòng của khách hàng DN đã được xem xét mối tương quan tuyến tính, tiếp tục sử dụng phân tích hồi quyPage 74
+Trên cơ sở thang đo các yếu tố ảnh hưởng đến Sự hài lòng của khách hàng DN đã được xem xét mối tương quan tuyến tính, tiếp tục sử dụng phân tích hồi quy
+Page 74
 
 để thấy mối quan hệ giữa các yếu tố ảnh hưởng tác động đến Sự hài lòng của khách hàng DN.
 Để kiểm định sự phù hợp giữa thành phần Độ tin cậy (DTC), Cơ sở vật chất (CSVC), Năng lực phục vụ (NLPV), Tính minh bạch (TMB), Sự cảm thông (SCT) và Quy trình thủ tục (QTTT) với Sự hài lòng của khách hàng DN, tác giả sử dụng hàm hồi quy tuyến tính với phương pháp đưa vào một lượt (Enter). Như vậy thành phần DTC, CSVC, NLPV, TMB, SCT, QTTT là biến độc lập và SHL là biến phụ thuộc sẽ được đưa vào chạy hồi quy cùng một lúc.
@@ -1144,26 +1220,30 @@ Hồi quy 88,290 6 14,715 97,614 0,000 b
 Tổng 117,987 203
 a, Biến phụ thuộc: SHL
 b, Biến độc lập: (Hằng số), QTTT, CSVC, STC, TMB, DTC, NLPV
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)Page 75
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)
+Page 75
 
 4.4.2.2. Kiểm định phân phối chuẩn
 Hình 4.3. Biểu đồ tần số của phần dư chuẩn hóa
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Quan sát biểu đồ tần số của phần dư chuẩn hóa (Hình 4.3) cho thấy phân phối chuẩn của phần dư xấp xỉ chuẩn Mean = -1,21E-15 (giá trị trung bình gần bằng
 0) và độ lệch chuẩn Std. Dev = 0,985 (độ lệch chuẩn gần bằng 1). Do đó có thể kết 
-luận giả thuyết phân phối chuẩn của phần dư không bị sai phạm.Page 76
+luận giả thuyết phân phối chuẩn của phần dư không bị sai phạm.
+Page 76
 
 Hình 4.4. Biểu đồ tần số P – P
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác  giả)
 Biểu đổ tần số P-P (Hình 4.4) cũng cho thấy các điểm của phần dư phân tán không cách xa mà phân tán ngẫu nhiên xung quanh đường chéo (đường thẳng kỳ vọng), do đó giả định về phân phối chuẩn của phần dư được thỏa mãn.
 4.4.2.3. Kiểm định đa cộng tuyến
-Hệ số phóng đại phương sai VIF (Variance Inflation factor – VIF) đạt giá trị lớn nhất là 1,666 (nhỏ hơn 10) cho thấy các biến độc lập này không có quan hệ chặt chẽ với nhau nên không có hiện tượng đa cộng tuyến xảy ra. Do đó, mối quan hệ giữa các biến độc lập không ảnh hưởng đáng kể đến kết quả giải thích của mô hình hồi quy (Bảng 4.20).Page 77
+Hệ số phóng đại phương sai VIF (Variance Inflation factor – VIF) đạt giá trị lớn nhất là 1,666 (nhỏ hơn 10) cho thấy các biến độc lập này không có quan hệ chặt chẽ với nhau nên không có hiện tượng đa cộng tuyến xảy ra. Do đó, mối quan hệ giữa các biến độc lập không ảnh hưởng đáng kể đến kết quả giải thích của mô hình hồi quy (Bảng 4.20).
+Page 77
 
 4.4.2.4. Kiểm định độc lập giữa các phần dư
 Hình 4.5. Đồ thị phân tán
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Quan sát đồ thị phân tán (Hình 4.5) ta thấy có sự phân tán đều. Như vậy, giả định phương sai không đổi của mô hình hồi quy không bị vi phạm.
 Ngoài ra, kiểm định Durbin – Watson (d) cho thấy kết quả d = 2,106 (1&lt; d &lt;3) nên ta có thể kết luận các phần dư là độc lập với nhau hay không có tương quan giữa các phần dư.
 Qua các kết quả kiểm định trên cho thấy các giả định của hàm hồi quy tuyến tính không bị vi phạm và mô hình hồi quy đã xây dựng là phù hợp với tổng thể. 4.4.2.5. Kiểm định các giả thuyết nghiên cứu
-Từ bảng thống kê phân tích các hệ số hồi quy (Bảng 4.20) cho thấy 06 biến độc lập lập DTC, CSVC, NLPV, TMB, SCT, QTTT có tác động cùng chiều vào biến phụ thuộc SHL vì hệ số hồi quy chuẩn hóa (β) của các biến này đều dươngPage 78
+Từ bảng thống kê phân tích các hệ số hồi quy (Bảng 4.20) cho thấy 06 biến độc lập lập DTC, CSVC, NLPV, TMB, SCT, QTTT có tác động cùng chiều vào biến phụ thuộc SHL vì hệ số hồi quy chuẩn hóa (β) của các biến này đều dương
+Page 78
 
 và có ý nghĩa thống kê (Sig.&lt; 0,05). So sánh mức độ tác động của 06 biến này vào biến phụ thuộc Sự hài lòng của khách hàng DN (SHL) theo thứ tự giảm dần như sau: ta thấy biến Tính minh bạch (TMB có tác động mạnh nhất (β 4  = 0,471), tiếp
 theo là biến Quy trình thủ tục (QTTC) (β 6   = 0,261), tiếp đến là biến Độ tin cậy
@@ -1188,7 +1268,8 @@ QTTT 0,220 0,034 0,261 6,501 0,000 0,792 1,263
 a. Biến phụ thuộc: SHL
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Phương trình hồi quy chưa chuẩn hóa có dạng:
 SHL= - 0,375 + 0,209*DTC + 0,100*CSVC + 0,126*NLPV + 0,394*TMB + 0,117*SCT + 0,220*QTTT
-Phương trình hồi quy chuẩn hóa có dạng:Page 79
+Phương trình hồi quy chuẩn hóa có dạng:
+Page 79
 
 SHL= 0,205*DTC + 0,080 *CSVC + 0,132*NLPV + 0,471*TMB + 0,114*SCT + 0,261*QTTT
 Kết quả kiểm định các giả thuyết nghiên cứu được tổng hợp trong bảng 4.21  như sau:
@@ -1211,7 +1292,8 @@ giả thuyết tại Cục Hải quan tỉnh BRVT.
 Giả thuyết H 6 : Quy trình thủ tục có tác động cùng Chấp nhận
 chiều (+) đối với sự hài lòng của khách hàng DN về 0,000
 giả thuyết KTSTQ tại Cục Hải quan tỉnh BRVT.
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)Page 80
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)
+Page 80
 
 Từ những phân tích trên, ta có thể kết luận rằng mô hình lý thuyết phù hợp với dữ liệu nghiên cứu và có 06 giả thuyết nghiên cứu được chấp nhận là H 1 , H 2,  H 3 ,
 H 4,   H 5 , H 6.   Qua kết quả kiểm định mô hình lý thuyết ta được mô hình kết quả
@@ -1231,7 +1313,8 @@ Hình 4.7. Mô hình kết quả nghiên cứu 4.5. KIỂM ĐỊNH SỰ KHÁC BI
 Bảng 4.22. Bảng kiểm định sự đồng nhất của phương sai đối với loại hình doanh nghiệp
 Thống kê Levene df1 df2 Sig.
 0,435 3 200 0,728
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Giá trị sig. = 0,728 &gt; 0,05 trong kiểm định thống kê Levence có thể nói phương sai của Sự hài lòng của khách hàng DN giữa các loại hình DN là không khác nhau, nghĩa là không có sự khác biệt phương sai của các loại hình DN.Page 81
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Giá trị sig. = 0,728 &gt; 0,05 trong kiểm định thống kê Levence có thể nói phương sai của Sự hài lòng của khách hàng DN giữa các loại hình DN là không khác nhau, nghĩa là không có sự khác biệt phương sai của các loại hình DN.
+Page 81
 
 Bảng 4.23. Bảng kiểm định Anova đối với loại hình doanh nghiệp
 Tổng bình df Trung bình F Sig,
@@ -1253,15 +1336,18 @@ phương bình phương
 Khác biệt giữa các nhóm 1,756 3 0,585 1,007 0,391
 Khác biệt trong từng nhóm 116,232 200 0,581
 Tổng số 117,987 203
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)Page 82
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)
+Page 82
 
 Giá trị sig. = 0,391 (bảng phân tích phương sai ANOVA) nên bác bỏ giả thiết H 8 , cho thấy không có sự khác biệt có ý nghĩa thống kê về Sự hài lòng của khách
 hàng DN theo quy mô DN, ở mức độ tin cậy 95%. 4.6. THẢO LUẬN KẾT QUẢ NGHIÊN CỨU
 So với các nghiên cứu của Nguyễn Huỳnh Sang (2016) được thực hiện tại Long An, với cùng đối tượng khảo sát là khách hàng DN, cùng đối tượng nghiên cứu là sự hài lòng đối với hoạt động KTSTQ. Hai nghiên cứu đều đã tìm ra được một số yếu tố tương đồng tác động đến sự hài lòng của khách hàng doanh nghiệp đối với hoạt động KTSTQ: Độ tin cậy, cơ sở vật chất, năng lực phục vụ, sự cảm thông, quy trình thủ tục. Tuy nhiên mức độ ảnh hưởng của các yếu tố không giống nhau, đồng thời trong nghiên cứu của tác giả đã chỉ ra được yếu tố mới so với nghiên cứu của Nguyễn Huỳnh Sang (2016): Tính minh bạch. Mặc khác, trong nghiên cứu của Nguyễn Huỳnh Sang (2016) đã có hai hạn chế: (1) thực hiện phương pháp lấy mẫu thuận tiện, dẫn đến tính đại diện cho quần thể mẫu nghiên cứu không cao; (3) nghiên cứu chưa thực hiện kiểm định sự khác biệt về mức độ hài lòng của khách hàng DN theo loại hình DN, quy mô DN, số năm làm thủ tục hải quan. Trong nghiên cứu của tác giả đã khắc phục được hai hạn chế này bằng cách thực hiện phương pháp chọn mẫu thuận tiện phân tầng để đảm bảo tính đại diện cho quần thể. Đồng thời, tác giả đã tiến hành kiểm định sự khác biệt về sự hài lòng của khách hàng DN theo loại hình DN, quy mô DN, số năm làm thủ tục hải quan. Tuy nhiên, kết quả kiểm định chưa tìm ra mối liên hệ của loại hình DN, quy mô DN, số năm làm thủ tục hải quan và sự hài lòng của khách hàng DN.
-So với các nghiên cứu của Nguyễn Hữu Vinh (2016) được thực hiện tại cục hải quan Bình Định, với cùng đối tượng khảo sát là khách hàng DN. Hai nghiên cứu khác nhau về đối tượng nghiên cứu, vì thế kết quả nghiên cứu cũng có sự khác biệt. Tuy nhiên, cả hai nghiên cứu đều đã tìm ra được một số yếu tố tương đồng tác động đến sự hài lòng của khách hàng DN: Độ tin cậy, Khả năng đáp ứng, Năng lực phục vụ, Sự cảm thông, Tính minh bạch, Cơ sở vật chất. Tuy nhiên mức độ ảnh hưởng của các yếu tố không giống nhau, đồng thời trong nghiên cứu của tác giả đã chỉ ra được yếu tố mới so với nghiên cứu của Nguyễn Hữu Vinh (2016): Quy trình thủPage 83
+So với các nghiên cứu của Nguyễn Hữu Vinh (2016) được thực hiện tại cục hải quan Bình Định, với cùng đối tượng khảo sát là khách hàng DN. Hai nghiên cứu khác nhau về đối tượng nghiên cứu, vì thế kết quả nghiên cứu cũng có sự khác biệt. Tuy nhiên, cả hai nghiên cứu đều đã tìm ra được một số yếu tố tương đồng tác động đến sự hài lòng của khách hàng DN: Độ tin cậy, Khả năng đáp ứng, Năng lực phục vụ, Sự cảm thông, Tính minh bạch, Cơ sở vật chất. Tuy nhiên mức độ ảnh hưởng của các yếu tố không giống nhau, đồng thời trong nghiên cứu của tác giả đã chỉ ra được yếu tố mới so với nghiên cứu của Nguyễn Hữu Vinh (2016): Quy trình thủ
+Page 83
 
 tục. Bên cạnh đó, trong nghiên cứu của Nguyễn Hữu Vinh (2016) cũng tồn tại hai hạn chế như nghiên cứu của Nguyễn Huỳnh Sang (2016) và đã được tác giả khác phục trong nghiên cứu của mình.
-Như vậy, có thể kết luận rằng, một mô hình nghiên cứu duy nhất không thể áp dụng được tại các cục hải quan khác nhau, mà cần phải nghiên cứu lại tại mỗi cục hải quan trước khi vận dụng vào thực tiễn.Page 84
+Như vậy, có thể kết luận rằng, một mô hình nghiên cứu duy nhất không thể áp dụng được tại các cục hải quan khác nhau, mà cần phải nghiên cứu lại tại mỗi cục hải quan trước khi vận dụng vào thực tiễn.
+Page 84
 
 TÓM TẮT CHƯƠNG 4
 Chương này trình bày kết quả về mẫu nghiên cứu dưới dạng mô tả thống kê, kết quả về kiểm định các thang đo của các khái niệm nghiên cứu thông qua đánh giá độ tin cậy Cronbach’s Alpha và phân tích nhân tố khám phá (EFA). Sau đó kiểm định sự phù hợp của mô hình nghiên cứu với các giả thuyết đã được đưa ra.
@@ -1270,7 +1356,8 @@ Kết quả phân tích hồi quy bội cho thấy 06 biến độc lập lập 
 biến Năng lực phục vụ (NLPV) (β 3  = 0,132), kế đến là biến Sự cảm thông (SCT) (β 5
 = 0,114), và tác động thấp nhất là biến Cơ sở vật chất (CSVC) (β 2  = 0,080). Như 
 vậy các giả thuyết H 1 , H 2 , H 3 , H 4 , H 5 , H 6  đều được chấp nhận ở độ tin cậy 95%.
-Chương tiếp theo sẽ tóm tắt toàn bộ nghiên cứu, những đóng góp, hàm ý chính sách cũng như những hạn chế của nghiên cứu này và định hướng các nghiên  cứu tiếp theo.Page 85
+Chương tiếp theo sẽ tóm tắt toàn bộ nghiên cứu, những đóng góp, hàm ý chính sách cũng như những hạn chế của nghiên cứu này và định hướng các nghiên  cứu tiếp theo.
+Page 85
 
 CHƯƠNG 5
 KẾT LUẬN VÀ ĐỀ XUẤT HÀM Ý CHÍNH SÁCH
@@ -1283,7 +1370,8 @@ Về các yếu tố ảnh hưởng đến sự hài lòng của khách hàng DN
 tục (QTTC, β 6  = 0,261), Độ tin cậy (DTC, β 1  = 0,205), Năng lực phục vụ (NLPV, β 3
 = 0,132), Sự cảm thông (SCT, β 5  = 0,114), Cơ sở vật chất (CSVC, β 2  = 0,080). Như 
 vậy các giả thuyết H 1 , H 2 , H 3 , H 4 , H 5 , H 6  đều được chấp nhận ở độ tin cậy 95%.
-Nghiên cứu phân tích sự khác biệt về sự hài lòng của khách hàng DN theo các đặc điểm doanh nghiệp bằng phương pháp phân tích ANOVA. Tuy nhiên,Page 86
+Nghiên cứu phân tích sự khác biệt về sự hài lòng của khách hàng DN theo các đặc điểm doanh nghiệp bằng phương pháp phân tích ANOVA. Tuy nhiên,
+Page 86
 
 nghiên cứu chưa chỉ ra có sự khác biệt về sự hài lòng của khách hàng DN theo loại  hình DN, quy mô DN, ở mức độ tin cậy 95%.
 5.2. ĐỀ XUẤT HÀM Ý CHÍNH SÁCH 5.2.1. Nhóm yếu tố “Tính minh bạch”
@@ -1293,7 +1381,8 @@ trung bình Công chức tại nơi làm thủ tục hải quan luôn đeo thẻ
 Thời gian tiếp nhận và trả kết quả hồ sơ cho doanh nghiệp đúng 3,833 quy định
 Các chi phí và lệ phí được công khai đầy đủ tại nơi làm việc 3,824 Số điện thoại đường dây nóng, hòm thư góp ý có công khai tại 4,010 nơi làm việc
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Kết quả nghiên cứu cho thấy “Tính minh bạch” là yếu tố có mức độ ảnh hưởng lớn nhất (β = 0,471) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,922. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Tính minh bạch, tác giả đề xuất một số hàm ý chính sách như sau:
-Biến quan sát “Các chi phí và lệ phí được công khai đầy đủ tại nơi làm việc” có giá trị trung bình nhỏ nhất là 3,824. Để cải thiện biến quan sát này, Cục HQ cần thông báo công khai các chi phí và lệ phí (nếu có) đến các doanh nghiệp, phát triển các hình thức và kênh cam kết bằng việc ứng dụng hệ thống mạng, website của ngành hải quan, Uỷ Ban Nhân Dân tỉnh, công bố rộng rãi qua các phương tiện thông tin, báo, đài... Tiếp tục thực hiện tốt việc công khai các thông tin mà DN quan tâm như: phương thức KTSTQ, thủ tục, trình tự thực hiện, thời gian trả kết quả... Việc công khai các nội dung thông tin cần xem xét trong mối liên hệ với các quy định của Luật Hải quan, các Nghị định và thông tư hướng dẫn thực hiện Luật Hải quan.Page 87
+Biến quan sát “Các chi phí và lệ phí được công khai đầy đủ tại nơi làm việc” có giá trị trung bình nhỏ nhất là 3,824. Để cải thiện biến quan sát này, Cục HQ cần thông báo công khai các chi phí và lệ phí (nếu có) đến các doanh nghiệp, phát triển các hình thức và kênh cam kết bằng việc ứng dụng hệ thống mạng, website của ngành hải quan, Uỷ Ban Nhân Dân tỉnh, công bố rộng rãi qua các phương tiện thông tin, báo, đài... Tiếp tục thực hiện tốt việc công khai các thông tin mà DN quan tâm như: phương thức KTSTQ, thủ tục, trình tự thực hiện, thời gian trả kết quả... Việc công khai các nội dung thông tin cần xem xét trong mối liên hệ với các quy định của Luật Hải quan, các Nghị định và thông tư hướng dẫn thực hiện Luật Hải quan.
+Page 87
 
 Biến quan sát “Thời gian tiếp nhận và trả kết quả hồ sơ cho  doanh nghiệp đúng quy định” có giá trị trung bình là 3,833. Cần rút ngắn thời gian tiếp nhận và trả hồ sơ cho DN. Cục HQ cần chú trọng các cam kết thực hiện của ngành hải quan và của đội ngũ CBCC về hoạt động KTSTQ, yêu cầu thực hiện tốt các nội dung đã cam kết để góp phần nâng cao tính minh bạch của DN đối với công tác KTSTQ. Thực hiện Bộ thủ tục hành chính về lĩnh vực KTSTQ, Bộ thủ tục hành chính được xác định là căn cứ, cam kết của chính quyền đối với DN về hoạt động KTSTQ. Việc thực hiện tốt cam kết là cơ sở để tin tưởng DN hài lòng về năng lực hoạt động KTSTQ của Cục Hải quan tỉnh BRVT.
 Biến quan sát “Số điện thoại đường dây nóng, hòm thư góp ý có  công khai tại nơi làm việc” có giá trị trung bình là 4,010. Cục Hải Qquan cần bố CBCC theo dõi và giải quyết các phản ánh thông qua đường dây nóng, hàm thư góp ý. Bên cạnh đó, cần xây dựng kênh tiếp nhận thông tin phản ánh qua mạng, đẩy mạnh ứng dụng hiệu quả hệ thống mạng và các website chuyên ngành của Cục Hải quan tỉnh BRVT trong việc công bố, công khai các quy định, quy trình, thủ tục, thông tin Ịiên quan đến hoạt động KTSTQ. Định kỳ và kịp thời đăng tải các vấn đề mang tính “thời sự” về các vấn đề, lĩnh vực liên quan đến hoạt động KTSTQ và DN.
@@ -1304,12 +1393,14 @@ trung bình Quy trình thủ tục kiểm tra sau thông quan được xây dự
 Mẫu hồ sơ rõ ràng, dễ hiểu. 3,642
 Quy trình, các bước xử lý kiểm tra sau thông quan được niêm 3,740 yết công khai, đầy đủ.
 Thủ tục kiểm tra sau thông quan đơn giản 3,770
-(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)Page 88
+(Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả)
+Page 88
 
 Kết quả nghiên cứu cho thấy “Quy trình thủ tục” là yếu tố có mức độ ảnh hưởng lớn thứ hai (β = 0,261) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,755. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Quy trình thủ tục, tác giả đề xuất một số hàm ý chính sách như sau:
 Để cải thiện “Quy trình thủ tục kiểm tra sau thông quan được xây dựng khoa học” và “Mẫu hồ sơ rõ ràng, dễ hiểu”, Cục HQ cần tiếp tục hoàn thiện quy trình KTSTQ theo chuẩn mực quốc tế, bao gồm các bước công việc được thực hiện một cách khoa học, có cấu trúc và tổ chức chặt chẽ. Áp dụng thủ tục quy trình KTSTQ theo các quy trình đơn giản, hài hòa, minh bạch và phù hợp thông lệ, chuẩn mực quốc tế trên nền tảng áp dụng quản lý rủi ro trong các quy trình thủ tục, đồng thời nghiên cứu cải tiến, đơn giản hóa các quy trình thủ tục KTSTQ, tạo điều kiện nhanh chóng, thuận lợi cho hoạt động XNK nhằm giảm thiểu tối đa các thủ tục và thời gian thông quan hàng hóa.
 Để cải thiện “quy trình, các bước xử lý kiểm tra sau thông quan được niêm yết công khai, đầy đủ”. Cục HQ cần tiến hành đồng bộ nhiều biện pháp tuyên truyền pháp luật về hải quan nói chung, các quy trình thủ tục hải quan nói riêng để cộng đồng DN biết thực hiện. Đẩy mạnh triển khai sử dụng chữ ký số trong thực hiện thủ tục hải quan điện tử tại các Chi cục. Hoạt động KTSTQ được thực hiện chủ yếu bằng phương tiện kỹ thuật hiện đại. Cục HQ cần xây dựng, tăng cường hiệu quả mối quan hệ giữa hải quan, DN và các cơ quan quản lý Nhà nước khác để hỗ trợ hoạt động XNK. Áp dụng chế độ ưu đãi đặc biệt cho DN có mức độ tuân thủ cao, xây dựng và phát triển hệ thống đại lý hải quan.
-Để “Thủ tục kiểm tra sau thông quan đơn giản”, cục HQ cần chuẩn bị các điều kiện đảm bảo việc tiếp nhận và triển khai dự án VNACCS/VCIS của TCHQ và thực hiện triển khai thực hiện hệ thống trên toàn Cục. Cần ứng dụng các phương tiện hiện đại và quy trình nghiệp vụ liên quan trong công tác giám sát tại các địa điểm làm thủ tục và địa điểm kiểm tra hàng hóa. Xây dựng và duy trì hiệu quả cơPage 89
+Để “Thủ tục kiểm tra sau thông quan đơn giản”, cục HQ cần chuẩn bị các điều kiện đảm bảo việc tiếp nhận và triển khai dự án VNACCS/VCIS của TCHQ và thực hiện triển khai thực hiện hệ thống trên toàn Cục. Cần ứng dụng các phương tiện hiện đại và quy trình nghiệp vụ liên quan trong công tác giám sát tại các địa điểm làm thủ tục và địa điểm kiểm tra hàng hóa. Xây dựng và duy trì hiệu quả cơ
+Page 89
 
 chế phối hợp, trao đổi thông tin với các cơ quan hữu quan trong quản lý hàng hóa XNK.
 5.2.3. Nhóm yếu tố “Độ tin cậy”
@@ -1320,11 +1411,13 @@ Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo giờ kiểm tra sau 3
 Quy trình kiểm tra sau thông quan nhanh gọn 3,887 Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo kết quả kiểm tra 3,877 sau thông quan chính xác
 Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin của 3,667 doanh nghiệp
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Kết quả nghiên cứu cho thấy “Độ tin cậy” là yếu tố có mức độ ảnh hưởng lớn thứ ba (β = 0,205) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,882. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Độ tin cậy, tác giả đề xuất một số hàm ý chính sách như sau:
-Biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin của doanh nghiệp” có giá trị  trung bình thấp nhất là 3,667. Hoạt động XNK và thanh toán quốc tế có mối quan hệ mật thiết, ràng buộc lẫn nhau trong quá trình tồn tại và phát triển thương mại quốc tế. Việc thanh toán tiền hàng XNK thông qua ngân hàng là thông tin thực sự cần thiết đối với cơ quan hải quan, khi thẩm định về việc xác định trị giá tính thuế cho một lô hàng XNK. Bằng các phương thức thanh toán như L/C (Letter of credit - tín dụng chứng từ), T/T (Telegraphic Transfer - chuyển tiền bằng điện, D/p (Document Against Payment - nhờ thu trả ngay), D/A (DocumentPage 90
+Biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu bảo mật tốt thông tin của doanh nghiệp” có giá trị  trung bình thấp nhất là 3,667. Hoạt động XNK và thanh toán quốc tế có mối quan hệ mật thiết, ràng buộc lẫn nhau trong quá trình tồn tại và phát triển thương mại quốc tế. Việc thanh toán tiền hàng XNK thông qua ngân hàng là thông tin thực sự cần thiết đối với cơ quan hải quan, khi thẩm định về việc xác định trị giá tính thuế cho một lô hàng XNK. Bằng các phương thức thanh toán như L/C (Letter of credit - tín dụng chứng từ), T/T (Telegraphic Transfer - chuyển tiền bằng điện, D/p (Document Against Payment - nhờ thu trả ngay), D/A (Document
+Page 90
 
 Against Acceptance- nhờ thu trả chậm ), thông qua các chứng tò thanh toán ngân hàng là bằng chứng xác thực xác định tổng số tiền phải thanh toán cho khách hàng của một lô hàng nhập khẩu. Hải quan cần biết một doanh nghiệp có bao nhiêu tài khoản và ở những ngân hàng nào để kiểm soát thanh toán cho từng lô hàng của doanh nghiệp. Sau khi thông quan hàng hóa, doanh nghiệp thực sự bán ra và khai báo thuế với cơ quan thuế nội địa như thế nào? đã đầy đủ theo đúng số lượng, giá khai báo nhập khẩu không? Thông tin về số lượng hàng vận chuyển, trị giá bảo hiểm chính xác là bao nhiêu. Kết quả giám định xác định đúng bản chất của hàng hóa. Những thông tin trên được cung cấp một cách kịp thời, chính xác và nhanh chóng sẽ là điều kiện cần thiết và có cơ sở pháp lý cao trong đấu tranh với doanh nhiệp phục vụ cho kiểm toán sau thông quan. Vì vậy phải có một cơ chế pháp lý, để đảm bảo tính bảo mật thông tin của doanh nghiệp.
 Biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo kết quả kiểm tra sau thông quan chính xác” có giá trị trung bình 3,877. Để  cải thiện biến quan sát này, cục HQ cần thường xuyên kiểm soát, thanh tra ở các đơn vị Chi cục HQ để nắm bắt tình hình, giải quyết vướng mắc và kịp thời phát hiện những vi phạm. Bên cạnh đó cần khuyến khích học tập nâng cao trình độ nghiệp vụ của công chức. Hàng năm, cục HQ nên tổ chức nhiều hội nghị chuyên đề về kiêm tra sau thông quan, để từ đó cán bộ kiểm toán hải quan có điều kiện trao đổi kinh nghiệm trong chuyên môn, phát huy tối đa những ưu điểm và hạn chế những nhược điểm trong hoạt động tác nghiệp của mình.
-Để cải thiện biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo giờ kiểm tra sau thông quan đúng quy định” và “Quy trình kiểm tra sau thông quan nhanh gọn”.  Các chi cục HQ khi tiến hành KTSTQ cần phải xây dựng kế  hoạch kiểm tra và thực hiện đúng thời gian đã thông báo đến DN. Đồng thời, các quy trình xử lý hồ sơ phải được cải thiện và giải quyết cho DN nhanh chóng hơn, tiếp tục cải cách hành chính, đơn giản hóa và chuẩn hóa các biểu mẫu, thủ tục hải quan để giúp doanh nghiệp dễ hiểu, dễ thực hiện. Việc chậm trễ, thiếu chuyên nghiệp và không tận tình của công chức HQ gây thiệt hại cho doanh nghiệp vẫn thường xảy ra. Nên cần phải tuyên truyền và áp dụng việc đánh giá thành tích cho từng cá nhân. PhátPage 91
+Để cải thiện biến quan sát “Cục Hải quan tỉnh Bà Rịa Vũng Tàu đảm bảo giờ kiểm tra sau thông quan đúng quy định” và “Quy trình kiểm tra sau thông quan nhanh gọn”.  Các chi cục HQ khi tiến hành KTSTQ cần phải xây dựng kế  hoạch kiểm tra và thực hiện đúng thời gian đã thông báo đến DN. Đồng thời, các quy trình xử lý hồ sơ phải được cải thiện và giải quyết cho DN nhanh chóng hơn, tiếp tục cải cách hành chính, đơn giản hóa và chuẩn hóa các biểu mẫu, thủ tục hải quan để giúp doanh nghiệp dễ hiểu, dễ thực hiện. Việc chậm trễ, thiếu chuyên nghiệp và không tận tình của công chức HQ gây thiệt hại cho doanh nghiệp vẫn thường xảy ra. Nên cần phải tuyên truyền và áp dụng việc đánh giá thành tích cho từng cá nhân. Phát
+Page 91
 
 phiếu cho doanh nghiệp đánh giá công chức HQ theo định kỳ được tiến hành công khai, minh bạch, thể hiện sự công bằng và căn cứ vào kết quả đó để thanh lọc, bố trí lại công chức HQ cho phù hợp.
 5.2.4. Nhóm yếu tố “Năng lực phục vụ”
@@ -1342,14 +1435,17 @@ Cán bộ công chức thực hiện kiểm tra sau thông quan linh hoạt
 3,544 trong giải quyết các tình huống theo quy định
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác  giả)
 Kết quả nghiên cứu cho thấy “Năng lực phục vụ” là yếu tố có mức độ ảnh hưởng lớn thứ tư (β = 0,132) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,637. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Năng lực phục vụ, tác giả đề xuất một số hàm ý chính sách như sau:
-Biến quan sát “Cán bộ  công chức thực hiện kiểm tra sau thông quan linh hoạt trong giải quyết các tình huống theo quy định” có giá trị trung bình thấp nhất là 3,544. Để cải thiện biến quan sát này, Cục HQ tỉnh BRVT cần bố trí các côngPage 92
+Biến quan sát “Cán bộ  công chức thực hiện kiểm tra sau thông quan linh hoạt trong giải quyết các tình huống theo quy định” có giá trị trung bình thấp nhất là 3,544. Để cải thiện biến quan sát này, Cục HQ tỉnh BRVT cần bố trí các công
+Page 92
 
 chức có kinh nghiệm, am hiểu chuyên sâu về HQĐT để luôn giải quyết thỏa đáng khi doanh nghiệp có vướng mắc, khó khăn đối với thủ tục HQĐT.
 Biến quan sát “Sự hướng dẫn, giải đáp của cán bộ công chức thực hiện kiểm tra sau thông quan dễ hiểu, thống nhất” có giá trị trung bình là 3,583. Cục HQ cần bố trí các công chức có thái độ nhã nhặn và nhiệt tình trong công việc, am hiểu sâu về chuyên môn nghiệp vụ. Cần tăng cường và nâng cao hiệu quả đào tạo tại chỗ cho những CBCC chưa có đủ kiến thức, kinh nghiệm hoặc không có điều kiện tham gia các khóa tập huấn của ngành. Những CBCC thuộc diện quy hoạch hoặc đang đương chức nhưng chưa đáp ứng về yêu cầu, cần có kế hoạch, chính sách để đưa đi đào tạo tập trung hoặc không tập trung về nghiệp vụ và cần có chế độ, chính sách ưu đãi cho các đối tượng này.
-Biến quan sát “Cán bộ công chức thực hiện kiểm tra sau thông quan có trình độ chuyên môn tốt” và “Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng kiểm tra sau thông quan nhanh chóng, đúng quy định”  có giá trị  trung bình là 3,637. Để nâng cao trình độ chuyên môn của CBCC, cục HQ tỉnh BRVT cần phải chú trọng và có kế hoạch, chương trình cụ thể về công tác đào tạo, bồi dưỡng CBCC vì đây là tiền đề để bố trí, sử dụng CBCC cho các chức danh, vị trí công tác phù hợp. Cần đào tạo, bồi dưỡng CBCC bằng nhiều hình thức để giúp CBCC có đủ những tiêu chuẩn về chính trị, chuyên môn nghiệp vụ theo quy định. Việc đào tạo trước hết phải tận dụng các khóa đào tạo của ngành trong các đợt tập huấn, trao đổi kinh nghiệm. Cần cử đúng người, đúng số lượng tham gia các khóa đào tạo và có biện pháp khích lệ, khuyến khích người tham gia các khóa đào tạo, đồng thời tăng cường kiểm tra, giám sát kết quả thực tế sau đào tạo. Về đào tạo chuyên sâu: Cục Hải quan tỉnh cần thường xuyên cử cán bộ học tập, nghiên cứu các kiến thức chuyên về KTSTQ tại Trường Hải quan Việt Nam. Ngoài ra, CBCC thuộc Chi cục KTSTQ cần tích cực tham gia các khóa đào tạo chuyên sâu, kỹ năng và kinh nghiệm do Cục KTSTQ phối hợp với các chuyên gia nước ngoài trong quá trình hợp tác, trao đổi kinh nghiệm về KTSTQ. Bên cạnh đó, Cục Hải quan tỉnh BRVT cần chú trọng chủ động luân chuyển các CBCC có năng lực về Chi cục KTSTQ để được chia sẻ kinh nghiệm, kỹ năng đặc thù về hàng hóa XNK và đặc điểm XNKPage 93
+Biến quan sát “Cán bộ công chức thực hiện kiểm tra sau thông quan có trình độ chuyên môn tốt” và “Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng kiểm tra sau thông quan nhanh chóng, đúng quy định”  có giá trị  trung bình là 3,637. Để nâng cao trình độ chuyên môn của CBCC, cục HQ tỉnh BRVT cần phải chú trọng và có kế hoạch, chương trình cụ thể về công tác đào tạo, bồi dưỡng CBCC vì đây là tiền đề để bố trí, sử dụng CBCC cho các chức danh, vị trí công tác phù hợp. Cần đào tạo, bồi dưỡng CBCC bằng nhiều hình thức để giúp CBCC có đủ những tiêu chuẩn về chính trị, chuyên môn nghiệp vụ theo quy định. Việc đào tạo trước hết phải tận dụng các khóa đào tạo của ngành trong các đợt tập huấn, trao đổi kinh nghiệm. Cần cử đúng người, đúng số lượng tham gia các khóa đào tạo và có biện pháp khích lệ, khuyến khích người tham gia các khóa đào tạo, đồng thời tăng cường kiểm tra, giám sát kết quả thực tế sau đào tạo. Về đào tạo chuyên sâu: Cục Hải quan tỉnh cần thường xuyên cử cán bộ học tập, nghiên cứu các kiến thức chuyên về KTSTQ tại Trường Hải quan Việt Nam. Ngoài ra, CBCC thuộc Chi cục KTSTQ cần tích cực tham gia các khóa đào tạo chuyên sâu, kỹ năng và kinh nghiệm do Cục KTSTQ phối hợp với các chuyên gia nước ngoài trong quá trình hợp tác, trao đổi kinh nghiệm về KTSTQ. Bên cạnh đó, Cục Hải quan tỉnh BRVT cần chú trọng chủ động luân chuyển các CBCC có năng lực về Chi cục KTSTQ để được chia sẻ kinh nghiệm, kỹ năng đặc thù về hàng hóa XNK và đặc điểm XNK
+Page 93
 
 hàng hóa của các DN trên địa bàn quản lý nhằm có sự kế thừa các kinh nghiệm đã có của CBCC có kinh nghiệm ngay trong Chi cục KTSTQ. Đẩy mạnh và nâng cao hiệu quả công tác luân chuyển cán bộ nhằm thu hút CBCC có kinh nghiệm, có năng lực tại các Chi cục hải quan cửa khẩu về làm công tác KTSTQ để đạt được yêu cầu về nhiệm vụ chính trị của Cục cũng như thực hiện nhiệm vụ trong điều kiện hoàn thiện hệ thống thông quan tự động VNACCS.
-Biến quan sát “Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng phát hiện những sai phạm của doanh nghiệp” có giá trị  trung bình là 3,662. Cục HQ tỉnh BRVT cần phải xây dựng và tổ chức các bộ phận chuyên sâu về trị giá hải quan và mã số hàng hóa tại Chi cục, đồng thời đào tạo nghiệp vụ chuyên sâu cho đội ngũ CBCC ở các bộ phận này để làm tốt công tác theo dõi, cập nhật nắm tình hình nhằm phục vụ, tăng cường hiệu quả đối với công tác KTSTQ về trị giá và mã số. Chi cục KTSTQ phải đảm bảo quân số và sử dụng hiệu quả các CBCC chuyên nghiệp: Công chức KTSTQ đối với hàng hóa XNK đòi hỏi phải có kiến thức chuyên môn sâu, phải có kinh nghiệm tích lũy qua thực hành KTSTQ đối với hàng hóa XNK. Việc luân chuyển CBCC làm công tác KTSTQ phải kết hợp với yêu cầu sử dụng cán bộ chuyên nghiệp; tăng cường CBCC có trình độ, năng lực KTSTQ đối với các mặt hàng XNK trọng điểm, chỉ luân chuyển đến Chi cục KTSTQ những công chức được đào tạo chuyên nghiệp phù hợp với yêu cầu nghiệp vụ KTSTQ, có nghiệp   vụ   sâu   về   trị   giá,   mã   số   hàng   hóa,   kế   toán   thuế,   chính   sách   thương mại...Nâng cao phẩm chất đạo đức CBCC hải quan: để đảm bảo CBCC hải quan thực hiện KTSTQ luôn giữ được tính liêm chính, cần tăng cường giáo dục ý thức, đạo đức nghề nghiệp của CBCC ngành hải quan, đồng thời sớm áp dụng các chế độ đãi ngộ phù hợp cho CBCC lĩnh vực KTSTQ để thu hút cán bộ giỏi, động viên cán bộ làm công tác KTSTQ yên tâm công tác lâu dài, giữ được trong sạch liêm chính.Page 94
+Biến quan sát “Cán bộ công chức thực hiện kiểm tra sau thông quan có khả năng phát hiện những sai phạm của doanh nghiệp” có giá trị  trung bình là 3,662. Cục HQ tỉnh BRVT cần phải xây dựng và tổ chức các bộ phận chuyên sâu về trị giá hải quan và mã số hàng hóa tại Chi cục, đồng thời đào tạo nghiệp vụ chuyên sâu cho đội ngũ CBCC ở các bộ phận này để làm tốt công tác theo dõi, cập nhật nắm tình hình nhằm phục vụ, tăng cường hiệu quả đối với công tác KTSTQ về trị giá và mã số. Chi cục KTSTQ phải đảm bảo quân số và sử dụng hiệu quả các CBCC chuyên nghiệp: Công chức KTSTQ đối với hàng hóa XNK đòi hỏi phải có kiến thức chuyên môn sâu, phải có kinh nghiệm tích lũy qua thực hành KTSTQ đối với hàng hóa XNK. Việc luân chuyển CBCC làm công tác KTSTQ phải kết hợp với yêu cầu sử dụng cán bộ chuyên nghiệp; tăng cường CBCC có trình độ, năng lực KTSTQ đối với các mặt hàng XNK trọng điểm, chỉ luân chuyển đến Chi cục KTSTQ những công chức được đào tạo chuyên nghiệp phù hợp với yêu cầu nghiệp vụ KTSTQ, có nghiệp   vụ   sâu   về   trị   giá,   mã   số   hàng   hóa,   kế   toán   thuế,   chính   sách   thương mại...Nâng cao phẩm chất đạo đức CBCC hải quan: để đảm bảo CBCC hải quan thực hiện KTSTQ luôn giữ được tính liêm chính, cần tăng cường giáo dục ý thức, đạo đức nghề nghiệp của CBCC ngành hải quan, đồng thời sớm áp dụng các chế độ đãi ngộ phù hợp cho CBCC lĩnh vực KTSTQ để thu hút cán bộ giỏi, động viên cán bộ làm công tác KTSTQ yên tâm công tác lâu dài, giữ được trong sạch liêm chính.
+Page 94
 
 5.2.5. Nhóm yếu tố “Sự cảm thông”
 Bảng 5.5. Thống kê mô tả yếu tố Sự cảm thông
@@ -1360,11 +1456,13 @@ Doanh nghiệp dễ dàng gọi vào tổng đài để giải đáp các thắc
 Cơ quan Hải quan luôn tạo điều kiện tốt nhất có thể cho doanh 3,118 nghiệp trong quá trình kiểm tra sau thông quan
 (Nguồn: Kết quả phân tích dữ liệu điều tra của tác giả) Kết quả nghiên cứu cho thấy “Sự cảm thông” là yếu tố có mức độ ảnh hưởng lớn thứ năm (β = 0,114) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,093. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Sự cảm thông, tác giả đề xuất một số hàm ý chính sách như sau:
 Biến quan sát “Cán bộ công chức thực hiện kiểm tra sau thông quan luôn lắng nghe những ý kiến của các doanh nghiệp” có giá trị  trung bình thấp nhất là 3,064. CBCC cần sẵn sàng giúp đỡ DN và có thái độ đúng mực khi thực hiện công tác KTSTQ đó là thông qua việc CBCC phải có tinh thần trách nhiệm và thực hiện nhiệm vụ nghiêm túc; có thái độ lịch sự, hòa nhã, đúng mực, tận tình phục vụ, lắng nghe ý kiến của cộng đồng DN, giải quyết hồ sơ đúng quy định, không gây phiền hà, khó khăn.
-Biến quan sát “Cán bộ  công chức thực hiện kiểm tra sau thông quan luôn quan tâm, giải quyết khiếu nại một cách nhanh chóng, thỏa đáng” có giá trị  trung bình là 3,069. Cục HQ tỉnh BRVT cần thường xuyên quán triệt công tác cán bộ để CBCC luôn thể hiện sự cảm thông đối với những thách thức, khó khăn trong môiPage 95
+Biến quan sát “Cán bộ  công chức thực hiện kiểm tra sau thông quan luôn quan tâm, giải quyết khiếu nại một cách nhanh chóng, thỏa đáng” có giá trị  trung bình là 3,069. Cục HQ tỉnh BRVT cần thường xuyên quán triệt công tác cán bộ để CBCC luôn thể hiện sự cảm thông đối với những thách thức, khó khăn trong môi
+Page 95
 
 trường kinh doanh XNK của các DN, chia sẻ những khó khăn hay vướng mắc của DN. Ngoài ra, phải quan tâm, giải quyết khiếu nại của DN một cách nhanh chóng, thỏa đáng. Và nếu mỗi CBCC có sự cảm thông thì sẽ nâng cao được sự hài lòng của DN đối với hoạt động KTSTQ của Cục Hải quan tỉnh BRVT. Bên cạnh đó, cục HQ cần rà soát đánh giá tiến độ thực hiện hàng tuần để có những điều chỉnh phù hợp, xem xét những nguyện vọng chính đáng và hợp lý của doanh nghiệp đối với hoạt động KTSTQ, tập trung tháo gỡ kịp thời các vướng mắc khó khăn, tạo thuận lợi cho doanh nghiệp.
 Biến quan sát “Cơ quan Hải quan luôn tạo điều kiện tốt nhất có thể cho doanh nghiệp trong quá trình kiểm tra sau thông quan” có giá trị trung bình là 3,118. Để cải thiện biến quan sát này, cục HQ tỉnh BRVT cần đề ra kế hoạch kiểm tra, thanh tra định kỳ và đột xuất; chú ý đến công tác tự kiểm tra của các đơn vị thuộc và trực thuộc Cục, xây dựng một đội ngũ công chức HQ luôn đề cao tinh thần tự giác, tinh thần phục vụ, thật sự trong sạch vững mạnh, coi doanh nghiệp là đối tác hợp tác. Cần phải thay đổi nhận thức của công chức HQ từ vị thế người quản lý sang vị thế của người phục vụ. Phải xác định tư tưởng hướng đến thỏa mãn mức cao nhất cho doanh nghiệp. Mặt khác, doanh nghiệp cũng phải thay đổi nhận thức, thấy rõ quyền của mình, tránh tình trạng doanh nghiệp vừa là nạn nhân vừa là thủ phạm của những hành vi tiêu cực nhũng nhiễu của công chức HQ.
-Biến quan sát “Doanh nghiệp dễ dàng gọi vào tổng đài để giải đáp các  thắc mắc đối với công tác kiểm tra sau thông quan” có giá trị trung bình là 3,142. Cục HQ cần nâng cao tinh thần phục vụ của công chức HQ phải luôn thông cảm, hiểu được những khó khăn của doanh nghiệp đối với hoạt động KTSTQ. Đồng hành cùng doanh nghiệp vượt qua khó khăn nhằm duy trì sự hoạt động ổn định của doanh nghiệp, nuôi dưỡng nguồn thu lâu dài thông qua các hoạt động tư vấn, đối thoại, giải đáp vướng mắc kịp thời cho doanh nghiệp; kiến nghị cơ quan cấp trên những bất cập về cơ chế chính sách gây cản trở cho hoạt động sản xuất kinh doanh của doanh nghiệp.Page 96
+Biến quan sát “Doanh nghiệp dễ dàng gọi vào tổng đài để giải đáp các  thắc mắc đối với công tác kiểm tra sau thông quan” có giá trị trung bình là 3,142. Cục HQ cần nâng cao tinh thần phục vụ của công chức HQ phải luôn thông cảm, hiểu được những khó khăn của doanh nghiệp đối với hoạt động KTSTQ. Đồng hành cùng doanh nghiệp vượt qua khó khăn nhằm duy trì sự hoạt động ổn định của doanh nghiệp, nuôi dưỡng nguồn thu lâu dài thông qua các hoạt động tư vấn, đối thoại, giải đáp vướng mắc kịp thời cho doanh nghiệp; kiến nghị cơ quan cấp trên những bất cập về cơ chế chính sách gây cản trở cho hoạt động sản xuất kinh doanh của doanh nghiệp.
+Page 96
 
 5.2.6. Nhóm yếu tố “Cơ sở vật chất”
 Bảng 5.6. Thống kê mô tả yếu tố Cơ sở vật chất
@@ -1379,15 +1477,18 @@ Thiết bị công nghệ thông tin hiện đại được dùng phục vụ vi
 3,760 tập huấn và triển khai chính sách cho doanh nghiệp
 (Nguồn: Kết quả  phân tích dữ  liệu điều tra của tác giả) Kết quả nghiên cứu cho thấy “Cơ sở vật chất” là yếu tố có mức độ ảnh hưởng yếu nhất (β = 0,080) đến Sự hài lòng của khách hàng DN trong nhóm 06 yếu tố tác động trong phạm vi nghiên cứu của đề tài. Giá trị trung bình của nhóm yếu tố này là 3,708. Để gia tăng Sự hài lòng của khách hàng DN với hoạt động KTSTQ tại Cục Hải quan tỉnh BRVT thông qua yếu tố Cơ sở vật chất, tác giả đề xuất một số hàm ý chính sách như sau:
 Biến quan sát “Điện thoại sử  dụng hiệu quả  trong giải đáp thắc mắc của doanh nghiệp” có giá trị trung bình thấp nhất là 3,588. Cục HQ tỉnh BRVT cần tập trung nguồn lực và thông tin để hoàn thiện danh bạ DN với đầy đủ tiêu chí phục vụ quản lý rủi ro, cập nhật thường xuyên, liên tục, kịp thời. Việc này rất quan trọng vì không chỉ phục vụ cho hoạt động KTSTQ mà còn phục vụ các hoạt động khác cho toàn ngành hải quan. Thành lập “Đường dây nóng” thông qua việc sử dụng điện thoại, thiết lập hệ thống tổng đài và nhân viên phản hồi trực tiếp để giải đáp các thắc mắc của DN về quy trình, thủ tục, thời hạn trả kết quả KTSTQ…
-Biến quan sát “Thông tin về kiểm tra sau thông quan được đăng tải đầy đủ trên website đáp ứng nhu cầu của doanh nghiệp” có giá trị trung bình là 3,701. Cục HQ cần xây dựng Website riêng phục vụ cho hoạt động KTSTQ, đây là diễn đànPage 97
+Biến quan sát “Thông tin về kiểm tra sau thông quan được đăng tải đầy đủ trên website đáp ứng nhu cầu của doanh nghiệp” có giá trị trung bình là 3,701. Cục HQ cần xây dựng Website riêng phục vụ cho hoạt động KTSTQ, đây là diễn đàn
+Page 97
 
 thông tin không chỉ phục vụ cho nội bộ ngành hải quan trong việc cung cấp thông tin thường xuyên cho các cấp hải quan, trao đổi kinh nghiệm, đào tạo trực tuyến đồng thời còn là kênh phổ biến kiến thức và pháp luật KTSTQ cho các cơ quan, tổ chức cá nhân và cộng đồng DN. Bên cạnh đó, để cải thiện biến “Nơi niêm yết các quy định kiểm tra sau thông quan dễ nhận thấy, dễ xem”, cần cập nhật đầy đủ, chính xác thông tin cho những hệ thống dữ liệu. Đây là công việc hết sức quan trọng vì chỉ một vài thông tin không được cập nhật đầy đủ, chính xác thì toàn bộ các số liệu thống kê sẽ bị sai lệch. Từ đó, ảnh hưởng đến kết quả phân tích, đánh giá tình hình thực tế đối với việc lựa chọn DN KTSTQ. Để thực hiện tốt vấn đề này, cần quy định thẩm quyền, trách nhiệm của từng khâu trong việc cập nhật và sử dụng thông tin. Tiếp tục hoàn thiện hệ thống khai hải quan điện tử tự động VNACCS/VCIS của ngành hải quan nhằm giúp cho việc thông quan hàng hóa thuận lợi, giúp DN giảm chi phí, tiết kiệm thời gian hơn nữa trong hoạt động XNK hàng hóa.
 Biến quan sát “Thiết bị công nghệ thông tin hiện đại được dùng phục vụ việc tập huấn và triển khai chính sách cho doanh nghiệp” có giá trị trung bình là 3,760. Để đảm bảo hoạt động KTSTQ đối với hàng hóa XNK đạt hiệu quả cao nhất, kiến nghị Cục Hải quan tỉnh BRVT sớm tăng cường trang thiết bị, máy móc và phương tiện kỹ thuật, công nghệ thông tin và kinh phí nghiệp vụ cho lực lượng KTSTQ địa phương. Do vậy, Cục Hải quan tỉnh BRVT phải tiến hành rà soát cơ sở hạ tầng, trụ sở, trang thiết bị của các đơn vị trong ngành, trong đó có đơn vị KTSTQ để xác định nhu cầu. Đây là yêu cầu cần được ưu tiên trong việc phát triển ngành. Phải bố trí môi trường làm việc khang trang, thực sự là cơ quan công quyền của Nhà nước, có đủ diện tích để bố trí nơi làm việc cho cán bộ, đủ diện tích để bố trí lắp đặt hệ thống máy móc, phương tiện, trang thiết bị làm việc đầy đủ như máy tính xách tay, máy ảnh,  máy  phát hiện  chứng  từ   giả,  máy  ghi âm,....  để lực  lượng  KTSTQ có đủ phương tiện tác nghiệp tốt nhất.
 5.3. CÁC HẠN CHẾ CỦA NGHIÊN CỨU VÀ HƯỚNG NGHIÊN CỨU TIẾP THEO
-Mặc dù đề tài đã giải quyết xong mục tiêu nghiên cứu đã đề ra, nhưng vẫn còn một số hạn chế như sau:Page 98
+Mặc dù đề tài đã giải quyết xong mục tiêu nghiên cứu đã đề ra, nhưng vẫn còn một số hạn chế như sau:
+Page 98
 
 Thứ nhất, nghiên cứu chỉ được thực hiện với các đối tượng khảo sát là khách hàng DN tại tỉnh BRVT với phương pháp lấy mẫu thuận tiện, phân tầng do đó kết quả nghiên cứu chỉ mang tính cấp tỉnh và rất có thể các kết quả sẽ khác nhau cho các tỉnh thành, khu vực khác trong cả nước. Nghiên cứu tiếp theo nên nghiên cứu ở cấp ngành để có kết quả mang tính đại diện cao hơn.
-Thứ hai, nghiên cứu này chỉ giải thích được 74,1% sự biến thiên của sự hài lòng của khách hàng DN bởi sự biến thiên của 06 biến độc lập. Như vậy, còn một số yếu tố khác ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại cục HQ tỉnh BRVT mà nghiên cứu chưa tìm ra. Đề tài tiếp theo cần nghiên cứu, bổ sung thêm những nhân tố khác để nghiên cứu được hoàn thiện hơn.Page 99
+Thứ hai, nghiên cứu này chỉ giải thích được 74,1% sự biến thiên của sự hài lòng của khách hàng DN bởi sự biến thiên của 06 biến độc lập. Như vậy, còn một số yếu tố khác ảnh hưởng đến sự hài lòng của khách hàng DN đối với hoạt động KTSTQ tại cục HQ tỉnh BRVT mà nghiên cứu chưa tìm ra. Đề tài tiếp theo cần nghiên cứu, bổ sung thêm những nhân tố khác để nghiên cứu được hoàn thiện hơn.
+Page 99
 
 TÀI LIỆU THAM KHẢO
 Tiếng Việt
@@ -1403,7 +1504,8 @@ Tiếng Việt
 Tiếng Anh
 10. Bovaird, T. &amp; Loffler, E. (2012), From engagement to co-production: how  users and communities contribute to public services, London: Routledge.
 11. Bennett, P. D. (1995), Dictionary of Marketing Terms, Lincolnwood, IL:  NTC, Business Books.
-12. Burns, A., C. &amp; Bush, R., F.  (1995), Marketing Research. Upper SaddlePage 100
+12. Burns, A., C. &amp; Bush, R., F.  (1995), Marketing Research. Upper Saddle
+Page 100
 
 River, Prentice Hall, New Jersey.
 13. Caruana, A. and Pitt, L. (1997), “INTQUAL: an internal measure of service quality and the link between service quality and business performance”, European  Journal of Marketing, 31, pp. 604-616.

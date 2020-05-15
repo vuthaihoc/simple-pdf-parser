@@ -80,22 +80,23 @@ class DetectToc {
             if($line instanceof Line && preg_match( self::$toc_pattern_alt,$line->text)){ // neu match voi pattern
                 if(!$started){// neu chua bat dau
                     $started = true; // danh dau
-                }elseif($started){// neu dat dau roi thi danh dau merge up cho cac dong va reset buffer
-                    $buffer_lines[] = $line;
-                    /**
-                     * @var int $i
-                     * @var Line $line
-                     */
-                    foreach ($buffer_lines as $i => $buffer_line){
-                        $buffer_line->in_toc = true; // danh dau thuoc TOC
-                        if($i>0){// bo qua dong dau tien
-                            $buffer_line->merge_up = true;
-                        }else{
-                            $buffer_line->merge_up = false;// danh dau de sau do khong xet merge up cho dong nay
-                        }
-                    }
-                    $buffer_lines = [];
                 }
+                
+                // neu dat dau roi thi danh dau merge up cho cac dong va reset buffer
+                $buffer_lines[] = $line;
+                /**
+                 * @var int $i
+                 * @var Line $line
+                 */
+                foreach ($buffer_lines as $i => $buffer_line){
+                    $buffer_line->in_toc = true; // danh dau thuoc TOC
+                    if($i>0){// bo qua dong dau tien
+                        $buffer_line->merge_up = true;
+                    }else{
+                        $buffer_line->merge_up = false;// danh dau de sau do khong xet merge up cho dong nay
+                    }
+                }
+                $buffer_lines = [];
             }elseif($started){
                 $buffer_lines[] = $line;
             }

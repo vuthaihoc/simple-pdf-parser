@@ -42,7 +42,8 @@ P(y i = 1 | X i ) = P (u 1 i ≥ u 0 i | X i ) (8)
 1 i β + ϵ 1 i ) − (z 0 ′ i β + ϵ 0 i ) ≥ 0 | X i } (9)
 = P (ϵ 0 i − ϵ 1 i ≤ (z 1 i − z 0 i ) ′ β | X i ) (10)
 = F (X ′
-i β) (11)Page 2
+i β) (11)
+Page 2
 
 実証上よく用いられる特定化は
 • 線形確率モデル： F (x) = x 。
@@ -100,7 +101,8 @@ i =1
 y i log F (X i ′ β) + (1 − y i ) log[1 − F (X i ′ β)] (19)
 となる。また、パラメータ空間を Θ として、最尤推定量は ˆ
 β = arg max
-β ∈Θ log L(β) (20)Page 3
+β ∈Θ log L(β) (20)
+Page 3
 
 で定義される。
 この推定量は、 W i = (y i , X i ) 、
@@ -145,7 +147,8 @@ f(x, θ) f (x, θ 0 )
 ≤ log E [
 f (x, θ) f(x, θ 0 )
 ]
-(25)Page 4
+(25)
+Page 4
 
 が成り立つ。しかし、
 E [
@@ -196,7 +199,8 @@ a(w, θ)dw = ∫ ∂
 ∂θ a(w, θ)dw (33)
 通常の計量経済モデルではこれは成立するが、そのための十分条件は Newey and McFadden (1994, Lemma 3.6, p.2152) を参照。 f (x, θ) を密度関数とする場合を考えると、
 ∫
-f (x, θ)dx = 1 (34)Page 5
+f (x, θ)dx = 1 (34)
+Page 5
 
 であるので、両辺を微分して、 ∂ ∂θ
 ∫
@@ -262,7 +266,8 @@ i X i ′ || &lt; ∞ ,
 E(X i X i ′ ) が非特異行列であるとき、
 ˆ
 β → p β 0 (42)
-である。Page 6
+である。
+Page 6
 
 （証明） 命題 2 の各条件が成立していることを示せばよい。 (i)’ は明らかである。
 (ii)’ について、ロジットモデルの場合のみ示す（プロビットの場合は若干厄介であるが、
@@ -338,7 +343,8 @@ i β) | ] ≤ 2 | log Φ(0) | + 2E | X ′
 i β | + 2E(X ′ i β)
 2
 &lt; ∞ (56) となる。次にロジットモデル（ F = Λ ）の場合を考える。 u ≥ 0 なら、 Λ(0) ≤ Λ(u) &lt; 1 な ので、
-| log Λ(u) | ≤ | log Λ(0) | ≤ | u | + | log Λ(0) | (57)Page 7
+| log Λ(u) | ≤ | log Λ(0) | ≤ | u | + | log Λ(0) | (57)
+Page 7
 
 である。 exp( · ) と log( · ) は単調増加関数なので、 u &lt; 0 なら
 0 &gt; log [
@@ -419,7 +425,8 @@ E[H(y i , X i ; β 0 ) | X i ] = −
 i β 0 )[1 − F (X i ′ β 0 )]
 f(X ′
 i β 0 ) 2 X i X i ′ (69)
-である。したがって、 (iii) が成立する。Page 8
+である。したがって、 (iii) が成立する。
+Page 8
 
 (iv) プロビットモデルに関しては面倒である (Newey &amp; McFadden (1994, p.2147, Ex- ample 1.2 参照 ) が、ロジットモデルについては比較的簡単である。 0 ≤ Λ(X ′
 i β) ≤ 1 と (45)
@@ -456,7 +463,8 @@ f (u)
 である。 u ∼ N (µ, σ 2
 ) とすると、切断された分布の期待値と分散は
 E(u | u &gt; c) = µ + σλ(v) (77)
-V ar(u | u &gt; c) = σ 2 { 1 − λ(v)[λ(v) − v] } (78)Page 9
+V ar(u | u &gt; c) = σ 2 { 1 − λ(v)[λ(v) − v] } (78)
+Page 9
 
 となる。ただし、 v = (c − µ)/σ 、 λ(v) = ϕ(v)/[1 − Φ(v)] で、 ϕ, Φ はそれぞれ標準正規分布の 密度関数と分布関数である。 λ(v) は逆ミルズ比 (inverse Mill’s ratio) 、ハザード関数 (hazard function) と呼ばれる。以下、 y ∗
 | x ∼ N (x ′ β, σ 2
@@ -552,7 +560,8 @@ log Φ (
 X ′ i β
 σ )
 (88)
-である。これを最大化することにより、 MLE が得られる。一般には、パラメータを変換し て推定し、また漸近的性質を求めるほうが、簡単である。推定量は一致性と漸近正規性をも つが、その導出は、 Hayashi (2000, p515-516) を参照。Page 10
+である。これを最大化することにより、 MLE が得られる。一般には、パラメータを変換し て推定し、また漸近的性質を求めるほうが、簡単である。推定量は一致性と漸近正規性をも つが、その導出は、 Hayashi (2000, p515-516) を参照。
+Page 10
 
 6.5.2 打ち切り回帰モデル
 y i &lt; 0 の時に、 y i は観測できないが、 X i は観測でき、また y i &lt; 0 と分かっているデータが
@@ -638,7 +647,8 @@ y i =
 1 i ≥ 0 のとき )
 0 (y ∗
 1 i &lt; 0 のとき )
-(97)Page 11
+(97)
+Page 11
 
 (2) Type 3 Tobit model
 y 1 i =
@@ -658,7 +668,8 @@ References
 [1] T. Amemiya. Advanced Econometrics. Harvard University Press, Cambridge, Massachusetts, 1985.
 [2] F. Hayashi. Econometrics. Princeton University Press, 2000.
 [3] J. J. Heckman. The common structure of statistical models of truncation, sample selection and limited dependent variables and a simple estimator for such models. In Annals of Economic and Social Measurement, Volume 5, number 4, pages 475–492. NBER, 1976.
-[4] W. K. Newey and D. McFadden. Large sample estimation and hypothesis testing. In R. F. Engle and D. L. McFadden, editors, Handbook of Econometrics, volume 4, chapter 36, pages 2111–2245. Elsevier, 1994.Page 12
+[4] W. K. Newey and D. McFadden. Large sample estimation and hypothesis testing. In R. F. Engle and D. L. McFadden, editors, Handbook of Econometrics, volume 4, chapter 36, pages 2111–2245. Elsevier, 1994.
+Page 12
 
 Appendix
 定理 1 の証明のための、命題 2 の条件 (iv)’ のプロビットの場合の証明 任意の u に対して
@@ -725,7 +736,8 @@ u→−∞
 u − u 2 2 )]
 exp (
 − u 2 2 )
-(112)Page 13
+(112)
+Page 13
 
 で、
 lim

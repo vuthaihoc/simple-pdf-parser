@@ -6,7 +6,8 @@ CÁC NHÂN TỐ ẢNH HƯỞNG ĐẾN MỨC ĐỘ CÔNG  BỐ THÔNG TIN TỰ NG
 NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN  VIỆT NAM – NGHIÊN CỨU Ở BA NHÓM NGÀNH: 
 CÔNG NGHIỆP, XÂY DỰNG VÀ TÀI CHÍNH 
 LUẬN VĂN THẠC SĨ KINH TẾ 
-THÀNH PHỐ HỒ CHÍ MINH – NĂM 2015 Page 2
+THÀNH PHỐ HỒ CHÍ MINH – NĂM 2015 
+Page 2
 
  
 NGUYỄN THỊ HỒNG EM 
@@ -16,27 +17,32 @@ CÔNG NGHIỆP, XÂY DỰNG VÀ TÀI CHÍNH
 Chuyên ngành  :  Kế toán  Mã số  :  60340301 
 LUẬN VĂN THẠC SĨ KINH TẾ 
 NGƯỜI HƯỚNG DẪN KHOA HỌC:  PGS.TS  MAI THỊ HOÀNG MINH 
-THÀNH PHỐ HỒ CHÍ MINH – NĂM 2015 Page 3
+THÀNH PHỐ HỒ CHÍ MINH – NĂM 2015 
+Page 3
 
 LỜI CAM ĐOAN 
 Đề tài nghiên cứu này do chính tác giả thực hiện, các kết quả nghiên cứu chính trong  luận văn là trung thực và chưa từng được công bố trong bất kỳ công trình nghiên cứu  nào khác. Tất cả những phần kế thừa, tham khảo cũng như tham chiếu đều được trích  dẫn đầy đủ và ghi nguồn cụ thể trong danh mục các tài liệu tham khảo. 
        Thành phố Hồ Chí Minh, tháng 10 năm 2015 
 Tác giả 
-Nguyễn Thị Hồng Em Page 4
+Nguyễn Thị Hồng Em 
+Page 4
 
 DANH MỤC CÁC CHỮ VIẾT TẮT 
 CBTT  Công bố thông tin 
 GDCK  Giao dịch chứng khoán 
 HNX  Sở giao dịch chứng khoán Hà nội 
-HOSE  Sở giao dịch chứng khoán Thành phố Hồ chí minh Page 5
+HOSE  Sở giao dịch chứng khoán Thành phố Hồ chí minh 
+Page 5
 
 Danh mục các bảng 
-Bảng  3.1.  Tóm  tắt  các  nhân  tố  độc  lập,  phương  pháp  đo  lường  và  giả  thuyết  nghiên  cứu ... 30  Bảng 4.1. Thống kê mô tả các biến mô hình nghiên cứu nhân tố tác động mức độ công  bố thông tin tự nguyện của nhóm ngành công nghiệp... 40  Bảng 4.2. Hệ số tương quan giữa các biến mô hình nghiên cứu nhân tố tác động mức  độ công bố thông tin tự nguyện của nhóm ngành tài chính ... 42  Bảng  4.3.  Tóm  tắt  mô  hình  nghiên  cứu  các nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện của nhóm ngành công nghiệp... 43  Bảng  4.4.  Bảng  ANOVA  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành công nghiệp ... 44  Bảng  4.5.  Kết  quả  hồi  quy  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành công nghiệp ... 44  Bảng  4.6.  Kết  quả  hồi  qui  mô  hình  hai  biến  SIZE,  FOREIGN  ảnh  hưởng  đến  VDI  nhóm ngành công nghiệp ... 45  Bảng 4.7. Thống kê mô tả các biến mô hình nghiên cứu nhân tố tác động mức độ công  bố thông tin tự nguyện của nhóm ngành xây dựng ... 47  Bảng 4.8. Hệ số tương quan giữa các biến mô hình nghiên cứu nhân tố tác động mức  độ công bố thông tin tự nguyện của nhóm ngành xây dựng ... 49  Bảng  4.9.  Tóm  tắt  mô  hình  nghiên  cứu  các nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện của nhóm ngành xây dựng ... 49  Bảng  4.10.  Bảng  ANOVA  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành xây dựng ... 50  Bảng 4.11. Kết quả hồi quy mô hình nghiên cứu các nhân tố ảnh hưởng đến mức độ  công bố thông tin tự nguyện của nhóm ngành xây dựng ... 50  Bảng 4.12. Kết quả mô hình hồi quy biến SIZE ảnh hưởng đến VDI nhóm ngành xây  dựng ... 51  Bảng 4.13. Thống kê mô tả các biến trong mô hình nghiên cứu các nhân tố ảnh hưởng  đến mức độ công bố thông tin tự nguyện của nhóm ngành tài chính ... 52 Page 6
+Bảng  3.1.  Tóm  tắt  các  nhân  tố  độc  lập,  phương  pháp  đo  lường  và  giả  thuyết  nghiên  cứu ... 30  Bảng 4.1. Thống kê mô tả các biến mô hình nghiên cứu nhân tố tác động mức độ công  bố thông tin tự nguyện của nhóm ngành công nghiệp... 40  Bảng 4.2. Hệ số tương quan giữa các biến mô hình nghiên cứu nhân tố tác động mức  độ công bố thông tin tự nguyện của nhóm ngành tài chính ... 42  Bảng  4.3.  Tóm  tắt  mô  hình  nghiên  cứu  các nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện của nhóm ngành công nghiệp... 43  Bảng  4.4.  Bảng  ANOVA  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành công nghiệp ... 44  Bảng  4.5.  Kết  quả  hồi  quy  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành công nghiệp ... 44  Bảng  4.6.  Kết  quả  hồi  qui  mô  hình  hai  biến  SIZE,  FOREIGN  ảnh  hưởng  đến  VDI  nhóm ngành công nghiệp ... 45  Bảng 4.7. Thống kê mô tả các biến mô hình nghiên cứu nhân tố tác động mức độ công  bố thông tin tự nguyện của nhóm ngành xây dựng ... 47  Bảng 4.8. Hệ số tương quan giữa các biến mô hình nghiên cứu nhân tố tác động mức  độ công bố thông tin tự nguyện của nhóm ngành xây dựng ... 49  Bảng  4.9.  Tóm  tắt  mô  hình  nghiên  cứu  các nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện của nhóm ngành xây dựng ... 49  Bảng  4.10.  Bảng  ANOVA  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành xây dựng ... 50  Bảng 4.11. Kết quả hồi quy mô hình nghiên cứu các nhân tố ảnh hưởng đến mức độ  công bố thông tin tự nguyện của nhóm ngành xây dựng ... 50  Bảng 4.12. Kết quả mô hình hồi quy biến SIZE ảnh hưởng đến VDI nhóm ngành xây  dựng ... 51  Bảng 4.13. Thống kê mô tả các biến trong mô hình nghiên cứu các nhân tố ảnh hưởng  đến mức độ công bố thông tin tự nguyện của nhóm ngành tài chính ... 52 
+Page 6
 
 nguyện nhóm ngành tài chính ... 54  Bảng 4.15. Tóm tắt mô hình nghiên cứu các nhân tố ảnh hưởng đến mức độ công bố  thông tin tự nguyện của nhóm ngành tài chính ... 55  Bảng  4.16.  Bảng  ANOVA  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành tài chính... 55  Bảng 4.17. Kết quả hồi quy mô hình nghiên cứu các nhân tố ảnh hưởng đến mức độ  công bố thông tin tự nguyện của nhóm ngành tài chính... 55  Bảng 4.18. Kết quả mô hình hồi quy hai biến LEV, STATE ảnh hưởng đến VDI nhóm  ngành tài chính ... 56  Bảng 4.19. Kết quả hồi quy biến LEV ảnh hưởng đến VDI nhóm ngành tài chính ... 57  Bảng 4.20. So sánh kết quả Chỉ số CBTT tự nguyện của ba nhóm ngành công nghiệp,  xây dựng và tài chính ... 58  Bảng 4.21. So sánh một số chỉ số kết quả nghiên cứu của 03 nhóm ngành công nghiệp,  xây dựng và tài chính ... 59  Bảng 4.22. Tóm tắt kết quả nghiên cứu của 03 nhóm ngành công nghiệp, xây dựng, tài  chính ... 59  Danh mục sơ đồ 
 Sơ đồ 3.1. Mô hình các nhân tố ảnh hưởng mức độ công bố thông tin tự nguyện ... 33 
 Danh mục hình 
-Hình 3.1. Quy trình nghiên cứu ... 31 Page 7
+Hình 3.1. Quy trình nghiên cứu ... 31 
+Page 7
 
 MỤC LỤC 
 DANH MỤC CÁC TỪ VIẾT TẮT  DANH MỤC CÁC BẢNG BIỂU, SƠ ĐỒ 
@@ -64,7 +70,8 @@ CHƯƠNG 2 – CƠ SỞ LÝ THUYẾT ... - 13 -
 2.3. LÝ THUYẾT ỦY NHIỆM ... - 20 - 
 2.4. PHÂN CHIA NHÓM NGÀNH CÔNG TY NIÊM YẾT TRÊN HAI SỞ GIAO DỊCH CHỨNG  KHOÁN VIỆT NAM ... - 22 - 
 2.4.1. Phân ngành theo hệ thống ngành kinh tế HaSIC của Sở giao dịch chứng khoán Hà Nội . - 23  - 
-2.4.2. Phân ngành các công ty niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh. -  24 - Page 8
+2.4.2. Phân ngành các công ty niêm yết trên Sở giao dịch chứng khoán Thành phố Hồ Chí Minh. -  24 - 
+Page 8
 
 3.1.1. Phương pháp tiếp cận ... - 27 - 
 3.1.3. Quy trình nghiên cứu ... - 27 - 
@@ -94,12 +101,14 @@ CHƯƠNG 5 - KẾT LUẬN VÀ KIẾN NGHỊ ... - 65 -
 5.2.3. Kiến nghị đối với Sở giao dịch chứng khoán Hà nội và Sở giao dịch chứng khoán Thành  phố Hồ chí minh ... - 69 - 
 5.3. HẠN CHẾ CỦA ĐỀ TÀI VÀ HƯỚNG NGHIÊN CỨU TIẾP THEO ... - 70 - 
 KẾT LUẬN CHƯƠNG 5... - 71 -  TÀI LIỆU THAM KHẢO 
-PHỤ LỤC Page 9
+PHỤ LỤC 
+Page 9
 
 PHẦN MỞ ĐẦU 
 1. TÍNH CẤP THIẾT CỦA ĐỀ TÀI 
 Đối  với  nhà  đầu  tư  vốn,  những  hiểu  biết  về  tình  hình  hoạt  động  kinh  doanh  của  công ty thật sự quan trọng và là yếu tố quyết định của việc đầu tư. Thị trường chứng  khoán  là  một  kênh  huy  động  vốn  quan  trọng,  để  đạt  được  điều  kiện  tham  gia  thị  trường vốn này, các công ty phải đạt được nhiều điều kiện khắt khe. Trong đó, là  điều kiện bắt buộc tuân thủ các quy định về công bố thông tin đến Ủy ban chứng  khoán nhà nước, các nhà đầu tư, cổ đông, và các bên có liên quan khác. Trong hoàn  cảnh đó, để tạo điều kiện thúc đẩy công khai minh bạch thông tin nhằm tạo niềm tin  với  các  nhà  đầu  tư,  từ  năm  2007  cơ  quan  Bộ  tài  chính  đã  ban  hành  các  thông  tư   hướng  dẫn  việc  công  bố  thông  tin,  hiện  nay  đang  áp  dụng  theo  thông  tư  số  52/2012/TT–BTC của Bộ tài chính ngày 05/04/2012 hướng dẫn việc công bố thông  tin trên thị trường chứng khoán có hiệu lực từ ngày 01/06/2012.  
-Theo báo cáo thường niên năm 2014 của Sở giao dịch chứng khoán Hà Nội (HNX)  và Sở giao dịch chứng khoán Thành phố Hồ  Chí Minh (HOSE), số  lượng công ty  đại chúng niêm yết lần lượt là 365 và 305, giá trị vốn hóa tại ngày 31/12/2014 lần  lượt là 136.017,41 tỷ đồng và 985.258 tỷ đồng. 03 nhóm ngành chiếm tỷ trọng cao  đó là: công nghiệp, xây dựng và tài chính. Tính tương ứng trên hai Sở GDCK thì 03  nhóm ngành chiếm tỷ trọng khoảng 67% giá trị vốn hóa của thị trường, cho thấy tỷ  trọng của 03 nhóm ngành trên thị trường chứng khoán được nhận định là khá cao.  Nghiên  cứu  ở  nước  ngoài  của  Meek  và  cộng  sự  (1995),  nghiên  cứu  của  Chau  và  Gray  (2002)  cho  thấy  có  kết  quả  khác  biệt  khi  nghiên  cứu  về  CBTT  ở  các  nhóm  ngành  khác  nhau.  Tại  Việt  nam,  có  nhiều  nghiên  cứu  về  công  bố  thông  tin  ở  các  công  ty  niêm  yết  trên  sàn  giao  dịch  chứng  khoán,  một  số  nghiên  cứu  sâu  hơn  về  hoàn thiện việc công bố thông tin, chủ  yếu ở các công ty phi tài chính, ngân hàng  thương mại… Tuy nhiên, chưa có nghiên cứu thực hiện đo lường nhân tố tác động  đến mức độ công bố thông tin (CBTT) tự nguyện của các nhóm ngành và so sánh Page 10
+Theo báo cáo thường niên năm 2014 của Sở giao dịch chứng khoán Hà Nội (HNX)  và Sở giao dịch chứng khoán Thành phố Hồ  Chí Minh (HOSE), số  lượng công ty  đại chúng niêm yết lần lượt là 365 và 305, giá trị vốn hóa tại ngày 31/12/2014 lần  lượt là 136.017,41 tỷ đồng và 985.258 tỷ đồng. 03 nhóm ngành chiếm tỷ trọng cao  đó là: công nghiệp, xây dựng và tài chính. Tính tương ứng trên hai Sở GDCK thì 03  nhóm ngành chiếm tỷ trọng khoảng 67% giá trị vốn hóa của thị trường, cho thấy tỷ  trọng của 03 nhóm ngành trên thị trường chứng khoán được nhận định là khá cao.  Nghiên  cứu  ở  nước  ngoài  của  Meek  và  cộng  sự  (1995),  nghiên  cứu  của  Chau  và  Gray  (2002)  cho  thấy  có  kết  quả  khác  biệt  khi  nghiên  cứu  về  CBTT  ở  các  nhóm  ngành  khác  nhau.  Tại  Việt  nam,  có  nhiều  nghiên  cứu  về  công  bố  thông  tin  ở  các  công  ty  niêm  yết  trên  sàn  giao  dịch  chứng  khoán,  một  số  nghiên  cứu  sâu  hơn  về  hoàn thiện việc công bố thông tin, chủ  yếu ở các công ty phi tài chính, ngân hàng  thương mại… Tuy nhiên, chưa có nghiên cứu thực hiện đo lường nhân tố tác động  đến mức độ công bố thông tin (CBTT) tự nguyện của các nhóm ngành và so sánh 
+Page 10
 
 kết quả đạt được. Các nhân tố tác động đến mức độ CBTT tự nguyện có thể có ảnh  hưởng khác nhau, hoặc có mức ảnh hưởng không đồng đều ở mỗi nhóm ngành. Từ  đó, việc nhìn nhận về các giải pháp nâng cao sự minh bạch thông tin tài chính ở mỗi  nhóm ngành có thể cũng có sự khác biệt nhau.  
 Từ tính cấp thiết và mục đích trên, tác giả lựa chọn đề tài: ”Các nhân tố ảnh hưởng  mức độ công bố thông tin tự nguyện của các công ty niêm yết trên thị trường chứng  khoán  Việt  nam  –  nghiên  cứu  ở  03  nhóm  ngành:  công  nghiệp,  xây  dựng  và  tài  chính”. 
@@ -107,7 +116,8 @@ Từ tính cấp thiết và mục đích trên, tác giả lựa chọn đề t
 Mục tiêu tổng quát của đề tài: nghiên cứu thực nghiệm tại Việt nam nhằm tìm hiểu  các nhân tố tác động đến mức độ công bố thông tin tự nguyện của các công ty đại  chúng  niêm  yết  ở  Sở  GDCK  Hà  nội  và  Sở  GDCK  Thành  phố  Hồ  chí  minh,  thực  hiện trên 03 nhóm ngành: công nghiệp, xây dựng, và tài chính. Từ mục tiêu chung,  tác giả đưa ra 03 mục tiêu cụ thể: 
 Mục tiêu thứ nhất, nhận diện các nhân tố ảnh hưởng đến mức độ công bố thông tin  tự nguyện tự nguyện của công ty để tiến hành áp dụng nghiên cứu thực nghiệm cho  cả 03 nhóm ngành: công nghiệp, xây dựng và tài chính. 
 Mục tiêu thứ hai, thực hiện nghiên cứu và đánh giá kết quả đạt được của mô hình,  phân tích so sánh kết quả đạt được ở 03 nhóm ngành với mô hình kiểm định tương  tự nhau và so sánh kết quả với một số nghiên cứu trước. 
-Mục tiêu thứ ba, dựa vào những kết quả đạt được và nhận định vấn đề ở mỗi nhóm  ngành, đề tài đưa ra những kiến nghị đến các bên có liên quan nhằm nâng cao mức  độ công bố thông tin tự nguyệncủa các công ty đại chúng niêm yết trên Sở GDCK. Page 11
+Mục tiêu thứ ba, dựa vào những kết quả đạt được và nhận định vấn đề ở mỗi nhóm  ngành, đề tài đưa ra những kiến nghị đến các bên có liên quan nhằm nâng cao mức  độ công bố thông tin tự nguyệncủa các công ty đại chúng niêm yết trên Sở GDCK. 
+Page 11
 
 3. PHẠM VI VÀ ĐỐI TƯỢNG NGHIÊN CỨU 
 Phạm vi nghiên cứu  
@@ -115,57 +125,67 @@ Là các công ty đại chúng niêm yết tại Sở giao dịch chứng khoá
 Dữ liệu thu thập trên báo cáo thường niên năm 2014.  Đối tượng nghiên cứu: 
   Tìm hiểu các nhân tố có ảnh hưởng đến mức độ công bố thông tin tự nguyện trên  báo  cáo  thường  niên  của  công  ty.  Đề  tài  dựa  trên  lý  thuyết,  các  nghiên  cứu  thực  nghiệm ở trong và ngoài nước, đưa vào mô hình các biến độc lập như sau: (1) quy  mô công ty; (2) đòn bẩy nợ; (3) lợi nhuận; (4) tỷ lệ sở hữu của cổ đông lớn; (5) tỷ lệ  sở hữu của Nhà nước (6) tỷ lệ sở hữu nhà đầu tư nước ngoài; (7) tỷ lệ thành viên hội  đồng quản trị độc lập; (8) tách biệt vai trò chủ tịch hội đồng quản trị và giám đốc.  Hai biến (7) và (8) là hai biến kiểm soát. 
 Tương ứng với 08 biến độc lập, tác giả đưa ra 08 giả thuyết nghiên cứu. 
-  Mức độ công bố thông tin tự nguyện của mỗi công ty, để đo lường biến phụ thuộc  này, tác giả sử dụng danh mục công bố tự nguyện được phát triển bởi Meek (1995)  và sửa đổi bổ sung bởi Chau và Gray (2002) kết hợp đối chiếu, loại trừ các khoản  mục  được  quy  định  bắt  buộc  công  bố  theo  pháp  luật  Việt  nam,  đó  là  thông  tư  số  52/2012/TT-BTC  ngày  04/05/2012  của  Bộ  tài  chính  về  công  bố  thông  tin  trên  thị  trường  chứng  khoán.  Phụ  lục  07  trình  bày  dữ  liệu  thu  thập  của  các  công  ty  đại  chúng  niêm  yết  tại  hai  Sở  GDCK  Việt  nam  ở  03  nhóm  ngành  công  nghiệp,  xây  dựng và tài chính dựa trên báo cáo thường niên của công ty công bố. Page 12
+  Mức độ công bố thông tin tự nguyện của mỗi công ty, để đo lường biến phụ thuộc  này, tác giả sử dụng danh mục công bố tự nguyện được phát triển bởi Meek (1995)  và sửa đổi bổ sung bởi Chau và Gray (2002) kết hợp đối chiếu, loại trừ các khoản  mục  được  quy  định  bắt  buộc  công  bố  theo  pháp  luật  Việt  nam,  đó  là  thông  tư  số  52/2012/TT-BTC  ngày  04/05/2012  của  Bộ  tài  chính  về  công  bố  thông  tin  trên  thị  trường  chứng  khoán.  Phụ  lục  07  trình  bày  dữ  liệu  thu  thập  của  các  công  ty  đại  chúng  niêm  yết  tại  hai  Sở  GDCK  Việt  nam  ở  03  nhóm  ngành  công  nghiệp,  xây  dựng và tài chính dựa trên báo cáo thường niên của công ty công bố. 
+Page 12
 
   Ảnh hưởng của các nhân tố đếnmức độ công bố thông tin tự nguyện trên báo cáo  thường niêncủa công ty niêm yết trên Sở GDCK của 03 nhóm ngành: công nghiệp,  xây dựng và tài chính. 
 4. PHƯƠNG PHÁP NGHIÊN CỨU 
 Đề tài sử dụng phương pháp định tính kết hợp định lượng. Cụ thể, để đạt được mục  tiêu đề ra, đề tài cần sử dụng phương pháp khác nhau cho mỗi mục tiêu.  
 Mục tiêu thứ nhất, nhận diện các nhân tố ảnh hưởng đến mức độ công bố thông tin  tự nguyện tự nguyện của công ty để tiến hành áp dụng nghiên cứu thực nghiệm cho  cả 03 nhóm ngành: công nghiệp, xây dựng và tài chính. Để đạt được mục tiêu này,  tác giả sử dụng phương pháp tiếp cận tổng quát, phân tích điểm giống và khác nhau  ở  mỗi nghiên cứu thực nghiệm tại Việt nam, cũng như những nghiên cứu ở nước  ngoài được tìm thấy. Từ đó, kết hợp những lập luận và đưa ra các giả thuyết nghiên  cứu liên quan. Đồng thời, để dễ hiểu, tác giả cũng xác định phương pháp đo lường  biến độc lập. Tiến hành lập bảng tổng hợp các biến và các giả thuyết cần kiểm định  trong mô hình. Mô hình được sử dụng nghiên cứu đồng thời ở cả 03 nhóm ngành:  công nghiệp, xây dựng và tài chính. 
 Biến phụ thuộc là chỉ số công bố thông tin tự nguyện được tính toán dựa trên danh  mục thông tin theo mô hình công bố tự nguyện của Meek (1995) và phát triển bởi  Chau và Gray (2002) trình bày ở phụ lục 01. Sau đó, đối chiếu và loại trừ các mục  thông  tin  bắt  buộc  theo  thông  tư  số  52/2012/TT-BTC  ngày  05/04/2012  của  Bộ  tài  chính về công bố thông tin trên thị trường chứng khoán, trình bày ở phụ lục 02. Từ  đó, tác giả đưa ra danh mục tự nguyện công bố áp dụng tính điểm cho từng công ty. 
-Mục tiêu thứ hai, thực hiện nghiên cứu và đánh giá kết quả đạt được của mô hình,  phân tích so sánh kết quả đạt được ở 03 nhóm ngành với mô hình kiểm định tương  tự nhau. Với phương pháp định lượng, ở mỗi nhóm ngành, đề tài sử dụng phương  pháp hồi quy bội, công cụ hỗ trợ kiểm định giả thuyết nghiên cứu SPSS. Kiểm định  mô hình thông qua 04 bước. Tiếp theo, so sánh và thảo luận kết quả của 03 nhóm Page 13
+Mục tiêu thứ hai, thực hiện nghiên cứu và đánh giá kết quả đạt được của mô hình,  phân tích so sánh kết quả đạt được ở 03 nhóm ngành với mô hình kiểm định tương  tự nhau. Với phương pháp định lượng, ở mỗi nhóm ngành, đề tài sử dụng phương  pháp hồi quy bội, công cụ hỗ trợ kiểm định giả thuyết nghiên cứu SPSS. Kiểm định  mô hình thông qua 04 bước. Tiếp theo, so sánh và thảo luận kết quả của 03 nhóm 
+Page 13
 
 ngành, so sánh với kết quả đạt được ở một số nghiên cứu trước trong và ngoài nước.  Mục tiêu thứ ba, dựa vào những kết quả đạt được và nhận định vấn đề ở mỗi nhóm  ngành, đề tài đưa ra những kiến nghị đến các bên có liên quan nhằm nâng cao mức  độ công bố thông tin tự nguyện của các công ty đại chúng niêm yết trên Sở GDCK ở  mỗi nhóm ngành tương ứng. Trên cơ sở thu thập số liệu, phân tích kết quả đạt được,  tác giả nhận định và dựa trên môi trường thực tế nhằm đưa ra những kiến nghị phù  hợp. 
 5. CÁC ĐÓNG GÓP CỦA LUẬN VĂN 
 Về mặt lý thuyết, đề tài tóm tắt một số nghiên cứu trước đã được thực hiện ở trong  nước và nước ngoài. 
 Về  mặt  thực  tiễn,  kết  quả  nghiên  cứu  đóng  gópkết  quả  nghiên  cứu  tác  động  đến  mức độ công bố thông tin tự nguyện trên báo cáo thường niên của 03 nhóm ngành:  công nghiệp, xây dựng và tài chính. Đánh giá kết quả khác nhau giữa nhóm ngành  phi tài chính và tài chính, so sánh với các nghiên cứu trước trong và ngoài nước.   Từ đó, giúp doanh nghiệp có cơ sở về nghiên cứu trong công bố thông tin tự nguyện  được các bên liên quan quan tâm, nâng cao chất lượng và số lượng thông tin nhằm  thu hút nguồn đầu tư, tạo hình ảnh tốt với nhà đầu tư, cơ quan nhà nước, xã hội và  các bên liên quan khác. Đối với nhà đầu tư, hỗ trợ họ hiểu rõ hơn về các thông tin  mà doanh nghiệp tự nguyện công bố ngoài những thông tin bắt buộc, giúp họ nhận  định và đưa ra những quyết định đúng đắn. Đối với Cơ quan quản lý, đề tài cũng  đưa ra một số kiến nghị nhằm cải thiện mức độ CBTT tự nguyện, cũng là góp phần  cho sự minh bạch thông tin trên thị trường chứng khoán Việt nam. 
 6. KẾT CẤU CỦA LUẬN VĂN 
-Ngoài phần mở đầu, đề tài bao gồm 05 chương theo trình tự từ lý thuyết đến thực  nghiệm. Page 14
+Ngoài phần mở đầu, đề tài bao gồm 05 chương theo trình tự từ lý thuyết đến thực  nghiệm. 
+Page 14
 
 Chương 1 tổng quan về tình hình nghiên cứu đã được thực hiện trong nước và ngoài  nước có liên quan. 
 Chương 2 trình bày khái quát về cơ sở lý thuyết 
 Chương 3 phương pháp nghiên cứu bao gồm việc xác định phương pháp tiếp cận,  mô hình, phương pháp đo lường biến thể hiện mức độ CBTT, phương pháp thu thập  dữ liệu, chọn mẫu nghiên cứu.  
 Chương 4, trình bày kết quả nghiên cứu ở 03 nhóm ngành: công nghiệp, xây dựng  và tài chính. Thảo luận và so sánh kết quả đạt được ở 03 nhóm ngành, cũng như so  sánh với một số nghiên cứu trước ở trong và ngoài nước. 
-Chương 5 nêu kết luận đề tài và đưa ra kiến nghị với các bên liên quan. Đồng thời,  ghi nhận hạn chế của nghiên cứu và hướng nghiên cứu trong tương lai. Page 15
+Chương 5 nêu kết luận đề tài và đưa ra kiến nghị với các bên liên quan. Đồng thời,  ghi nhận hạn chế của nghiên cứu và hướng nghiên cứu trong tương lai. 
+Page 15
 
 CHƯƠNG 1 – TỔNG QUAN CÁC NGHIÊN CỨU TRƯỚC ĐÂY  
 1.1. TỔNG QUAN CÁC NGHIÊN CỨU TRƯỚC CÓ LIÊN QUAN 
 1.1.1. TỔNG QUAN TÌNH HÌNH NGHIÊN CỨU NƯỚC NGOÀI 
 Trên  thế  giới  có  nhiều  nghiên  cứu  về  công  bố  thông  tin,  công  bố  thông  tin  tự  nguyện  ở  cả  các  nước  phát  triển  và  đang  phát  triển.  Một  nghiên  cứu  kết  hợp  định  tính  và  định  lượng  của  Meek  và  cộng  sự  (1995)  “Factors  influencing  voluntary  annual  report  disclosures  by  U.S.,  U.K.  and  continental  european  multinational  corporation”,  thực  hiện  ở  các  nước  phát  triển,  được  tham  chiếu  nhiều  trong  các  nghiên cứu liên quan. Meek và cộng sự (1995) nghiên cứu về các nhân tố tác động  đến mức độ công bố thông tin tự nguyện và xây dựng một danh mục công bố thông  tin  tự  nguyện  dựa  trên  khảo  sát  ở  Mỹ,  Anh  và  một  số  nước  Châu  Âu.  Danh  mục  được xây dựng trên 03 khía cạnh: thông tin chiến lược, thông tin tài chính và thông  tin phi tài chính. Tác giả thảo luận, so sánh kết quả đạt được theo 03 cụm: nước Mỹ,  Anh và các nước Châu Âu khác. Kết quả cho thấy các nhân tố giải thích cho mức độ  CBTT tự nguyện bao gồm 04 nhân tố: quy mô công ty, vùng địa lý, tình trạng niêm  yết, và loại ngành công nghiệp mà công ty hoạt động. Khi phân tích về loại ngành  công nghiệp, tác giả đưa vào 04 ngành công nghiệp: (1) ngành kim loại, vật liệu xây  dựng, xây dựng, (2) ngành kỹ thuật, (3)  ngành tiêu dùng hàng  hóa và dịch vụ, (4)  ngành  dầu,  hóa  chất,  khai  thác  mỏ.    Kết  quả  phân  tích,  cho  thấy  đối  với  khu  vực  nước Mỹ thì 02 ngành là ngành kim loại, vật liệu xây dựng, xây dựng và ngành dầu,  hóa chất, khai thác mỏ có mức công bố thông tin tự nguyện cao hơn 02 ngành còn  lại. Đối với nước Anh thì ngành tiêu dùng, dịch vụ có mức độ CBTT tự nguyện cao  hơn  nhiều  so  với  02  ngành  còn  lại.  Kết  quả  này  chứng  tỏ  là  mức  độ  CBTT  tự  nguyện có sự khác nhau giữa các ngành nghề kinh doanh của các công ty. Mặc dù  nghiên cứu có được những kết quả đáng chú ý, nhưng một hạn chế cho thấy mức độ  giải thích của R 2  ở mức 14 đến 46%, cần có thêm các biến giải thích cho mô hình, 
-với dữ liệu, tác giả cho biết có thể cần thêm các biến độc lập liên quan đến cổ đông.  Page 16
+với dữ liệu, tác giả cho biết có thể cần thêm các biến độc lập liên quan đến cổ đông.  
+Page 16
 
 Về  phương  pháp  thực  hiện,  Meek  và  cộng  sự  (1995)  áp  dụng  mô  hình  hồi  quy  đa  biến, phân tích 6 nhân tố tác động đến mức độ CBTT tự nguyện ở từng nhóm thông  tin. Phương pháp  thực hiện này là phù hợp  cho  mô hình  nghiên cứu. Trong  phần  trình bày kết quả nghiên cứu, tác giả cũng thể hiện rất đầy đủ về kết quả thống kê  mức  độ  CBTT  tự  nguyện  ở  từng  nhóm  ngành  của  từng  vùng  khác  nhau,  thống  kê  kích thước mẫu, các chỉ số R 2 , mức ý nghĩa của từng nhóm ngành liên quan. 
 Một  nghiên  cứu  thực  nghiệm  tại  nước  Châu  Á,  là  nghiên  cứu  của  Chau  và  Gray  (2002) “Ownership structure and corporate voluntary disclosure in Hong Kong and  Singapore” về mối liên hệ giữa cấu trúc sở hữu vốn và công bố thông tin tự nguyện  tại Hồng Kông và Singapore. Để xây dựng chỉ số CBTT tự nguyện, tác giả đã dựa  trên  danh  mục  phát  triển  bởi  Meek  và  bổ  sung  một  số  mục  cụ  thể  hơn,  việc  trình  bày  danh  mục  đo  lường  mức  độ  CBTT  tự  nguyện  được  trình  bày  ở  phụ  lục  của  nghiên cứu. Theo quan điểm riêng của tác giả, các mục bổ sung là phù hợp, có thể  công bố bởi công ty nhằm thể hiện rõ ràng tình hình của công ty với người sử dụng  thông tin trên báo cáo.  
 Với  phương  pháp  định  lượng,  tác  giả  cũng  sử  dụng  mô  hình  hồi  quy  nhằm  kiểm  định mối liên hệ cấu trúc vốn ảnh hưởng đến mức độ công bố thông tin tự nguyện.  Biến độc lập gồm 06 biến: quy mô công ty, đòn bẩy nợ, số lượng thành viên kiểm  toán, cấu trúc sở hữu, lợi nhuận, mức độ đa dạng của ngành nghề kinh doanh. Kích  thước mẫu ở Hồng Kông và Singapore lần lượt là 60 và 62 công ty niêm yết. Kiểm  định hiện  tượng đa cộng tuyến  không  xảy ra trong  mô hình  hồi quy,  với  yêu cầu  VIF cần nhỏ hơn 10. 
-Kết quả cho thấy cấu trúc sở hữu có yếu tố bên ngoài và quy mô đa dạng thì có ảnh  hưởng tích cực đến mức độ CBTT tự nguyện, ngược lại các công ty có  yếu tố sở  hữu nội bộ và sở hữu gia đình thì làm giảm chỉ số CBTT tự nguyện. Ngoài ra, tác  giả còn xem xét ngành nghề của các công ty, 04 ngành kinh doanh đưa vào mô hình  là: (1) thực phẩm và nước uống, (2) vận chuyển và giao thông vận tải, (3) thiết bị  điện tử và công nghệ, (4) vật liệu xây dựng và xây dựng. Tuy không đi sâu phân Page 17
+Kết quả cho thấy cấu trúc sở hữu có yếu tố bên ngoài và quy mô đa dạng thì có ảnh  hưởng tích cực đến mức độ CBTT tự nguyện, ngược lại các công ty có  yếu tố sở  hữu nội bộ và sở hữu gia đình thì làm giảm chỉ số CBTT tự nguyện. Ngoài ra, tác  giả còn xem xét ngành nghề của các công ty, 04 ngành kinh doanh đưa vào mô hình  là: (1) thực phẩm và nước uống, (2) vận chuyển và giao thông vận tải, (3) thiết bị  điện tử và công nghệ, (4) vật liệu xây dựng và xây dựng. Tuy không đi sâu phân 
+Page 17
 
 tích tác động của từng ngành nghề đến mức độ CBTT tự nguyện, nhưng kết quả cho  thấy  có  sự  tác  động  khác  nhau  giữa  các  ngành  công  nghiệp  đến  mức  độ  CBTT  tự  nguyện. Tuy nhiên, mức độ phù hợp của mô hình còn thấp, ở Hồng Kông, chỉ số R 2 từ 22.5% đến 25%, ở Singapore từ 42,6% đến 64,9%.  
 Một  nghiên  cứu  khác  có  liên  quan  của  Xiao  và  Yuang  (2007)  với  đề  tài  là  “Ownership  structure,  board  composition  and  corporate  voluntary  disclosure:  Evidence from listed companies in China” được thực hiện khảo sát trên 559 công ty  niêm  yết  tại  Trung  Quốc  năm  2002.  Việc  tính  chỉ  số  đo  lường  mức  độ  CBTT  tự  nguyện  cũng  tương  tự  các  nghiên  cứu  trên.  Sau  đó,  tác  giả  tập  hợp  từ  các  nghiên  cứu trước đưa ra các giả thuyết liên quan đến mô hình. Các biến được đưa vào kiểm  định:  sở  hữu  của  cổ  đông  lớn,  sở  hữu  của  nhà  quản  trị  công  ty,  sở  hữu  của  nhà  nước,  sở  hữu của  cá  nhân,  tình trạng niêm  yết/sở  hữu cổ  đông nước  ngoài, thành  viên hội đồng quản trị độc lập, việc tách biệt vai trò của chủ tịch hội đồng quản trị  và tổng giám đốc/giám đốc. Kết quả cho thấy sở hữu cổ đông lớn và tình trạng niêm  yết/sở hữu cổ đông nước ngoài là hai biến có liên quan đến công bố thông tin. Các  biến còn lại có mối liên hệ thấp hoặc không có.  
 Sử dụng mô hình hồi quy theo phương pháp bình phương bé nhất OLS để kiểm tra  mối quan hệ giữa các biến. Đây cũng là phương pháp mà các nghiên cứu trước sử  dụng,  điều  này  được  đánh  giá  là  phù  hợp  cho  nghiên  cứu  định  lượng  của  tác  giả.  Kiểm  định  hiện  tượng  đa  cộng  tuyến  đạt  được  mức  tin  tưởng  cao,  VIF  tối  đa  là  1.351, thấp hơn 10.  Tuy  nhiên, đề tài cũng  có hạn chế về  mức R 2  rất thấp, ở  mức 
 9,7% cho thấy còn nhiều yếu tố khác chưa được đưa vào mô hình nghiên cứu. Tác  giả  cũng  cho  thấy  hạn  chế  khi  thực  hiện  nghiên  cứu  trên  các  công  ty  niêm  yết  ở  Shanghai,  đại  diện  cho  45,7%  các  công  ty  niêm  yết  trên  thị  trường  chứng  khoán  Trung Quốc. 
 1.1.2. TỔNG QUAN TÌNH HÌNH NGHIÊN CỨU TRONG NƯỚC 
-Từ  thực  tế  đòi  hỏi  thông  tin  nhiều  hơn  nhằm  phục  vụ  cho  các  quyết  định  đầu  tư,  cùng với sự phát triển của thị trường chứng khoán Việt nam, do đó, những nghiên Page 18
+Từ  thực  tế  đòi  hỏi  thông  tin  nhiều  hơn  nhằm  phục  vụ  cho  các  quyết  định  đầu  tư,  cùng với sự phát triển của thị trường chứng khoán Việt nam, do đó, những nghiên 
+Page 18
 
 cứu về CBTT được nghiên cứu tại Việt nam được thực hiện chủ yếu ở các công ty  đại chúng niêm yết. Hầu hết các nghiên cứu thực hiện theo phương pháp đo lường  chỉ  số  công  bố  thông  tin,  đánh  giá  và  kiểm  định  các  nhân  tố  tác  động  đến  CBTT,  chất lượng công bố thông tin và các giải pháp hoàn thiện công bố thông  tin  ở các  công ty niêm yết.  
 Đối với công bố thông tin tự nguyện là một mảng đi sâu hơn dựa trên yêu cầu của  thực tế, khi những thông tin bắt buộc công bố chưa đáp ứng đủ nhu cầu của người  sử dụng thông tin trên các báo cáo, chưa thiết lập đủ niềm tin khi sự tách biệt giữa  người sở hữu và người quản lý. Mảng nghiên cứu về CBTT tự nguyện chưa được  thực hiện nhiều tại Việt nam, tác giả nêu một số nghiên cứu liên quan. 
 Lê Quang Bình (2012) thực hiện nghiên cứu thực nghiệm về CBTT tự nguyện của  các công ty niêm yết tại Việt Nam. Nghiên cứu xây dựng bảng danh mục các thông  tin tự nguyện công bố dựa trên Luật doanh nghiệp 2005 và Luật chứng khoán Việt  năm 2006, sau đó sử dụng bảng câu hỏi khảo sát ý kiến mức độ quan trọng của 92  nhà phân tích tài chính và 106 nhà quản lý tài chính. Hai kết quả nghiên cứu được  đưa ra, là mức độ công bố thông tin của 199 công ty niêm yết được khảo sát và mức  độ quan trọng của thông tin dựa trên hai quan điểm của nhà phân tích tài chính và  nhà quản lý tài chính. Kết quả cho thấy ở một nước đang phát triển như Việt Nam,  thì mức độ công bố thông tin về nguồn nhân lực trong doanh nghiệp thấp, điều này  tương tự như các nước phát triển khác (Nhật bản, Ireland). Ngoài ra, quan điểm của  nhà phân tích tài chính và nhà quản lý tài chính gần như có một sự đồng thuận về  tầm quan trọng của các khoản mục thông tin. Nghiên cứu cho thấy các công ty cần  cải thiện hơn trong việc xác định thông tin CBTT tự nguyện để đáp ứng và tạo niềm  tin cho nhà đầu tư. Tác giả đề xuất hướng nghiên cứu tìm các nhân tố tác động đến  mức độ công bố thông tin tự nguyện trên báo cáo thường niên ở cả các nước phát  triển và đang phát triển. Do đó, đề tài này được thực hiện cũng góp phần vào lĩnh  vực công bố thông tin hiện nay.  
-Nguyễn  Thị  Thu  Hảo  (2014)  nghiên  cứu  về  các  nhân  tố  ảnh  hưởng  đến  mức  độ Page 19
+Nguyễn  Thị  Thu  Hảo  (2014)  nghiên  cứu  về  các  nhân  tố  ảnh  hưởng  đến  mức  độ 
+Page 19
 
 công  bố  thông  tin  tự  nguyện  của  các  công  ty  niêm  yết  trên  sàn  giao  dịch  chứng  khoán Thành phố Hồ chí minh. Để tính chỉ số CBTT tự nguyện, tác giả cho biết đã  sử dụng danh mục tự tổng hợp dựa trên các nghiên cứu của nhiều tác giả được thực  hiện ở các nước đang phát triển như Jordan, Nam Phi và Malaysia. Tuy nhiên, tác  giả  không  ghi  cụ  thể  cách  tổng  hợp  như  thế  nào  để  có  được  69  mục  thông  tin  tự  nguyện  sử  dụng  để  đối  chiếu  với  thông  tư  52/2012/TT-BTC  ngày  05/04/2012  của  Bộ tài chính ban hành quy định về công bố thông tin trên thị trường chứng khoán.  Danh mục được tác giả thực hiện khảo sát (các kế toán viên, kiểm toán viên, nhân  viên ngân hàng, nhà đầu tư tài chính) để đánh giá mức độ quan trọng của mỗi thông  tin, loại trừ các mục thông tin có mức quan trọng dưới 3 (theo thang đo Likert từ 1  đến 5 tăng dần theo mức độ quan trọng, 3 là “Trung lập”). Điều này là chưa thật sự  phù hợp, có thể đối với những đối tượng được khảo sát này chỉ tập trung vào một số  thông tin,  mà  danh  mục CBTT  tự nguyện hướng đến nhiều đối tượng sử dụng, có  thể là cơ quan nhà nước, chủ nợ, các nhà đầu tư chưa đầu tư vào công ty, hoặc là  người lao động… Kết quả của nghiên cứu cho thấy nhân tố quy mô, loại hình sở  hữu, lợi nhuận có tác động thuận chiều đến mức độ CBTT tự nguyện. Các nhân tố  công  ty  kiểm  toán,  đòn  bẩy  tài  chính,  quy  mô  hội  đồng  quản  trị,  tỷ  lệ  thành  viên  không điều hành trong hội đồng quản trị thì không ảnh hưởng đến mức độ công bố  thông tin tự nguyện.  
 Phương pháp kiểm định mô hình hồi quy đa biến nhằm kiểm định mối liên hệ giữa  các biến độc lập đến biến phụ thuộc, mức ý nghĩa R 2  ở mức 22% cho thấy còn có 
-nhiều yếu tố tác động đến CBTT tự nguyện mà chưa được đưa vào mô hình nghiên  cứu. Hướng nghiên cứu tương lai được tác giả đề cập khi số lượng công ty niêm yết  nhiều hơn, có thể nghiên cứu nhân tố ảnh hưởng đến  mức độ công  bố thông  tin ở  nhiều ngành kinh doanh. Đề tài lựa chọn 03 nhóm ngành công nghiệp, xây dựng và  tài chính để nghiên cứu, định hướng cũng dựa trên phương pháp kiểm định mô hình  hồi  quy  đa  biến  tương  tự  phương  pháp  của  tác  giả  này,  cũng  như  một  số  tác  giả  trước. Page 20
+nhiều yếu tố tác động đến CBTT tự nguyện mà chưa được đưa vào mô hình nghiên  cứu. Hướng nghiên cứu tương lai được tác giả đề cập khi số lượng công ty niêm yết  nhiều hơn, có thể nghiên cứu nhân tố ảnh hưởng đến  mức độ công  bố thông  tin ở  nhiều ngành kinh doanh. Đề tài lựa chọn 03 nhóm ngành công nghiệp, xây dựng và  tài chính để nghiên cứu, định hướng cũng dựa trên phương pháp kiểm định mô hình  hồi  quy  đa  biến  tương  tự  phương  pháp  của  tác  giả  này,  cũng  như  một  số  tác  giả  trước. 
+Page 20
 
 Nghiên  cứu  mức  độ  công  bố  thông  tin  kế  toán  của  các  doanh  nghiệp  ngành  xây  dựng  niêm  yết  tại  Sàn  giao  dịch  chứng  khoán  Hà  nội  của  tác  giả  Huỳnh  Thị  Vân  (2013). Mức độ công bố thông tin được đo lường dựa trên hướng dẫn của thông tư  số 52/2012/TT-BTC ngày 05/04/2012 của Bộ tài chính hướng dẫn về việc công bố  thông tin trên thị trường chứng khoán, tức là các thông tin mang tính bắt buộc. Điều  này có thể dẫn đến những thiếu sót, vì tác giả nghiên cứu công bố thông tin kế toán  thì cần thiết phải kết hợp căn cứ vào chuẩn mực kế toán để đối chiếu và chấm điểm  mức độ CBTT của doanh nghiệp.Đối với biến độc lập, tác giả xem xét một số biến  như: quy mô công ty, đòn bẩy, chủ thể kiểm toán, liên quan đến quản trị công ty  nhưng chưa đưa ra cơ sở lý thuyết để đưa ra các biến độc lập, xây dựng giả thuyết  nghiên cứu. Kết quả cho thấy đối với nhóm ngành xây dựng, chỉ có quy mô công ty  giải thích cho mức độ CBTT. 
-Tóm  lại,  từ  nghiên  cứu  ngoài  nước  cho  thấy  sự  ảnh  hưởng  của  ngành  nghề  kinh  doanh đến mức độ CBTT tự nguyện. Nghiên cứu trong nước về lĩnh vực CBTT tự  nguyện chưa được thực hiện nhiều và nghiên cứu giữa các ngành chưa có. Do đó,  tác giả nhận thấy khe hổng nghiên cứu là việc cần xác định các nhân tố và đo lường  mức độ ảnh hưởng của các nhân tố đến mức độ công bố thông tin tự nguyện.Page 21
+Tóm  lại,  từ  nghiên  cứu  ngoài  nước  cho  thấy  sự  ảnh  hưởng  của  ngành  nghề  kinh  doanh đến mức độ CBTT tự nguyện. Nghiên cứu trong nước về lĩnh vực CBTT tự  nguyện chưa được thực hiện nhiều và nghiên cứu giữa các ngành chưa có. Do đó,  tác giả nhận thấy khe hổng nghiên cứu là việc cần xác định các nhân tố và đo lường  mức độ ảnh hưởng của các nhân tố đến mức độ công bố thông tin tự nguyện.
+Page 21
 
 CHƯƠNG 2 – CƠ SỞ LÝ THUYẾT 
 2.1. LÝ THUYẾT VỀ CÔNG BỐ THÔNG TIN TỰ NGUYỆN 
@@ -173,21 +193,24 @@ CHƯƠNG 2 – CƠ SỞ LÝ THUYẾT
 Theo  Adina    P.  và    Ion    P.  (2008)  với  đề  tài  “ Aspects  regarding  corporate  mandatory  and  voluntary  disclosure ”, thông tin là trung tâm của  các  thị  trường  vốn hoạt động tốt nhất. Các báo cáo mang tính so sánh, dễ hiểu, thực tế và có chất  lượng sẽ làm tăng niềm tin của nhà đầu tư và hiệu quả của thị trường. 
 Theo Đặng Thị Thúy Hằng (2011) khi viết về “Thực trạng và giải pháp cho vấn đề  công  bố  thông  tin  kế  toán  của  các  doanh  nghiệp  niêm  yết  ở  Việt  nam”,  công  bố  thông tin kế toán là toàn bộ thông tin được cung cấp thông qua hệ thống các báo cáo  tài  chính  của  một  công  ty  trong  một  thời  kỳ  nhất  định  (bao  gồm  cả  báo  cáo  giữa  niên độ và báo cáo thường niên). Phân loại theo tính chất, thông tin công bố gồm  hai loại là các thông tin công bố bắt buộc và thông tin công bố tự nguyện.  
 Thông tin công bố bắt buộc là các thông tin kế toán được yêu cầu công bố bởi luật  pháp và các quy định có liên quan đến công bố thông tin. Ở mỗi quốc gia có những  quy  định  cụ  thể,  các  quy  định  của  Luật  kinh  doanh,  Luật  chứng  khoán,  Ủy  ban  chứng  khoán,  …  Hiện  nay,  quy  định  của  thông  tư  52/2012/TT-BTC  ngày  05/04/2012 của Bộ tài chính ban hành quy định về công bố thông tin trên thị trường  chứng khoán là văn bản quy định về các mục thông tin bắt buộc công bố khi tham  gia thị trường chứng khoán. 
-Thông  tin  công  bố  tự  nguyện  thì  không  mang  tính  bắt  buộc  và  nằm  ngoài  những  mục thông tin bắt buộc công bố. Ở mỗi doanh nghiệp có mức độ CBTT tự nguyện  khác nhau và có thể ảnh hưởng bởi nhiều  yếu tố, có thể là những yếu tố liên quan  đến văn hóa, truyền thống, đặc điểm kinh tế, xã hội, tài chính của riêng công ty đó.  Nghiên  cứu  của  Meek  (1995)  về  CBTT  tự  nguyện  tại  các  nước  phát  triển  tại  khu Page 22
+Thông  tin  công  bố  tự  nguyện  thì  không  mang  tính  bắt  buộc  và  nằm  ngoài  những  mục thông tin bắt buộc công bố. Ở mỗi doanh nghiệp có mức độ CBTT tự nguyện  khác nhau và có thể ảnh hưởng bởi nhiều  yếu tố, có thể là những yếu tố liên quan  đến văn hóa, truyền thống, đặc điểm kinh tế, xã hội, tài chính của riêng công ty đó.  Nghiên  cứu  của  Meek  (1995)  về  CBTT  tự  nguyện  tại  các  nước  phát  triển  tại  khu 
+Page 22
 
 vực Mỹ, Anh và các nước Châu Âu cho thấy vùng/quốc gia là một trong 03 yếu tố  quan trọng nhất giải thích mức độ CBTT tự nguyện. 
 2.1.2. Vai trò của công bố thông tin tự nguyện 
 Trong môi trường kinh doanh cạnh tranh toàn cầu, để mở rộng và phát triển công ty,  các nhà quản lý cần tối đa hóa giá trị của doanh nghiệp, nâng cao vị thế, niềm tin từ  phía nhà đầu tư và các bên liên quan. Một trong những phương pháp đó là công bố  thông tin và để đáp ứng ngày càng lớn nhu cầu thông tin, thì công ty cần công bố  nhiều hơn là các thông tin bắt buộc của các cơ quan có thẩm quyền nơi hoạt động.  Adina  và  Ion  (2008)  kết  luận  rằng  công  bố  thông  tin  là  một  yếu  tố  rất  quan  trọng  nhằm đảm bảo việc phân bổ hiệu quả các nguồn lực trong xã hội và làm giảm bớt  thông tin bất cân xứng giữa công ty và các bên liên quan của nó. 
 Dựa  trên  lý  thuyết  ủy  nhiệm,  khi  có  sự  tách  bạch  vai  trò  người  sở  hữu  và  người  quản  lý  sẽ  xuất  hiện  thông  tin  bất  cân  xứng,  những  người  sở  hữu  sẽ  không  nắm  được thông tin đúng đắn, chính xác về tình hình công ty như người quản lý trực tiếp  điều hành. Do đó, khi công bố thông tin tự nguyện thì đó là các thông tin được chọn  lọc,  có  mục  đích  hướng  đến  sự  đánh  giá,  nhận  định  về  tình  hình  hoạt  động  trong  hiện tại và hướng phát triển của công ty trong tương lai. Từ đó thu hút vốn đầu tư,  tạo niềm tin với chủ sở hữu, nhà đầu tư cũng như các bên liên quan khác. Các nhà  đầu tư có nhu cầu về thông tin để đánh giá thời gian và rủi ro trong dòng tiền hiện  tại và tương lai để họ có thể nhận định tình hình của công ty (Meek, 1995). 
 2.2. CÁC NHÂN TỐ TÁC ĐỘNG ĐẾN MỨC ĐỘ CÔNG BỐ THÔNG TIN  TỰ NGUYỆN 
-Theo Adina và Ion (2008), có nhiều yếu tố ảnh hướng đến mức độ CBTT tự nguyện  như: mức độ, tần số và phương pháp sử dụng trong CBTT; mục tiêu thành lập của  tổ chức/công ty; quy mô công ty; tình trạng niêm  yết; văn hóa tổ chức và sự phức  tạp trong kinh doanh; số lượng, loại và văn hóa của các nhà sở hữu công ty; chi phí Page 23
+Theo Adina và Ion (2008), có nhiều yếu tố ảnh hướng đến mức độ CBTT tự nguyện  như: mức độ, tần số và phương pháp sử dụng trong CBTT; mục tiêu thành lập của  tổ chức/công ty; quy mô công ty; tình trạng niêm  yết; văn hóa tổ chức và sự phức  tạp trong kinh doanh; số lượng, loại và văn hóa của các nhà sở hữu công ty; chi phí 
+Page 23
 
 cho  việc  CBTT;  mức  độ  thuận  lợi  để  CBTT;  mức  độ  cạnh  tranh;  thị  phần  và  lợi  nhuận trong doanh nghiệp.  
 Trong khuôn khổ phạm vi đề tài, nghiên cứu trên báo cáo thường niên, tác giả đưa  ra lý thuyết, các nghiên cứu thực nghiệm trước kết hợp với các lập luận nhằm đưa  ra các giả thuyết nghiên cứu. Để dễ hiểu, ở mỗi nhân tố, tác giả cũng lựa chọn cách  thức đo lường nhân tố. Sau đó, ở chương 3 – Phương pháp nghiên cứu, sẽ có bảng  tổng hợp và tóm tắt các biến, cách thức đo lường. 
 Các  giả  thuyết  được  sử  dụng  kiểm  định  cho  cả  ba  nhóm  ngành:  công  nghiệp,  xây  dựng và tài chính. 
 2.2.1. Quy mô công ty 
 Nhiều  nghiên  cứu  cho  thấy  quy  mô  công  ty  có  tác  động  cùng  chiều  với  mức  độ  CBTT tự nguyện.Điều này có thể phù hợp với thực tế, theo lý thuyết ủy nhiệm, việc  tách biệt vai trò người sở hữu và người trực tiếp quản lý sẽ dẫn đến một số loại chi  phí,  gọi  là  chi  phí  ủy  nhiệm  bao  gồm  chi  phí  giám  sát,  chi  phí  liên  kết  và  chi  phí  khác (Jensen và Meckling,1976). Người sở hữu muốn giảm các chi phi ủy nhiệm thì  cần  nhà  quản  lý  công  bố  thông  tin  nhiều  hơn,  các  công  ty  càng  lớn  thì  thông  tin  càng nhiều và yêu cầu thông tin từ người sở hữu cũng cao hơn. 
-Ở nước phát triển, theo nghiên cứu của Meek và cộng sự (1995) về các nhân tố ảnh  hưởng CBTT tự nguyện trên báo cáo thường niên ở Mỹ, Anh và các nước Châu Âu  thì quy mô công ty, vùng/quốc gia và tình trạng niêm yết quốc tế là 03 yếu tố quan  trọng nhất giải thích cho CBTT tự nguyện. Các công ty lớn thì thường phức tạp hơn  và có quy mô sở hữu lớn nên có nhiều thông tin cần phải công bố.Nghiên cứu này  cũng phù hợp với nghiên cứu của Fathi (2013) tại Tunisian cũng có thấy ảnh hưởng  cùng chiều của quy mô công ty và mức độ CBTT tự nguyện. Fathi (2013) thực hiện  nghiên  cứu  trên  các  công  ty  phi  tài  chính  từ  năm  2004  –  2009  dựa  trên  danh  mục  CBTT có trọng số và không có trọng số mức độ quan trọng của mỗi mục thông tin. Page 24
+Ở nước phát triển, theo nghiên cứu của Meek và cộng sự (1995) về các nhân tố ảnh  hưởng CBTT tự nguyện trên báo cáo thường niên ở Mỹ, Anh và các nước Châu Âu  thì quy mô công ty, vùng/quốc gia và tình trạng niêm yết quốc tế là 03 yếu tố quan  trọng nhất giải thích cho CBTT tự nguyện. Các công ty lớn thì thường phức tạp hơn  và có quy mô sở hữu lớn nên có nhiều thông tin cần phải công bố.Nghiên cứu này  cũng phù hợp với nghiên cứu của Fathi (2013) tại Tunisian cũng có thấy ảnh hưởng  cùng chiều của quy mô công ty và mức độ CBTT tự nguyện. Fathi (2013) thực hiện  nghiên  cứu  trên  các  công  ty  phi  tài  chính  từ  năm  2004  –  2009  dựa  trên  danh  mục  CBTT có trọng số và không có trọng số mức độ quan trọng của mỗi mục thông tin. 
+Page 24
 
 Tại Việt nam, nghiên cứu của Nguyễn Thị Thu Hảo (2014) phân tích các nhân tố tác  động đến CBTT tự nguyện của các công ty niêm yết trên sàn giao dịch chứng khoán  Thành  phố  Hồ  chí  minh  cho  thấy  chỉ  có  quy  mô  công  ty  là  biến  giải  thích  cho  CBTT tự nguyện.  
 Thông thường, quy mô công ty dược đo lường bởi tổng tài sản. Trong nghiên cứu   của Meek và cộng sự (1995), tác giả đo lường quy mô công ty bằng tổng doanh thu,  bởi vì thực hiện nghiên cứu tại nhiều nước nên việc quy đổi tổng tài sản sẽ bị ảnh  hưởng nhiều do liên quan đến nhiều khoản mục trong tài sản. Trong đề tài, tác giả  sử  dụng  tổng  tài  sản  để  đo  lường  quy  mô  công  ty,  điều  này  phù  hợp  vì  có  thể  so  sánh quy mô công ty trong từng nhóm ngành (công nghiệp, xây dựng và tài chính)  như mục tiêu ban đầu đưa ra. 
@@ -195,7 +218,8 @@ Thông thường, quy mô công ty dược đo lường bởi tổng tài sản.
 Tác động giữa tỷ số nợ/tổng tài sản và mức độ công bố thông tin tự nguyện được  nghiên cứu ở nhiều nước, tuy nhiên kết quả khác nhau. 
 Nghiên cứu của Meek và cộng sự (1995) cho thấy không có ảnh hưởng đáng kể của  một tỷ lệ nợ trên vốn chủ sở hữu đến CBTT tự nguyện. 
 Hossain (1995) nghiên cứu về công bố thông tin tự nguyện của các công ty tại New  Zealand trong môi trường đang thu hút vốn đầu tư, nghiên cứu thực nghiệm với 05  biến độc lập, trong đó có biến đòn bẩy nợ, kết quả cho thấy mức ảnh hưởng đáng kể  của  nó  đến  mức  độ  công  bố  thông  tin  tự  nguyện  tự  nguyện.  Nghiên  cứu  Akhtaruddin và cộng sự (2009) quản trị công ty và công bố thông tin tự nguyện tại  Malaysia cũng cho thấy kết quả tương tự Hossain (1995), đòn bẩy hoạt động có tác  động tích cực đến công bố thông tin.  
-Tại Việt nam, Huỷnh  Thị Vân (2013) khảo sát trên 51 công ty xây  dựng niêm  yết  trên  sàn  giao  dịch  chứng  khoán  Hà  nội,  cho  thấy  đòn  bẩy  nợ  tác  động  cùng  chiều  đến mức độ công bố thông tin.  Page 25
+Tại Việt nam, Huỷnh  Thị Vân (2013) khảo sát trên 51 công ty xây  dựng niêm  yết  trên  sàn  giao  dịch  chứng  khoán  Hà  nội,  cho  thấy  đòn  bẩy  nợ  tác  động  cùng  chiều  đến mức độ công bố thông tin.  
+Page 25
 
 Công ty sử dụng đòn bẩy nợ tốt cho thấy sự tín nhiệm của công ty với các chủ nợ  bên ngoài. Các chủ nợ có thể yêu cầu họ công bố thông tin nhiều hơn nhằm phục vụ  cho việc giám sát hoặc nhưđiều khoản thoả thuận trên hợp đồng tín dụng.  
 Tác  giả  sử  dụng  tỷ  lệ  nợ/tổng  tài  sản,  không  tính  trên  vốn  chủ  sở  hữu  vì  đề  tài  nghiên cứu trên từng nhóm ngành. Ở mỗi nhóm ngành có sự khác nhau về quy mô  vốn  khác  nhau.  Điều  này  tương  tự  cách  tính  của  Huafang  Xiaovà  JianguoYuan(2007).  
@@ -206,7 +230,8 @@ Các công ty có lợi nhuận thì thường công bố nhiều thông tin. D�
 Tác giả lựa chọn đo lường biến “lợi nhuận” bằng lợi nhuận sau thuế/tổng tài sản.   2.2.4. Cấu trúc sở hữu vốn 
 Trong phạm vi giới hạn của đề tài, tác giả lựa chọn kiểm định hai yếu tố trong cấu  trúc sở hữu vốn là tỷ lệ sở hữu của các cổ đông lớn và tỷ lệ sở hữu của tổ chức. 
   Tỷ lệ sở hữu của cổ đông lớn 
-Tỷ lệ sở hữu của các cổ đông lớn cho thấy mức độ tập trung vốn của các cổ đông.  Nghiên  cứu  của  Fathi  (2013)  cho  thấy  tỷ  lệ  sở  hữu  của  các  cổ  đông  lớnchiếm  tỷ  trọng càng cao thì mức độ công bố thông tin tự nguyện càng thấp, với mức ý nghĩa Page 26
+Tỷ lệ sở hữu của các cổ đông lớn cho thấy mức độ tập trung vốn của các cổ đông.  Nghiên  cứu  của  Fathi  (2013)  cho  thấy  tỷ  lệ  sở  hữu  của  các  cổ  đông  lớnchiếm  tỷ  trọng càng cao thì mức độ công bố thông tin tự nguyện càng thấp, với mức ý nghĩa 
+Page 26
 
 5%, chấp nhận giả thuyết. 
 Theo pháp luật Việt nam, cổ đông chính được quy định tại điều 6 Luật chứng khoán  số 27/VBHN-VPQH ngày 18/12/2013 do Quốc hội ban hành, là các cổ đông sở hữu  trực tiếp hoặc gián tiếp từ năm tỷ lệ trở lên số cổ phiếu có quyền biểu quyết của tổ  chức  phát  hành.  Thông  tin  của  cổ  đông  lớn  được  công  bố  đối  với  các  công  ty  đại  chúng  theo  thông  tư  số  52/2012/TT-BTC  ngày  05/04/2012  của  Bộ  tài  chính  ban  hành trên báo cáo thường niên. 
@@ -215,14 +240,16 @@ Khi các cổ đông lớn là các nhà đầu tư tổ chức, họ có thể 
 Fathi (2013) cho thấy tác động giữa nhà đầu tư tổ chức đến mức độ công bố thông  tin tự nguyện không đáng kể, đó là tác động cùng chiều.  
   Tỷ lệ sở hữu của cổ đông nước ngoài 
 Nhiều nghiên cứu cho thấy ảnh hưởng của các công ty sở hữu bởi các cổ đông nước  ngoài đến CBTT tự nguyện. Các cổ đông nước ngoài có xu hướn giám sát chặt chẽ  hơn, một phần qua các thông tin được công bố trên báo cáo hàng năm. Các thông tin  ngoài yêu cầu bắt buộc giúp họ hiểu rõ hơn, rút ngắn khoảng cách về mặt địa lý.  Sở hữu nước ngoài cũng giúp làm đa dạng sở hữu, sự mở rộng trong sở hữu công ty  là một nhân tố tác động tích cực đến CBTT tự nguyện trong kết quả nghiên cứu của  Chau và Gray (2002) khi nghiên cứu về cấu trúc sở hữu và CBTT tự nguyện. 
-Nghiên cứu của Meek (1995) cũng cho thấy tình trạng công ty niêm yết quốc tế ảnh  hưởng tốt đến CBTT tự nguyện do yêu cầu của người sở hữu. Page 27
+Nghiên cứu của Meek (1995) cũng cho thấy tình trạng công ty niêm yết quốc tế ảnh  hưởng tốt đến CBTT tự nguyện do yêu cầu của người sở hữu. 
+Page 27
 
 2.2.5. Tỷ lệ thành viên hội đồng quản trị không điều hành 
 Xã hội luôn có yêu cầu cao hơn đối với công bốthông tin của công ty niêm yết, điều  đó đòi hỏi các công ty phải “tự nguyện hơn” (dưới sự giám sát của xã hội) trong  công bố thông tin. Công bố thông tin “tự nguyện” sẽ làm giảm sự thiếu hụt thông  tin. Xét trên góc độ nội tại, bản thân quản trị công ty có ảnh hưởng mang tính quyết  định tới chất lượng thông tin công bố. (Trần Thị Thanh Tú và cộng sự, 2014) 
 Bố trí thành viên hội đồng quản trị (HĐQT) độc lập là một trong các nguyên tắc cơ  bản  trong  Bộ  nguyên  tắc  quản  trị  công  tydoTổ  chức  hợp  tác  và  phát  triển  kinh  tế  (gọi tắc là OECD – Organization for Economic Co-operation and Development) ban  hành.  Thành viên HĐQT không điều hành có khả  năng  đưa  ra  những phán  quyết  độc lập đối với các vấn đề khi tiềm ẩn xung đột về lợi ích (Bộ nguyên tắc quản trị  công ty của OECD, 2004, trang 25). 
 Tương tự nhận định trên, một số nghiên cứu như Fathi (2013), Akhtaruddin và cộng  sự (2009) cũng cho thấy thành viên HĐQT độc lập thúc đẩy việc công bố thông tin,  mặc dù kết quả tại Tunisian thì không có tác động đáng kể.  
 Tuy  nhiên,  kết  quả  nghiên  cứu  của  Ho  và  Wong  (2001)khi  kiểm  nghiệm  04  đặc  điểm của quản trị công ty đến công bố thông tin, cho thấy không có sự ảnh hưởng  tích cực của tỷ lệ thành viên HĐQT không điều hành đến mức độ công bố thông tin  tự  nguyện  mà  chỉ  có  uỷ  ban  kiểm  toán  có  ảnh  hưởng  đáng  kể.  Tương  tự,  kết  quả  nghiên  cứu  của  Nguyễn  Thị  Thu  Hảo  (2014)  lại  không  cho  thấy  mối  liên  hệ  nào  giữa tỷ lệ này với CBTT tự nguyện khi thực hiện khảo sát trên các công ty niêm yết  tại Sở GDCK Thành phố Hồ chí minh. 
-Bố trí thành viên hội đồng quản trị độc lập (HĐQT) là một thông lệ tốt trên thế giới.  Cùng tiến trình hội nhập, Việt nam cũng quy định về thành viên HĐQT độc lập tại  quyết định số 12/2007/QĐ-BTC ngày 13/03/2007 từ năm 2012 thay thế bằng quyết  định  số  121/2012/QĐ-BTC  ngày  26/07/2012  của  Bộ  tài  chính.  Trong  đó,  đối  với  công ty đại chúng và công ty niêm yết thì hội đồng quản trị phải có ít nhất một phần Page 28
+Bố trí thành viên hội đồng quản trị độc lập (HĐQT) là một thông lệ tốt trên thế giới.  Cùng tiến trình hội nhập, Việt nam cũng quy định về thành viên HĐQT độc lập tại  quyết định số 12/2007/QĐ-BTC ngày 13/03/2007 từ năm 2012 thay thế bằng quyết  định  số  121/2012/QĐ-BTC  ngày  26/07/2012  của  Bộ  tài  chính.  Trong  đó,  đối  với  công ty đại chúng và công ty niêm yết thì hội đồng quản trị phải có ít nhất một phần 
+Page 28
 
 ba là thành viên HĐQT độc lập và thành viên HĐQT không điều hành. Trong đó,  thông tư quy định rõ về thành viên HĐQT độc lập và thành viên HĐQT không điều  hành. Do hạn chế của đề tài, tác giả nghiên cứu tác động củatỷ lệ thành viên HĐQT  không điều hành đến mức độ công bố thông tin tự nguyện.  
 2.2.6. Tách biệt vai trò chủ tịch hội đồng quản trị và giám đốc 
@@ -230,18 +257,21 @@ Nghiên cứu tại Tunisian của Fathi (2013) cho rằng việc kết hợp ch
 Theo lý thuyết uỷ nhiệm, luôn có mâu thuẫn giữa người sở hữu và người điều hành.  Chủ tịch hội đồng quản trị đại diện cho người sở hữu, giám đốc điều hành đại diện  cho người điều hành. Do đó, việc tách biệt vai trò của hai cá nhân là điều cần thiết  cho hoạt động kinh doanh. Môi trường lành mạnh, sự kiểm soát được thực thi đúng  đắn từ đó thúc đẩy tính minh bạch của thông tin. Mặc dù pháp luật Việt nam không  bắt buộc các công ty tách biệt vai trò giữa chủ tịch hội đồng quản trị và giám đốc  điều hành, tuy nhiên việc tách biệt cho thấy một cơ chế rõ ràng hơn. Ngày nay, một  số công ty lớn cũng tự nguyện tách biệt vai trò của hai vị trí này, và công bố rộng  rãi với cổ đông.  
 2.3. LÝ THUYẾT ỦY NHIỆM 
 Lý  thuyết  uỷ  nhiệm  là  lý  thuyết  nền  tảng  được  nghiên  cứu  nhiều  và  nổi  bật  trong  quá  trình  nghiên  cứu  của  nhiều  tác  giả.  Đề  tài  nghiên  cứu  dựa  trên  lý  thuyết  ủy  nhiệm. 
-Lý  thuyết  uỷ  nhiệm  phát  triển  bởi  Jensen  và  Meckling  (1976).  Sở  dĩ  lý  thuyết  uỷ  nhiệm được quan tâm nhiều hơn vì các công ty có xu hướng mở rộng quy mô, lĩnh  vực kinh doanh, khi đó kiến thức, kinh nghiệm của người sở hữu sẽ không đáp ứng Page 29
+Lý  thuyết  uỷ  nhiệm  phát  triển  bởi  Jensen  và  Meckling  (1976).  Sở  dĩ  lý  thuyết  uỷ  nhiệm được quan tâm nhiều hơn vì các công ty có xu hướng mở rộng quy mô, lĩnh  vực kinh doanh, khi đó kiến thức, kinh nghiệm của người sở hữu sẽ không đáp ứng 
+Page 29
 
 đủ  khả  năng  quản  lý  công  ty  mà  họ  có  xu  hướng  giám  sát,  kiểm  tra  kết  quả  đạt  được, từ đó khiến họ có nhu cầu thuê mướn người quản lý. 
 Theo  lý  thuyết  uỷ  nhiệm  (lý  thuyết  đại  diện  –  agency  theory),  áp  dụng  trong  các  công ty phát triển về quy mô, người sở hữu (người uỷ nhiệm - principal) không phải  là người trực tiếp điều hành công ty mà họ có thể thuê các nhà quản lý (người được  uỷ  nhiệm  -  agency)  đại  diện  họ  điều  hành  công  ty.  Do  đó,  người  chủ  sở  hữu  là  người chịu các rủi ro trong phần vốn mình bỏ ra nhưng không có quyền quyết định  hoạt  động  kinh  doanh  của  công  ty.  Còn  ngược  lại,  nhà  quản  lý  là  người  có  quyền  quyết định hoạt động của công ty mặc dù chỉ là người làm thuê trong công ty. Chính  vì  thế,  lý  thuyết  chỉ  ra  những  vấn  đề  trong  việc  tách  biệt  vai  trò  người  sở  hữu  và  người quản lý nhưng vẫn đảm bảo lợi ích cho người sở hữu. 
 Lý thuyết uỷ nhiệm cho rằng người sở hữu và người quản lý luôn tìm mọi cách tối  đa hoá lợi ích của mình. Người sở hữu tìm cách để đạt được những khoản lợi nhuận  lớn, chia cổ tức nhiều và mang đến giá trị tăng thêm cho công ty. Còn đối với người  quản lý, tối đa hoá lợi ích trong quá trình ra quyết định, đôi khi không vì lợi ích của  cả công ty mà vì lợi ích cá nhân hoặc vì lý do khác trong thời gian được thuê làm  nhà quản lý. Do  ràng  buộc bởi  thời gian thuê, nên có thể họ  vì  mục tiêu đạt  được  ngắn hạn mà bỏ qua lợi ích trong dài hạn. Từ những rủi ro phải gánh chịu và tách  biệt vai trò, người sở hữu sẽ phát sinh một số khoản chi phí nhằm ràng buộc người  quản lý phải tối đa hoá lợi ích của mình như chi phí giám sát, chi phí liên kết, chi  phí khác… gọi chung là chi phí uỷ nhiệm. 
-Bên cạnh đó, người sở hữu cũng  yêu cầu cao trong việc công bố thông tin về tình  hình hoạt động để biết được người quản lý đã sử dụng vốn mà họ đã bỏ ra. Do đó,  để giảm thiểu chi phí ủy nhiệm, càng cần tăng cường thông tin giữa người sở hữu  và người quản lý. Hầu hết các nghiên cứu trước đây ở trong và ngoài nước đều dựa  trên lý thuyết ủy nhiệm, như Meek và cộng sự (1995), Chau và Gray (2002), Xiao  và Yuang (2007), Nguyễn Thị Thu Hảo (2014)… Page 30
+Bên cạnh đó, người sở hữu cũng  yêu cầu cao trong việc công bố thông tin về tình  hình hoạt động để biết được người quản lý đã sử dụng vốn mà họ đã bỏ ra. Do đó,  để giảm thiểu chi phí ủy nhiệm, càng cần tăng cường thông tin giữa người sở hữu  và người quản lý. Hầu hết các nghiên cứu trước đây ở trong và ngoài nước đều dựa  trên lý thuyết ủy nhiệm, như Meek và cộng sự (1995), Chau và Gray (2002), Xiao  và Yuang (2007), Nguyễn Thị Thu Hảo (2014)… 
+Page 30
 
 2.4. PHÂN CHIA NHÓM NGÀNH CÔNG TY NIÊM YẾT TRÊN HAI SỞ  GIAO DỊCH CHỨNG KHOÁN VIỆT NAM 
 Việc phân chia nhóm ngành của hai Sở GDCK Hà nội và Thành phố Hồ chí minh  được áp dụng trong các năm gần đây. Sở GDCK Hà nội áp dụng từ năm 2013, Sở  GDCK Thành phố Hồ chí minh từ năm 2012. 
 Phân chia nhóm ngành trên thị trường chứng khoán Việt nam có ý nghĩa quan trọng  đối với nhà đầu tư. Nhóm ngành cho nhà đầu tư nhìn thấy tổng quan hơn tình hình  tăng giảm, xu hướng của một nhóm ngành so với nhóm ngành khác, thay vì nhìn  cận cảnh chỉ một doanh nghiệp, so sánh với doanh nghiệp khác. Ngoài ra, việc phân  chia  nhóm  ngành  làm  nền  tảng  cho  việc  xây  dựng  chỉ  số  ngành  mà  hiện  nay,  Sở  GDCK Hà nội xây dựng được chỉ số 03 nhóm ngành: công nghiệp, xây dựng và tài  chính. Đây cũng là 03 nhóm ngành mà tác giả sử dụng để nghiên cứu. 
 Ở mỗi Sở giao dịch chứng khoán ban hành một tiêu chuẩn phân ngành áp dụng đối  với  các  công  ty  niêm  yết  hoặc  đăng  ký  giao  dịch  và  được  thực  hiện  định  kỳ,  cập  nhật liên tục. Mặc dù chưa có sự thống nhất,nhưng cả hai Sở GDCK tại Việt nam  đều  ban  hành  dựa  trên  Hệ  thống  ngành  kinh  tế  Việt  nam  2007  (gọi  tắt  là  VISIC  2007) dựa trên tiêu chí là doanh thu hoạt động của công ty. 
-Hệ  thống  ngành  kinh  tế  của  Việt  Nam  2007  (VietNam  Standard  Industrial  Classification  2007  –  VSIC  2007)  được  Tổng  cục  Thống  kê  xây  dựng  trên  cơ  sở  Phân ngành chuẩn quốc tế (phiên bản 4.0) đã được Ủy ban Thống kê Liên hợp quốc  thông qua tại kỳ họp tháng 3 năm 2006 chi tiết đến 4 chữ số (ISIC Rev.4)và khung  phân ngành chung của ASEAN chi tiết đến 3 chữ số (ACIC). Đồng thời căn cứ trên  tình hình thực tế sử dụng Hệ thống ngành kinh tế quốc dân ban hành năm 1993 và  nhu cầu điều tra thống kê, Tổng cục Thống kê đã phát triển Hệ thống ngành kinh tế  của Việt Nam đến 5 chữ số.Quy định về nội dung các ngành kinh tế thuộc Hệ thống  ngành kinh tế của Việt Nam đã được Bộ trưởng Bộ Kế hoạch và Đầu tư phê duyệt  và ban hành tại Quyết định số 337/QĐ-BKH ngày 10 tháng 4 năm 2007. Page 31
+Hệ  thống  ngành  kinh  tế  của  Việt  Nam  2007  (VietNam  Standard  Industrial  Classification  2007  –  VSIC  2007)  được  Tổng  cục  Thống  kê  xây  dựng  trên  cơ  sở  Phân ngành chuẩn quốc tế (phiên bản 4.0) đã được Ủy ban Thống kê Liên hợp quốc  thông qua tại kỳ họp tháng 3 năm 2006 chi tiết đến 4 chữ số (ISIC Rev.4)và khung  phân ngành chung của ASEAN chi tiết đến 3 chữ số (ACIC). Đồng thời căn cứ trên  tình hình thực tế sử dụng Hệ thống ngành kinh tế quốc dân ban hành năm 1993 và  nhu cầu điều tra thống kê, Tổng cục Thống kê đã phát triển Hệ thống ngành kinh tế  của Việt Nam đến 5 chữ số.Quy định về nội dung các ngành kinh tế thuộc Hệ thống  ngành kinh tế của Việt Nam đã được Bộ trưởng Bộ Kế hoạch và Đầu tư phê duyệt  và ban hành tại Quyết định số 337/QĐ-BKH ngày 10 tháng 4 năm 2007. 
+Page 31
 
 Tác  giả  giới  thiệu  khái  quát  về  hai  hệ  thống  phân  ngành  của  hai  Sở  GDCK  tại   Việt nam. 
 2.4.1. Phân ngành theo hệ thống ngành kinh tế HaSIC của Sở giao dịch chứng  khoán Hà Nội 
@@ -254,7 +284,8 @@ Mã ngành  Tên ngành
 07000  Thông tin, truyền thông và các hoạt động khác  08000  Y tế 
 09000  Hoạt  động  chuyên  môn,  khoa  học  và  công  nghệ,  hành  chính  và  dịch vụ hỗ trợ 
 10000  Tài chính  11000  Bất động sản 
-Dựa trên tiêu chí phân ngành là doanh thu, và được phân loại vào quý 3 hàng năm.  Các nguyên tắc phân ngành của HaSIC do Sở GDCK Hà nội công bố cũng dựa trên  doanh thu bình quân lớn nhất để xác định hoạt động kinh doanh chính của công ty.  Page 32
+Dựa trên tiêu chí phân ngành là doanh thu, và được phân loại vào quý 3 hàng năm.  Các nguyên tắc phân ngành của HaSIC do Sở GDCK Hà nội công bố cũng dựa trên  doanh thu bình quân lớn nhất để xác định hoạt động kinh doanh chính của công ty.  
+Page 32
 
 Theo đó, hoạt động sản xuất kinh doanh nào mang lại doanh thu bình quân lớn nhất  trong  3  năm  liên  tiếp  chiếm  trên  50%  của  tổng  doanh  thu  bình  quân  công  ty  thì  được xếp vào ngành cấp I duy nhất trong hệ thống phân ngành HaSIC. 
 Đối với trường hợp không đáp ứng điều kiện trên thì HNX áp dụng nguyên tắc từ  trên xuống để xếp vào ngành cấp I trong hệ thống HaSIC. 
@@ -263,7 +294,8 @@ Sở giao dịch chứng khoán Hà nội xây dựng một hệ thống phân n
 Việc  phân  ngành  được  thực  hiện  ngay  khi  công  ty  bắt  đầu  niêm  yết  và  được  điều  chỉnh định kỳ. 
 2.4.2. Phân ngành các công ty niêm yết trên Sở giao dịch chứng khoán Thành  phố Hồ Chí Minh 
 Quy tắc phân ngành các công ty niêm  yết trên Sở GDCK Thành phố Hồ chí minh  được  ban  hành  kèm  theo  quyết  định  số  01/2012/QĐ-SGDCK  TP.HCM  ngày  23/02/2012 của Chủ tịch Hội đồng quản trị Sở GDCK Thành phố Hồ chí minh.  Sở GDCK Thành phố Hồ chí minh sẽ phân ngành cho các công ty bắt đầu từ 15/04  đến  30/06  hàng  năm.  Mỗi  công  ty  sẽ  được  phân  vào  một  ngành  cấp  III  duy  nhất  trong Hệ thống ngành kinh tế Việt nam (VSIC 2007) dựa trên hoạt động kinh doanh  chính của công ty đó. VSIC 2007 bao gồm 21 nhóm nhóm ngành 88 ngành cấp 2;  242 ngành cấp 3; 437 ngành cấp 4 và 642 ngành cấp 5. 
-Về tiêu chí lựa chọn để phân ngành, tương tự như Sở GDCK Hà nội, theo Quy tắc  phân ngành các công ty  niêm  yết trên Sở GDCK Thành phố Hồ chí minh: “doanh  thu là tiêu chí được Sở GDCK Thành phố Hồ chí minh xem xét để quyết định hoạt Page 33
+Về tiêu chí lựa chọn để phân ngành, tương tự như Sở GDCK Hà nội, theo Quy tắc  phân ngành các công ty  niêm  yết trên Sở GDCK Thành phố Hồ chí minh: “doanh  thu là tiêu chí được Sở GDCK Thành phố Hồ chí minh xem xét để quyết định hoạt 
+Page 33
 
 động kinh doanh chính của công ty niêm yết. Theo đó, hoạt động kinh doanh nào  mang lại doanh thu lớn nhất trong tổng doanh thu của một công ty niêm yết tại Sở  sẽ được xem là hoạt động kinh doanh chính của công ty đó.” 
 Về  nguyên  tắc  phân  ngành,  được  ghi  rõ  trong  quy  tắc  phân  ngành  được  ban  hành  năm 2012. Cơ sở để xác định phân ngành là các số liệu thu thập từ Phiếu thu thập  thông tin về công ty, bản cáo bạch và các báo cáo tài chính hàng năm của công ty  niêm  yết.  Nguyên  tắc  phân  ngành  của  HOSE  tương  tự  như  HNX  được  xác  định  thông qua doanh thu bình quân của 3 năm liên tiếp.  
@@ -272,10 +304,12 @@ Trường hợp không có hoạt động kinh doanh nào có doanh thu đáp �
 +  Xác định ngành cấp 1 có doanh thu bình quân cao nhất; 
 + Trong ngành cấp 1, xác định ngành cấp 2 có doanh thu bình quân cao nhất; 
 +  Trong  ngành  cấp  2,  xác  định  ngành  cấp  3  có  doanh  thu  bình  quân  cao  nhất.  Đây  được  xem  là  ngành  hoạt  động  chính  của  công  ty  niêm  yết.”  (Quy  tắc  phân  ngành các công ty niêm yết trên Sở GDCK Thành phố Hồ chí minh). 
-Ngoài ra, đối với các công ty niêm yết có hoạt động hỗn hợp theo chiều dọc và hỗn  hợp theo chiều ngang được thống nhất cho các quốc gia sử dụng ISIC phiên bản 4  cũng như áp dụng các quy ước phân ngành một số hoạt động kinh tế cụ thể của Việt  nam theo VSIC 2007. Page 34
+Ngoài ra, đối với các công ty niêm yết có hoạt động hỗn hợp theo chiều dọc và hỗn  hợp theo chiều ngang được thống nhất cho các quốc gia sử dụng ISIC phiên bản 4  cũng như áp dụng các quy ước phân ngành một số hoạt động kinh tế cụ thể của Việt  nam theo VSIC 2007. 
+Page 34
 
 KẾT LUẬN CHƯƠNG 2 
-Các nghiên cứu về mức độ công bố thông tin tự nguyện được đề cập khá nhiều và  thực hiện ở nhiều nước phát triển và đang phát triển. Vai trò quan trọng của công bố  thông  tin  được  nghiên  cứu  ở  nhiều  đề  tài  trong  và  ngoài  nước.  Bên  cạnh  đó,  các  nhân tố tác động đến công bố thông tin tự nguyện được kiểm định ở nhiều quốc gia,  khu vực khác nhau và cũng có những kết quả khác biệt nhau.Page 35
+Các nghiên cứu về mức độ công bố thông tin tự nguyện được đề cập khá nhiều và  thực hiện ở nhiều nước phát triển và đang phát triển. Vai trò quan trọng của công bố  thông  tin  được  nghiên  cứu  ở  nhiều  đề  tài  trong  và  ngoài  nước.  Bên  cạnh  đó,  các  nhân tố tác động đến công bố thông tin tự nguyện được kiểm định ở nhiều quốc gia,  khu vực khác nhau và cũng có những kết quả khác biệt nhau.
+Page 35
 
 CHƯƠNG 3 – PHƯƠNG PHÁP NGHIÊN CỨU 
 3.1. XÁC ĐỊNH PHƯƠNG PHÁP TIẾP CẬN, QUY TRÌNH NGHIÊN CỨU  3.1.1. Phương pháp tiếp cận 
@@ -289,7 +323,8 @@ Xác định khe hổng nghiên cứu
 Lý thuyết nghiên cứu 
 Mô hình, giả thuyết nghiên cứu 
 Xây dựng đề cương và Thiết kế  nghiên cứu 
-Kiểm định mô hình, giả thuyết Page 36
+Kiểm định mô hình, giả thuyết 
+Page 36
 
 Kiểm định 2: Kiểm định mức độ phù hợp của mô hình với hệ số R 2  hiệu chỉnh và 
 chỉ số F trên bảng phân tích ANOVA. Để kiểm định độ phù hợp của mô hình hồi  quy, giả thuyết đặt ra là R 2  của tổng thể bằng 0.  
@@ -300,21 +335,25 @@ Công cụ thống kê SPSS phiên bản 20.0 được sử dụng hỗ trợ ki
 3.2. XÁC ĐỊNH BIẾN  
 3.2.1. Xác định biến phụ thuộc: Mức độ công bố thông tin tự nguyện 
 Theo Nguyễn Chí Đức và Hoàng Trọng (2012), tự nguyện công bố thông tin là một  khái niệm khá trừu tượng, đó là việc ngoài  các thông tin cưỡng chế bắt buộc phải  công bố theo quy định, thì người quản lý phải chủ động trong việc công bố rộng rãi  các thông tin liên quan đến tình hình tài chính, các thông tin chiến lược cũng như  các  thông  tin  phi  tài  chính  của  doanh  nghiệp.  Do  đó,  không  có  sự  đồng  nhất  cho  việc  đo  lường  mức  độ  CBTT  tự  nguyện  của  công  ty.  Từ  đó,  có  các  mô  hình  đo  lường khác nhau.  
-Từ các nghiên cứu trước, nhóm tác giả Francisco, Maria và Macro (2009) cho rằng Page 37
+Từ các nghiên cứu trước, nhóm tác giả Francisco, Maria và Macro (2009) cho rằng 
+Page 37
 
 để đo lường thông tin công bố của công ty là một nhiệm vụ phức tạp. CBTT có thể  được đo lường bằng việc kết hợp 03 chỉ số: chất lượng, phạm vi và số lượng. Do  không sử dụng mô hình của nhóm tác giả này nên tác giả không đề cập sâu hơn.Kết  quả cho thấy việc lựa chọn  một phương pháp tính chỉ số công bố thông tin có thể  ảnh hưởng đến xếp hạng của một công ty, và cho rằng việc lựa chọn một chỉ số đo  lường CBTT cũng là một giới hạn của đề tài. Điều này là phù hợp, vì có thể khi đo  lường mức độ CBTT với phương pháp khác thì rất có thể kết quả khác nhau (mặc  dù có sự tương quan) nhưng điều đó có thể ảnh hưởng đến các giải pháp, chính sách  được đưa ra trong mục đích nghiên cứu của đề tài. 
 Một  phương  pháp  thường  sử  dụng  phương  pháp  theo  dạng  danh  mục  (checklist).  Mỗi  danh  mục  được  sử  dụng  phù  hợp  với  từng  vùng,  đặc  điểm  kinh  tế,  quy  định  riêng.Danh sách được nhiều tác giả phát triển, ở mỗi danh sách có cách phân chia  khác nhau, một số tác giả cũng sử dụng danh mục và điều chỉnh, bổ sung phù hợp  nếu cần thiết. 
-Một  tác  giả  xây  dựng  danh  sách  hạng  mục  khác  để  đo  lường  mức  độ  CBTT  tự  nguyện  là  nghiên  cứu  của  Meek  (1995),  thông  tin  tự  nguyện  công  bố  bao  gồm  85  mục chia thành 03 loại thông tin: thông tin chiến lược (strategic information), thông  tin  tài  chính  (financial  information)  và  thông  tin  phi  tài  chính  (nonfinancial  information). Trong mỗi loại thông tin, Meek chia thành các hạng mục trong đó có  các mục thông tin. Việc chia thành 03 loại thông tin cũng có ý nghĩa, nó hướng đến  các đối tượng quan tâm. Thông tin chiến lược và thông tin tài chính liên quan đến  quyết định nhà đầu tư. Thông tin phi tài chính thể hiện trách nhiệm xã hội của công  ty,  hướng  đến  quan  tâm  của  cơ  quan  Nhà  nước,  người  lao  động  và  các  đối  tượng  khác có quan tâm… Vì vậy, có thể kết quả chỉ ra liên quan đến mỗi mục thông tin  khác  nhau.  Meek  và  cộng  sự  (1995)  tính  chỉ  số  công  bố  thông  tin  tự  nguyện  tính  theo  cách  cộng  vào  và  không  có  trọng  số.  Đo  lường  công  bố  thông  tin  tự  nguyện  không có trọng số, tác giả đưa ra một số lý do phù hợp, thứ nhất vì người xây dựng  chỉ số không biết được người sử dụng tham chiếu, quan tâm đến mục thông tin nào; Page 38
+Một  tác  giả  xây  dựng  danh  sách  hạng  mục  khác  để  đo  lường  mức  độ  CBTT  tự  nguyện  là  nghiên  cứu  của  Meek  (1995),  thông  tin  tự  nguyện  công  bố  bao  gồm  85  mục chia thành 03 loại thông tin: thông tin chiến lược (strategic information), thông  tin  tài  chính  (financial  information)  và  thông  tin  phi  tài  chính  (nonfinancial  information). Trong mỗi loại thông tin, Meek chia thành các hạng mục trong đó có  các mục thông tin. Việc chia thành 03 loại thông tin cũng có ý nghĩa, nó hướng đến  các đối tượng quan tâm. Thông tin chiến lược và thông tin tài chính liên quan đến  quyết định nhà đầu tư. Thông tin phi tài chính thể hiện trách nhiệm xã hội của công  ty,  hướng  đến  quan  tâm  của  cơ  quan  Nhà  nước,  người  lao  động  và  các  đối  tượng  khác có quan tâm… Vì vậy, có thể kết quả chỉ ra liên quan đến mỗi mục thông tin  khác  nhau.  Meek  và  cộng  sự  (1995)  tính  chỉ  số  công  bố  thông  tin  tự  nguyện  tính  theo  cách  cộng  vào  và  không  có  trọng  số.  Đo  lường  công  bố  thông  tin  tự  nguyện  không có trọng số, tác giả đưa ra một số lý do phù hợp, thứ nhất vì người xây dựng  chỉ số không biết được người sử dụng tham chiếu, quan tâm đến mục thông tin nào; 
+Page 38
 
 thứ hai, đối với những thông tin tự nguyện nếu xác định một mục nào đó quan trọng  thì có thể xem các mục khác ít quan trọng, như vậy các công ty sẽ có cách tăng chỉ  số như nhau. Điều này hợp lý bởi vì đây là những thông tin tự nguyện công bố nên  mức độ quan tâm như nhau, đối với những thông tin bắt buộc thì luôn quan trọng,  trong đó có những thông tin cơ bản về doanh nghiệp thì hiển nhiên phải công bố.  Nếu nghiên cứu về mức độ công bố thông tin chung thì việc đánh giá trọng số cho  mỗi mục thông tin là cần thiết, như nghiên cứu của Fathi (2013), còn đối với việc  đo lường mức độ CBTT tự nguyện thì không sử dụng trọng số là hợp lý. 
 Danh mục thông tin công bố tự nguyện của Meek (1995) được bổ sung bởi Chau và  Gray (2002) một số mục nhằm hoàn thiện hơn. Ví dụ trong mục “mua lại và thanh  lý”, Chau và Gray bổ sung việc trình bày khoản thu lại từ việc thanh lý, các khoản  lợi thế thương mại còn Meek (1995) chỉ để cập đến lý do của việc mua lại và thanh  lý.  Mô hình này phù hợp để áp dụng tại Việt nam và mục đích nghiên cứu của đề  tài, đo lường chỉ số công bố tự nguyện. Mô hình bao gồm 113 mục thông tin công  bố  tự  nguyện  (thể  hiện  ở  phụ  lục  01),  được  chia  thành  12  nhóm  mục  thông  tin.  Thông  tin  chiến  lược  từ  nhóm  mục  1  đến  nhóm  mục  5,  thông  tin  phi  tài  chính  từ  nhóm 6 đến nhóm 8, và thông tin tài chính từ nhóm 9 đến nhóm 12. 
 Trong  nghiên  cứu  của  mình,  tác  giả  Akhtaruddin  và  cộng  sự  (2009)  cho  biết  sử  dụng danh sách hạng mục thông tin tự nguyện được phát triển bởi Chau and Gray  (2002)  và  một  số  tác  giả  khác,  danh  mục  thông  tin  chia  thành  các  loại:  thông  tin  chung, thông tin quản trị công ty, thông tin tài chính, thông tin phân tích tài chính,  thông tin về mua và thanh lý tài sản, thông tin dự án, thông tin về nhân sự, thông tin  trách nhiệm  xã hội,  trình bày đồ thị cho thông tin tài chính. Sau khi đối chiếu  với  các hạng mục bắt buộc, còn lại 74 mục. Từ đó, tính toán chỉ số, giá trị là 1 nếu có  công bố và ngược lại là 0. Chỉ số công bố được tính bằng tổng điểm đạt được chia  tổng điểm mà công ty có thể đạt được, các chỉ số tính đều nhau và không có trọng  số.  
-Tại Việt nam, nghiên cứu của Nguyễn Chí Đức và Hoàng Trọng (2012) sử dụng mô Page 39
+Tại Việt nam, nghiên cứu của Nguyễn Chí Đức và Hoàng Trọng (2012) sử dụng mô 
+Page 39
 
 hình của Meek (1995) nhằm đo lường mức độ công bố thông tin tự nguyện của các  công ty niêm yết trên Sở GDCK Thành phố Hồ chí minh. Tác giả đối chiếu giữa 85  mục với các thông tin bắt buộc công bố của thông tư số 57/2004/TT-BTC do Bộ Tài  chính  ban  hành  ngày  17/6/2004  về  việc  “Hướng  dẫn  công  bố  thông  tin  trên  thị  trường chứng khoán” còn lại 23 hạng mục thông tin (9 hạng mục  thông tin chiến  lược, 5 hạng mục thông tin tài chính, 9 hạng mục  thông tin phi tài chính) và tính  điểm 1 đối với thông tin được công bố, là 0 nếu không công bố.  
 Phương pháp của Nguyễn Đức Chí và Hoàng Trọng (2012) tương tự phương pháp  được sử dụng trong nghiên cứu về quản trị công ty và mức độ công bố thông tin tự  nguyện  của  Akhtaruddin  và  cộng  sự  (2009),  Nguyễn  Thị  Thu  Hảo  (2014)  về  cách  tính chỉ số đo lường mức độ công bố thông tin tự nguyện. 
 Dựa  trên  những  phân  tích  trên,  tác  giả  lựa  chọn  phương  pháp  danh  mục  thông  tin  công  bố  tự  nguyện  của  Meek  (1995)  và  bổ  sung  bởi  Chau  và  Gray.  Sau  đó,  đối  chiếu  với  quy  định  hiện  hành  của  Việt  nam  là  thông  tư  số  52/2012/TT-BTC  ngày  05/04/2012 của Bộ tài chính về việc công bố thông tin trên thị trường chứng khoán.  Thông tư hiện hành này thay thế cho thông tư số 57/2004/TT-BTC do Bộ Tài chính  ban  hành  ngày  17/6/2004  mà  Nguyễn  Chí  Đức  và  Hoàng  Trọng  (2004)  đã  nghiên  cứu. Danh mục công bố tự nguyện của Meek (1995), phát triển bổ  sung của Chau  và Gray (2002) được tác giả dịch sang tiếng Việt và trình bày ở phụ lục 01. 
-Như  đã  đề  cập,  danh  mục  được  đối  chiếu  và  loại  trừ  các  mục  thông  tin  bắt  buộc  công bố theo quy định tại thông tư số 52/2012/TT-BTC ngày 05/04/2012 của Bộ tài  chính hướng dẫn về việc công bố thông tin trên thị trường chứng khoán (gọi tắt là  thông  tư  52/2012/TT-BTC).  Từ  đó,  xác  định  các  hạng  mục  thông  tin  công  bố  tự  nguyện và tiến hành khảo sát điểm cho từng công ty trong quan sát được lựa chọn.  Cách tính điểm cho chỉ số công bố thông tin tự nguyện: đối với mỗi hạng mục được  tính 1 điểm nếu doanh nghiệp có công bố thông tin và ngược lại là 0. Page 40
+Như  đã  đề  cập,  danh  mục  được  đối  chiếu  và  loại  trừ  các  mục  thông  tin  bắt  buộc  công bố theo quy định tại thông tư số 52/2012/TT-BTC ngày 05/04/2012 của Bộ tài  chính hướng dẫn về việc công bố thông tin trên thị trường chứng khoán (gọi tắt là  thông  tư  52/2012/TT-BTC).  Từ  đó,  xác  định  các  hạng  mục  thông  tin  công  bố  tự  nguyện và tiến hành khảo sát điểm cho từng công ty trong quan sát được lựa chọn.  Cách tính điểm cho chỉ số công bố thông tin tự nguyện: đối với mỗi hạng mục được  tính 1 điểm nếu doanh nghiệp có công bố thông tin và ngược lại là 0. 
+Page 40
 
 Chỉ số công bố thông tin tự nguyện là tỷ số giữa số điểm khảo sát của công ty đạt  được chia cho tổng số điểm công ty có thể đạt được. 
 Ký hiệu biến phụ thuộc VDI, viết tắt cụm từ Voluntary Disclosure Index.  3.2.2. Xác định các biến độc lập, cách thức đo lường biến độc lập 
@@ -338,7 +377,8 @@ Tách biệt vai trò chủ tịch
 HĐQT và giám đốc  DUAL 
 Giá trị là 1 nếu có tách biệt, ngược lại là 0. 
 Cùng chiều: Giả thuyết dự đoán biến độc lập có tác động cùng chiều đến biến phụ  thuộc. 
-Ngược  chiều: Giả  thuyết dự  đoán  biến độc  lập có  tác  động ngược  chiều đến biến  phụ thuộc. Page 41
+Ngược  chiều: Giả  thuyết dự  đoán  biến độc  lập có  tác  động ngược  chiều đến biến  phụ thuộc. 
+Page 41
 
 Có tác động: Có mối tương quan có ý nghĩa thống kê.  3.2.3. Giả thuyết nghiên cứu 
 Dựa trên các nghiên cứu trước và xác định các nhân tố ở mục 2.4, tương ứng 8 giả  thuyết được đưa ra như sau: 
@@ -351,7 +391,8 @@ Giả thuyết 6: Tỷ lệ sở hữu nước ngoài có tác động cùng chi
 Giả thuyết 7: Tỷ lệ thành viên hội đồng quản trị không điều hànhcó tác động cùng  chiều đến mức độ công bố thông tin tự nguyện. 
 Giả  thuyết  8:  Tách  biệt  vai  trò  chủ  tịch  hội  đồng  quản  trị  với  giám  đốc  có  ảnh  hưởng đến mức độ công bố thông tin tự nguyện. 
 3.2.4. Mô hình nghiên cứu 
-Từ những lập luận trên, tác giả áp dụng  mô hình nghiên cứu tương đồng với các tác  giả trước. Mô hình hồi quy đa biến dự đoán ảnh hưởng của các nhân tố đến mức độ  công bố thông tin tự nguyện dựa trên mẫu thu thập được đưa ra: Page 42
+Từ những lập luận trên, tác giả áp dụng  mô hình nghiên cứu tương đồng với các tác  giả trước. Mô hình hồi quy đa biến dự đoán ảnh hưởng của các nhân tố đến mức độ  công bố thông tin tự nguyện dựa trên mẫu thu thập được đưa ra: 
+Page 42
 
 𝑉𝐷𝐼 ̂ = 𝛽̂ 0 + 𝛽̂ 1 𝑆𝐼𝑍𝐸 + 𝛽̂ 2 𝐿𝐸𝑉 + 𝛽̂ 3 𝑅𝑂𝐴 + 𝛽̂ 4 𝑀𝐴𝐽𝑂𝑅 + 𝛽̂ 5 𝑆𝑇𝐴𝑇𝐸 + 𝛽̂ 6 𝐹𝑂𝑅𝐸𝐼𝐺𝑁 + 𝛽̂ 7 𝐼𝑁𝐷 +   𝛽̂ 8 𝐷𝑈𝐴𝐿 
 VDI  Chỉ số công bố thông tin tự nguyện của một công ty 
@@ -367,7 +408,8 @@ Tỷ lệ sở hữu của  các cổ đông lớn
 Tỷ lệ sở hữu của  Nhà nước 
 Tỷ lệ sở hữu của nhà  đầu tư nước ngoài   
 Tỷ lệ thành viên  HĐQT độc lập  Tách biệt vai trò chủ  tịch HĐQT và GĐ  Chỉ số CBTT  
-tự nguyện Page 43
+tự nguyện 
+Page 43
 
 3.3. DỮ LIỆU 
 Biến phụ thuộc: Để tính chỉ số đo lường chỉ số công bố thông tin tự nguyện, tác giả  chấm điểm báo cáo thường niên của từng công ty theo phụ lục thông tin công bố tự  nguyện số 02 sau khi đã đối chiếu với quy định tại Việt nam. 
@@ -382,7 +424,8 @@ HNX  HSX  Tổng
 Tài chính (*)  27  18  45 
 Công nghiệp  116  95  211 
 Xây dựng  71  32  103 
-(*)  Theo  tên  gọi  của  Hệ  thống  phân  ngành  kinh  tế  của  HOSE  là  Hoạt  động  tài  chính, ngân hàng và bảo hiểm. Page 44
+(*)  Theo  tên  gọi  của  Hệ  thống  phân  ngành  kinh  tế  của  HOSE  là  Hoạt  động  tài  chính, ngân hàng và bảo hiểm. 
+Page 44
 
 Trong số 03 nhóm ngành thì ngành công nghiệp có số công ty nhiều nhất. Tác giả  tiến hành xác định kích thước mẫu trước. Chuẩn bị phân tích dữ liệu và kiểm định  mô hình mối liên hệ giữa các nhân tố và mức độ công bố thông tin tự nguyện, tác  giả  lựa  chọn  mẫu  theo  công  thức  kinh  nghiệm  được  sử  dụng  ở  các  nghiên  cứu  sử  dụng mô hình hồi qui bội (Nguyễn Đình Thọ, 2012, trang 499), như sau: 
 𝑛  ≥ 50 + 8𝑝 
@@ -392,7 +435,8 @@ P được xác định là 8 biến độc lập. Từ công thức trên,  ta 
 Tương tự đối với ngành tài chính có tổng thể thấp nhất là 45 công ty niêm yết tính  trên cả hai Sở GDCK, tác giả sẽ lựa chọn ngẫu nhiên 35 công ty, tương ứng với trên  70% số lượng công ty niêm yết theo ngành cấp I là tài chính.  
 Như vậy, kích thước mẫu được xác định đối với ngành công nghiệp là 114 công ty,  ngành  tài  chính  là  35  công  ty,  và  ngành  xây  dựng  là  61  công  ty.  Tổng  kích  thước  mẫu của 03 mô hình tương ứng với 03 nhóm ngành là 210 công ty. 
 KẾT LUẬN CHƯƠNG 3 
-Mô hình bao gồm 08 biến độc lập và 01 biến phụ thuộc. Kích thước mẫu được xác  định cụ thể. Ngành công nghiệp là 114 quan sát, ngành xây dựng là 61 quan sát và  ngành  tài  chính  là  35  quan  sát.  Công  cụ  hỗ  trợ  kiểm  định  là  phần  mềm  thống  kê  SPSS (Statistical Package for the Social Sciences) phiên bản 20. Page 45
+Mô hình bao gồm 08 biến độc lập và 01 biến phụ thuộc. Kích thước mẫu được xác  định cụ thể. Ngành công nghiệp là 114 quan sát, ngành xây dựng là 61 quan sát và  ngành  tài  chính  là  35  quan  sát.  Công  cụ  hỗ  trợ  kiểm  định  là  phần  mềm  thống  kê  SPSS (Statistical Package for the Social Sciences) phiên bản 20. 
+Page 45
 
 CHƯƠNG 4 -  KẾT QUẢ NGHIÊN CỨU VÀ BÀN LUẬN 
 4.1. KẾT QUẢ NGHIÊN CỨU BÀN LUẬN VỀ KẾT QUẢ NGHIÊN CỨU 
@@ -415,7 +459,8 @@ Thông tin phi tài chính
 11  Thông tin tiền tệ nước ngoài  6  1 
 12  Thông tin giá cổ phiếu  7  4 
 Tổng cộng  113  67 
-A: Số lượng mục thông tin trước khi đối chiếu theo nghiên cứu của Chau và Gray  (2002) dựa trên nghiên cứu của Meek (1995) Page 46
+A: Số lượng mục thông tin trước khi đối chiếu theo nghiên cứu của Chau và Gray  (2002) dựa trên nghiên cứu của Meek (1995) 
+Page 46
 
 B: Số lượng mục thông tin tự nguyện công bố thông tin sau khi đối chiếu với thông  tư số 52/2012/TT-BTC ngày 05/04/2012 của Bộ tài chính. 
 Thông tin chiến lược 
@@ -424,7 +469,8 @@ Thông tin chiến lược
 Mục Nghiên cứu và phát triển bao gồm thông tin về mô tả dự án nghiên cứu, được  yêu cầu công bố tại mục “II.3 Tình hình đầu tư, tình hình thực hiện các dự án”, đối  với các kế hoạch nghiên cứu thì được công bố cùng với kế hoạch định hướng trong  tương lai của công ty niêm yết, tại mục III.4 thông tư số 52/2012/TT-BTC. Do đó,  các thông tin tại nhóm mục này đều bắt buộc phải công bố. 
 Mục Triển vọng tương lai, các kế hoạch về doanh thu lợi nhuận, lưu chuyển luồng  tiền được xác định là thông tin tự nguyện công bố. Nếu công ty không công bố về  lưu  chuyển  luồng  tiền  thì  đương  nhiên  sẽ  không  công  bố  “giả  định  của  cơ  sở  dự  báo”, nên khi đó mục giả định sẽ để trống, không nhập “0” để tính điểm cho công ty  đó. 
 Thông tin phi tài chính 
-Mục thông tin về hội đồng quản trị gồm 04 mục không bắt buộc công bố thông tin  theo hướng dẫn của thông tư 52/2012/TT-BTC gồm tuổi, trình độ giáo dục và kinh  nghiệp  của  các  thành  viên  trong  hội  đồng.  Về  mối  quan  hệ  của  hội  đồng  quản  trị Page 47
+Mục thông tin về hội đồng quản trị gồm 04 mục không bắt buộc công bố thông tin  theo hướng dẫn của thông tư 52/2012/TT-BTC gồm tuổi, trình độ giáo dục và kinh  nghiệp  của  các  thành  viên  trong  hội  đồng.  Về  mối  quan  hệ  của  hội  đồng  quản  trị 
+Page 47
 
 mặc  dù  không  bắt  buộc  theo  thông  tư  52/2012/TT-BTC  nhưng  bắt  buộc  trên  báo  cáo Quản trị công ty (phụ lục 03 của thông tư số 52/2012/TT-BTC ngày 05/04/2012  của Bộ tài chính) nên đây được xem như thông tin bắt buộc. 
 Mục  thông  tin  người  lao  động  có  50%  thông  tin  được  xem  là  tự  nguyện  công  bố  như về thông tin phân bổ nhân viên, các thông tin về đào tạo, tai nạn trong lao động.  
@@ -434,7 +480,8 @@ Thông tin phân loại
 Mục thông tin phân loại gồm 10 mục thông tin tự nguyện, mục “sản phẩn theo địa  bàn” tác giả chấm điểm dựa trên doanh thu theo khu vực địa lý, tương tự đối với  “sản phẩm theo từng lĩnh vực”.  Lĩnh vực  ở  đây,  được  hiểu là ngành/nhóm  ngành  hoặc  tùy  vào  các  phân  loại  của  từng  công  ty,  cách  theo  dõi  của  bộ  phần  kế  toán  công ty. 
 Mục thông tin tổng hợp gồm nhiều mục thông tin, 14/25 mục là tự nguyện công bố.  Trong đó, hầu hết các công ty niêm yết đều rất ít công bố, ví dụ các thông tin về  đánh giá lại tài sản cố định trong vòng 5 năm, giá trị thương hiệu, giá trị vô hình  không được công bố trong tổng số mẫu được lựa chọn. 
 Mục  thông  tin  tiền  tệ  nước  ngoài  chỉ  có  một  mục  tự  nguyện  liên  quan  đến  ảnh  hưởng của biến động tỷ giá đến các hoạt động trong tương lai. Có thể do việc đánh  giá mang tính chưa chắc chắn trong tương lai, nên hầu hết các công ty đều đánh giá  ảnh hưởng của biến động tỷ giá đến kết quả hiện tại. 
-Mục thông tin giá cổ phiếu tự nguyện công bố gồm các thông tin về giá cổ phiếu,  biến động giá cổ phiếu và các thông tin đến vốn hóa thị trường.Giá trị vốn hóa thị Page 48
+Mục thông tin giá cổ phiếu tự nguyện công bố gồm các thông tin về giá cổ phiếu,  biến động giá cổ phiếu và các thông tin đến vốn hóa thị trường.Giá trị vốn hóa thị 
+Page 48
 
 trường rất ít được công bố, chỉ những doanh nghiệp lớn mới công bố giá trị này như  Công ty Cổ phần Dược phẩm Imexpharm, Công ty Cổ phần Bột giặt LIX… 
 Nhìn  chung,  việc  chấm  điểm  chỉ  số  CBTT  tự  nguyện  không  phức  tạp,  nhưng  yêu  cầu phải xem xét nhiều thông tin trên báo cáo thường niên.  
@@ -447,7 +494,8 @@ N Minimum Maximum Mean Std. Deviation
 VDI       114       0.046       0.455      0.198      0.090 SIZE       114         23.630         30.730      27.098      1.345 LEV       114       5.420         93.220      50.074      21.039 ROA       114      (4.090)         16.610      2.807      4.824 MAJOR       114 0.000         89.380      50.351      21.584 STATE       114 0.000         76.550      18.831      24.227 FOREIGN       114 0.000         49.000      9.532      13.223 IND       114 0.000       100.000      56.702      20.913 DUAL       114 0.000       1.000      0.640      0.482 Valid N 
 (listwise)
      114 
-Descriptive StatisticsPage 49
+Descriptive Statistics
+Page 49
 
 Trong đó: 
 VDI  Chỉ số công bố thông tin tự nguyện của một công ty 
@@ -456,7 +504,8 @@ LEV  Tỷ số nợ/tổng tài sản
 ROA  Lợi nhuận trước thuế/tổng tài sản  MAJOR  Tỷ lệ sở hữu của các cổ đông lớn  STATE  Tỷ lệ sở hữu của Nhà nước 
 FOREIGN  Tỷ lệ sở hữu của nhà đầu tư nước ngoài  IND  Tỷ lệ thành viên HĐQT không điều hành 
 DUAL  Tách biệt vai trò chủ tịch HĐQT và giám đốc/tổng giám đốc  Dựa trên cách tính Chỉ số CBTT tự nguyện (viết tắt là VDI) thì giá trị 1 là lớn nhất,  giá  trị  0  là  nhỏ  nhất.  Như  kết  quả  cho  thấy  giá  trị  của  các  công  ty  niêm  yết  trong  nhóm  ngành  công  nghiệp  là  khá  thấp,  trung  bình  ở  mức  0.198.  Chỉ  số  nhỏ  nhất  0,0046 (3/66) là của ba mã chứng khoán VTF, SGC, POM (xem chi tiết tên đầy đủ  của công ty tại phụ lục 07).Chỉ số cao nhất thuộc về Công ty Cổ phần Dược phẩm  Imexpharm,  mã chứng khoán là IMP, gồm 30/66  mục thông tin có  thể công bố tự  nguyện. Theo nhận xét của tác giả, nếu điểm số CBTT bắt buộc thì 30/66 là điểm số  thấp nhưng đối với CBTT tự nguyện, chỉ số này là cao. Hầu hết các chỉ số CBTT tự  nguyện cao thuộc về các công ty vừa và lớn, điều này theo dự đoán của tác giả sẽ hỗ  trợ cho giả thuyết 1. 
-Số  lượng  công  ty  niêm  yết  nhóm  ngành  công  nghiệp  ở  hai  Sở  GDCK  rất  nhiều,  trong đó có nhiều nhóm ngành khác nhau nên quy mô công ty cũng đa dạng. Quy  mô  công  ty  được  đo  lường  bởi  logarit  tổng  tài  sản,  tổng  tài  sản  ở  mức  thấp  nhất  khoảng 18 tỷ đồng đến công ty có tổng tài sản lớn nhất là trên 22 ngàn tỷ đồng. Page 50
+Số  lượng  công  ty  niêm  yết  nhóm  ngành  công  nghiệp  ở  hai  Sở  GDCK  rất  nhiều,  trong đó có nhiều nhóm ngành khác nhau nên quy mô công ty cũng đa dạng. Quy  mô  công  ty  được  đo  lường  bởi  logarit  tổng  tài  sản,  tổng  tài  sản  ở  mức  thấp  nhất  khoảng 18 tỷ đồng đến công ty có tổng tài sản lớn nhất là trên 22 ngàn tỷ đồng. 
+Page 50
 
 Tỷ số nợ phải trả/tổng tài sản cũng biến động rất lớn. Có các công ty chỉ sử dụng nợ  khoảng 5% nhưng có các công ty sử dụng nợ đến gần 90%. Điển hình như công ty  Công ty Cổ phần Chế biến Thủy sản và Xuất nhập khẩu Cà Mau (CMX) có tỷ số nợ  phải trả/tổng tài sản là 93,22%. Tỷ số này trung bình ở mức 50%. 
 Tỷ số ROA (lợi nhuận sau thuế/tổng tài sản) của nhóm ngành công nghiệp cũng khá  thấp và chưa đồng đều. Công ty có ROA cao nhất là Công ty Cổ phần Bột giặt LIX  (Mã chứng khoán: LIX) trong khi chỉ số trung bình là 2.807. 
@@ -464,7 +513,8 @@ Sở hữu của cổ đông lớn cũng ở mức trung bình khoảng 50%.
 Tỷ lệ sở hữu của nhà nước trong nhóm ngành công nghiệp không lớn, ở mức trung  bình 18%. Có thể ảnh hưởng quá trình cổ phần hóa các doanh nghiệp nhà nước.  Tỷ  lệ  thành  viên  hội  đồng  quản  trị  không  điều  hành  ở  mức  cao  hơn  trung  bình  (56%)  và  cao  hơn  tỷ  lệ  quy  định  của  Nhà  nước.  Theo  quy  định  tại  thông  tư  121/2012/TT-BTC ngày 26/07/2012, công ty niêm yết cần bố trí tối thiểu 1/3 tổng  số  thành  viên  hội  đồng  quản  trị    phải  là  thành  viên  hội  đồng  quản  trị  không  điều.  Kết quả cho thấy có sự không tuân thủ quy định trên.  
 Kết quả  thống kê về việc tách bạch vai trò của chủ tịch hội đồng quản trị và tổng  giám đốc/giám đốc, trung bình là 0.64. Điều này có ảnh hưởng đến mức độ CBTT  tự nguyện thì cần thực hiện thêm các kiểm định khác được trình bày sau. 
 Trước khi chạy mô hình hồi qui, cần xem xét tính tương quan của các biến độc lập  và biến phụ thuộc thông qua bảng 4.2. 
-Bảng  4.2.  Hệ  số  tương  quan  giữa  các  biến  mô  hình  nghiên  cứu  nhân  tố  tác  động mức độ công bố thông tin tự nguyện của nhóm ngành tài chính Page 51
+Bảng  4.2.  Hệ  số  tương  quan  giữa  các  biến  mô  hình  nghiên  cứu  nhân  tố  tác  động mức độ công bố thông tin tự nguyện của nhóm ngành tài chính 
+Page 51
 
 Lựa chọn kiểm định các giả thuyết ở mức ý nghĩa 0,05. 
 Như vậy, hầu hết các biến đều có mức tương quan thấp với chỉ số CBTT tự nguyện  (VDI). Có 03 biến có thể kiểm định với  mức ý nghĩa được lựa chọn: SIZE, ROA,  FOREIGN.  
@@ -515,7 +565,8 @@ Adjusted R  Square
 Std. Error of  the Estimate
 1 0.549 a .301 .248 .0779473
 Model Summary Model
-a. Predictors: (Constant), SIZE, LEV, ROA, MAJOR, STATE,  FOREIGN, IND, DUALPage 52
+a. Predictors: (Constant), SIZE, LEV, ROA, MAJOR, STATE,  FOREIGN, IND, DUAL
+Page 52
 
 Bảng 4.4. Bảng ANOVA mô hình nghiên cứu các nhân tố ảnh hưởng đến mức  độ công bố thông tin tự nguyện của nhóm ngành công nghiệp 
 Bảng  4.5.  Kết  quả  hồi  quy  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức độ công bố thông tin tự nguyện của nhóm ngành công nghiệp 
@@ -544,7 +595,8 @@ a. Dependent Variable: VDI
 Coefficients a
 Model
 Unstandardized 
-Coefficients t Sig. Collinearity StatisticsPage 53
+Coefficients t Sig. Collinearity Statistics
+Page 53
 
 Kiểm  định  2:  Mức  độ  giải  thích  của  mô  hình  với  R 2   điều  chỉnh  là  24,5%,  là  khá 
 thấp. Hệ số F với mức ý nghĩa nhỏ hơn 0,01 cho thấy an toàn khi kết luận mô hình  phù hợp với dữ liệu thu thập.  
@@ -563,12 +615,14 @@ a. Dependent Variable: VDI
 Coefficients a
 Model
 Unstandardized 
-Coefficients t Sig. Collinearity StatisticsPage 54
+Coefficients t Sig. Collinearity Statistics
+Page 54
 
 tảng của việc công bố thông tin nói chung và công bố thông tin tự nguyện nói riêng.  Ngoài ra, công ty lớn có khả năng đầu tư về trang thiết bị, phần mềm quản lý theo  dõi thông tin, chi phí tốt hơn, tạo điều kiện cho bộ phận kế toán thực hiện ghi chép.  Ngoài ra, việc công bố nhiều thông tin cho thấy ở các công ty lớn chú trọng việc tạo  niềm tin cho người sử dụng báo cáo tài chính, xây dựng hình ảnh công ty tốt hơn,  chuyên nghiệp hơn, hiểu hơn về nhu cầu của các đối tượng sử dụng thông tin. Kết  quả  nghiên  cứu  phù  hợp  với  dấu  của  hệ  số  tương  quan  khi  phân  tích  hệ  số  tương  quan,  kết  quả  cũng  tương  ứng  với  giả  thuyết  đề  ra  và  một  số  nghiên  cứu  trước.  Trong  mô  hình  hai  biến  có  ý  nghĩa,  mức  độ  đóng  góp  giải  thích  của  biến  SIZE  là  56,53%. 
 Tỷ  lệ  sở  hữu  của  nhà  đầu  tư  nước  ngoài  (tên  biến:  FOREIGN):  Với  mức  ý  nghĩa  0,03&lt; 0,05 cho thấy ảnh hưởng của FOREIGN đến VDI. Các nhà đầu tư nước ngoài  có thể do khoảng cách địa lý, sự khác biệt về văn hóa, sự tin tưởng khi đầu tư. Khi  mức đầu tư càng lớn, nhu cầu cần nắm thông tin càng cao và điều này dẫn đến yêu  cầu từ các nhà đầu tư nước ngoài đối với các công ty niêm yết là cần lượng thông  tin nhiều hơn. Ở các nghiên cứu phần tổng quan cũng cho thấy kết quả tương tự, các  công ty có tình trạng niêm yết ở nước ngoài, liên quan đến yếu tố nước ngoài đều có  mức độ CBTT tự nguyện cao hơn. Kết quả cũng phù hợp với dự báo giả thuyết 6.  Mức độ đóng góp cho việc giải thích của mô hình là 43,46%. 
 4.1.3. Kết quả nghiên cứu nhóm ngành xây dựng 
-Tương tự phương pháp được thực hiện ở nhóm ngành công nghiệp về quy trình thực  hiện.  Số  lượng  mẫu  thu  thập  được  là  61  công  ty,  đạt  được  60%  so  với  tổng  thể.  Danh  sách  và  dữ  liệu  của  các  công  ty  niêm  yết  được  thu  thập  từ  báo  cáo  thường  niên được trình bày ở phụ lục số 07. Page 55
+Tương tự phương pháp được thực hiện ở nhóm ngành công nghiệp về quy trình thực  hiện.  Số  lượng  mẫu  thu  thập  được  là  61  công  ty,  đạt  được  60%  so  với  tổng  thể.  Danh  sách  và  dữ  liệu  của  các  công  ty  niêm  yết  được  thu  thập  từ  báo  cáo  thường  niên được trình bày ở phụ lục số 07. 
+Page 55
 
 Bảng 4.7. Thống kê mô tả các biến trong mô hình nghiên cứu nhân tố tác động  mức độ công bố thông tin tự nguyện của nhóm ngành xây dựng 
 Trong đó: 
@@ -581,7 +635,8 @@ DUAL  Tách biệt vai trò chủ tịch HĐQT và giám đốc/tổng giám đ�
 N Minimum Maximum Mean Std. Deviation
 VDI       61 0.046 0.364 0.161 0.070
 SIZE       61      24.220       29.830      27.140 1.383 LEV       61      17.550       96.000      63.085 18.093 ROA       61       (0.540)       0.140      0.020 .086 MAJOR       61      5.000       83.360      49.008 20.094 STATE       61 0,000       73.340      22.946 26.114 FOREIGN       61 0,000       49.000      6.984 11.551 IND       61 0,000       83.000      58.410 18.362 DUAL       61 0,000       1.000      0.656 .479 Valid N (listwise)       61 
-Descriptive StatisticsPage 56
+Descriptive Statistics
+Page 56
 
 nguyện.  Cao  nhất  là  mã  chứng  khoán  HBC  (Công  ty  cổ  phần  xây  dựng  và  kinh  doanh địa ốc Hòa Bình) với 24/66 mục thông tin công bố tự nguyện. 
 Quy mô công ty ở nhóm ngành xây dựng: tổng tài sản nhỏ nhất ở khoản 32 tỷ đồng,  lớn nhất khoảng 9 ngàn tỷ đồng. 
@@ -590,7 +645,8 @@ Tỷ số lợi nhuận sau thuế/tổng tài sản trung bình đạt 0,020 (2
 Tổng tỷ lệ sở hữu của cổ đông lớn cho thấy mức độ tập trung vốn của công ty. Tất  cả các công ty thuộc nhóm ngành xây dựng đều có cổ đông sở hữu cổ phần từ 5%  trở lên. 
 Tỷ lệ sở hữu của Nhà nước trong nhóm ngành xây dựng ở mức 22%. Công ty có sở  hữu  Nhà  nước  cao  nhất  là  BECAMEX,  73,34%.  Mức  sở  hữu  của  Nhà  nước  trong  các công ty xây dựng được khảo sát thấp nhất là 5%. 
 Tỷ lệ sở hữu của nhà đầu tư nước ngoài cao nhất là 49%, là trường hợp của CTD  (Công ty Cổ phần Xây dựng COTEC)và REE (Công ty Cổ phần Cơ Điện Lạnh).  Tỷ lệ thành viên hội đồng quản trị không điều hành trung bình là 58%.  Trong các  quan sát, tỷ lệ này dưới 1/3 so với quy định của Nhà nước chỉ có 03 trường hợp, còn  lại  các  công  ty  niêm  yết  đều  bố  trí  thành  viên  hội  đồng  quản  trị  không  điều  hành  theo đúng quy định.  
-Tách biệt vai trò chủ tịch hội đồng quản trị và tổng giám đốc/giám đốc được thực  hiện ở 65% các công ty thuộc nhóm ngành xây dựng được khảo sát. Page 57
+Tách biệt vai trò chủ tịch hội đồng quản trị và tổng giám đốc/giám đốc được thực  hiện ở 65% các công ty thuộc nhóm ngành xây dựng được khảo sát. 
+Page 57
 
 Bảng  4.8.  Hệ  số  tương  quan  giữa  các  biến  mô  hình  nghiên  cứu  nhân  tố  tác  động mức độ công bố thông tin tự nguyện của nhóm ngành xây dựng 
 Kết quả hệ số tương quan cho thấy có 03 biến có  mức độ tương quan có  ý nghĩa.  Mức  tương  quan  lần  lượt  đối  với  biến  SIZE  (Quy  mô  công  ty)  là  0,511;  biến  FOREIGN  (Tỷ  lệ  sở  hữu  của  nhà  đầu  tư  nước  ngoài)  là  0,495;  biến  DUAL  (tách  biệt vai trò chủ tịch hội đồng quản trị và tổng giám đốc/giám đốc) là 0,269. Ba biến  trên có thể thực hiện kiểm định với mức ý nghĩa nhỏ hơn hoặc bằng 0,05. 
@@ -629,7 +685,8 @@ DUAL ROA
 MAJOR
 STATE
 FOREIGN
-INDPage 58
+IND
+Page 58
 
 Bảng  4.9.  Tóm  tắt  mô  hình  nghiên  cứu  các  nhân  tố  ảnh  hưởng  đến  mức  độ  công bố thông tin tự nguyện của nhóm ngành xây dựng 
 Bảng 4.10. Bảng ANOVA mô hình nghiên cứu các nhân tố ảnh hưởng đến mức  độ công bố thông tin tự nguyện của nhóm ngành xây dựng
@@ -663,7 +720,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 59
+Collinearity  Statistics
+Page 59
 
 Kiểm định 1: Biến có ý nghĩa giải thích cho mô hình với hệ số t có mức ý nghĩa nhỏ  hơn 0,05 là biến SIZE. 
 Kiểm định 2: Mức độ phù hợp của mô hình với R 2  là 24%. Hệ số F có mức ý nghĩa 
@@ -682,7 +740,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 60
+Collinearity  Statistics
+Page 60
 
 4.1.4. Kết quả nghiên cứu nhóm ngành tài chính 
 Với tổng thể là 45 công ty thuộc nhóm ngành tài chính, tác giả khảo sát 35/45 công  ty,  đạt  trên  70%  so  với  tổng  thể.  Danh  sách  và  dữ  liệu  của  các  công  ty  niêm  yết  được thu thập từ báo cáo thường niên được trình bày ở phụ lục số 07. Trong nhóm  ngành tài chính, có các công ty kinh doanh về chứng khoán, ngân hàng, bảo hiểm…  Bảng 4.13. Thống kê mô tả các biến trong mô hình nghiên cứu các nhân tố ảnh  hưởng  đến  mức  độ  công  bố  thông  tin  tự  nguyện  của  nhóm  ngành  tài  chính
@@ -694,14 +753,16 @@ ROA  Lợi nhuận trước thuế/tổng tài sản  MAJOR  Tỷ lệ sở hữ
 FOREIGN  Tỷ lệ sở hữu của nhà đầu tư nước ngoài  IND  Tỷ lệ thành viên HĐQT không điều hành 
 N Minimum Maximum Mean Std. Deviation
 VDI       35      0.015       0.424      0.187      0.088 SIZE       35      19.010       34.120      28.317      2.965 LEV       35      2.700       94.800      46.621      31.269 ROA       35       (0.053)       0.284      0.043      0.059 MAJOR       35      10.940       95.760      54.984      28.344 STATE       35 0.000       95.760      24.907      33.819 FOREIGN       35 0.000       48.990      13.598      13.983 IND       35 0.000         100.000      73.571      17.706 DUAL       35 0.000       1.000      0.800      0.406 Valid N (listwise)       35 
-Descriptive StatisticsPage 61
+Descriptive Statistics
+Page 61
 
 DUAL  Tách biệt vai trò chủ tịch HĐQT và giám đốc/tổng giám đốc  Chỉ  số  CBTT  tự  nguyện  của  nhóm  ngành  tài  chính  thấp,  trung  bình  ở  mức  0,187.  VIX  (Công  ty  cổ  phần  chứng  khoán  IB)  có  chỉ  số  thấp  nhất  0,015  và  chỉ  có  1/66  mục thông tin tự nguyện được công bố. Cao nhất là Tập đoàn Bảo việt (BVH) với  chỉ số VDI là 0,424, tương ứng 28/66 mục thông tin tự nguyện được công bố. Tập  đoàn Bảo việt cũng được nhiều giải thưởng trong và ngoài nước. BVH cũng là công  ty duy nhất trình bày báo cáo thường niên đính kèm báo cáo tài chính đã được kiểm  toán trình bày theo chuẩn mực khác (chuẩn mực kế toán quốc tế IFRS). 
 Quy  mô  công  ty  trong  ngành  tài  chính  lớn,  trung  bình  logarit  tổng  tài  sản  ở  mức  28,31 tương ứng giá trị tổng tài sản gần 2 ngàn tỷ đồng. 
 Tỷ số nợ phải trả/tổng tài sản có sự chênh lệch cao, tỷ số thấp nhất là 2,7% và cao  nhất là 94,8%. 
 Tỷ lệ sở hữu của cổ đông lớn: Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển  Việt Nam có mức độ tập trung vốn cao nhất là 95,76%, đó cũng là phần trăm sở hữu  cao nhất của nhà nước trong các công ty niêm yết thuộc nhóm ngành tài chính trong  năm 2014. 
 Tỷ lệ thành viên hội đồng quản trị không điều hành cũng chưa tương đồng, có các  công  ty  không  bố  trí  thành  viên  HĐQT  không  điều  hành,  cũng  có  công  ty  bố  trí  100% thành viên HĐQT không điều hành. Tuy nhiên, trung bình đạt được 73% là  khá cao. 
-Việc  tách  biệt  vai  trò  chủ  tịch  HĐQT  và  tổng  giám  đốc/giám  đốc  được  thực  hiện  hầu hết các công ty. Điều này có thể do quy mô công ty lớn nên việc kiêm nhiệm sẽ  khó thực hiện. Mặc dù quy  định về pháp luật không  yêu cầu tách  biệt, nhưng hầu  hết nhà đầu tư sẽ có cảm nhận tốt hơn khi việc tách biệt vai trò được thực hiện. Page 62
+Việc  tách  biệt  vai  trò  chủ  tịch  HĐQT  và  tổng  giám  đốc/giám  đốc  được  thực  hiện  hầu hết các công ty. Điều này có thể do quy mô công ty lớn nên việc kiêm nhiệm sẽ  khó thực hiện. Mặc dù quy  định về pháp luật không  yêu cầu tách  biệt, nhưng hầu  hết nhà đầu tư sẽ có cảm nhận tốt hơn khi việc tách biệt vai trò được thực hiện. 
+Page 62
 
 Bảng 4.14. Hệ số tương quan mô hình nghiên cứu mức độ công bố thông tin tự  nguyện nhóm ngành tài chính
 Kết  quả  phân  tích  hệ  số  tương  quan  tại  bảng  4.14  cho  thấy  02  biến  tương  quan  ở  mức trung bình với chỉ số CBTT tự nguyện (VDI), là tỷ số nợ phải trả/tổng tài sản  (LEV) và tỷ lệ sở hữu của Nhà nước (STATE). Mức tương quan giữa các biến độc  lập cũng ở mức trung bình. 
@@ -743,7 +804,8 @@ DUAL ROA
 MAJOR
 STATE
 FOREIGN
-INDPage 63
+IND
+Page 63
 
 Bảng 4.15.Tóm tắt mô hình nghiên cứu các nhân tố ảnh hưởng đến mức độ  công bố thông tin tự nguyện của nhóm ngành tài chính
 Bảng 4.16.Bảng ANOVA mô hình nghiên cứu các nhân tố ảnh hưởng đến mức  độ công bố thông tin tự nguyện của nhóm ngành tài chính 
@@ -776,7 +838,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 64
+Collinearity  Statistics
+Page 64
 
 Kiểm định 1: Với mức ý nghĩa được lựa chọn ban đầu là 0,05 thì kết quả cho thấy  chỉ có hai biến là LEV và STATE có ý nghĩa giải thích cho mô hình.  
 Kiểm  định  2:  Chạy  lại  mô  hình  hồi  qui  hai  biến  LEV,  STATE  có  hệ  số  R 2   điều  chỉnh  là  34%  giải  thích  cho  mô  hình  biến  động  mức  độ  CBTT  tự  nguyện  ở  nhóm  ngành tài chính. Hệ số F với mức ý nghĩa nhỏ hơn 0,01 đảm bảo mô hình xây dựng  phù hợp với dữ liệu thu thập. 
@@ -794,7 +857,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 65
+Collinearity  Statistics
+Page 65
 
 Bảng  4.19.  Kết  quả  hồi  quy  biến  LEV  ảnh  hưởng  đến  VDI  nhóm  ngành  tài  chính 
 Phương trình: 
@@ -809,7 +873,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 66
+Collinearity  Statistics
+Page 66
 
 Kết quả nghiên cứu chấp nhận giả thuyết 2, dấu của hệ số hồi quy  tương ứng dấu  của hệ số tương quan, với mức độ giải thích cho mô hình là 24,7%, xem tại phụ lục  số 06. 
 4.2. SO SÁNH BA NHÓM NGÀNH: CÔNG NGHIỆP, XÂY DỰNG, TÀI  CHÍNH VÀ MỘT SỐ NGHIÊN CỨU TRƯỚC ĐÂY 
@@ -822,7 +887,8 @@ Công nghiệp Xây dựng Tài chính
 Nhỏ nhất 5% 5% 2%
 Lớn nhất 45% 36% 42%
 Trung bình 20% 16% 19%
-Nhóm ngành Chỉ số VDIPage 67
+Nhóm ngành Chỉ số VDI
+Page 67
 
 Bảng 4.21. So sánh một số chỉ số kết quả nghiên cứu của 03 nhóm ngành công  nghiệp, xây dựng và tài chính 
 Bảng 4.22. Tóm tắt kết quả nghiên cứu của 03 nhóm ngành công nghiệp, xây  dựng, tài chính 
@@ -858,7 +924,8 @@ Giả thuyết 6 FOREIGN + + Không Không
 Giả thuyết 7 IND + Không Không Không
 Giả thuyết 8 DUAL Có ảnh hưởng Không Không Không Giả thuyết
 Biến
-STT Kết quả nghiên cứuPage 68
+STT Kết quả nghiên cứu
+Page 68
 
 Với mức độ phù hợp của mô hình ở mức tương đối, mức ý nghĩa phù hợp cho thấy  kết  quả  nghiên  cứu  chỉ  ra  một  phần  nguyên  nhân  dẫn  đến  việc  CBTT  tự  nguyện  hiện nay. 
 Các biến giải thích trong mô hình có mức ý nghĩa phù hợp so với mức ý nghĩa được  lựa chọn là 0,05.  
@@ -866,7 +933,8 @@ Nhóm ngành phi tài chính
 Giả thuyết 1 được chấp nhận: Quy mô công ty có tác động cùng chiều đến mức độ  công bố thông tin tự nguyện.Biến SIZE (Quy mô công ty) giải thích được ở hai mô  hình  nghiên  cứu  trên  ngành  công  nghiệp  và  ngành  xây  dựng.  Quy  mô  càng  lớn,  thông tin của công ty càng nhiều và được theo dõi chặt chẽ bởi các bộ phận có liên  quan, đặc biệt là bộ phận kế toán công ty. Từ đó, với nhu cầu công bố thông tin sẽ  thuận lợi, đầy đủ hơn.  
 Giả thuyết 6 được chấp nhận: Tỷ lệ sở hữu nước ngoài có tác động cùng chiều đến  mức  độ  công  bố  thông  tin  tự  nguyện.  Biến  FOREIGN  chỉ  giải  thích  cho  mô  hình  nghiên cứu nhóm ngành công nghiệp. Trên số liệu khảo sát nhóm ngành này thu hút  vốn đầu tư không nhiều, trung bình khoảng 9,5%. 
 Nhóm ngành tài chính 
-Tuy nhiên với ngành tài chính thì SIZE, FOREIGN không có ý nghĩa giải thích. Giả  thuyết 2 được chấp nhận, biến LEV (tỷ số nợ phải trả/tổng tài sản) có tác động cùng  chiều đến VDI ở ngành tài chính. Công ty có tỷ số nợ phải trả càng cao thì có thể  nhu cầu thông tin được yêu cầu công bố càng lớn và cần tạo niềm tin vững chắc cho  các bên liên quan. Đối với một số nghiên cứu trước đây cả trong và ngoài nước, khi  thu thập mẫu ngẫu nhiên trên thị trường chứng khoán, không phân chia nhóm ngành  thì  đều  loại  trừ  các  công  ty  tài  chính  niêm  yết,  điều  này  có  thể  hiểu  vì  ngành  tài  chính có mô hình hoạt động đặc thù hơn. Ở đây kết quả nghiên cứu cũng cho thấy  sự  khác  biệt  so  với  hai  ngành  công  nghiệp  và  xây  dựng.  Kết  quả  khác  biệt  của Page 69
+Tuy nhiên với ngành tài chính thì SIZE, FOREIGN không có ý nghĩa giải thích. Giả  thuyết 2 được chấp nhận, biến LEV (tỷ số nợ phải trả/tổng tài sản) có tác động cùng  chiều đến VDI ở ngành tài chính. Công ty có tỷ số nợ phải trả càng cao thì có thể  nhu cầu thông tin được yêu cầu công bố càng lớn và cần tạo niềm tin vững chắc cho  các bên liên quan. Đối với một số nghiên cứu trước đây cả trong và ngoài nước, khi  thu thập mẫu ngẫu nhiên trên thị trường chứng khoán, không phân chia nhóm ngành  thì  đều  loại  trừ  các  công  ty  tài  chính  niêm  yết,  điều  này  có  thể  hiểu  vì  ngành  tài  chính có mô hình hoạt động đặc thù hơn. Ở đây kết quả nghiên cứu cũng cho thấy  sự  khác  biệt  so  với  hai  ngành  công  nghiệp  và  xây  dựng.  Kết  quả  khác  biệt  của 
+Page 69
 
 ngành tài chính cũng giải thích khi các nghiên cứu trước được thực hiện thì loại trừ  công ty tài chính khi khảo sát ngẫu nhiên các công ty niêm yết trên thị trường chứng  khoán. 
 Số lượng công ty niêm yết trên thị trường chứng khoán ở nhóm ngành xây dựng, tài  chính  còn  khá  ít  nên  việc  thu  mở  rộng  cỡ  mẫu  khó  thực  hiện  so  với  ngành  công  nghiệp. 
@@ -874,13 +942,15 @@ Nhìn vào kết quả cho thấy ở mỗi nhóm ngành đều có kết quả 
 4.2.2. So sánh với một số nghiên cứu trước 
 Như đã trình bày ở chương 1, nghiên cứu về mức độ công bố thông tin tự nguyện  được thực hiện ở nhiều nước và tại Việt nam cũng có một số nghiên cứu. Nhằm đạt  được  mục  tiêu so sánh kết quả  nghiên cứu, tác  giả  trình bày  so sánh lần lượt các  biến  trong  mô  hình,  mức  độ  giải  thích  của  mô  hình  nghiên  cứu  tác  động  đến  biến  độc lập VDI. 
 Quy mô công ty 
-Biến quy mô công ty (SIZE) có ảnh hưởng cùng chiều đến mức độ công bố thông  tin  tự  nguyện  tương  tự  kết  quả  nghiên  cứu  của  tác  giả  Phạm  Ngọc  Vỹ  An  (2013)  nghiên cứu về hoàn thiện công bố thông tin tại các doanh nghiệp niêm yết trên Sở  GDCK Thành phố Hồ chí minh. tác giả Phạm Ngọc Vỹ An (2013) không sử dụng  phương pháp tính chỉ số CBTT tự nguyện mà tính chỉ số minh bạch thông tin thông  qua khảo sát cảm nhận của nhà đầu tư về 30 công ty niêm  yết được chọn. Tác giả  cũng  đo  lường  biến  độc  lập  quy  mô  công  ty  bằng  03  phương  pháp  khác  nhau  (logarit tổng tài sản, logarit tổng doanh thu thuần, logarit của giá trị thị trường của  công ty). Tuy cùng kết quả với đề tài ở nhóm ngành công nghiệp, xây dựng nhưng  với  phương  pháp  khác  nhau,  nghiên  cứu  đã  đưa  ra  một  góc  nhìn  khác  về  mức  độ  minh bạch thông tin của công ty niêm yết. Page 70
+Biến quy mô công ty (SIZE) có ảnh hưởng cùng chiều đến mức độ công bố thông  tin  tự  nguyện  tương  tự  kết  quả  nghiên  cứu  của  tác  giả  Phạm  Ngọc  Vỹ  An  (2013)  nghiên cứu về hoàn thiện công bố thông tin tại các doanh nghiệp niêm yết trên Sở  GDCK Thành phố Hồ chí minh. tác giả Phạm Ngọc Vỹ An (2013) không sử dụng  phương pháp tính chỉ số CBTT tự nguyện mà tính chỉ số minh bạch thông tin thông  qua khảo sát cảm nhận của nhà đầu tư về 30 công ty niêm  yết được chọn. Tác giả  cũng  đo  lường  biến  độc  lập  quy  mô  công  ty  bằng  03  phương  pháp  khác  nhau  (logarit tổng tài sản, logarit tổng doanh thu thuần, logarit của giá trị thị trường của  công ty). Tuy cùng kết quả với đề tài ở nhóm ngành công nghiệp, xây dựng nhưng  với  phương  pháp  khác  nhau,  nghiên  cứu  đã  đưa  ra  một  góc  nhìn  khác  về  mức  độ  minh bạch thông tin của công ty niêm yết. 
+Page 70
 
 Một nghiên cứu về các nhân tố ảnh hưởng đến mức độ công bố thông tin tự nguyện  trên báo cáo thường niên của các doanh nghiệp niêm yết trên sàn giao dịch chứng  khoán Thành phố Hồ chí minh của tác giả Nguyễn Thị Thu Hảo (2014). Tác giả lựa  chọn ngẫu nhiên 106 công ty niêm yết, loại trừ các công ty tài chính trong quá trình  thu thập mẫu.Với phương pháp tương tự, tác giả cho thấy ba biến phù hợp giải thích  mô hình là quy mô công ty, loại hình sở hữu (đo lường bằng tỷ lệ cổ phần nắm giữ  bởi cá nhân, tổ chức nước ngoài), và tỷ số nợ phải trả/vốn chủ sở hữu. Với mức độ  giải  thích  của  biến  đến  mô  hình  là  46%.  Xét  về  mức  độ  giải  thích  của  mô  hìnhR 2 điều chỉnh là 22,8%. Kết quả tương đồng với đề tài khi nghiên cứu ở nhóm ngành  công nghiệp và xây dựng với R 2  điều chỉnh lần lượt là 24,5% và 24,8%. 
 Ở nước ngoài, tương tự nghiên cứu của Meek (1995) cho thấy quy mô công ty là  một  yếu  tố  quan  trọng  giải  thích  cho  mức  độ  CBTT  tự  nguyện.  Meek  (1995)  đo  lường VDI bằng phương pháp chấm điểm thông qua danh mục thông tin (không có  trọng số), đo lường quy mô công ty bằng logarit tổng tài sản. Kích thước mẫu là 226  công ty ở nhiều quốc gia, với mức độ giải thích của mô hình là 35%. 
 Xiao Huafang và Yuan Jianguo (2007) cũng cho thấy kết quả tương tự.  Tỷ số nợ phải trả/tổng tài sản 
 Ít nghiên cứu khảo sát đối với nhóm ngành này. Kết quả với ý nghĩa giải thích cho  mô hình nghiên cứu ở nhóm ngành tài chính, tỷ số nợ phải trả/tổng tài sản có mức  giải thích cho VDI là 24,7%.  
-Nghiên cứu của Phạm Ngọc Vỹ An (2013) khảo sát ngẫu nhiên cũng cho thấy điều  này với mức độ giải thích cho mô hình là 55%.Ngược lại, nghiên cứu của Nguyễn  Thị Thu Hảo (2014) khảo sát các công ty phi tài chính không cho thấy ảnh hưởng  của biến đòn bẩy tài chính (đo lường bằng tỷ số nợ phải trả/tổng tài sản) VDI.   Xiao Huafang và Yuan Jianguo (2007) đo lường lợi nhuận bằng nợ phải trả/tổng tài  sản  cũng  không  có  ý  nghĩa  giải  thích  cho  VDI.  Tuy  nhiên,  Chau  và  Gray Page 71
+Nghiên cứu của Phạm Ngọc Vỹ An (2013) khảo sát ngẫu nhiên cũng cho thấy điều  này với mức độ giải thích cho mô hình là 55%.Ngược lại, nghiên cứu của Nguyễn  Thị Thu Hảo (2014) khảo sát các công ty phi tài chính không cho thấy ảnh hưởng  của biến đòn bẩy tài chính (đo lường bằng tỷ số nợ phải trả/tổng tài sản) VDI.   Xiao Huafang và Yuan Jianguo (2007) đo lường lợi nhuận bằng nợ phải trả/tổng tài  sản  cũng  không  có  ý  nghĩa  giải  thích  cho  VDI.  Tuy  nhiên,  Chau  và  Gray 
+Page 71
 
 (2002)nghiên  cứu  tại  Hồng  Kông,  Singapore;  Meek  (1995)  nghiên  cứu  ở  một  số  nước Châu Âu, đều không đo lường ảnh hưởng của tỷ số nợ phải trả/tổng tài sản mà  sử dụng tỷ số nợ phải trả/vốn chủ sở hữu, hai nghiên cứu này cho thấy có ý nghĩa  giải thích mức độ CBTT tự nguyện. 
 Tỷ số lợi nhuận sau thuế/tổng tài sản 
@@ -892,7 +962,8 @@ Không có ý nghĩa trong giải thích VDI ở 03 mô hình nghiên cứu. Ngh
 Tỷ lệ sở hữu của Nhà nước 
 Không có ý nghĩa trong giải thích VDI ở 03 mô hình nghiên cứu. Nghiên cứu của  Xiao Huafang  và Yuan Jianguo (2007)  cũng có kết quả tương  tự khi thực hiện tại  Trung quốc. 
 Tỷ lệ sở hữu của nhà đầu tư nước ngoài 
-Giải thích 43% cho biến VDI trong mô hình nghiên cứu ở nhóm ngành công nghiệp.  Nghiên  cứu  của  Meek  (1995)  cho  thấy  các  công  ty  có  tình  trạng  niêm  yết  ở  nước  ngoài thì có mức độ CBTT cao hơn, yếu tố nước ngoài có ảnh hưởng đến tự nguyện Page 72
+Giải thích 43% cho biến VDI trong mô hình nghiên cứu ở nhóm ngành công nghiệp.  Nghiên  cứu  của  Meek  (1995)  cho  thấy  các  công  ty  có  tình  trạng  niêm  yết  ở  nước  ngoài thì có mức độ CBTT cao hơn, yếu tố nước ngoài có ảnh hưởng đến tự nguyện 
+Page 72
 
 công  bố  thông  tin  của  doanh  nghiệp.  Kết  quả  của  Xiao  Huafang  và  Yuan  Jianguo  (2007) cũng có kết quả tương tự. 
 Nghiên  cứu  trong  nước  chưa  khảo  sát  nhân  tố  này,  cụ  thể  như  nghiên  cứu  của  Nguyễn Thị Thu Hảo (2014) và Phạm Ngọc Vỹ An (2013). 
@@ -904,48 +975,56 @@ Không có  ý nghĩa trong giải thích VDI  ở  03 mô hình nghiên cứu. 
 Kết quả nghiên cứu của Xiao Huafang và Yuan Jianguo (2007)  cho kết quả ngược  lại khi thực hiện khảo sát tại Trung quốc. 
 KẾT LUẬN CHƯƠNG 4 
 Kết  quả  tóm  tắt  03  mô  hình  nghiên  cứu  được  thực  hiện  ở  03  nhóm  ngành  công  nghiệp, xây dựng và tài chính đưa ra các kết quả khác nhau.  
-So sánh với các nghiên cứu trước thực hiện trong và ngoài nước cũng có sự giống  nhau, cụ thể là biến  SIZE được xem là biến  độc lập có tác động đến VDI ở nhiều  nghiên cứu. Các biến còn lại có sự khác biệt giữa các nghiên cứu. Page 73
+So sánh với các nghiên cứu trước thực hiện trong và ngoài nước cũng có sự giống  nhau, cụ thể là biến  SIZE được xem là biến  độc lập có tác động đến VDI ở nhiều  nghiên cứu. Các biến còn lại có sự khác biệt giữa các nghiên cứu. 
+Page 73
 
 CHƯƠNG 5 - KẾT LUẬN VÀ KIẾN NGHỊ 
 5.1. KẾT LUẬN 
 Qua việc tìm hiểu các nghiên cứu trong và ngoài nước liên quan đến mức độ công  bố thông tin đã được thực hiện nhiều trên những phương pháp, lĩnh vực, địa lý khác  nhau.  Tác  giả  lựa  chọn  nghiên  cứu  ba  mô  hình  thực  hiện  ở  ba  nhóm  ngành  khác  nhau  vì  ở  mỗi  ngành  có  những  đặc  điểm  khác  nhau  và  điều  đó  có  thể  ảnh  hưởng  khác nhau đến mức độ công bố thông tin tự nguyện của một công ty. Đây cũng là  một hướng nghiên cứu nhằm đóng góp vào lĩnh vực nghiên cứu công bố thông tin ơ  các công ty niêm yết trên thị trường chứng khoán Việt nam. 
 Thông qua quá trình thu thập thông tin trên báo cáo thường niên, với sự hỗ trợ của  công  cụ  phân  tích  dữ  liệu  SPSS,  kết  quả  của  đề  tài  cho  thấy  mức  độ  CBTT  tự  nguyện ở các ngành có sự khác biệt. Đồng thời, các nhân tố tác động đến mức độ  CBTT tự nguyện khác nhau ở các nhóm ngành công nghiệp, xây dựng và tài chính.  So sánh với các nghiên cứu trước đây trong và ngoài nước cũng có sự tương đồng  đã được trình bày tại mục 4.2.2. 
 Kết quả nghiên cứu cho thấy, đối với nhóm ngành công nghiệp,quy mô công ty và  tỷ lệ sở hữu của nhà đầu tư nước ngoài có tác động cùng chiều đến mức độ CBTT  tự nguyện. Đối với nhóm ngành xây dựng, quy mô công ty có tác động cùng chiều  đến mức độ CBTT tự nguyện. Đối với ngành tài chính, chỉ có tỷ lệ nợ phải trả/tổng  tài sản ảnh hưởng cùng chiều đến mức độ CBTT tự nguyện.  
-Dựa trên kết quả về tác động của giữa biến độc lập đến biến phụ thuộc đã được xác  định, có thể đóng góp một phần cách giải thích về các nhân tố ảnh hưởng đến mức  độ  CBTT  tự  nguyện.Đối  với  biến  quy  mô  công  ty  tác  động  tích  cực  đến  mức  độ  CBTT tự nguyện, nhưng không thể đơn thuần tăng quy mô công ty để dẫn đến tăng  mức độ CBTT tự nguyện bởi vì mô hình nghiên cứu ở cả ba nhóm ngành chỉ giải  thích  được  trung  bình  24%,  trên  thực  tế  còn  nhiều  nguyên  nhân  khác  chưa  được  nghiên cứu trong đề tài này. Theo lý thuyết ủy nhiệm, công ty càng lớn thì chi phí Page 74
+Dựa trên kết quả về tác động của giữa biến độc lập đến biến phụ thuộc đã được xác  định, có thể đóng góp một phần cách giải thích về các nhân tố ảnh hưởng đến mức  độ  CBTT  tự  nguyện.Đối  với  biến  quy  mô  công  ty  tác  động  tích  cực  đến  mức  độ  CBTT tự nguyện, nhưng không thể đơn thuần tăng quy mô công ty để dẫn đến tăng  mức độ CBTT tự nguyện bởi vì mô hình nghiên cứu ở cả ba nhóm ngành chỉ giải  thích  được  trung  bình  24%,  trên  thực  tế  còn  nhiều  nguyên  nhân  khác  chưa  được  nghiên cứu trong đề tài này. Theo lý thuyết ủy nhiệm, công ty càng lớn thì chi phí 
+Page 74
 
 ủy nhiệm càng cao, do đó, cần phải công bố nhiều thông tin để làm giảm chi phí ủy  nhiệm,  tạo  niềm  tin  cho  người  sở  hữu.  Ngoài  ra,  thường  thấy  khi  quy  mô  công  ty  lớn thường có bộ phận kế toán lớn hơn, theo dõi và đáp ứng nhu cầu thông tin nhiều  hơn so với công ty nhỏ, chứng tỏ công ty có nhiều khả năng CBTT và chủ động hơn  trong CBTT. 
 Tương tự đối với biến tỷ lệ sở hữu nhà đầu tư nước ngoài (FOREIGN) giải thích  trong mô hình nghiên cứu ở các nhóm ngành công nghiệp, có tác động với mức độ  CBTT tự nguyện thể hiện sự quan tâm của nhà đầu tư nước ngoài, khoảng cách địa  lý tác động đến yêu cầu cao hơn trách nhiệm công bố thông tin của công ty. 
  Tỷ số nợ phải trả/tổng tài sản (LEV) ở nhóm ngành tài chính tác động cùng chiều  đến  mức  độ  CBTT  tự  nguyện,  cho  thấy  ở  những  công  ty  nợ  cao  thường  công  bố  nhiều thông  tin khác  nhau, tình hình  ở nhiều  năm để thể hiện sự ổn định trong tài  chính, phát triển bền vững tạo niềm tin cho các bên liên quan, đặc biệt là đối tượng  liên quan nợ phải trả. 
 Từ những nhận định trên cùng quá trình chấm điểm chỉ số CBTT tự nguyện, tác giả  nhận  thấy  để  nâng  cao  mức  độ  CBTT  tự  nguyện  của  công  ty  niêm  yết  trên  thị  trường chứng khoán, chủ yếu cần phải nâng cao nhận thức của công ty, đặc biệt vai  trò quan trọng của ban lãnh đạo công ty và nền tảng cung cấp thông tin từ bộ phận  kế toán. Và để nâng cao nhận thức của công ty thì công ty, và đặc biệt bộ phận kế  toán cần phải hiểu tầm quan trọng của thông tin được công bố, ở cả các mục thông  tin bắt buộc và thông tin tự nguyện.  
-Ngoài ra, vai trò của cơ quan quản lý Nhà nước là không thể thiếu thông qua việc  ban hành các văn bản hướng dẫn việc công bố thông tin cùng với các chế tài xử lý  vi  phạm  trong  vấn  đề  công  bố  thông  tin.  Do  phạm  vi  đề  tài  thực  hiện  thu  thập  số  liệu và nghiên cứu chỉ số CBTT tự nguyện trên báo cáo thường niên, nên kết luận  và kiến nghị liên quan đến CBTT trên báo cáo này. Theo nhận định của tác giả, các  văn bản quy định về trình bày báo cáo thường niên theo thông tư số 52/2012/TT-Page 75
+Ngoài ra, vai trò của cơ quan quản lý Nhà nước là không thể thiếu thông qua việc  ban hành các văn bản hướng dẫn việc công bố thông tin cùng với các chế tài xử lý  vi  phạm  trong  vấn  đề  công  bố  thông  tin.  Do  phạm  vi  đề  tài  thực  hiện  thu  thập  số  liệu và nghiên cứu chỉ số CBTT tự nguyện trên báo cáo thường niên, nên kết luận  và kiến nghị liên quan đến CBTT trên báo cáo này. Theo nhận định của tác giả, các  văn bản quy định về trình bày báo cáo thường niên theo thông tư số 52/2012/TT-
+Page 75
 
 BTC ngày 05/04/2012 của Bộ tài chính là còn mang tính khái quát, chưa cụ thể và  một số nội dung tự nguyện công bố thông tin nhưng quan trọng với người sử dụng  báo cáo thường niên. Đây là báo  cáo định kỳ  năm thể  hiện tình hình kinh doanh,  hơn nữa là bảng tóm tắt các hoạt động về mọi mặt của công ty trong một năm tài  chính.Từ những nhận xét nêu trên, tác giả xin nêu lên một số kiến nghị nhằm nâng  cao mức độ công bố thông tin của công ty niêm yết. 
 5.2. KIẾN NGHỊ 
  5.2.1. Kiến nghị đối với đối tượng công bố thông tin trên báo cáo thường niên  Như đã trình bày, việc công bố thông tin tự nguyện của công ty niêm yết bao gồm  nhiều loại thông tin, theo danh mục nghiên cứu của đề tài có 03 nhóm thông tin chủ  yếu: thông tin chiến lược, thông tin phi tài chính và thông tin tài chính.  
-Kiến  nghị  đầu  tiên,  kết  quả  cho  thấy  các  công  ty  có  quy  mô  lớn  thì  có  mức  độ  CBTT tự nguyện cao hơn, điều này thể hiện bộ phận kế toán của công ty lớn có dữ  liệu thu thập, nhận thức tốt hơn về tác động của CBTT đến hoạt động của công ty  nhiều  hơn.  Những  công  ty  nhỏ  có  xu  hướng  mở  rộng  công  ty  cần  quan  tâm  đến  nâng cao mức độ CBTT, cả thông tin bắt buộc và thông tin tự nguyện, cần xây dựng  bộ  máy  kế  toán  hướng  đến  việc  ghi  nhận,  theo  dõi,  thu  thập  dữ  liệu  phục  vụ  cho  công tác công bố thông tin dưới sự hướng dẫn của ban lãnh đạo công ty. Trước tiên,  công ty cần nâng cao kiến thức của những đối tượng liên quan đến việc quyết định  công bố thông tin, đặc biệt là đối với ban lãnh đạo và đội ngũ kế toán công ty. Việc  am hiểu về các quy định hiện hành về công bố thông tin bắt buộc, công bố thông tin  tự nguyện là nền tảng cho quá trình xây dựng công tác thu thập thông tin. Khi nắm  và  thực  hiện  được  những  thông  tin  bắt  buộc  phải  công  bố,  công  ty  đảm  bảo  việc  tuân  thủ  pháp  luật.  Ngoài  ra,  dựa  trên  danh  mục  CBTT  tự  nguyện  mà  tác  giả  đề  xuất, công ty xem xét các mục thông tin từ đó đáp ứng việc công bố tốt hơn, đầy đủ  hơn. Do đó, công ty cần đầu tư đào tạo và tăng cường trao dồi kỹ năng, kiến thức về Page 76
+Kiến  nghị  đầu  tiên,  kết  quả  cho  thấy  các  công  ty  có  quy  mô  lớn  thì  có  mức  độ  CBTT tự nguyện cao hơn, điều này thể hiện bộ phận kế toán của công ty lớn có dữ  liệu thu thập, nhận thức tốt hơn về tác động của CBTT đến hoạt động của công ty  nhiều  hơn.  Những  công  ty  nhỏ  có  xu  hướng  mở  rộng  công  ty  cần  quan  tâm  đến  nâng cao mức độ CBTT, cả thông tin bắt buộc và thông tin tự nguyện, cần xây dựng  bộ  máy  kế  toán  hướng  đến  việc  ghi  nhận,  theo  dõi,  thu  thập  dữ  liệu  phục  vụ  cho  công tác công bố thông tin dưới sự hướng dẫn của ban lãnh đạo công ty. Trước tiên,  công ty cần nâng cao kiến thức của những đối tượng liên quan đến việc quyết định  công bố thông tin, đặc biệt là đối với ban lãnh đạo và đội ngũ kế toán công ty. Việc  am hiểu về các quy định hiện hành về công bố thông tin bắt buộc, công bố thông tin  tự nguyện là nền tảng cho quá trình xây dựng công tác thu thập thông tin. Khi nắm  và  thực  hiện  được  những  thông  tin  bắt  buộc  phải  công  bố,  công  ty  đảm  bảo  việc  tuân  thủ  pháp  luật.  Ngoài  ra,  dựa  trên  danh  mục  CBTT  tự  nguyện  mà  tác  giả  đề  xuất, công ty xem xét các mục thông tin từ đó đáp ứng việc công bố tốt hơn, đầy đủ  hơn. Do đó, công ty cần đầu tư đào tạo và tăng cường trao dồi kỹ năng, kiến thức về 
+Page 76
 
 công  bố  thông  tin  trên  thị  trường  chứng  khoán  từ  khi  tham  gia  hoạt  động  trên  thị  trường chứng khoán. 
 Thứ hai, các công ty có tỷ lệ sở hữu nhà đầu tư nước ngoài cao có thể xem xét việc  lập báo cáo tài chính theo chuẩn mực quốc tế, dạng tiếng Anh… nhằm tạo điều kiện  và đáp ứng nhu cầu đọc báo cáo thường niên của các nhà đầu tư nước ngoài. Từ dấu  hiệu nhận thấy ở kết quả nghiên cứu, các công ty có sở hữu nước ngoài thường công  bố nhiều thông tin hơn, vì vậy các công ty có xu hướng mở rộng thị trường ngoài  nước cần công bố nhiều thông tin ngay từ khi bắt đầu nhằm tạo lập niềm tin cho nhà  đầu tư, rút ngắn khoảng cách địa lý với nhà đầu tư nước ngoài. 
 Thứ ba là đối với ngành tài chính, các công ty có tỷ lệ nợ trên tổng tài sản càng cao  thì càng cần chú ý công bố nhiều thông tin tự nguyện, có thể xe xét so sánh với các  công ty cùng ngành có tỷ lệ nợ trên tổng tài sản tương đương. Kết quả nghiên cứu ở  nhóm  ngành  tài  chính,  cho  thấy  đối  tượng  sử  dụng  thông  tin  trên  báo  cáo  thường  niên có sự quan tâm nhiều hơn đối với các công ty có tỷ số nợ trên tổng tài sản cao  hơn và do đó, các công ty này cũng có xu hướng công bố nhiều thông tin hơn. 
 5.2.2. Kiến nghị đối với cơ quan Chính phủ ban hành văn bản pháp luật 
-Đề tài thực hiện đối chiếu danh mục thông tin với thông tư 52/2012/TT-BTC ngày  05/04/2012 của Bộ tài chính (gọi tắt là thông tư 52/2012/TT-BTC) để có danh mục  thông tin công bố tự nguyện. Tuy nhiên, qua quá trình đối chiếu tác giả nhận thấy  trên báo cáo cáo thường niên, nhiều khoản mục thông tin quan trọng nhưng chưa  bắt buộc công bố. Hầu hết đơn vị đều thực hiện theo mẫu phụ lục số 02 của thông tư  52/2012/TT-BTC.  Ví  dụ  như  đối  với  thông  tin  chiến  lược,  các  dự  báo  định  tính,  định lượng doanh thu, lợi nhuận, luồng tiền cũng như việc trình bày lý do mua sắm  tài sản, thanh lý tài sản cố định có giá trị lớn đều hỗ trợ nhiều cho bên sử dụng báo  cáo nhận định về tình hình công ty, trong khi đó các thuyết minh tài chính về khoản  mục tài sản rất hạn chế. Do đó, tác giả kiến nghị với cơ quan chính phủ ban hành  thông tư bổ sung các mục thông tin trên biểu mẫu 02  - Báo cáo thường niên của  thông tư 52/2012/TT-BTC. Các mục thông tin tác giả kiến nghị bổ sung được ghi Page 77
+Đề tài thực hiện đối chiếu danh mục thông tin với thông tư 52/2012/TT-BTC ngày  05/04/2012 của Bộ tài chính (gọi tắt là thông tư 52/2012/TT-BTC) để có danh mục  thông tin công bố tự nguyện. Tuy nhiên, qua quá trình đối chiếu tác giả nhận thấy  trên báo cáo cáo thường niên, nhiều khoản mục thông tin quan trọng nhưng chưa  bắt buộc công bố. Hầu hết đơn vị đều thực hiện theo mẫu phụ lục số 02 của thông tư  52/2012/TT-BTC.  Ví  dụ  như  đối  với  thông  tin  chiến  lược,  các  dự  báo  định  tính,  định lượng doanh thu, lợi nhuận, luồng tiền cũng như việc trình bày lý do mua sắm  tài sản, thanh lý tài sản cố định có giá trị lớn đều hỗ trợ nhiều cho bên sử dụng báo  cáo nhận định về tình hình công ty, trong khi đó các thuyết minh tài chính về khoản  mục tài sản rất hạn chế. Do đó, tác giả kiến nghị với cơ quan chính phủ ban hành  thông tư bổ sung các mục thông tin trên biểu mẫu 02  - Báo cáo thường niên của  thông tư 52/2012/TT-BTC. Các mục thông tin tác giả kiến nghị bổ sung được ghi 
+Page 77
 
 chú ở phụ lục số 02 của đề tài, các mục thông tin không yêu cầu công ty bắt buộc  công bố chủ  yếu  liên quan đến nhóm mục thông tin tổng hợp, vì có thể chưa phù  hợp  trong  điều  kiện  hiện  tại  và  để  công  bố  các  thông  tin  này  thì  công  ty  cần  cân  nhắc  chi  phí  để  có  được  thông  tin,  sự  cần  thiết  của  thông  tin,  chẳng  hạn  như  các  mục thông tin giá trị thương hiệu, giá trị vô hình, trình bày thông tin lại theo chuẩn  mực  khác…Để  thực  hiện  cơ  quan  Chính  phủ  cần  ban  hành  một  thông  tư  bổ  sung,  sửa đổi nhằm cụ thể hóa, văn bản hóa các mục thông tin cần công bố. 
 Thứ  hai,  ngoài  việc  trình  bày  các  thông  tin  bắt  buộc  trên  báo  cáo  thường  niên,  cơ  quan Chính  phủ cần hướng công ty  thực hiện báo cáo phát triển bền vững  như đã  được thực hiện ở một số công ty trong nước, và nhiều nước trên thế giới. Báo cáo  này ở một số nước như Trung quốc, được xem là một phần bắt buộc trong công bố  thông tin, bao gồm toàn bộ nội dung về xu hướng phát triển, các bên liên quan, hoạt  động quản trị, sản phẩm dịch vụ, xã  hội, môi trường, người lao động. Tuy nhiên,  thực hiện báo cáo này còn khá mới đối với các công ty niêm yết nên cần sự hỗ trợ  từ phía Chính phủ cũng như cần một khoảng thời gian để tiếp cận và học tập kinh  nghiệm  từ  các  công  ty  đi  trước,  từ  các  nước.  Quan  trọng  là  các  công  ty  cần  nhận  thức tầm quan trọng của báo cáo từ đó mới thể hiện sự quan tâm và hành động công  bố thông tin. Từ đó, đáp ứng tốt hơn nhu cầu thông tin của nhà đầu tư, xã hội, các  bên liên quan khác. 
 5.2.3.  Kiến  nghị  đối  với  Sở  giao  dịch  chứng  khoán  Hà  nội  và  Sở  giao  dịch  chứng khoán Thành phố Hồ chí minh 
-Từ kết quả nghiên cứu, đó cũng là dấu hiệu cho thấy các công ty có mức độ CBTT  tự nguyện thấp, như các công ty có quy mô nhỏ, ít có tỷ lệ sở hữu của nhà đầu tư  nước ngoài, có tỷ số nợ thấp (đối với nhóm ngành tài chính). Sở giao dịch chứng  khoán có thể căn cứ nhằm hướng đến các công ty có mức CBTT tự nguyện còn thấp  sẽ  tăng  cường  các  lớp  đào  tạo,  huấn  luyện,  trước  tiên  là  nâng  cao  nhận  thức  của  công ty, đặc biệt là bộ phận kế toán trong vấn đề công bố thông tin, đào tạo về cách  thức, yêu cầu công bố và các quy định hiện hành.  Page 78
+Từ kết quả nghiên cứu, đó cũng là dấu hiệu cho thấy các công ty có mức độ CBTT  tự nguyện thấp, như các công ty có quy mô nhỏ, ít có tỷ lệ sở hữu của nhà đầu tư  nước ngoài, có tỷ số nợ thấp (đối với nhóm ngành tài chính). Sở giao dịch chứng  khoán có thể căn cứ nhằm hướng đến các công ty có mức CBTT tự nguyện còn thấp  sẽ  tăng  cường  các  lớp  đào  tạo,  huấn  luyện,  trước  tiên  là  nâng  cao  nhận  thức  của  công ty, đặc biệt là bộ phận kế toán trong vấn đề công bố thông tin, đào tạo về cách  thức, yêu cầu công bố và các quy định hiện hành.  
+Page 78
 
 Ngoài ra, việc đào tạo huấn luyện cần được thực hiện ngay khi công ty bắt đầu niêm  yết trên thị trường chứng khoán vì còn khoảng thời gian tiếp cận với việc công bố  thông  tin.  Việc  thiết  lập  các  chế  tài  đủ  mạnh  nhằm  răn  đe  trong  công  tác  công  bố  thông tin và vô cùng cần thiết, trực tiếp tác động đến nhận thức, hiệu quả hoạt động  kinh doanh của công ty. 
 5.3. HẠN CHẾ CỦA ĐỀ TÀI VÀ HƯỚNG NGHIÊN CỨU TIẾP THEO 
 Mục  tiêu  của  tác  giả  là  xác  định  các  nhân  tố  ảnh  hưởng  đến  mức  độ  CBTT  tự  nguyện ở ba nhóm ngành công nghiệp, xây dựng và tài chính, xem xét sự khác nhau  ở  03  nhóm  ngành  và  một  số  nghiên  cứu  trước  đây,  đồng  thời  đưa  ra  những  kiến  nghị  nhằm  nâng  cao  mức  độ  CBTT  tự  nguyện.  Mặc  dù  những  kiến  nghị  đưa  ra  mang tính định tính, và giải thích dựa trên kết quả nghiên cứu nhưng còn tồn tại một  số hạn chế được nêu sau đây. 
 Thứ nhất, đề tài nghiên cứu dựa trên số lượng mẫu của ba nhóm ngành, chưa đi sâu  từng ngành cụ thể vì số lượng công ty niêm yết chưa đáp ứng yêu cầu nghiên cứu.  Trong  tương  lai,  nhiều  công  ty  niêm  yết  hơn,  đảm  bảokích  thước  mẫu  đầy  đủ,  nghiên cứu có thể tiến hành khảo sát riêng ở hai Sở GDCK và so sánh kết quả đạt  được. Ngoài ra, việc nghiên cứu chỉ thực hiện trên báo cáo thường niên 2014 cũng  là một giới hạn, chỉ cho thấy ý nghĩa của nghiên cứu trong một giới hạn nhất định.  Các nghiên cứu sau có thể mở rộng thời gian thu thập dữ liệu và nghiên cứu trong  giai đoạn nhiều năm. 
 Thứ  hai,  ở  cả  ba  nhóm  ngành  đều  cho  thấy  mức  độ  giải  thích  cho  mô  hình  trung  bình  ở  mức  24%,  chứng  cho  tỏ  còn  có  các  nhân  tố  khác  bên  trong  công  ty  ảnh  hưởng đến mức độ CBTT tự nguyện. Do đó, có thể một số nghiên cứu tiếp theo mở  rộng hướng nghiên cứu, ví dụ như nghiên cứu về hành vi công bố thông tin. 
-Cuối  cùng  là  khi  chấm  điểm  mức  độ  CBTT  tự  nguyện,  dựa  trên  số  lượng  và  nội  dung  của  mục  thông  tin,  tức  là  chủ  yếu  quan  tâm  đến  độ  bao  quát,  “độ  rộng”  của  thông tin chứ chưa quan tâm đến chiều sâu của thông tin. Các nghiên cứu tiếp theo Page 79
+Cuối  cùng  là  khi  chấm  điểm  mức  độ  CBTT  tự  nguyện,  dựa  trên  số  lượng  và  nội  dung  của  mục  thông  tin,  tức  là  chủ  yếu  quan  tâm  đến  độ  bao  quát,  “độ  rộng”  của  thông tin chứ chưa quan tâm đến chiều sâu của thông tin. Các nghiên cứu tiếp theo 
+Page 79
 
 có thể đo lường mức độ CBTT theo cách khác nhau, sau đó phân tích tương quan  giữa các kết quả đạt được. 
 KẾT LUẬN CHƯƠNG 5 
 Đạt được mục tiêu ban đầu nhận diện các nhân tố ảnh hưởng đến mức độ công bố  thông  tin  tự  nguyện  tự  nguyện  của  công  ty  để  tiến  hành  áp  dụng  nghiên  cứu  thực  nghiệm cho cả 03 nhóm ngành: công nghiệp, xây dựng và tài chính, dựa vào những  kết quả đạt được ở mỗi nhóm ngành, đề tài đưa ra những kiến nghị đến các bên có  liên quan nhằm nâng cao  mức độ công bố thông tin tự nguyệncủa  các công ty  đại  chúng niêm yết trên Sở GDCK. 
-Các kiến nghị tác giả đưa ra hướng đến 03 đối tượng. Thứ nhất là công ty công bố  thông tin trên báo cáo thường niên, thứ hai là cơ quan Chính phủ ban hành quy định  công  bố  thông  tin  đối  với  công  ty  đại  chúng  niêm  yết  và  cuối  cùng  là  đối  với  Sở  giao dịch chứng khoán Việt nam. Page 80
+Các kiến nghị tác giả đưa ra hướng đến 03 đối tượng. Thứ nhất là công ty công bố  thông tin trên báo cáo thường niên, thứ hai là cơ quan Chính phủ ban hành quy định  công  bố  thông  tin  đối  với  công  ty  đại  chúng  niêm  yết  và  cuối  cùng  là  đối  với  Sở  giao dịch chứng khoán Việt nam. 
+Page 80
 
 TÀI LIỆU THAM KHẢO  Tài liệu tiếng Việt 
 1.  Bộ tài chính, 2012. Thông tư số 121/2012/TT-BTC ngày 26/07/2012 quy định  về quản trị công ty áp dụng cho công ty đại chúng 
@@ -957,7 +1036,8 @@ TÀI LIỆU THAM KHẢO  Tài liệu tiếng Việt
 6.  Ngô Thị Thanh Hòa, 2012. Các giải pháp nâng cao sự minh bạch thông tin  tài chính của các công ty cổ phần niêm yết Việt Nam thông qua sự tư nguyện  công bố thông tin trên bản thuyết minh báo cáo tài chính. Luận văn thạc sĩ  kinh tế. Đại học Kinh tế Thành phố Hồ chí minh. 
 7.  Nguyễn Chí Đức và Hoàng Trọng, 2012. CEO và công bố thông tin của các  doanh nghiệp niêm yết. Tạp chí Khoa học ứng dụng, số 18, trang 62 – 65. 
 8.  Nguyễn  Đình  Thọ,  2012.  Phương  pháp  nghiên  cứu  khoa  học  trong  kinh  doanh. Hà Nội: Nhà xuất bản lao động xã hội. 
-9.  Nguyễn  Thị  Thu  Hảo,  2014.  Các  nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện trên báo cáo thường niên của các doanh nghiệp niêm yết  trên  sàn  giao  dịch  chứng  khoán  Thành  phố  Hồ  chí  minh.  Luận  văn  thạc  sĩ  kinh tế. Đại học Kinh tế Thành phố Hồ chí minh. Page 81
+9.  Nguyễn  Thị  Thu  Hảo,  2014.  Các  nhân  tố  ảnh  hưởng  đến  mức  độ  công  bố  thông tin tự nguyện trên báo cáo thường niên của các doanh nghiệp niêm yết  trên  sàn  giao  dịch  chứng  khoán  Thành  phố  Hồ  chí  minh.  Luận  văn  thạc  sĩ  kinh tế. Đại học Kinh tế Thành phố Hồ chí minh. 
+Page 81
 
 10.  Phạm  Ngọc  Vỹ  An,  2013.  Hoàn  thiện  công  bố  thông  tin  tại  các  doanh  nghiệp  niêm  yết  trên  Sở  giao  dịch  chứng  khoán  Thành  phố  Hồ  chí  minh.  Luận văn thạc sĩ kinh tế. Đại học Kinh tế Thành phố Hồ chí minh. 
 11.  Quốc hội, 2013. Luật chứng khoán số 27/VBHN-VPQH ngày 18/12/2013  12.  Sở giao dịch chứng khoán Hà nội, 2012. Hệ thống ngành kinh tế HaSIC. Hà 
@@ -970,7 +1050,8 @@ nội, tháng 10 năm 2012.
 Tài liệu tiếng Anh 
 18.  Adina,  P.  &amp;  Ion,  P.,  2008.  Aspects  regarding  corporate  mandatory  and  voluntary  disclosure.  The  Journal  of  the  Faculty  of  Economics,  3(1),  pp.1407-11. 
 19.  Akhtaruddin,  Mohamed  et  al,  2009.  Corporate  governance  and  voluntary  disclosure in corporate annual reports of Malaysian listed firms. The Journal  of Applied Management Accounting, 7(1). 
-20.  Chau,  G.K  &amp;  Gray,  Sidney.J,  2002.  Ownership  structure  and  corporate  voluntary disclosure in Hong Kong and Singapore. The International Journal  of Accounting, 37: 247-265. Page 82
+20.  Chau,  G.K  &amp;  Gray,  Sidney.J,  2002.  Ownership  structure  and  corporate  voluntary disclosure in Hong Kong and Singapore. The International Journal  of Accounting, 37: 247-265. 
+Page 82
 
 21.  Fathi,  FOUINI,  2013.  Corporate  governance  and  the  level  of  financial  disclosure by Tunisian firm. Journal of Business Studies, 4(3). 
 22.  Francisco  B.U  et  al.,  2009.  Disclosure  indices  design:  does  it  make  a  difference? Contabilidad-Spanish Accounting Review, 12(2): 253-278. 
@@ -979,7 +1060,8 @@ Tài liệu tiếng Anh
 25.  Huafang,  X.  &amp;  Jianguo,  Y.,  2007.  Ownership  structure,  board  composition  and  corporate  voluntary  disclosure:  Evidence  from  listed  companies  in  China. Managerial Auditing Journal, 22(6), pp.604 - 619. 
 26.  Jensen,  M.C.  &amp;  Meckling,  W.H.,  1976.  Theory  of  the  firm:  managerial  behavior,  agency  costs  and  ownership  structure.  Journal  of  Financial  Economics, 3, pp.305-60. 
 27.  Le  Quang  Binh,  2012.Voluntary  Disclosure  Information  in  the  Annual  Reports of Non Financial Listed Companies: The Case of Vietnam.Journal of  Applied Economics and Business Research, 2(2): 69-90. 
-28.  Meek,  G.K.  et  al.,1995.    Factors  influencing  voluntary  annual  reportdisclosuresby  U.S.,  U.K  and  continental  europeanmultinational  corporation. Journal of International Business Studies, 26(3): 555-572 Page 83
+28.  Meek,  G.K.  et  al.,1995.    Factors  influencing  voluntary  annual  reportdisclosuresby  U.S.,  U.K  and  continental  europeanmultinational  corporation. Journal of International Business Studies, 26(3): 555-572 
+Page 83
 
 PHỤ LỤC 
 Phụ lục 01: Danh mục thông tin công bố tự nguyện được xây dựng bởi Meek  và cộng sự (1995) và bổ sung bởi Chau và Gray (2002) 
@@ -996,7 +1078,8 @@ Phụ lục 01: Danh mục thông tin công bố tự nguyện được xây d�
 1  Báo cáo về triển vọng tương lai (định tính)  2  Dự báo về doanh thu (định tính) 
 3  Dự báo về doanh thu (định lượng)  4  Dự báo về lợi nhuận (định tính)  5  Dự báo về lợi nhuận (định lượng)  6  Mô tả dự án vốn đã cam kết 
 7  Chi tiêu đã cam kết cho các dự án vốn  8  Dự báo về lưu chuyển luồng tiền (định tính)  9  Dự báo về lưu chuyển luồng tiền (định lượng)  10  Giả định cơ sở của dự báo 
-11  Thông tin về đặt hàng và các đơn hàng tồn đọng Page 84
+11  Thông tin về đặt hàng và các đơn hàng tồn đọng 
+Page 84
 
 6. Thông tin về Giám đốc  1  Tuổi 
 2  Trình độ giáo dục (trường học và chuyên môn) 
@@ -1014,7 +1097,8 @@ Phụ lục 01: Danh mục thông tin công bố tự nguyện được xây d�
 20  Thông tin về việc thôi việc (dạng tổng hợp)  21  Quy định chính sách về bình đẳng việc làm  22  Vấn đề tuyển dụng và chính sách liên quan  8. Thông tin chính sách xã hội và giá trị tăng thêm 
 1  An toàn sản phẩm (thông tin chung) 
 2  Chương trình bảo vệ môi trường – định tính  3  Chương trình bảo vệ môi trường – định lượng  4  Khoản tiền đóng góp từ thiện 
-5  Chương trình cộng đồng (thông tin chung)  6  Báo cáo về giá trị tăng thêm Page 85
+5  Chương trình cộng đồng (thông tin chung)  6  Báo cáo về giá trị tăng thêm 
+Page 85
 
 7  Dữ liệu về giá trị tăng thêm  8  Tỷ số giá trị tăng thêm 
 9  Thông tin định tính về giá trị tăng thêm  9. Thông tin phân loại 
@@ -1029,7 +1113,8 @@ Phụ lục 01: Danh mục thông tin công bố tự nguyện được xây d�
 14  Lịch sử tài chính hoặc là bản tóm tắt của 6 năm hoặc lâu hơn 
 15  Trình bày lại thông tin tài chính theo chuẩn mực khác (restatement of  financial information to non – U.S./U.K. GAAP 
 16  Thông tin tài khoản ngoại bảng  17  Thông tin quảng cáo – định tính  18  Chi phí quảng cáo – định lượng 
-19  Ảnh hưởng của lạm phát đến hoạt động trong tương lai – định tính  20  Ảnh hưởng của lạm phát đến các kết quả kinh doanh – định tính  21  Ảnh hưởng của lạm phát đến các kết quả kinh doanh – định lượng  22  Ảnh hưởng của lạm phát đến tài sản – định tính Page 86
+19  Ảnh hưởng của lạm phát đến hoạt động trong tương lai – định tính  20  Ảnh hưởng của lạm phát đến các kết quả kinh doanh – định tính  21  Ảnh hưởng của lạm phát đến các kết quả kinh doanh – định lượng  22  Ảnh hưởng của lạm phát đến tài sản – định tính 
+Page 86
 
 23  Ảnh hưởng của lạm phát đến tài sản – định lượng  24  Ảnh hưởng của lãi suất đến các kết quả kinh doanh  25  Ảnh hưởng của lãi suất đến các hoạt động tương lai  11. Thông tin tiền tệ nước ngoài 
 1  Ảnh hưởng của biến động tỷ giá đến các hoạt động tương lai  2  Ảnh hưởng của biến động tỷ giá đến các kết quả hiện tại  3  Tỷ giá hối đoái chính được sử dụng trong các kế toán  4  Nợ dài hạn bằng ngoại tệ 
@@ -1038,7 +1123,8 @@ Phụ lục 01: Danh mục thông tin công bố tự nguyện được xây d�
 1  Giá cổ phiếu vào cuối nam  2  Xu hướng giá cổ phiếu 
 3  Vốn hóa thị trường vào cuối năm  4  Xu hướng vốn hóa 
 5  Quy mô cổ đông  6  Các loại cổ đông 
-7  Thông tin niêm yết trên thị trường chứng khoán nước ngoài Page 87
+7  Thông tin niêm yết trên thị trường chứng khoán nước ngoài 
+Page 87
 
 Phụ lục 02: Danh mục công bố tự nguyện sau khi đã đối chiếu với thông tư số  52/2012/TT-BTC ngày 04/05/2012 của Bộ tài chính ban hành 
 Các mục thông tin   Kiến nghị a
@@ -1064,7 +1150,8 @@ quản trị không điều hành  BS
 hành  BS 
 7. Thông tin người lao động 
 1  Phân bổ nhân viên theo địa bàn (geographical 
-distribution of employees)  BS Page 88
+distribution of employees)  BS 
+Page 88
 
 2  Phân bổ nhân viên theo lĩnh vực(line-of-bussiness 
 distribution of employees)  BS 
@@ -1092,7 +1179,8 @@ distribution of employees)  BS
 1  Báo cáo lưu chuyển tiền tệ - trực tiếp  BS 
 2  Các tỷ số lưu chuyển luồng tiền  BS 
 3  Đánh giá lại tài sản cố định trong vòng 5 năm trước  4  Công bố giá trị thương hiệu 
-5  Công bố giá trị vô hình (trừ lợi thế thương mại và nhãn  hiệu) Page 89
+5  Công bố giá trị vô hình (trừ lợi thế thương mại và nhãn  hiệu) 
+Page 89
 
 6  Chính sách chi trả cổ tức  BS 
 7  Chính sách chuyển giá  BS 
@@ -1111,7 +1199,8 @@ tương lai  BS
 3  Vốn hóa thị trường vào cuối năm  BS 
 4  Xu hướng vốn hóa  BS 
 a  : Kiến nghị bổ sung vào thông tin bắt buộc 
-BS  : Bổ sung vào thông tin bắt buộc Page 90
+BS  : Bổ sung vào thông tin bắt buộc 
+Page 90
 
 Phụ lục 03: Kết quả hồi qui hai biến SIZE, FOREIGN tác động đến mức độ  CBTT tự nguyện nhóm ngành công nghiệp 
 Bảng tóm tắt mô hình 
@@ -1141,7 +1230,8 @@ Coefficients a
 Model
 Unstandardized 
 Coefficients t Sig. Collinearity Statistics
-1Page 91
+1
+Page 91
 
 Hệ số Spearman của biến FOREIGN kiểm định phương sai của phần dư thay đổi 
 ABS SIZE
@@ -1163,7 +1253,8 @@ Sig. (2-tailed) .734 .
 N 114 114
 Correlations
 Spearman's rho ABS
-FOREIGNPage 92
+FOREIGN
+Page 92
 
 Phụ lục 04: Kết quả hồi qui một biến SIZE tác động đến mức độ CBTT tự  nguyện nhóm ngành xây dựng 
 Bảng tóm tắt mô hình 
@@ -1191,7 +1282,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 93
+Collinearity  Statistics
+Page 93
 
 ABS SIZE Correlation 
 Coefficient
@@ -1204,7 +1296,8 @@ Sig. (2-tailed) .442 .
 N 61 61
 Correlations
 Spearman's rho ABS
-SIZEPage 94
+SIZE
+Page 94
 
 Phụ lục 05: Kết quả hồi qui hai biến tỷ lệ nợ phải trả/tổng tài sản và tỷ lệ sở  hữu của Nhà nước tác động đến mức độ CBTT tự nguyện nhóm ngành tài  chính 
 Bảng tóm tắt mô hình 
@@ -1243,7 +1336,8 @@ Sig. (2-tailed) .934 .
 N 35 35
 Correlations
 Spearman's rho abs
-LEVPage 95
+LEV
+Page 95
 
 Hệ số Spearman của biến STATE kiểm định phương sai của phần dư thay đổi 
 abs STATE
@@ -1255,7 +1349,8 @@ Sig. (2-tailed) .002 .
 N 35 35
 Correlations
 Spearman's rho abs
-STATEPage 96
+STATE
+Page 96
 
 Phụ lục 06: Kết quả hồi qui một biến tỷ lệ nợ phải trả/tổng tài sản tác động đến  mức độ CBTT tự nguyện nhóm ngành tài chính 
 Bảng tóm tắt mô hình 
@@ -1282,7 +1377,8 @@ a. Dependent Variable: VDI 1
 Coefficients a Model
 Unstandardized 
 Coefficients t Sig.
-Collinearity  StatisticsPage 97
+Collinearity  Statistics
+Page 97
 
 Phụ lục 07: Danh sách các công ty niêm yết trong nghiên cứu ở ba nhóm ngành: công nghiệp, xây dựng và tài chính  NHÓM NGÀNH CÔNG NGHIỆP 
 STT  TÊN CÔNG TY  MÃ 
@@ -1347,7 +1443,8 @@ nghiệp Cao su Miền  CSM  0.4242
 28.86   60.20      
 0.0965   51.00  0.02  2.57 
       
-75   1 Page 98
+75   1 
+Page 98
 
 Nam 
 10  Công ty Cổ phần 
@@ -1429,7 +1526,8 @@ Everpia Việt Nam  EVE  0.3968
 0.1122   50.77  0  19.63 
       
 43   0 
-22  Công ty Cổ phần  FCM  0.197  27.59   47.00   0.0280   36  0  2.21  40   1 Page 99
+22  Công ty Cổ phần  FCM  0.197  27.59   47.00   0.0280   36  0  2.21  40   1 
+Page 99
 
 Khoáng sản FECON  23  Công ty Cổ phần Thực 
 phẩm Sao Ta  FMC  0.0938 
@@ -1510,7 +1608,8 @@ giặt LIX  LIX  0.2576
 0.1692   56.18  51  20 
       
 20   0 
-35  Công ty Cổ phần Lilama  LM8  0.1515  27.99   85.18   0.0340   57.296  51  4.545  40   0 Page 100
+35  Công ty Cổ phần Lilama  LM8  0.1515  27.99   85.18   0.0340   57.296  51  4.545  40   0 
+Page 100
 
 18 
 36  Công ty Cổ phần 

@@ -27,7 +27,8 @@ Background: Despite the circulating levels of PTX3 were related to the severity 
 ods. ods. ods.
 ods. A prospective cohort study included 130 patients hospitalized for acute decompensation of liver cirrhosis, 29 stable cirrhotic outpatients and 32 healthy controls evaluated in a tertiary hospital in Southern Brasil. Results. Results. Results. Results. Results. The median PTX3 level was signifi- cantly higher in stable cirrhotic patients compared to controls (2.6 vs. 1.1 ng/mL; p &lt; 0.001), hospitalized cirrhotic patients compared to controls (3.8 vs. 1.1 ng/mL; p &lt; 0.001), and hospitalized cirrhotic patients compared to stable cirrhotic patients (3.8 vs. 2.6 ng/ mL; p = 0.001). A positive correlation was found between PTX3 and serum creatinine (r = 0.220; p = 0.012), Chronic Liver Failure - Sequential Organ Failure Assessment score (CLIF-SOFA) (r = 0.220; p = 0.010), MELD (r = 0.279; p = 0.001) and Child-Pugh score (r = 0.224; p = 0.010). Significantly higher levels of PTX3 were observed in patients on admission with ACLF (8.9 vs. 3.1 ng/mL; p &lt; 0.001) and MELD score  ≥  20 (6.6 vs. 3.4 ng/mL; p = 0.002). Death within 90 days occurred in 30.8% of patients and was associated with higher levels of PTX3 (5.3 vs. 3.4 ng/mL; p = 0.009). The probability of Kaplan-Meier survival was 77.0% in patients with PTX-3 &lt; 5.3 ng mL (upper tercile) and 53.5% in those with PTX3 ≥ 5.3 ng/mL (p = 0.002). Conclusion. Conclusion. Conclusion. Conclusion. Conclusion. These re- sults indicate the potential for use of PTX3 as an inflammatory biomarker for the prognosis of patients with hepatic cirrhosis.
 Key words. Key words. Key words. Key words.
-Key words. Liver cirrhosis. Inflammation. Biomarkers. PTX3 protein. Prognosis. Acute-On-Chronic Liver Failure. Mortality.Page 2
+Key words. Liver cirrhosis. Inflammation. Biomarkers. PTX3 protein. Prognosis. Acute-On-Chronic Liver Failure. Mortality.
+Page 2
 
 marker produced mainly by endothelial and vascular smooth muscle cells at the site of inflammation. It is also produced by macrophages, fibroblasts, neutrophils, epi- thelial cells, dendritic cells and other cell types both near and far from the inflammation site, 5,6  Pentraxin produc-
 tion is influenced by certain inflammatory stimuli such as interleukin 1 beta (IL-1β) and tumor necrosis factor alfa (TNF-α). 7  It differs considerably from CRP in terms of
@@ -50,7 +51,8 @@ If present, the precipitating factor was investigated and lactulose was administ
 The severity of liver disease was estimated by Child- Pugh 13  and MELD scores 14  calculated based on laboratory
 tests performed on admission. ACLF and CLIF-SOFA were defined as proposed by the European Association for the Study of the Liver-Chronic Liver Failure (EASL- CLIF). 15
 Statistical analysis
-Numerical variables with normal distribution were ex- pressed as the mean and standard deviation (SD) and were compared using Student’s t test. Numerical variables with non-normal distribution were expressed as medians and compared using the Mann-Whitney test. The normality of variable distribution was determined by the Kolmorogov- Smirnov test. Qualitative variables were represented by fre- quency (%) and chi-square test or Fisher’s exact test were used when needed for analysis. Bivariate analyses were per- formed to compare cirrhotic individuals from outpatient visits with hospitalized patients. Bivariate analysis was per- formed to compare the mean levels of PTX3 in terms of the presence of cirrhosis complications at time of admission. Spearman correlation analysis was performed to compare the values of serum PTX3 to the laboratory variables and prognostic markers MELD, Child-Pugh and CLIF-SOFA. A cutoff point for the PTX3 was determined by Receiver Operating Characteristic (ROC) curve. Survival probabili- ty was calculated using Kaplan-Meier method and differ- ences in survival between groups were compared using the log-rank test.Page 3
+Numerical variables with normal distribution were ex- pressed as the mean and standard deviation (SD) and were compared using Student’s t test. Numerical variables with non-normal distribution were expressed as medians and compared using the Mann-Whitney test. The normality of variable distribution was determined by the Kolmorogov- Smirnov test. Qualitative variables were represented by fre- quency (%) and chi-square test or Fisher’s exact test were used when needed for analysis. Bivariate analyses were per- formed to compare cirrhotic individuals from outpatient visits with hospitalized patients. Bivariate analysis was per- formed to compare the mean levels of PTX3 in terms of the presence of cirrhosis complications at time of admission. Spearman correlation analysis was performed to compare the values of serum PTX3 to the laboratory variables and prognostic markers MELD, Child-Pugh and CLIF-SOFA. A cutoff point for the PTX3 was determined by Receiver Operating Characteristic (ROC) curve. Survival probabili- ty was calculated using Kaplan-Meier method and differ- ences in survival between groups were compared using the log-rank test.
+Page 3
 
 All tests were performed using the Statistical Package for the Social Sciences, version 22.0 (IBM SPSS statistics, Chicago, Illinois, USA). P values lower than 0.05 were considered statistically significant.
 The study protocol was in accordance with the ethical principles of the Declaration of Helsinki and was ap- proved by the local research ethics committee under the number 252709.
@@ -83,7 +85,8 @@ Model for End-Stage Liver Disease 10.8 ± 2.4 15.9 ± 6.4 &lt;0.001 t
 Etiology = hepatitis B virus 13.3% 19.2% 0.450 χ
 Etiology = hepatitis C virus 36.7% 40.0% 0.736 χ
 Etiology = alcoholism 66.7% 56.5% 0.328 χ
-χ: Chi-square test. f: Fisher’s exact test. t: Student's t test.Page 4
+χ: Chi-square test. f: Fisher’s exact test. t: Student's t test.
+Page 4
 
 When comparing PTX3 levels according to Child clas- sification, it was observed that individuals in Child class C had similar levels of PTX3 to the others (3.9 vs. 3.6 ng/mL; p = 0.559). When comparing PTX3 levels in terms of the presence of complications of cirrhosis, similar levels of PTX3 were observed in subjects presenting decompensa- tion in infection (4.5 vs. 3.5 ng/mL; p = 0.197), ascites (4.0 vs. 3.6 ng/mL; p = 0.384) and grades III or IV encephalopa- thy (4.2 vs. 3.0 ng/mL; p = 0.247).
 It was observed that the number of organ failures was associated with higher mean serum levels of PTX3 (Fig- ure 4) as follows: none = 3.2 ng/mL; one = 4.7 ng/mL; two or more failures = 8.0 ng/mL (p = 0.006).
@@ -129,7 +132,8 @@ Organ failures (n) 15
 5
 0
 P &lt; 0.001 P &lt; 0.001
-P = 0.001Page 5
+P = 0.001
+Page 5
 
 inflammatory component that affect other organs such as acute myocardial infarction, 16  chronic kidney disease, 17
 acute respiratory distress syndrome (ARDS) 18  and severe
@@ -173,7 +177,8 @@ P = 0.009
 3.43 ng/mL 5.34 ng/mL
 P = 0.002
 PTX-3 &lt; 5.35 ng/mL = 77%
-PTX-3 ≥ 5.35 ng/mL = 54%Page 6
+PTX-3 ≥ 5.35 ng/mL = 54%
+Page 6
 
 phenomenon occurs with creatinine, it is therefore used as a marker of renal function. Numerous pathological condi- tions that lead to reduced GFR -such as sepsis, which gen- erates numerous shunts in circulation and redistribution of blood volume; major bleeding, by an absolute reduc- tion in blood volume; ascites, by third space volume re- tention and reduction of effective circulating volume- tend to increase serum creatinine. The complications of cirrhosis involve the above hemodynamic dysfunctions. One could imagine that this would be the reason for the positive correlation between serum levels of PTX3 and creatinine. However, more hemodynamic studies are needed to confirm this hypothesis.
 Although recently published studies present PTX3 as a marker of severity and/or mortality, little is known about its role in vivo in humans. Garlanda, et al. demonstrated in mice deficient in PTX3 that it has many functions includ- ing regulation of innate immunity against various micro- organisms, discrimination of self- from non-self molecular patterns and tissue repair. 27  Other studies
@@ -202,7 +207,8 @@ The authors declare no conflicts of interest.
 DATA SHARING STATEMENT
 No additional data are available.
 REFERENCES
-1. Scaglione S, Kliethermes S, Cao G, Shoham D, Durazo R, Luke A, Volk ML. The Epidemiology of Cirrhosis in the United States: A Population-based Study. J Clin Gastroenterol 2015; 49: 690-6. [PMID: 25291348 DOI: 10.1097/ MCG.0000000000000208].Page 7
+1. Scaglione S, Kliethermes S, Cao G, Shoham D, Durazo R, Luke A, Volk ML. The Epidemiology of Cirrhosis in the United States: A Population-based Study. J Clin Gastroenterol 2015; 49: 690-6. [PMID: 25291348 DOI: 10.1097/ MCG.0000000000000208].
+Page 7
 
 2. Yoon YH, Yi HY. Liver cirrhosis mortality in the United States, 1970-2003: Surveillance Report No. 75. Arlington: National Institute on Alcohol Abuse and Alcoholism 2006. 3. Kim HY, Kim CW, Choi JY, Lee CD, Lee SH, Kim MY, Jang
 BK, et al. Complications requiring hospital admission and causes of in-hospital death over time in alcoholic and nonal- coholic cirrhosis patients. Gut Liver 2016; 10: 95-100. [PMID: 26087788 DOI: 10.5009/gnl14363].
@@ -231,7 +237,8 @@ Investigators. Prognostic significance of the long pentraxin PTX3 in acute myoca
 26. Pepys MB, Hirschfield GM. C-reactive protein: a critical up- date.  J Clin Invest 2003; 111: 1805-12. [PMID: 12813013 DOI: 10.1172/JCI200318921].
 27. Garlanda C, Bottazzi B, Bastone A, Mantovani A. Pentraxins at the crossroads between innate immunity, inflammation, matrix deposition, and female fertility. Annu Rev Immunol 2005; 23: 337-66. [PMID: 15771574 DOI: 10.1146/ annurev.immunol.23.021704.115756].
 28. He X, Han B, Liu M. Long pentraxin 3 in pulmonary infection and acute lung injury. Am J Physiol Lung Cell Mol Physiol 2007; 292: 1039-49. [PMID: 17277044 DOI: 10.1152/aj- plung.00490.2006].
-29. Soares AC, Souza DG, Pinho V, Vieira AT, Nicoli JR, Cunha FQ, Mantovani A, et al. Dual function of the long pentraxin PTX3 in resistance against pulmonary infection with Kleb- siella pneumoniae in transgenic mice. Microbes InfectPage 8
+29. Soares AC, Souza DG, Pinho V, Vieira AT, Nicoli JR, Cunha FQ, Mantovani A, et al. Dual function of the long pentraxin PTX3 in resistance against pulmonary infection with Kleb- siella pneumoniae in transgenic mice. Microbes Infect
+Page 8
 
 2006; 8: 1321-9. [PMID: 16697676 DOI: 10.1016/ j.micinf.2005.12.017].
 30. Dias AA, Goodman AR, Dos Santos JL, Gomes RN, Altmeyer A, Bozza PT, Horta MF, et al. TSG-14 transgenic mice have improved survival to endotoxemia and to CLP-induced sep- sis. J Leukoc Biol 2001; 69: 928-36. [PMID: 11404378]. 31. Napoleone E, di Santo A, Peri G, Mantovani A, de Gaetano G,
