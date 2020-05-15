@@ -25,7 +25,7 @@ foreach ( $files as $file ) {
     $parser = new Parser( $file );
 //    $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectImage::class);
 //    $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectReferences::class);
-    $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectAbstract::class);
+//    $parser->addProcessAfter(\ThikDev\PdfParser\Process\DetectAbstract::class);
     $document = $parser->process();
     $txt_path = $txt_dir . $name . ".txt";
     $html_path = $html_dir . $name . ".html";
