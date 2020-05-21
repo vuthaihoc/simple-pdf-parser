@@ -232,7 +232,7 @@ class Parser {
             if ( $font->chars == 0 ) {
                 continue;
             }
-            $font->char_width = round( $fonts_width[ $font->id ] / $font->chars, 2 );
+            $font->char_width = round( $fonts_width[ $font->id ] / $font->chars, 2 ) ?: 1;
         }
         
         $document = new Document( $pages, $fonts , $this->path);
