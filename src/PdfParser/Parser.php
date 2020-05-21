@@ -115,8 +115,9 @@ class Parser {
      * @param int $last_page
      * @param int $first_page
      */
-    public function __construct( $path, $last_page = -1, $first_page = 1 ) {
+    public function __construct( $path, $last_page = -1, $first_page = 1, $xml ='' ) {
         $this->path = $path;
+        $this->xml = $xml;
         $this->first_page = $first_page;
         $this->last_page = $last_page;
     }
@@ -125,9 +126,11 @@ class Parser {
      * Luồng chính chạy các process để xử lý từ pdf -> xml -> Document -> perfect Document
      * @throws ParseException
      */
-    public function process(): Document {
+    public function process($re_convert = false): Document {
         
-        $this->xml = ( new PdfToText() )->convert( $this->path, $this->first_page, $this->last_page );
+        if($re_convert || !$this->xml){
+            $this->xml = ( new PdfToText() )->convert( $this->path, $this->first_page, $this->last_page );
+        }
         
         /** Tạo Document object cơ bản từ pdf -> xml -> Document */
         $document = $this->makeSimpleDocument();
