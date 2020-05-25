@@ -204,6 +204,7 @@ class MergeLines extends AbstractProcess {
 //                return false;
 //            }
 //        }
+        $line->is_good = true;
         return true;
     }
     
