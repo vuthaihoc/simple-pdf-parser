@@ -50,7 +50,7 @@ class Text extends Component {
     
     public static function parse($string){
         $string = trim( $string );
-        if(preg_match( "/^\<text top=\"(-?\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" font=\"(\d+)\"\s*\>(.*)<\/text>/ui", $string, $matches)){
+        if(preg_match( "/^\<text top=\"(-?\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" font=\"(\d+)\"\s*\>(.*)<\/text>/i", $string, $matches)){
             return new Text($matches[1],$matches[2],$matches[3],$matches[4],$matches[6],$matches[5]);
         }else{
             dd("Can not parse component : " . $string);
