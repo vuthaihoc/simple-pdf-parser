@@ -251,7 +251,7 @@ class Parser {
         $index_level_1 = $index_level_2 = $index_level_3 = $index_level_4 = $index_level_5 = -1;
         foreach ($vals as $val) {
             if($val['tag'] === 'ITEM' ){
-                $crr_item['value'] = $val['value'];
+                $crr_item['value'] = isset($val['value']) ? $val['value'] : "";
                 $crr_item['page'] = $val['attributes']['PAGE'];
 
                 if($val['level'] == 2){
