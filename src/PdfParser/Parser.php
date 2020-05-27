@@ -252,7 +252,7 @@ class Parser {
         foreach ($vals as $val) {
             if($val['tag'] === 'ITEM' ){
                 $crr_item['value'] = isset($val['value']) ? $val['value'] : "";
-                $crr_item['page'] = $val['attributes']['PAGE'];
+                $crr_item['page'] = isset($val['attributes']) ? $val['attributes']['PAGE'] : 0;
 
                 if($val['level'] == 2){
                     $data[] = $crr_item;
