@@ -161,6 +161,8 @@ class Parser {
         $outline = '';
         $page_start = false;
         $page_buffer = null;
+        $last_page_width = 0;
+        $last_page_height = 0;
         $last_text = null;
         foreach ( $lines as $line ) {
             // font define
@@ -177,7 +179,9 @@ class Parser {
             // page start
             if ( preg_match( "/^\s*\<page\snumber=\"/", $line ) ) {
                 $page_start = true;
-                $page_buffer = Page::parse( $line );
+                $page_buffer = Page::parse( $line, $last_page_width, $last_page_height );
+                $last_page_width = $page_buffer->width;
+                $last_page_height = $page_buffer->height;
                 $page_buffer->number = count($pages)+1;
                 $last_text = null;
                 continue;
