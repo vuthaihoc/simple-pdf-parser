@@ -94,6 +94,11 @@ class DetectExtraContent extends AbstractProcess {
         if(!$is_header){
             return $line_height;
         }
+    
+        if($line_height > (int)($pages[0]->height/4)){
+            return 0;
+        }
+        
         $line_height += $tmp_headers[0][0] ?: $step;
         goto start;
     }
@@ -113,6 +118,11 @@ class DetectExtraContent extends AbstractProcess {
         if(!$is_header){
             return $line_height;
         }
+        
+        if($line_height > (int)($pages[0]->height/4)){
+            return 0;
+        }
+        
         $line_height += $tmp_headers[0][0] ?: $step;
         goto start;
     }
