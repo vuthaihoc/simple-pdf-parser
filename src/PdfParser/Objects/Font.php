@@ -41,7 +41,7 @@ class Font {
     
     public static function parse($string){
         $string = trim( $string );
-        if(preg_match( "/^\<fontspec\sid\=\"(\d+)\"\ssize\=\"(-?\d+)\"\sfamily\=\"([^\"]+)\"\scolor\=\"(\S+)\"\/\>$/", $string, $matches)){
+        if(preg_match( "/^\<fontspec\sid\=\"(\d+)\"\ssize\=\"(-?\d+)\"\sfamily\=\"([^\"]*)\"\scolor\=\"(\S+)\"\/\>$/", $string, $matches)){
             return new self($matches[1],$matches[2],$matches[3],$matches[4]);
         }else{
             dump("Can not parse font : " . $string);
