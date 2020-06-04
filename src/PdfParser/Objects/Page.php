@@ -66,9 +66,15 @@ class Page {
         $this->left = (int)$left;
     }
     
-    public static function parse($string){
+    public static function parse($string, $default_width = 0, $default_height = 0){
         $string = trim( $string );
-        if(preg_match( "/^\<page\snumber=\"(\d+)\"\sposition=\"(\S+)\"\stop=\"(\d+)\" left=\"(\d+)\" height=\"(\d+)\" width=\"(\d+)\"\>$/", $string, $matches)){
+        if(preg_match( "/^\<page\snumber=\"(\d+)\"\sposition=\"(\S+)\"\stop=\"(\d+)\" left=\"(\d+)\" height=\"(-?\d+)\" width=\"(-?\d+)\"\>$/", $string, $matches)){
+            if ((int)$matches[5] < 1) {
+                $matches[5] = $default_height;
+            }
+            if ((int)$matches[6] < 1) {
+                $matches[6] = $default_width;
+            }
             return new Page($matches[3],$matches[4],$matches[5],$matches[6]);
         }else{
             dump("Can not parse page : " . $string);
