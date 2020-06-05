@@ -164,7 +164,7 @@ class Parser {
         $last_page_width = 0;
         $last_page_height = 0;
         $last_text = null;
-        foreach ( $lines as $line ) {
+        foreach ( $lines as $k => $line ) {
             // font define
             if ( preg_match( "/^\s*\<fontspec\s/", $line ) ) {
                 $font = Font::parse( $line );
@@ -190,6 +190,10 @@ class Parser {
             // page content
             if ( $page_start && $page_buffer && preg_match( "/^\s*\<text\stop=\"/", $line ) ) {
                 $text = Text::parse( $line );
+                if(empty($text)) {
+                    $line = $line . $lines[$k+1];
+                    $text = Text::parse( $line );
+                }
                 $fonts[ $text->font_id ]->chars += mb_strlen( $text->text );
                 $fonts_width[ $text->font_id ] += $text->width;
                 if ( $last_text && $text->font_id == $last_text->font_id ) {

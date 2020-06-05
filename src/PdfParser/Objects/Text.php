@@ -53,7 +53,7 @@ class Text extends Component {
         if(preg_match( "/^\<text top=\"(-?\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" font=\"(\d+)\"\s*\>(.*)<\/text>/i", $string, $matches)){
             return new Text($matches[1],$matches[2],$matches[3],$matches[4],$matches[6],$matches[5]);
         }else{
-            throw new \Exception("Can not parse component : " . $string);
+            dump("Can not parse component : " . $string);
         }
         return null;
     }
