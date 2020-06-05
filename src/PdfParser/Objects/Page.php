@@ -77,7 +77,7 @@ class Page {
             }
             return new Page($matches[3],$matches[4],$matches[5],$matches[6]);
         }else{
-            dump("Can not parse page : " . $string);
+            throw new \Exception("Can not parse page : " . $string);
         }
         return null;
     }
