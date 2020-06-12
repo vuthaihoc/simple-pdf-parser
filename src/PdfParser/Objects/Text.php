@@ -28,6 +28,7 @@ class Text extends Component {
     public $align = self::ALIGN_UNKNOWN;
     
     public $v_pos = 0;
+    public $heading_level = 0;
     
     /**
      * Text constructor.
