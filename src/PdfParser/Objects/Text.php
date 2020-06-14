@@ -72,6 +72,12 @@ class Text extends Component {
         if($this->italic){
             $html = "<i>" . $html . "</i>";
         }
+        if($this->heading_level == 1){
+            $html = "<strong>" . $html . "</strong>";
+        }
+        if($this->heading_level == 2){
+            $html = "<em>" . $html . "</em>";
+        }
         return $html;
     }
     

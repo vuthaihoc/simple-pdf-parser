@@ -22,7 +22,13 @@ class Document {
 <head>
 <title>{{name}}</title>
 <meta charset=\"utf-8\">
-<style>body{font-size: 18px;}</style>
+<style>body{font-size: 18px;}
+em {
+font-size: xx-large;
+}
+strong{
+font-size: x-large;
+}</style>
 <body>";
     protected $html_subfix = "</body>";
     protected $page_template = "<div data-page='{{number}}' style='padding: 20px;margin: 10px auto;max-width: 800px;'><p>Page {{number}}</p>{{content}}</div>";
@@ -97,17 +103,23 @@ class Document {
         $normal_font_size = (int)$this->fonts[0]->size;
         $largest_font_size = $normal_font_size;
 
+        $no_fonts = count( array_filter($this->fonts, function ($item) use ($normal_font_size){
+            return (int) $item->size > $normal_font_size;
+        }));
+
         foreach ($this->fonts as $font) {
             if( (int) $font->size > $largest_font_size)
                 $largest_font_size = (int) $font->size;
         }
 
         foreach ($this->fonts as &$font) {
-            if ((int)$font->size > $normal_font_size +1 && (int)$font->size  < $largest_font_size - 1) {
-                $font->level = 1;
-            } elseif ((int)$font->size >= $largest_font_size - 1) {
+            if ($no_fonts == 1) {
+                $font->level = 0;
+            } elseif ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
                 $font->level = 2;
-            } else{
+            } elseif ((int)$font->size > $normal_font_size + 1) {
+                $font->level = 1;
+            } else {
                 $font->level = 0;
             }
         }

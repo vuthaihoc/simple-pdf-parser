@@ -155,6 +155,8 @@ class Line extends Component {
         $html = preg_replace( "/(\.\s*|\-\s*|\s\s|…\s*|·\s*)\g{1}{4,}/u", "$1$1$1", $html);
         $html = str_replace( "</b><b>", "", $html);
         $html = str_replace( "</i><i>", "", $html);
+        $html = str_replace( "</strong><strong>", "", $html);
+        $html = str_replace( "</em><em>", "", $html);
         return $html;
     }
     
