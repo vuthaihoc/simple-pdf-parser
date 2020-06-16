@@ -12,32 +12,32 @@ namespace ThikDev\PdfParser\Converter;
 use Symfony\Component\Process\Process;
 
 class PdfToText {
-    
+
     public static $bin = "pdftohtml";
     public static $timeout = 69;// 69 seconds
     /** @var Process */
     protected $process;
     protected $command;
     protected $tmp;
-    
-    
+
+
     public function __construct() {
-    
+
     }
-    
+
     protected function getProcess($command, $timeout){
         $process = new Process( $command );
         $process->setTimeout( $timeout );
         return $process;
     }
-    
+
     public function convert($path, $first_page = 1, $last_page = -1){
-    
+
         $this->tmp = tempnam(self::getTempDir(), "pdftohtml_") . ".xml";
-        
+
         $command = [self::$bin,
             "-c",
-            "-i",
+//            "-i",
             "-s",
             "-xml",
             "-f",
@@ -51,28 +51,28 @@ class PdfToText {
         @unlink($this->tmp);
         return $content;
     }
-    
+
     public function __destruct()
     {
         @unlink($this->tmp);
     }
-    
-    
+
+
     protected function run($command)
     {
         $this->command = $command;
         $this->process = $this->getProcess( $this->command, self::$timeout);
         $this->process->run();
         $this->validateRun();
-        
+
         return $this;
     }
-    
+
     protected function validateRun()
     {
         $status = $this->process->getExitCode();
         $error  = $this->process->getErrorOutput();
-        
+
         if ($status !== 0) {
             throw new \RuntimeException(
                 sprintf(
@@ -85,12 +85,12 @@ class PdfToText {
             );
         }
     }
-    
+
     protected function output()
     {
         return $this->process->getOutput();
     }
-    
+
     public static function getTempDir()
     {
         if (function_exists('sys_get_temp_dir')) {
