@@ -29,7 +29,7 @@ class Image  extends Component
 
     public static function parse($string){
         $string = trim( $string );
-        if(preg_match( "/^\<image top=\"(\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" src=\".*\"(.*)\/>/ui", $string, $matches)){
+        if(preg_match( "/^\<image top=\"(-?\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" src=\".*\"(.*)\/>/ui", $string, $matches)){
             return new Image($matches[1],$matches[2],$matches[3],$matches[4]);
         }else{
             throw  new \Exception("Can not parse image component : " . $string);
