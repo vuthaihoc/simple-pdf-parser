@@ -12,11 +12,11 @@ namespace ThikDev\PdfParser\Objects;
 use ThikDev\PdfParser\Exceptions\ParseException;
 
 class Document {
-    
+
     protected $pages = [];
     protected $fonts = [];
     protected $path;
-    
+
     protected $html_prefix = "<!DOCTYPE html>
 <html lang=\"en-US\">
 <head>
@@ -59,7 +59,7 @@ font-size: x-large;
     {
         return $this->path;
     }
-    
+
     public function getPage( $index ): Page {
         if ( isset( $this->pages[ $index ] ) ) {
             return $this->pages[ $index ];
@@ -67,13 +67,13 @@ font-size: x-large;
             throw new ParseException( "Not found Page at index " . $index );
         }
     }
-    
+
     public function getPagesList( ...$positions ): Array {
         return array_map( function ( $i ) {
             return $this->getPage( $i );
         }, $positions );
     }
-    
+
     public function getPages( $indexes = [] ) {
         if ( empty( $indexes ) ) {
             foreach ( $this->pages as $k => $page ) {
@@ -85,7 +85,7 @@ font-size: x-large;
             }
         }
     }
-    
+
     public function getFont( $index ): Font {
         if ( isset( $this->fonts[ $index ] ) ) {
             return $this->fonts[ $index ];
@@ -96,9 +96,11 @@ font-size: x-large;
 
     public function arrangeFont()
     {
+        if(empty($this->fonts))
+            return;
         usort($this->fonts, function ($a, $b){
             return $a->chars < $b->chars;
-        });
+        });;
 
         $normal_font_size = (int)$this->fonts[0]->size;
         $largest_font_size = $normal_font_size;
@@ -113,9 +115,7 @@ font-size: x-large;
         }
 
         foreach ($this->fonts as &$font) {
-            if ($no_fonts == 1) {
-                $font->level = 0;
-            } elseif ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
+            if ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
                 $font->level = 2;
             } elseif ((int)$font->size > $normal_font_size + 1) {
                 $font->level = 1;
@@ -141,16 +141,16 @@ font-size: x-large;
             }
         }
     }
-    
+
     public function getText( $pages = [], $page_break = "\f\n", $page_prefix = "Page {{number}}\n" ) {
         $texts = [];
         foreach ( $this->getPages( $pages ) as $k => $page ) {
             $texts[] = str_replace( "{{number}}", $k + 1, $page_prefix ) . $page->getText();
         }
-        
+
         return implode( $page_break, $texts );
     }
-    
+
     public function getHtml( $name = "", $pages = [], $page_template = '', $html_prefix = '', $html_subfix = '' ) {
         $html = $html_prefix ?: $this->html_prefix;
         $name = $name ?: "html from pdf";
@@ -162,7 +162,7 @@ font-size: x-large;
             $html .= "\n" . $page_content;
         }
         $html .= $html_subfix ?: $this->html_subfix;
-        
+
         return $html;
     }
 
