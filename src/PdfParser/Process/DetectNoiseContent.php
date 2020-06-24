@@ -5,6 +5,7 @@ namespace ThikDev\PdfParser\Process;
 
 
 use ThikDev\PdfParser\Objects\Document;
+use ThikDev\PdfParser\Objects\Line;
 use ThikDev\PdfParser\Objects\Page;
 
 class DetectNoiseContent extends AbstractProcess
@@ -30,22 +31,31 @@ class DetectNoiseContent extends AbstractProcess
                 $good_page++;
                 $total_good_page_line += $page_good_lines;
             }
-
-            $avg_line_per_page = $total_good_page_line/$good_page;
-            $avg_word_per_good_line = $total_words_in_good_lines/$all_good_lines;
         }
+        $avg_line_per_page = $total_good_page_line/$good_page;
+        $avg_word_per_good_line = $total_words_in_good_lines/$all_good_lines;
         foreach ($document->getPages() as $number => $page) {
-//            if(count($page->getMainLines()) > $avg_line_per_page * 1.5){
-                $page->objects = $process->detectNoise($page, $number, $avg_word_per_good_line);
-//            }
+            // chỉ xét các trang có độ dài lớn hơn độ dài trung bình của 1 trang 20%
+            if(count($page->getMainLines()) > $avg_line_per_page * 1.2){
+                $page->objects = $process->removeNoise($page, $number, $avg_word_per_good_line);
+            }
         }
         return $document;
     }
 
-    protected function detectNoise(Page $page, $page_number, $avg_word_per_good_line){
+    /**
+     * Xóa bỏ các đoạn được xác định là noise
+     * 1. Số lượng từ trên 1 dòng nhỏ hơn 50% so với số lượng từ trung bình của 1 dòng
+     * 2. Số lượng ký tự trung bình của 1 từ nhỏ hơn 3
+     * @param Page $page
+     * @param $page_number
+     * @param $avg_word_per_good_line
+     * @return array
+     */
+    protected function removeNoise(Page $page, $page_number, $avg_word_per_good_line){
         $bad_lines = [];
         foreach ($page->getMainLines() as $index => $line) {
-            if(count(explode(" ", $line->text)) < 0.5 * $avg_word_per_good_line){
+            if($this->isBadLine($line, $avg_word_per_good_line)){
                 $bad_lines[] = $index;
             }
         }
@@ -66,6 +76,7 @@ class DetectNoiseContent extends AbstractProcess
             $previous_line = $bad_line;
         }
 
+        // Tìm các đoạn từ 5 dòng trở lên là bad lines
         if(count($crr_part) > 4){
             foreach ($crr_part as $item) {
                 $bad_parts[] = $item;
@@ -80,6 +91,17 @@ class DetectNoiseContent extends AbstractProcess
         $page->objects = $new_main_lines;
         return $new_main_lines;
 
+    }
+
+    protected function isBadLine(Line $line, $avg_word_per_good_line){
+        // Neu so luong tu trong 1 cau thap hon 50% so voi cau thong thuong.
+        if(count(explode(" ", $line->text)) < 0.5 * $avg_word_per_good_line)
+            return true;
+        // Neu so luong chu cai trung binh trong 1 tu nho hon 3
+        $text = preg_replace( '/[\W]/', '', $line->text);
+        if ((strlen($text))/count(explode(" ", $line->text)) < 3)
+            return true;
+        return false;
     }
 
 }
