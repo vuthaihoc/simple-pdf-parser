@@ -23,10 +23,10 @@ class Document {
 <title>{{name}}</title>
 <meta charset=\"utf-8\">
 <style>body{font-size: 18px;}
-em {
+h2 {
 font-size: xx-large;
 }
-strong{
+h3{
 font-size: x-large;
 }</style>
 <body>";

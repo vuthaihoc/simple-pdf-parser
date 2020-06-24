@@ -32,7 +32,7 @@ class Image  extends Component
         if(preg_match( "/^\<image top=\"(\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" src=\".*\"(.*)\/>/ui", $string, $matches)){
             return new Image($matches[1],$matches[2],$matches[3],$matches[4]);
         }else{
-            dd("Can not parse component : " . $string);
+            throw  new \Exception("Can not parse image component : " . $string);
         }
     }
 
