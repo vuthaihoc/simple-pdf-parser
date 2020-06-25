@@ -35,6 +35,10 @@ class MergeDashEndedLines  extends AbstractProcess
                         $replace_word = stripos($search_word, $this->document_content) !== false ? $search_word : $this->word . $first_word;
                         $component->text = str_replace($first_word, $replace_word , $component->text);
                         $component->raw = str_replace($first_word, $replace_word , $component->raw);
+                        if(stripos($search_word, $this->document_content) ||
+                            stripos($this->word . $first_word, $this->document_content)){
+                            $line->merge_up = true;
+                        }
                         break;
                     }
                 }
