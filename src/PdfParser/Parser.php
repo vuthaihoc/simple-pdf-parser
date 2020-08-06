@@ -33,8 +33,8 @@ class Parser {
     protected $last_page;
     public static $word_separate = " ";
     protected $xml;
-    
-    
+    protected $output_hidden_text;
+
     protected $pipeline = [
         DetectMargin::class,/** Tính toán margin cho các trang */
         FontClassify::class,/** Tính toán font mặc định */
@@ -46,7 +46,7 @@ class Parser {
         MergeLines::class,/** Merge các line thành các đoạn văn */
         DetectHeading::class,/** Merge các line thành các đoạn văn */
     ];
-    
+
     public function getPipeline(){
         return $this->pipeline;
     }
@@ -115,11 +115,12 @@ class Parser {
      * @param int $last_page
      * @param int $first_page
      */
-    public function __construct( $path, $last_page = -1, $first_page = 1, $xml ='' ) {
+    public function __construct( $path, $last_page = -1, $first_page = 1, $xml ='', $output_hidden_text = false ) {
         $this->path = $path;
         $this->xml = $xml;
         $this->first_page = $first_page;
         $this->last_page = $last_page;
+        $this->output_hidden_text = $output_hidden_text;
     }
     
     /**
@@ -129,7 +130,7 @@ class Parser {
     public function process($re_convert = false): Document {
         
         if($re_convert || !$this->xml){
-            $this->xml = ( new PdfToText() )->convert( $this->path, $this->first_page, $this->last_page );
+            $this->xml = ( new PdfToText() )->convert( $this->path, $this->first_page, $this->last_page, $this->output_hidden_text );
         }
         
         /** Tạo Document object cơ bản từ pdf -> xml -> Document */

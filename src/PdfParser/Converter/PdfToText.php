@@ -31,7 +31,7 @@ class PdfToText {
         return $process;
     }
 
-    public function convert($path, $first_page = 1, $last_page = -1){
+    public function convert($path, $first_page = 1, $last_page = -1, $output_hidden_text = false){
 
         $this->tmp = tempnam(self::getTempDir(), "pdftohtml_") . ".xml";
 
@@ -46,6 +46,9 @@ class PdfToText {
             $last_page,
             "-q",
             $path, $this->tmp];
+        if($output_hidden_text){
+            $command = $this->array_insert_after($command, "-xml", "-hidden");
+        }
         $this->run( $command );
         $content = file_get_contents( $this->tmp );
         @unlink($this->tmp);
@@ -104,5 +107,16 @@ class PdfToText {
         } else {
             return '/tmp';
         }
+    }
+
+    public function array_insert_after(array $array, $insert_value , $new_value){
+        $new = array();
+        foreach ($array as $value) {
+            $new[] = $value;
+            if($value == $insert_value){
+                $new[] = $new_value;
+            }
+        }
+        return $new;
     }
 }
