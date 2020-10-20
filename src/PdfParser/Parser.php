@@ -106,16 +106,21 @@ class Parser {
      */
     public function replaceProcess($search, $replacement, $all = false) : bool {
         $new_processes = [];
-        foreach ($this->pipeline as $process) {
-            if($process == $search){
-                $new_processes = $replacement;
-                if(!$all)
-                    break;
+        $flag = true;
+        $process_replaced = 0;
+        foreach ($this->pipeline as $key => $process) {
+            if($process == $search && $flag){
+                $new_processes[] = $replacement;
+                $process_replaced++;
+                if(!$all){
+                    $flag = false;
+                }
             } else {
                 $new_processes[] = $process;
             }
         }
         $this->pipeline = $new_processes;
+        return $process_replaced;
     }
 
     /**
