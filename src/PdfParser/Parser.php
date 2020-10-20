@@ -27,7 +27,7 @@ use ThikDev\PdfParser\Process\MergeComponents;
 use ThikDev\PdfParser\Process\MergeLines;
 
 class Parser {
-    
+
     protected $path;
     protected $first_page;
     protected $last_page;
@@ -55,7 +55,7 @@ class Parser {
     {
         return $this->pipeline;
     }
-    
+
     /**
      * Thêm process vào trước các process truyền vào
      *
@@ -81,7 +81,7 @@ class Parser {
             return $k;
         }
     }
-    
+
     /**
      * Thêm process vào sau các process truyền vào
      *
@@ -96,18 +96,28 @@ class Parser {
         $this->pipeline = array_reverse( $this->pipeline );
         return $result == null ? $result : ( count( $this->pipeline ) - 1 - $result );
     }
-    
+
     /**
      * Dùng để ghi đè, thay thế core process
      * @param $search
      * @param $replacement
-     *
+     * @param bool $all replace all processes match $search
      * @return bool
      */
-    public function replaceProcess($search, $replacement) : bool {
-    
+    public function replaceProcess($search, $replacement, $all = false) : bool {
+        $new_processes = [];
+        foreach ($this->pipeline as $process) {
+            if($process == $search){
+                $new_processes = $replacement;
+                if(!$all)
+                    break;
+            } else {
+                $new_processes[] = $process;
+            }
+        }
+        $this->pipeline = $new_processes;
     }
-    
+
     /**
      * Parser constructor.
      *
@@ -122,36 +132,36 @@ class Parser {
         $this->last_page = $last_page;
         $this->output_hidden_text = $output_hidden_text;
     }
-    
+
     /**
      * Luồng chính chạy các process để xử lý từ pdf -> xml -> Document -> perfect Document
      * @throws ParseException
      */
     public function process($re_convert = false): Document {
-        
+
         if($re_convert || !$this->xml){
             $this->xml = ( new PdfToText() )->convert( $this->path, $this->first_page, $this->last_page, $this->output_hidden_text );
         }
-        
+
         /** Tạo Document object cơ bản từ pdf -> xml -> Document */
         $document = $this->makeSimpleDocument();
-        
+
         foreach ($this->pipeline as $process){
             $process::apply($document);
         }
 
         return $document;
-        
+
     }
-    
+
     public function getXml(): string {
         return $this->xml;
     }
-    
+
     protected function parseComponents() {
-    
+
     }
-    
+
     protected function makeSimpleDocument() {
         $lines = explode( "\n", $this->xml );
         /** @var Font[] $fonts */
@@ -176,7 +186,7 @@ class Parser {
                 $fonts_width[ $font->id ] = 0;
                 continue;
             }
-            
+
             // page start
             if ( preg_match( "/^\s*\<page\snumber=\"/", $line ) ) {
                 $page_start = true;
@@ -218,7 +228,7 @@ class Parser {
                 }
                 continue;
             }
-            
+
             // page end
             if ( trim( $line ) == '</page>' ) {
                 $pages[] = $page_buffer;
@@ -243,11 +253,11 @@ class Parser {
             }
             $font->char_width = round( $fonts_width[ $font->id ] / $font->chars, 2 ) ?: 1;
         }
-        
+
         $document = new Document( $pages, $fonts , $this->path);
         $document->outlines = $this->makeOutline($outline);
         return $document;
-        
+
     }
 
     protected function makeOutline($xml){
@@ -309,5 +319,5 @@ class Parser {
         $crr_item['children'] = [];
         return $crr_item;
     }
-    
+
 }
