@@ -80,6 +80,11 @@ class MergeLines extends AbstractProcess {
             return false;
         }
 
+        // Dòng bắt đầu với ký tự đặc biệt có thể là list
+        if(preg_match("/^[^\p{L}\s\-–_\(\)\{\}\"\'\[\]\.\,\d\\/\:\+]/ui", $line->text)){
+            return false;
+        }
+
         if($pre_line->components){ // quá xa dòng trên
             $pre_line_height_by_font = 0;
             $pre_line_height_by_text = 0;
