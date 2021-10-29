@@ -109,6 +109,12 @@ class MergeLines extends AbstractProcess {
             }
         }
 
+        // xa dòng trên hơn dòng dưới
+        if ( $nex_line && abs($line->top - ($pre_line->top + $pre_line->line_height)
+                > abs($nex_line->top - ($line->line_height + $line->top)) + 3 )) {
+            return false;
+        }
+
         // dòng trên thụt bên phải quá 1 word
         /** @todo kiem tra xem doan van thuoc loai align co phai justify khong de giam word-width */
         if($pre_line->merge_up){
@@ -150,8 +156,6 @@ class MergeLines extends AbstractProcess {
         if(!$this->isSimilarStyle( $pre_line->lastNormalText(), $line->firstNormalText())){
             return false;
         }
-
-        // @todo xa dong tren hon dong duoi
 
         //
 
