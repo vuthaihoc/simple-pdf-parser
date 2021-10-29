@@ -162,6 +162,8 @@ class Line extends Component {
         $html = str_replace( "</i><i>", "", $html);
         $html = str_replace( "</strong><strong>", "", $html);
         $html = str_replace( "</em><em>", "", $html);
+        $html = str_replace( "</h3> <h3>", " ", $html);
+        $html = str_replace( "</h3><h3>", " ", $html);
         return $html;
     }
     

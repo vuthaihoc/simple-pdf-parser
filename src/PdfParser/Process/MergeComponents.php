@@ -65,6 +65,9 @@ class MergeComponents extends AbstractProcess {
             
             if($this->shouldMerge( $last_line, $component, $k, $page )){
                 $last_line->appendText( $component );
+//                if(strpos($last_line->text, "Introduction")){
+//                    dump($last_line, $last_line->getHtml());
+//                }
             }else{
                 $last_line->reorderComponents();
                 $last_line->detectLineHeight($this->document);
