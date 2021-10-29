@@ -9,7 +9,9 @@
 namespace ThikDev\PdfParser\Process;
 
 
+use ThikDev\PdfParser\Objects\Component;
 use ThikDev\PdfParser\Objects\Document;
+use ThikDev\PdfParser\Objects\Font;
 
 class FontClassify extends AbstractProcess {
     
@@ -17,10 +19,12 @@ class FontClassify extends AbstractProcess {
         $document->arrangeFont();
         $fonts = $document->getAllFonts();
         foreach ($document->getPages() as $page){
+            /** @var Component $object */
             foreach ($page->components as $object){
-                foreach ($fonts as $font) {
-                    if( (int) $font->id == (int) $object->font_id)
-                        $object->heading_level = $font->level;
+                if(isset($fonts[$object->font_id])){
+                    $object->heading_level = $fonts[$object->font_id]->level;
+                    $object->font_size = $fonts[$object->font_id]->size;
+                    $object->font_name = $fonts[$object->font_id]->name;
                 }
             }
         }

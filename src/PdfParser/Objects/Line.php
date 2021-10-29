@@ -26,6 +26,11 @@ class Line extends Component {
     
     public $begin_indent = 0;
     public $end_indent = 0;
+
+    public $v_pos = 0;
+    public $heading_level = 0;
+    public $font_size = 0;
+    public $font_name = '';
     
     public static function fromText( Text $text ) {
         $line = new Line( $text->top, $text->left, $text->width, $text->height );
@@ -114,6 +119,9 @@ class Line extends Component {
      *
      */
     public function reorderComponents() {
+        if($this->components[0]->width == 0){
+            return;
+        }
         $sort = usort( $this->components, function ( $component1, $component2 ) {
             if ( $component1->left == $component2->left ) {
                 return 0;
@@ -157,6 +165,7 @@ class Line extends Component {
         $html = str_replace( "</i><i>", "", $html);
         $html = str_replace( "</strong><strong>", "", $html);
         $html = str_replace( "</em><em>", "", $html);
+        $html = preg_replace( "/\<\/h\d\>\s?\<h\d\>/", " ", $html);
         return $html;
     }
     

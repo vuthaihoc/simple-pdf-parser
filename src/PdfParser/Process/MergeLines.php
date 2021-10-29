@@ -80,6 +80,11 @@ class MergeLines extends AbstractProcess {
             return false;
         }
 
+        // Dòng bắt đầu với ký tự đặc biệt có thể là list
+        if(preg_match("/^[^\p{L}\s\-–_\(\)\{\}\"\'\[\]\.\,\d\\/\:\+]/ui", $line->text)){
+            return false;
+        }
+
         if($pre_line->components){ // quá xa dòng trên
             $pre_line_height_by_font = 0;
             $pre_line_height_by_text = 0;
@@ -93,7 +98,7 @@ class MergeLines extends AbstractProcess {
                     return false;
                 }
 
-                } else {
+            } else {
                 if ($line->top > $pre_line->top + $pre_line->line_height * 2 ) {
                     return false;
                 }
@@ -102,6 +107,12 @@ class MergeLines extends AbstractProcess {
             if ($line->top > $pre_line->top + $pre_line->line_height * 1) {
                 return false;
             }
+        }
+
+        // xa dòng trên hơn dòng dưới
+        if ( $nex_line && abs($line->top - ($pre_line->top + $pre_line->line_height)
+                > abs($nex_line->top - ($line->line_height + $line->top)) + 3 )) {
+            return false;
         }
 
         // dòng trên thụt bên phải quá 1 word
@@ -145,8 +156,6 @@ class MergeLines extends AbstractProcess {
         if(!$this->isSimilarStyle( $pre_line->lastNormalText(), $line->firstNormalText())){
             return false;
         }
-
-        // @todo xa dong tren hon dong duoi
 
         //
 
