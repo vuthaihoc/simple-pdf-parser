@@ -98,7 +98,7 @@ class MergeLines extends AbstractProcess {
                     return false;
                 }
 
-                } else {
+            } else {
                 if ($line->top > $pre_line->top + $pre_line->line_height * 2 ) {
                     return false;
                 }

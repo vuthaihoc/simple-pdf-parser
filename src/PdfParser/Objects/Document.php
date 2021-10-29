@@ -139,6 +139,9 @@ font-size: x-large;
             } elseif ((int)$font->size > $normal_font_size + ($font->distribution > 0 ? 1 : 2)) {
                 // neu distribution nho thi tang sai so
                 $font->level = 1;
+            } elseif ((int)$font->size < $normal_font_size - 1) {
+                // nho hon font normal 2 cỡ là nhỏ
+                $font->level = -1;
             } else {
                 $font->level = 0;
             }

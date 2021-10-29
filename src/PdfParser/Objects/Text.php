@@ -86,6 +86,9 @@ class Text extends Component {
         if($this->heading_level == 2){
             $html = "<h2>" . $html . "</h2>";
         }
+        if($this->heading_level == -1){
+            $html = "<small>" . $html . "</small>";
+        }
         return $html;
     }
 

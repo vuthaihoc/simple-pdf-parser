@@ -48,14 +48,16 @@ class MergeComponents extends AbstractProcess {
             if($component->text == " "){
                 continue;
             }
-            
+
+            // bo qua header footer
             if(
                 $page->inHeader( $component )
                 || $page->inFooter( $component )
             ){
                 continue;
             }
-            
+
+            // component dau tien
             if(!$last_line){
                 $last_line = Line::fromText( $component );
                 continue;
@@ -149,6 +151,16 @@ class MergeComponents extends AbstractProcess {
 //            }
             return true;
         }
+
+        // chú thích thuong nho hon va lech 1 chut so voi text dang sau
+        if (count($current_line->components) == 1 && // moi co 1 component
+            mb_strlen($last_normal_text->text) < 5 // component qua ngan
+        && (($last_normal_text->top > $text->top && $last_normal_text->top < $text->bottom()) ||
+            ($last_normal_text->bottom() > $text->top && $last_normal_text->bottom() < $text->bottom()))
+        ){
+            return true;
+        }
+
         return false;
     }
     
