@@ -1,3 +1,6 @@
 /.idea
 /vendor
 composer.lock
+/input
+/output*
+test.dev.php

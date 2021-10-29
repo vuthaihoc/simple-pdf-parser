@@ -42,6 +42,10 @@ class Component {
         $this->width = (int)$width;
         $this->height = (int)$height;
     }
+
+    public function bottom(){
+        return $this->top + $this->height;
+    }
     
     public function dumpIfContains($string, ...$var){
         if(mb_strpos( $this->text, $string) !== false){

@@ -45,6 +45,7 @@ class PdfToText {
             "-l",
             $last_page,
             "-q",
+//            "-hidden",
             $path, $this->tmp];
         if($output_hidden_text){
             $command = $this->array_insert_after($command, "-xml", "-hidden");

@@ -86,11 +86,17 @@ font-size: x-large;
         }
     }
 
-    public function getFont( $index ): Font {
-        if ( isset( $this->fonts[ $index ] ) ) {
-            return $this->fonts[ $index ];
+    /**
+     * Get font by id
+     * @param $font_id
+     * @return Font
+     * @throws ParseException
+     */
+    public function getFont($font_id ): Font {
+        if ( isset( $this->fonts[ $font_id ] ) ) {
+            return $this->fonts[ $font_id ];
         } else {
-            throw new ParseException( "Not found Font at index " . $index );
+            throw new ParseException( "Not found Font at index " . $font_id );
         }
     }
 
@@ -98,26 +104,40 @@ font-size: x-large;
     {
         if(empty($this->fonts))
             return;
-        usort($this->fonts, function ($a, $b){
+        // compute distribution
+        $total_chars = 0;
+        /** @var Font $font */
+        foreach ($this->fonts as $font){
+            $total_chars += $font->chars;
+        }
+        foreach ($this->fonts as &$font){
+            $font->distribution = (int)(100*$font->chars/$total_chars);
+        }
+
+//        dd($this->fonts);
+        $tmp_fonts = $this->fonts;
+
+        usort($tmp_fonts, function ($a, $b){
             return $a->chars < $b->chars;
         });;
 
-        $normal_font_size = (int)$this->fonts[0]->size;
+        $normal_font_size = (int)reset($tmp_fonts)->size;
         $largest_font_size = $normal_font_size;
 
         $no_fonts = count( array_filter($this->fonts, function ($item) use ($normal_font_size){
             return (int) $item->size > $normal_font_size;
         }));
 
-        foreach ($this->fonts as $font) {
-            if( (int) $font->size > $largest_font_size)
-                $largest_font_size = (int) $font->size;
+        foreach ($this->fonts as $_font) {
+            if( (int) $_font->size > $largest_font_size)
+                $largest_font_size = (int) $_font->size;
         }
 
         foreach ($this->fonts as &$font) {
             if ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
                 $font->level = 2;
-            } elseif ((int)$font->size > $normal_font_size + 1) {
+            } elseif ((int)$font->size > $normal_font_size + ($font->distribution > 0 ? 1 : 2)) {
+                // neu distribution nho thi tang sai so
                 $font->level = 1;
             } else {
                 $font->level = 0;

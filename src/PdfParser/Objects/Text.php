@@ -29,6 +29,8 @@ class Text extends Component {
 
     public $v_pos = 0;
     public $heading_level = 0;
+    public $font_size = 0;
+    public $font_name = '';
 
     /**
      * Text constructor.
@@ -59,12 +61,18 @@ class Text extends Component {
         return null;
     }
 
-    public function html(){
+    public function html($meta_include = false){
         $html = $this->text;
-        if($this->v_pos == self::V_POS_BOTTOM){
-            $html = "<sub>" . $html . "</sub>";
-        }elseif($this->v_pos == self::V_POS_BOTTOM){
+        if($meta_include){
+            $meta = " font='" . $this->font_name . "' size='" . $this->font_size . "' font_id='" . $this->font_id . "' ";
+            $html = $html . "<span" . $meta . "></span>";
+        }else{
+            $meta = "";
+        }
+        if($this->v_pos == self::V_POS_TOP){
             $html = "<sup>" . $html . "</sup>";
+        }elseif($this->v_pos == self::V_POS_BOTTOM){
+            $html = "<sub>" . $html . "</sub>";
         }
         if($this->bold){
             $html = "<b>" . $html . "</b>";

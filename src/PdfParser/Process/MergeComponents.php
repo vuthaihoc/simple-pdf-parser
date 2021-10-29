@@ -126,11 +126,23 @@ class MergeComponents extends AbstractProcess {
             && $last_normal_text->top <= $text->top + $text->height // cùng dòng
             && $current_line->left < $text->left /** @todo ? */
         ){
-            if($last_normal_text->top - $text->top > 2){
+
+            if(mb_strlen($text->text) > 10){
+                // neu text hien tai dai thi bo qua
+
+            }elseif(
+                $last_normal_text->bottom() - $text->bottom() >= 2
+            ){
                 $text->v_pos = Text::V_POS_TOP;
-            }elseif($last_normal_text->top + $last_normal_text->height - $text->top - $text->height < -2){
+            }elseif(
+                $last_normal_text->bottom() - $text->bottom() <= -2
+            ){
                 $text->v_pos = Text::V_POS_BOTTOM;
             }
+
+//            if(strpos($text->text, 'Jasa Kustodian') !== false){
+//                dd($current_line, $last_normal_text, $text, $text->v_pos);
+//            }
             
 //            elseif(!$this->isSimilarStyle( $text, $last_normal_text)){
 //                return false;

@@ -26,6 +26,11 @@ class Line extends Component {
     
     public $begin_indent = 0;
     public $end_indent = 0;
+
+    public $v_pos = 0;
+    public $heading_level = 0;
+    public $font_size = 0;
+    public $font_name = '';
     
     public static function fromText( Text $text ) {
         $line = new Line( $text->top, $text->left, $text->width, $text->height );
