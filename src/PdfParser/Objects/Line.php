@@ -119,6 +119,9 @@ class Line extends Component {
      *
      */
     public function reorderComponents() {
+        if($this->components[0]->width == 0){
+            return;
+        }
         $sort = usort( $this->components, function ( $component1, $component2 ) {
             if ( $component1->left == $component2->left ) {
                 return 0;
@@ -162,8 +165,7 @@ class Line extends Component {
         $html = str_replace( "</i><i>", "", $html);
         $html = str_replace( "</strong><strong>", "", $html);
         $html = str_replace( "</em><em>", "", $html);
-        $html = str_replace( "</h3> <h3>", " ", $html);
-        $html = str_replace( "</h3><h3>", " ", $html);
+        $html = preg_replace( "/\<\/h\d\>\s?\<h\d\>/", " ", $html);
         return $html;
     }
     

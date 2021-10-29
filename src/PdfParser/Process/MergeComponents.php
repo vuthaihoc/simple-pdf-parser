@@ -126,6 +126,19 @@ class MergeComponents extends AbstractProcess {
     
     protected function shouldMerge(Line $current_line, Text $text, int $text_index, Page $page){
         $last_normal_text = $current_line->lastNormalText();
+
+        if(
+            $text->width == 0 &&
+            $last_normal_text->width == 0
+        ){
+            if($text->left == $last_normal_text->left){
+                return true;
+            }
+            if($last_normal_text->left - $text->left < $text->height * 1.5){
+                return true;
+            }
+        }
+
         if(
             $last_normal_text->top + $last_normal_text->height >= $text->top + (int)($text->height/2)
             && $last_normal_text->top <= $text->top + $text->height // cùng dòng
