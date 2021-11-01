@@ -149,10 +149,12 @@ class MergeComponents extends AbstractProcess {
                 // neu text hien tai dai thi bo qua
 
             }elseif(
+                $last_normal_text->font_size > $text->font_size &&
                 $last_normal_text->bottom() - $text->bottom() >= 2
             ){
                 $text->v_pos = Text::V_POS_TOP;
             }elseif(
+                $last_normal_text->font_size > $text->font_size &&
                 $last_normal_text->bottom() - $text->bottom() <= -2
             ){
                 $text->v_pos = Text::V_POS_BOTTOM;
