@@ -179,6 +179,9 @@ font-size: x-large;
         $name = $name ?: "html from pdf";
         $html = str_replace( "{{name}}", $name, $html );
         $page_template = $page_template ?: $this->page_template;
+        /**
+         * @var int $k
+         * @var Page $page */
         foreach ( $this->getPages( $pages ) as $k => $page ) {
             $page_content = str_replace( '{{content}}', $page->getHtml(), $page_template );
             $page_content = str_replace( '{{number}}', $k + 1, $page_content );

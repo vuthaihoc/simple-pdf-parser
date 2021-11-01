@@ -152,6 +152,12 @@ class MergeLines extends AbstractProcess {
             }
         }
 
+        // dong tren ket thuc khong phai ky tu va cach le phai 1 doan lon
+        if(preg_match("/\S[^\p{L}\p{N},\)\'\"\s\-]\s*$/ui", $pre_line->text) &&
+            $page->right - $pre_line->left + $pre_line->width > 50){
+            return false;
+        }
+
         // check font
         if(!$this->isSimilarStyle( $pre_line->lastNormalText(), $line->firstNormalText())){
             return false;
