@@ -180,7 +180,9 @@ class Page {
                 if($object->merge_up){
                     $paragraph_buffer[] = $object->getHtml() . "\n";
                 }else{
-                        $html .= "<p>" . implode( "", $paragraph_buffer) . "</p>\n";
+                    $buffer_text = implode( " ", $paragraph_buffer);
+                    $buffer_text = preg_replace( "/\<\/h\d\>\s?\n?\s?\<h\d\>/", " ", $buffer_text);
+                    $html .= "<p>" . $buffer_text . "</p>\n";
                     $paragraph_buffer = [$object->getHtml() . "\n"];
                 }
             }

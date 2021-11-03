@@ -70,4 +70,23 @@ class Component {
             dd( ...$var );
         }
     }
+
+    public function lastNormalText(): ?Component {
+        if ( $count = count( $this->components ) ) {
+            for ( $i = $count - 1; $i >= 0; $i -- ) {
+                if ( $this->components[ $i ]->v_pos == Text::V_POS_NORMAL ) {
+                    return $this->components[ $i ];
+                }
+            }
+
+            return $this->components[ $count - 1 ];
+        }
+    }
+
+    public function firstComponent(): ?Component {
+        if ( $count = count( $this->components ) ) {
+            return $this->components[0];
+        }
+    }
+
 }
