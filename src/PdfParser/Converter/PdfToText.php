@@ -31,12 +31,9 @@ class PdfToText {
         return $process;
     }
 
-    public function convert($path, $first_page = 1, $last_page = -1, $output_hidden_text = false){
-
-        $this->tmp = tempnam(self::getTempDir(), "pdftohtml_") . ".xml";
-
+    public function convert($path, $first_page = 1, $last_page = -1, $output_hidden_text = true){
         $command = [self::$bin,
-            "-c",
+//            "-c",
             "-i",
             "-s",
             "-xml",
@@ -46,14 +43,13 @@ class PdfToText {
             $last_page,
             "-q",
             "-nodrm",
-            "-hidden",
-            $path, $this->tmp];
+            "-stdout",
+            $path];
         if($output_hidden_text){
             $command = $this->array_insert_after($command, "-xml", "-hidden");
         }
         $this->run( $command );
-        $content = file_get_contents( $this->tmp );
-        @unlink($this->tmp);
+        $content = $this->output();
         return $content;
     }
 
