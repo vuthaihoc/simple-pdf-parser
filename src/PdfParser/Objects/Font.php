@@ -19,6 +19,8 @@ class Font {
     public $chars = 0;// tổng số từ loại font này
     public $distribution = 0;// số phần trăm font so với các loại khác
     public $char_width = 5;
+
+    public $is_latin = null;
     
     public $level = null; // Heading level, null là chưa tính toàn, 0 là default,
     

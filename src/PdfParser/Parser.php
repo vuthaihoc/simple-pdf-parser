@@ -33,7 +33,7 @@ class Parser {
     protected $last_page;
     public static $word_separate = " ";
     protected $xml;
-    protected $output_hidden_text;
+    protected $output_hidden_text = true;
 
     protected $pipeline = [
         DetectMargin::class,/** Tính toán margin cho các trang */
@@ -130,7 +130,7 @@ class Parser {
      * @param int $last_page
      * @param int $first_page
      */
-    public function __construct( $path, $last_page = -1, $first_page = 1, $xml ='', $output_hidden_text = false ) {
+    public function __construct( $path, $last_page = -1, $first_page = 1, $xml ='', $output_hidden_text = true ) {
         $this->path = $path;
         $this->xml = $xml;
         $this->first_page = $first_page;
@@ -211,6 +211,9 @@ class Parser {
                     $text = Text::parse( $line );
                 }
                 $fonts[ $text->font_id ]->chars += mb_strlen( $text->text );
+                if($fonts[$text->font_id]->is_latin === null){
+                    $fonts[$text->font_id]->is_latin = $this->isLatin($text->text);
+                }
                 $fonts_width[ $text->font_id ] += $text->width;
                 if ( $last_text && $text->font_id == $last_text->font_id ) {
                     $line_height = $text->top - $last_text->top;
@@ -323,6 +326,14 @@ class Parser {
         $crr_item['page'] = 0;
         $crr_item['children'] = [];
         return $crr_item;
+    }
+
+    protected function isLatin($text){
+        $text = preg_replace("/[^\p{L}\p{N}]/ui","", $text);
+        if(!$text){
+            return null;
+        }
+        return !preg_match("/[\p{Hiragana}\p{Katakana}\p{Han}\p{Hangul}]/ui", $text);
     }
 
 }

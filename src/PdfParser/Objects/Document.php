@@ -37,6 +37,13 @@ font-size: x-large;
     public $conclusion;
     public $outlines;
 
+    public $nlp_data = [
+//        'title' => '',
+//        'alt_titles' => '',
+//        'description' => '',
+//        //...
+    ];
+
     use HasMarginTrait;
 
     /**
@@ -100,6 +107,13 @@ font-size: x-large;
         }
     }
 
+    public function font_size($font_id){
+        return $this->getFont($font_id) ? $this->getFont($font_id)->size : 0;
+    }
+    public function font_heading_level($font_id){
+        return $this->getFont($font_id) ? $this->getFont($font_id)->level : 0;
+    }
+
     public function arrangeFont()
     {
         if(empty($this->fonts))
@@ -114,9 +128,25 @@ font-size: x-large;
             $font->distribution = (int)(100*$font->chars/$total_chars);
         }
 
-//        dd($this->fonts);
-        $tmp_fonts = $this->fonts;
+        $latin_fonts = array_filter($this->fonts, function ($font){
+            return $font->is_latin !== false;
+        });
+        $sorted_fonts = $this->detectLevel($latin_fonts);
+        foreach ($sorted_fonts as $k => $v){
+            $this->fonts[$k]->level = $v->level;
+        }
+        $non_latin_fonts = array_filter($this->fonts, function ($font){
+            return $font->is_latin === false;
+        });
+        $sorted_fonts = $this->detectLevel($non_latin_fonts);
+        foreach ($sorted_fonts as $k => $v){
+            $this->fonts[$k]->level = $v->level;
+        }
 
+    }
+
+    protected function detectLevel($fonts) : array {
+        $tmp_fonts = $fonts;
         usort($tmp_fonts, function ($a, $b){
             return $a->chars < $b->chars;
         });;
@@ -128,12 +158,12 @@ font-size: x-large;
             return (int) $item->size > $normal_font_size;
         }));
 
-        foreach ($this->fonts as $_font) {
+        foreach ($fonts as $_font) {
             if( (int) $_font->size > $largest_font_size)
                 $largest_font_size = (int) $_font->size;
         }
 
-        foreach ($this->fonts as &$font) {
+        foreach ($fonts as &$font) {
             if ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
                 $font->level = 2;
             } elseif ((int)$font->size > $normal_font_size + ($font->distribution > 0 ? 1 : 2)) {
@@ -146,6 +176,7 @@ font-size: x-large;
                 $font->level = 0;
             }
         }
+        return $fonts;
     }
 
     public function getAllFonts()
