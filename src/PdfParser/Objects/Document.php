@@ -146,6 +146,9 @@ font-size: x-large;
     }
 
     protected function detectLevel($fonts) : array {
+        if(count($fonts) == 0){
+            return [];
+        }
         $tmp_fonts = $fonts;
         usort($tmp_fonts, function ($a, $b){
             return $a->chars < $b->chars;
