@@ -167,7 +167,9 @@ font-size: x-large;
         }
 
         foreach ($fonts as &$font) {
-            if ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
+            if($normal_font_size == $font->size){
+                $font->level = 0;
+            }elseif ((int)$font->size >= $largest_font_size - 1 && $no_fonts > 2) {
                 $font->level = 2;
             } elseif ((int)$font->size > $normal_font_size + ($font->distribution > 0 ? 1 : 2)) {
                 // neu distribution nho thi tang sai so
