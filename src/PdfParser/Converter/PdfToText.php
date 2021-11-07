@@ -35,7 +35,7 @@ class PdfToText {
         $command = [self::$bin,
 //            "-c",
             "-i",
-            "-s",
+//            "-s",
             "-xml",
             "-f",
             $first_page,
