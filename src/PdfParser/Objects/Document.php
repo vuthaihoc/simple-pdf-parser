@@ -151,8 +151,8 @@ font-size: x-large;
         }
         $tmp_fonts = $fonts;
         usort($tmp_fonts, function ($a, $b){
-            return $a->chars < $b->chars;
-        });;
+            return $a->chars < $b->chars ? -1 : 1;
+        });
 
         $normal_font_size = (int)reset($tmp_fonts)->size;
         $largest_font_size = $normal_font_size;
