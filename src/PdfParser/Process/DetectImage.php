@@ -29,7 +29,7 @@ class DetectImage extends AbstractProcess
             $new_object[] =$image;
         }
         usort($new_object, function ($item_1, $item_2){
-           return $item_1->top >= $item_2->top;
+           return $item_1->top >= $item_2->top ? -1 : 1;
         });
         $page->objects = $new_object;
     }
