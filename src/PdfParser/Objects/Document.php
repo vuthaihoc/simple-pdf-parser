@@ -125,7 +125,7 @@ font-size: x-large;
             $total_chars += $font->chars;
         }
         foreach ($this->fonts as &$font){
-            $font->distribution = (int)(100*$font->chars/$total_chars);
+            $font->distribution = $total_chars ? (int)(100*$font->chars/$total_chars) : 0;
         }
 
         $latin_fonts = array_filter($this->fonts, function ($font){
