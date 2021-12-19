@@ -9,6 +9,7 @@
 namespace ThikDev\PdfParser\Converter;
 
 
+use Symfony\Component\Process\InputStream;
 use Symfony\Component\Process\Process;
 
 class PdfToText {
@@ -32,10 +33,12 @@ class PdfToText {
     }
 
     public function convert($path, $first_page = 1, $last_page = -1, $output_hidden_text = true){
+        $input = fopen($path, "r+");
+        return $this->convertStream($input, $first_page, $last_page, $output_hidden_text);
+    }
+    public function convertStream($input, $first_page = 1, $last_page = -1, $output_hidden_text = true){
         $command = [self::$bin,
-//            "-c",
             "-i",
-//            "-s",
             "-xml",
             "-f",
             $first_page,
@@ -44,11 +47,27 @@ class PdfToText {
             "-q",
             "-nodrm",
             "-stdout",
-            $path];
+            "-",
+            "nonsense",
+        ];
         if($output_hidden_text){
             $command = $this->array_insert_after($command, "-xml", "-hidden");
         }
-        $this->run( $command );
+        $_input = new InputStream();
+        $this->process = new Process($command);
+        $this->process->setTimeout(self::$timeout);
+        $this->process->setInput($_input);
+        $this->process->start();
+        if(is_string($input)){
+            $_input->write($input);
+            $_input->close();
+        }elseif (is_resource($input)){
+            while (!feof($input)) {
+                $_input->write(fread($input, 8192));
+            }
+            $_input->close();
+        }
+        $this->process->wait();
         $content = $this->output();
         return $content;
     }
@@ -90,21 +109,6 @@ class PdfToText {
     protected function output()
     {
         return $this->process->getOutput();
-    }
-
-    public static function getTempDir()
-    {
-        if (function_exists('sys_get_temp_dir')) {
-            return sys_get_temp_dir();
-        } elseif (
-            ($tmp = getenv('TMP')) ||
-            ($tmp = getenv('TEMP')) ||
-            ($tmp = getenv('TMPDIR'))
-        ) {
-            return realpath($tmp);
-        } else {
-            return '/tmp';
-        }
     }
 
     public function array_insert_after(array $array, $insert_value , $new_value){
