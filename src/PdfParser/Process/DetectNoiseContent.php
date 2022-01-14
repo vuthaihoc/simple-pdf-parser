@@ -32,6 +32,7 @@ class DetectNoiseContent extends AbstractProcess
                 $total_good_page_line += $page_good_lines;
             }
         }
+        if (empty($good_page)) return $document;
         $avg_line_per_page = $total_good_page_line/$good_page;
         $avg_word_per_good_line = $total_words_in_good_lines/$all_good_lines;
         foreach ($document->getPages() as $number => $page) {
