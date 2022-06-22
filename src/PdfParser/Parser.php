@@ -231,7 +231,7 @@ class Parser {
 
             if ( $page_start && $page_buffer && preg_match( "/^\s*\<image\stop=\"/", $line ) ) {
                 $image = Image::parse($line);
-                if(!in_array($image, $page_buffer->images)){
+                if($image && !in_array($image, $page_buffer->images)){
                     $page_buffer->images[] = $image;
                 }
                 continue;

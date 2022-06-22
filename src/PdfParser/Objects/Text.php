@@ -53,10 +53,17 @@ class Text extends Component {
 
     public static function parse($string){
         $string = trim( $string );
-        if(preg_match( "/^\<text top=\"(-?\d+)\" left=\"(-?\d+)\" width=\"(-?\d+)\" height=\"(-?\d+)\" font=\"(\d+)\"\s*\>(.*)<\/text>/i", $string, $matches)){
-            return new Text($matches[1],$matches[2],$matches[3],$matches[4],$matches[6],$matches[5]);
-        }else{
-            dump("Can not parse component : " . $string);
+        $attributes = self::preParse($string, 'text');
+
+        if(count($attributes)){
+            return new self(
+                top: $attributes['top'],
+                left: $attributes['left'],
+                width: $attributes['width'],
+                height: $attributes['height'],
+                content: $attributes['text'],
+                font_id: $attributes['font'],
+            );
         }
         return null;
     }

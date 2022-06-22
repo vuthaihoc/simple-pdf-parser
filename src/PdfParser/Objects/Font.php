@@ -10,6 +10,9 @@ namespace ThikDev\PdfParser\Objects;
 
 
 class Font {
+
+    use ParseTrait;
+
     public $name;
     public $size;
     public $color;
@@ -43,10 +46,14 @@ class Font {
     
     public static function parse($string){
         $string = trim( $string );
-        if(preg_match( "/^\<fontspec\sid\=\"(\d+)\"\ssize\=\"(-?\d+)\"\sfamily\=\"([^\"]*)\"\scolor\=\"(\S+)\"\/\>$/", $string, $matches)){
-            return new self($matches[1],$matches[2],$matches[3],$matches[4]);
-        }else{
-            throw new \Exception("Can not parse font : " . $string);
+        $attributes = self::preParse($string, 'fontspec', false);
+        if(count($attributes)){
+            return new self(
+                id: $attributes['id'],
+                size: $attributes['size'],
+                name: $attributes['family'],
+                color: $attributes['color'],
+            );
         }
         return null;
     }

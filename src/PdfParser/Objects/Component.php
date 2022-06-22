@@ -10,24 +10,26 @@ namespace ThikDev\PdfParser\Objects;
 
 
 class Component {
-    
+
+    use ParseTrait;
+
     public $top;
     public $left;
     public $width;
     public $height;
-    
+
     /** @var array Children components */
     public $components = [];
-    
+
     /** @var Page */
     public $page;
-    
+
     /** @var string raw content */
     public $raw;
-    
+
     /** @var string text content */
     public $text;
-    
+
     /**
      * Component constructor.
      *
@@ -46,25 +48,25 @@ class Component {
     public function bottom(){
         return $this->top + $this->height;
     }
-    
+
     public function dumpIfContains($string, ...$var){
         if(mb_strpos( $this->text, $string) !== false){
             dump( ...$var );
         }
     }
-    
+
     public function dumpIfStarts($string, ...$var){
         if(mb_strpos( $this->text, $string) === 0){
             dump( ...$var );
         }
     }
-    
+
     public function ddIfContains($string, ...$var){
         if(mb_strpos( $this->text, $string) !== false){
             dd( ...$var );
         }
     }
-    
+
     public function ddIfStarts($string, ...$var){
         if(mb_strpos( $this->text, $string) === 0){
             dd( ...$var );
@@ -88,5 +90,7 @@ class Component {
             return $this->components[0];
         }
     }
+
+
 
 }
