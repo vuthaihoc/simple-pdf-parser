@@ -11,7 +11,7 @@ trait ParseTrait
 
         if($has_close_tag){
             if(preg_match( "/^\<".$tag."((\s+\S+=\"[^\"\>]+\")+)\>(.*)<\/".$tag.">/ui", $string, $matches)){
-                $attributes = array_filter(explode(" ", $matches[1]));
+                $attributes = array_filter(explode("\" ", trim($matches[1])));
                 $attributes = array_column(array_map(function ($attribute) {
                     list($key, $value) = explode("=", $attribute, 2);
                     return [$key, trim($value, "\"")];
@@ -23,7 +23,7 @@ trait ParseTrait
             }
         }else{
             if(preg_match( "/^\<".$tag."((\s+\S+=\"[^\"\>]+\")+)\/?\>/ui", $string, $matches)){
-                $attributes = array_filter(explode(" ", $matches[1]));
+                $attributes = array_filter(explode("\" ", trim($matches[1])));
                 $attributes = array_column(array_map(function ($attribute) {
                     list($key, $value) = explode("=", $attribute, 2);
                     return [$key, trim($value, "\"")];
