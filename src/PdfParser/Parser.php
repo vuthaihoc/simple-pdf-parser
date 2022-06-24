@@ -210,6 +210,10 @@ class Parser {
                     $line = $line . $lines[$k+1];
                     $text = Text::parse( $line );
                 }
+                if(empty($text)){
+                    dump($line);
+                    continue;
+                }
                 $fonts[ $text->font_id ]->chars += mb_strlen( $text->text );
                 if($fonts[$text->font_id]->is_latin === null){
                     $fonts[$text->font_id]->is_latin = $this->isLatin($text->text);
