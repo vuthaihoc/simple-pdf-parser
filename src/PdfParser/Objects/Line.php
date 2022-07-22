@@ -31,6 +31,8 @@ class Line extends Component {
     public $heading_level = 0;
     public $font_size = 0;
     public $font_name = '';
+
+    public $html = '';
     
     public static function fromText( Text $text ) {
         $line = new Line( $text->top, $text->left, $text->width, $text->height );
@@ -128,6 +130,9 @@ class Line extends Component {
     }
     
     public function getHtml(){
+        if($this->html){
+            return $this->html;
+        }
         $html = "";
         $pre_component = null;
         /** @var Text $component */
