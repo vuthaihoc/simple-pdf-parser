@@ -243,11 +243,11 @@ class Page {
      */
     public function getMainLines() : array {
         $main_lines = [];
-        foreach ($this->objects as $object){
+        foreach ($this->objects as $k => $object){
             if($this->inFooter( $object ) || $this->inHeader( $object )){
                 continue;
             }
-            $main_lines[] = $object;
+            $main_lines[$k] = $object;
         }
         return $main_lines;
     }
