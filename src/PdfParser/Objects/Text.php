@@ -45,7 +45,7 @@ class Text extends Component {
     public function __construct( $top, $left, $width, $height, $content, $font_id ) {
         parent::__construct( $top, $left, $width, $height );
         $this->font_id = $font_id;
-        $this->bold = strpos( $content, "<b>" ) !== false;
+        $this->bold = str_starts_with($content, "<b>") && str_ends_with($content, "</b>");
         $this->italic = strpos( $content, "<i>" ) !== false;
         $this->raw = $content;
         $this->text = strip_tags( $content );
@@ -69,7 +69,7 @@ class Text extends Component {
     }
 
     public function html($meta_include = false){
-        $html = $this->text;
+        $html = $this->raw;
         if($meta_include){
             $meta = " font='" . $this->font_name . "' size='" . $this->font_size . "' font_id='" . $this->font_id . "' ";
             $html = $html . "<span" . $meta . "></span>";
