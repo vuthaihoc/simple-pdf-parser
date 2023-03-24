@@ -46,7 +46,7 @@ class Text extends Component {
         parent::__construct( $top, $left, $width, $height );
         $this->font_id = $font_id;
         $this->bold = str_starts_with($content, "<b>") && str_ends_with($content, "</b>");
-        $this->italic = strpos( $content, "<i>" ) !== false;
+        $this->italic = str_starts_with($content, "<i>") && str_ends_with($content, "</i>");
         $this->raw = $content;
         $this->text = strip_tags( $content );
     }
@@ -69,7 +69,7 @@ class Text extends Component {
     }
 
     public function html($meta_include = false){
-        $html = $this->raw;
+        $html = strip_tags($this->raw, ['i','b']);
         if($meta_include){
             $meta = " font='" . $this->font_name . "' size='" . $this->font_size . "' font_id='" . $this->font_id . "' ";
             $html = $html . "<span" . $meta . "></span>";
@@ -81,12 +81,12 @@ class Text extends Component {
         }elseif($this->v_pos == self::V_POS_BOTTOM){
             $html = "<sub>" . $html . "</sub>";
         }
-        if($this->bold){
-            $html = "<b>" . $html . "</b>";
-        }
-        if($this->italic){
-            $html = "<i>" . $html . "</i>";
-        }
+//        if($this->bold){
+//            $html = "<b>" . $html . "</b>";
+//        }
+//        if($this->italic){
+//            $html = "<i>" . $html . "</i>";
+//        }
         if($this->heading_level == 1){
             $html = "<h3>" . $html . "</h3>";
         }
