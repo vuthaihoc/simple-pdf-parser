@@ -3,8 +3,8 @@
     "description": "Parse pdf file to object",
     "type": "library",
     "require": {
-        "symfony/process": "^5.0|^6.0",
-        "symfony/console": "^5.0|^6.0",
+        "symfony/process": "^5.0|^6.0|^7.0",
+        "symfony/console": "^5.0|^6.0|^7.0",
         "voku/portable-utf8": "^5.0|^6.0"
     },
     "authors": [
