@@ -33,7 +33,7 @@ trait ParseTrait
                 dump("Can not parse component (has close tag): " . $string);
             }
         }else{
-            if(preg_match( "/^\<".$tag."((\s+\S+=\"[^\"\>]+\")+)\/?\>/ui", $string, $matches)){
+            if(preg_match( "/^\<".$tag."((\s+\S+=\"[^\"\>]*\")+)\/?\>/ui", $string, $matches)){
                 $attributes = array_filter(explode("\" ", trim($matches[1])));
                 $attributes = array_column(array_map(function ($attribute) {
                     list($key, $value) = explode("=", $attribute, 2);
